@@ -1,0 +1,47 @@
+/* Need to override something? Write your CSS here, and use !important only if neccessary.  */
+.bg-accent, .logo, nav a.logo, .cover {
+  background-color: red;
+}
+
+a, .text-accent, .dotted-link, p a, article a {
+  color: red;
+}
+
+.logo img {
+  max-width: 60px;
+  border-radius: 5px;
+  position: relative;
+  top: -9px;
+}
+
+.cover-overlay {
+  background-color: rgba(0,0,0,0.2);
+}
+
+header h1, header p.lead, .post-header, nav.site-header {
+  text-shadow: 0px 0px 5px rgba(0, 0, 0, 0.9);
+}
+
+nav {
+  padding-bottom: 0px;
+}
+
+nav a.logo {
+  background: none;
+}
+
+footer {
+  background-color: white;
+}
+
+footer img {
+  max-width: 210px;
+}
+
+.footnote {
+  background-color: black;
+}
+
+.footnote .to-the-moon {
+  border-radius: 3px;
+}
