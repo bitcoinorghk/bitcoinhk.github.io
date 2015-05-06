@@ -17,21 +17,22 @@ The Bitcoin Association Hong Kong stems from a group of people who started to di
 
 ## Leadership
 
-<div class="col-33" style="text-align: center;">
+<div class="leaders">
+<div class="col-33 larry" style="text-align: center;">
 <b>Director</b>
 <div data-passname="larry" data-style="embedded" data-height="fixed"></div>
 </div>
 
-<div class="col-33" style="text-align: center;">
+<div class="col-33 leo" style="text-align: center;">
 <b>President</b>
 <div data-passname="liongrass" data-style="embedded" data-height="fixed"></div>
 </div>
 
-<div class="col-33" style="text-align: center;">
+<div class="col-33 sang" style="text-align: center;">
 <b>Director</b>
 <div data-passname="sangyeon89" data-style="embedded" data-height="fixed"></div>
 </div>
-
+</div>
 
 ## Press
 

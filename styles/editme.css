@@ -45,3 +45,22 @@ footer img {
 .footnote .to-the-moon {
   border-radius: 3px;
 }
+
+@media screen and (max-width: 768px) {
+  .leaders {
+  display:flex;
+  flex-flow: column;
+  }
+
+  .leaders .larry {
+    order: 2;
+  }
+
+  .leaders .leo {
+    order: 1;
+  }
+
+  .leaders .sang {
+    order: 3;
+  }
+}
