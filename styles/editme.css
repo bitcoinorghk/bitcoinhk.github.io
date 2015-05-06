@@ -49,18 +49,23 @@ footer img {
 @media screen and (max-width: 768px) {
   .leaders {
   display:flex;
+  display: -webkit-flex;
   flex-flow: column;
+  -webkit-flex-flow: column;
   }
 
   .leaders .larry {
     order: 2;
+    -webkit-order: 2;
   }
 
   .leaders .leo {
     order: 1;
+    -webkit-order: 1;
   }
 
   .leaders .sang {
     order: 3;
+    -webkit-order: 3;
   }
 }
