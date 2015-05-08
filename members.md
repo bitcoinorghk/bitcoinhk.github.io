@@ -15,7 +15,7 @@ The Bitcoin Association of Hong Kong is open to all individuals with a connectio
 
 The Bitcoin Association Hong Kong stems from a group of people who started to discuss and promote Bitcoin in Hong Kong in the summer of 2012. As the group of people and Bitcoin grew the enthusiasts began to formalize and organize themselves to further promote the use of Bitcoin and related technologies in Hong Kong.
 
-## Leadership
+## Administration
 
 <div class="leaders">
 <div class="col-33 larry" style="text-align: center;">
