@@ -33,7 +33,6 @@ Confirmed speakers include:
 
 Of the Bitcoin Association:
 
-[![Inside Bitcoins Banner](/media/2015/05/ibchk_728x90.jpg)](/media/2015/05/ibchk_728x90.jpg)
 - <span data-passname="liongrass">Leonhard Weese</span>, President, Bitcoin Association of Hong Kong
 
 - Arthur Hayes, Co-Founder and CEO, <span data-passname="bitmex">BitMex (Bitcoin Mercantile Exchange)</span>
