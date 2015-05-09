@@ -1,3 +1,13 @@
+---
+layout: blog
+title: Inside Bitcoins Conference - Get 20% Off
+date: "2015-05-04 10:00:00"
+permalink: /2015-inside-bitcoins-discount/
+author: +liongrass
+published: true
+redirect_from: -/post/118119092620/inside-bitcoins-conference-get-20-off
+---
+
 ## Inside Bitcoins Conference - Get 20% Off
 
 We at the Bitcoin Association of Hong Kong are very excited to announce our partnership with Inside Bitcoins Conference and Expo as they return to Hong Kong for their second year. The two day conference will see an extensive line-up of local and international experts, as well as exhibitions from notable industry leaders.
