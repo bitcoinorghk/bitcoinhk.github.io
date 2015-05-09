@@ -118,6 +118,10 @@ figure a img {
 [data-passname] {
   border-bottom: dashed 1px #FF0000;
 }
+[data-passname][data-style=embedded] {
+  border-bottom: 0;
+}
+
 
 .post-link .preview {
   background-color: #FF0000;
