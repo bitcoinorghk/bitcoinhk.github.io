@@ -3,6 +3,9 @@ layout: meetup
 permalink: /launch-party/
 title: Launch Party
 date: 2014-06-24 19:00
+host: BAHK
+address: 7th Heaven, 1/F, 17 Lan Kwai Fong, Central, Hong Kong
+link: "http://insidebitcoins.com/hong-kong/2015/"
 background: "url() #000000"
 redirect_from:
   - /events/launch-party/
