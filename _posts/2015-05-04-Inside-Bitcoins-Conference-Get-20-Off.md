@@ -21,7 +21,7 @@ We at the Bitcoin Association of Hong Kong are very excited to announce our part
 
 Confirmed speakers include:
 
-- Roger Ver, Bitcoin Evangelist / Angel Investor, and Founding Member and Board Advisor of the Bitcoin Foundation
+- <span data-passname="roger">Roger Ver</span>, Bitcoin Evangelist / Angel Investor, and Founding Member and Board Advisor of the Bitcoin Foundation
 
 - Scott Bambacigno, Vice President, AlphaPoint
 
@@ -33,9 +33,10 @@ Confirmed speakers include:
 
 Of the Bitcoin Association:
 
-- Leonhard Weese, President, Bitcoin Association of Hong Kong
+[![Inside Bitcoins Banner](/media/2015/05/ibchk_728x90.jpg)](/media/2015/05/ibchk_728x90.jpg)
+- <span data-passname="liongrass">Leonhard Weese</span>, President, Bitcoin Association of Hong Kong
 
-- Arthur Hayes, Co-Founder and CEO, BitMex (Bitcoin Mercantile Exchange)
+- Arthur Hayes, Co-Founder and CEO, <span data-passname="bitmex">BitMex (Bitcoin Mercantile Exchange)</span>
 
 - Jehan Chu, Bitcoin Investor/Evangelist & Founder, [Ethereum HK Meetup Group](http://www.meetup.com//Ethereum-Hong-Kong/)
 

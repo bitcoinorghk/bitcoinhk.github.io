@@ -114,3 +114,7 @@ figure a img {
     clear: left;
   }
 }
+
+[data-passname] {
+  border-bottom: dashed 1px #FF0000;
+}
