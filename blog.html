@@ -1,0 +1,33 @@
+---
+layout: page
+title: Blog
+background: "url(/images/bahk-red-skyline.png) #FF0000"
+permalink: /blog/
+navigation: visible
+---
+
+
+        <div class="meetups">
+          {% assign curDate = site.time | date: '%s' %}
+            {% for post in site.posts %}
+            {% if post.layout != "meetup" %}
+              {% assign postStartDate = post.date | date: '%s' %}
+              {% if curDate > postStartDate %}
+              <a class="post-link white-box" href="{{ post.url | prepend: site.baseurl }}">
+                <div class="preview" style="background:{{ post.background }}">
+                  <div class="date">
+                      <small>{{ post.date | date: "%b" }}</small>
+                      {{ post.date | date: "%-d" }}
+                  </div>
+                </div>
+                <h3>{{ post.title }}</h3>
+                {% if post.subtitle %}
+                <p>{{ post.subtitle }}</p>
+                {% else %}
+                <p>{% if post.author %}Written by {{ post.author }}{% endif %}</p>
+                {% endif %}
+              </a>
+              <br>
+              {% endif %}
+              {% endif %}
+            {% endfor %}
