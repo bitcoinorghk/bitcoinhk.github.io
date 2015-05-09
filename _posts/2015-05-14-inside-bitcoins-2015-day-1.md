@@ -1,6 +1,4 @@
 ---
-meetup: meetup
-categories: meetup
 layout: meetup
 title: Inside Bitcoins 2015 Day 1
 date: "2015-05-28 10:00:00"

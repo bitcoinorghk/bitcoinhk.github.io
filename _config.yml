@@ -7,10 +7,10 @@ url: "https://www.bitcoinhk.org"
 
 # More settings
 accent: "#E74C3C"
-twitter: "none"
 github: "bitcoinhk/bitcoinhk.github.io"
-contact: "info at bitcoinhk dot org"
+contact: "info@bitcoinhk.org"
 organizers: "The Community"
+email: "info@bitcoinhk.org"
 
 # Get Meetup Notifications, visible or hidden
 notifications: "visible"
@@ -40,18 +40,11 @@ prose:
               value: 'meetup'
             - name: 'blog'
               value: 'blog'
-      - name: "meetup"
+      - name: "author"
         field:
-          element: "hidden"
-          value: "meetup"
-      - name: "categories"
-        field:
-          element: "select"
-          options:
-            - name: 'meetup'
-              value: 'meetup'
-            - name: 'blog'
-              value: 'blog'
+          element: "text"
+          label: "Author (Passcard w/ leading +)"
+          value: ""
       - name: "permalink"
         field:
           element: "text"
@@ -75,10 +68,10 @@ prose:
       - name: "link"
         field:
           element: "text"
-          label: "Link"
+          label: "Link to RSVP site (Meetup.com, etc)"
           value: ""
       - name: "background"
         field:
           element: "text"
           label: "Background (CSS)"
-          value: "url() #03152A"
+          value: "url() #FF0000"
