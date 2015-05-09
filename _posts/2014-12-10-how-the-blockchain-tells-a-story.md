@@ -7,7 +7,7 @@ author: liongrass
 published: true
 background: "url(/media/2014/12/chain.jpg) #000000"
 redirect_from:
- - /post/106532482295/great-turnout-at-the-last-hong-kong-bitcoin-meetup
+ - /post/104774047335/how-the-blockchain-tells-a-story
 ---
 
 ## How the Blockchain tells a story
