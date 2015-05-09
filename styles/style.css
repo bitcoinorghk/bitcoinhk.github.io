@@ -4,7 +4,6 @@
  * 2. Prevent iOS text size adjust after orientation change, without disabling
  *    user zoom.
  */
-@import url(../fonts/franklin-ghotic/stylesheet.css);
 @import url(../fonts/icons/style.css);
 html {
   font-family: sans-serif;
@@ -386,7 +385,7 @@ body {
   color: black;
   line-height: 1.5em;
   -webkit-font-smoothing: antialiased;
-  font-family: "Franklin Gothic", Arial, sans-serif;
+  font-family: "Raleway", Arial, sans-serif;
   font-weight: normal;
   vertical-align: middle; }
 
@@ -1347,7 +1346,7 @@ b, strong {
   background-color: #333333; }
 
 /*
-  Example usage: 
+  Example usage:
   @include animation(10s, 5s, changecolour)
  */
 @-webkit-keyframes fade-in-top {
@@ -1841,7 +1840,7 @@ e(1.6) translateX(-20px);opacity:0}100%{transform:scale(1) translateX(0px);opaci
 @-webkit-keyframes googlenow2 { 0% { -webkit-transform:translateY(10rem)rotate(-10deg); opacity: 0; }}
 @keyframes googlenow2 { 0% { -webkit-transform:translateY(10rem)rotate(-10deg); opacity: 0; }}
 
-@-webkit-keyframes fade { 0% { opacity: 0; }} 
+@-webkit-keyframes fade { 0% { opacity: 0; }}
 @keyframes fade { 0% { opacity: 0; }}
 
 @-webkit-keyframes fade-in-top { 0% { opacity: 0; -webkit-transform: translateY(-100px) } 50% { opacity: 0; -webkit-transform: translateY(-100px) } 100% { opacity: 1; -webkit-transform: translateY(0) } }
@@ -1904,7 +1903,7 @@ e(1.6) translateX(-20px);opacity:0}100%{transform:scale(1) translateX(0px);opaci
   border-right: 1px solid rgba(0, 0, 0, 0.45); }
 
 body {
-  font-family: "Franklin Gothic", Arial, sans-serif;
+  font-family: "Raleway", Arial, sans-serif;
   font-size: 18px;
   line-height: 1.5em; }
 
@@ -2038,7 +2037,7 @@ h1, h2, h3, .button-jumbo, .button.btn-large {
   font-weight: bold; }
 
 input, div.gm-iw div, div.gm-style-mtc div, div.gm-style-cc div {
-  font-family: "Franklin Gothic", Arial, sans-serif !important; }
+  font-family: "Raleway", Arial, sans-serif !important; }
 
 img {
   max-width: 100%;
