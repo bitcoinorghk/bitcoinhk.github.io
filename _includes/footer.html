@@ -2,15 +2,12 @@
 <section id="notifications" class="bg-accent">
   <div class="c">
 
-      <h3>Get Meetup Notifications</h3>
+      <h3>Keep in touch</h3>
       <p class="rss-subscribe">
-        Subscribe via
-        <a href="{{ "/feed.xml" | prepend: site.baseurl }}"><i class="icon-broadcast"></i> RSS</a>
-         {% if site.email %} |
-        <a href="{{ site.email }}" target="_blank"><i class="icon-envelope"></i> E-mail</a>
-        | {% endif %}{% if site.gcal %}
-        <a href="{{ site.gcal }}" target="_blank"><i class="icon-notebook"></i> Google Calendar</a>
-        | {% endif %}
+        <a href="{{ "/feed.xml" | prepend: site.baseurl }}">Subscribe via <i class="icon-broadcast"></i> RSS</a>
+        •
+        <a href="mailto:info@bitcoin.org" target="_blank"><i class="icon-envelope"></i> info@bitcoinhk.org</a>
+
       </p>
 
   </div>
@@ -44,7 +41,7 @@
 <div class="footnote">
   <div class="c">
     <a class="to-the-moon right" href="#top"><i class="icon-pointer-up"></i> Back to Top</a>
-    <p>Made with <i class="icon-collab"></i> in Hong Kong. Contains beautiful <a href="https://nametiles.co">Nametiles</a>. <a href="https://github.com/{{ site.github }}/" target="_blank"><i class="icon-github"></i> Fork</a>. <a href="http://prose.io/#{{ site.github }}" target="_blank"><i class="icon-pencil"></i> Edit in Prose</a>.</p>
+    <p>Made by <i title="collaborating brains" class="icon-collab"></i> in Hong Kong • Contains beautiful <a href="https://nametiles.co">Nametiles</a> • <a href="https://github.com/{{ site.github }}/" target="_blank"><i class="icon-github"></i> Fork</a> • <a href="http://prose.io/#{{ site.github }}" target="_blank"><i class="icon-pencil"></i> Edit in Prose</a>.</p>
   </div>
 </div>
 

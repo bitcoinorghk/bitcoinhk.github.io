@@ -48,10 +48,10 @@ footer img {
 
 @media screen and (max-width: 768px) {
   .leaders {
-  display:flex;
-  display: -webkit-flex;
-  flex-flow: column;
-  -webkit-flex-flow: column;
+    display:flex;
+    display: -webkit-flex;
+    flex-flow: column;
+    -webkit-flex-flow: column;
   }
 
   .leaders .larry {
@@ -67,5 +67,50 @@ footer img {
   .leaders .sang {
     order: 3;
     -webkit-order: 3;
+  }
+}
+
+
+
+figure {
+  margin: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+figure img {
+  margin-bottom: 10px;
+}
+
+figure a img {
+  transform: translate(0, 0);
+  -webkit-transition-duration: 0.25s;
+  -moz-transition-duration: 0.25s;
+  -o-transition-duration: 0.25s;
+  opacity: 0.7;
+}
+
+@media screen and (min-width: 769px) {
+
+
+  figure.half img {
+    width: 310px;
+    float: left;
+    margin-right: 10px;
+
+  }
+  figure.half figcaption {
+    clear: left;
+  }
+  figure.third img {
+
+    width: 200px;
+    float: left;
+    margin-right: 10px;
+
+
+  }
+
+  figure.third figcaption {
+    clear: left;
   }
 }
