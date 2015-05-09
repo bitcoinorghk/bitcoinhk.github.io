@@ -20,7 +20,8 @@ background: "url(/images/bahk-red-skyline.png) #FF0000"
       <h2>Upcoming Meetups</h2>
       <div class="meetups">
         {% assign curDate = site.time | date: '%s' %}
-          {% for post in site.categories.meetup %}
+        {% for post in site.posts %}
+        {% if post.layout == "meetup" %}
             {% assign postStartDate = post.date | date: '%s' %}
             {% if postStartDate > curDate %}
               <a class="post-link white-box" href="{{ post.url | prepend: site.baseurl }}">
@@ -35,14 +36,15 @@ background: "url(/images/bahk-red-skyline.png) #FF0000"
               </a>
               <br>
             {% endif %}
+            {% endif %}
           {% endfor %}
         </div>
         <br>
 
-        <h2>Recent happening</h2>
+        <h2>Recent happenings</h2>
         <div class="meetups">
           {% assign curDate = site.time | date: '%s' %}
-            {% for post in site.categories.meetup %}
+            {% for post in site.posts limit:5%}
               {% assign postStartDate = post.date | date: '%s' %}
               {% if curDate > postStartDate %}
               <a class="post-link white-box" href="{{ post.url | prepend: site.baseurl }}">
@@ -53,12 +55,23 @@ background: "url(/images/bahk-red-skyline.png) #FF0000"
                   </div>
                 </div>
                 <h3>{{ post.title }}</h3>
+                {% if post.layout == "meetup" %}
                 <p>{{ post.date | date: "%H:%M" }} HKT {% if post.address %}at {{ post.address }}{% endif %}</p>
+                {% else %}
+
+                {% if post.subtitle %}
+                <p>{{ post.subtitle }}</p>
+                {% else %}
+                <p>{% if post.author %}Written by {{ post.author }}{% endif %}</p>
+                {% endif %}
+                {% endif %}
               </a>
               <br>
               {% endif %}
             {% endfor %}
           </div>
+
+          <p><a href="/meetups/">All Meetups</a> • <a href="/blog/">All Blog Posts</a></p>
 
 
   </div>
