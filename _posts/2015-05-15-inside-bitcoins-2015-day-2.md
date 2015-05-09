@@ -1,8 +1,8 @@
 ---
 layout: meetup
-title: Inside Bitcoins 2015 Day 1
-date: "2015-05-14 10:00:00"
-permalink: "/inside-bitcoins-2015-day-1/"
+title: Inside Bitcoins 2015 Day 2
+date: "2015-05-15 10:00:00"
+permalink: "/inside-bitcoins-2015-day-2/"
 host: Meckler Media
 address: The Hong Kong Convention Center
 link: "http://insidebitcoins.com/hong-kong/2015/"
