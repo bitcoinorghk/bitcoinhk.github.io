@@ -3,7 +3,7 @@ layout: blog
 title: Pay at Starbucks with Bitcoin and get 20% off!
 date: "2015-04-23 10:00:00"
 permalink: /2015-pay-at-starbucks-with-bitcoin/
-author: +liongrass
+author: liongrass
 published: true
 background: "url(/media/2015/04/starbucks.jpg) #000000"
 redirect_from:
