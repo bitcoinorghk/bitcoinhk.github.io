@@ -1,0 +1,25 @@
+---
+layout: blog
+title: Four Reasons Why Startups in Hong Kong Should Care About Bitcoin
+date: "2014-11-24 10:00:00"
+permalink: /2014-four-reasons-why-startups-in-hong-kong-should-care/
+author: liongrass
+published: true
+background: "#000000"
+redirect_from:
+ - /post/103462098885/four-reasons-why-startups-in-hong-kong-should-care
+---
+
+## Four Reasons Why Startups in Hong Kong Should Care About Bitcoin
+
+- Easy to get started.
+It can be exhausting and humiliating to even get a bank account for a small company these days. Integrating a payment provider like Stripe or Braintree is often impossible for non-US startups, and incorporating an American subsidiary is often out of our reach.
+Similarly, the paperwork necessary to incorporate credit card payments can be a nightmare, and in case you are still working from a coworking space it is often outright impossible.
+
+→ Bitcoin is just an apt-get away, it is simply code you run on your server. You don’t need to ask for permission, sign up or pay fees for accepting it. Get paid from day one.
+
+- Once you receive bitcoins nobody can take them from you. No surprises with blocked accounts, chargebacks, hidden fees or arguments with the people from the paypal dispute resolution center. Making your customers happy should depend on your product, not the antiquated banking industry. As a startup you don’t have the means to take your business partners to court over lost payments, and the legal fees to retrieve stuck funds can often be higher than the funds themselves.
+
+- Outsource efficiently. Designing a website, a logo, merchandize or a quick mockup of an idea doesn’t have to break the bank. But sending 500 HKD around the globe can. With Bitcoin millions of skilled people suddenly gain the ability to sell their services online without the barrier of having a bank account or a credit card. You can hire these people with bitcoin, or have yourself hired.
+
+- Bitcoins are programmable money. The buying experience is some of the most important for your customers, and nobody enjoys typing in their credit card details into a tiny smartphone screen. Bitcoin allows you to integrate payments into your application to the extend where it becomes smooth like the application itself. You can automate payments, accounting and save yourself a lot of trouble.
