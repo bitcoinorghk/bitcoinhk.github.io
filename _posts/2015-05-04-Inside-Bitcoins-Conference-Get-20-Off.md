@@ -3,7 +3,7 @@ layout: blog
 title: Inside Bitcoins Conference - Get 20% Off
 date: "2015-05-04 10:00:00"
 permalink: /2015-inside-bitcoins-discount/
-author: +liongrass
+author: liongrass
 published: true
 redirect_from: -/post/118119092620/inside-bitcoins-conference-get-20-off
 ---

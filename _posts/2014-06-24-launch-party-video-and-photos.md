@@ -3,7 +3,7 @@ layout: blog
 permalink: /launch-party/video-and-photos/
 title: Launch Party Video & Photos
 date: 2014-06-25
-author: +larry
+author: larry
 background: "url(https://discuss.bitcoinhk.org/uploads/default/111/8a44aa0bfa04b7b4.jpg) #000000"
 redirect_from:
   - /events/launch-party/video-and-photos/
