@@ -122,3 +122,7 @@ figure a img {
 .post-link .preview {
   background-color: #FF0000;
 }
+
+body {
+  font-family: "Raleway", Arial, sans-serif;
+}
