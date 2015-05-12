@@ -11,6 +11,15 @@ navigation: "visible"
 
 Becoming a member gives you full access to the community and the association. You enjoy voting rights, profit from networking and education events and help influence the quickly changing landscape of Bitcoin in Hong Kong.
 
+- Passive and active voting rights in the general assembly
+- Access to members-only events
+- Reduced fees to ordinary events
+- Email alerts about Bitcoin related Events
+- Listing on this website using your passcard
+- Access to the closed forum
+- Ability to order name cards
+
+
 ## Membership Application
 
 To sign up, simply fill out the application form below. The membership fee for 2015/2016 is set at 130,000 bits (0.13 BTC) and will be revised once per year.
