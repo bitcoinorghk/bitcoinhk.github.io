@@ -9,7 +9,7 @@ permalink: "/about/"
 navigation: "visible"
 ---
 
-The Bitcoin Association of Hong Kong is still developing and growing. It needs your help! If you want to contribute, please get in touch!
+The Bitcoin Association of Hong Kong is still developing and growing. It needs your help! If you want to contribute, please get in touch [and become a member](/join)!
 
 ## Goals
 
