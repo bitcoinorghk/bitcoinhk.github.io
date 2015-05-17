@@ -23,3 +23,5 @@ We would also like to thank [Seedcoin](http://www.seedco.in/) for making the eve
 See you on Saturday!
 
 ![Miner](/media/2015/05/miner2.jpg)
+
+You can find all information about the hackathon [here](/2015-hackcoin/) and [here](http://hackco.in/hong-kong)
