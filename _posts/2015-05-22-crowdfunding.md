@@ -2,7 +2,7 @@
 layout: meetup
 title: Talk About Crowd Funding
 date: "2015-05-22 19:00:00"
-permalink: "/2015-hackcoin/"
+permalink: "/2015-crowdfunding/"
 host: Bitcoin Association of Hong Kong
 address: Grappa's Cellar, Jardine House, 1 Connaught Road, Central, Hong Kong
 link: "http://www.meetup.com/Bitcoin-HK/events/222655900/"
