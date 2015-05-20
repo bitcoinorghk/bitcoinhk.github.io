@@ -1,30 +1,43 @@
 ---
-layout: nil
-title : Atom Feed
+layout:
+limit: 25
+sitemap: false
 ---
 
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title type="text" xml:lang="en">{{ site.name }}</title>
-    <link type="application/atom+xml" href="{{ site.baseurl }}/atom.xml" rel="self"/>
-    <link href="{{ site.baseurl }}/"/>
-  <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>{{ site.baseurl }}/</id>
+{% assign base = site.url %}
+
+<title>{{ site.title }}</title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll v{{ jekyll.version }}</generator>
+<icon>{{ site.url }}/images/apple-touch-icon-precomposed.png</icon>
+<subtitle>{{ site.description }}</subtitle>
+<link href="{{ base }}{{ page.url }}" rel="self"/>
+<link href="{{ base }}/" rel="alternate" type="text/html"/>
+<updated>{{ site.time | date_to_xmlschema }}</updated>
+<id>{{ base }}/</id>
+<author>
+  <name>{{ site.title }}</name>
+  <uri>{{ site.url }}/</uri>
+  {% if site.email %}<email>{{ site.email }}</email>{% endif %}
+</author>
+
+{% for post in site.posts limit: page.limit %}
+<entry>
+  <title>{{ post.title | xml_escape }}</title>
+  <link href="{{ base }}{{ post.url }}"/>
+  <updated>{{ post.date | date_to_xmlschema }}</updated>
+  <id>{{ base }}{{ post.id }}</id>
   <author>
-    <name>{{ site.author.name }}</name>
-    <email>{{ site.author.email }}</email>
+    <name>{{ post.author | xml_escape }}</name>
+    <uri>https://r.nametiles.co/{{ post.author }}</uri>
   </author>
-  <rights type="text">Copyright © {{ site.time | date: "%Y" }} Bitcoin Association of Hong Kong. All rights reserved.</rights>
-  {% for post in site.posts limit:10 %}
-  <entry>
-    <title>{{ post.title | xml_escape }}</title>
-    <link rel="alternate" type="text/html" href="{{ site.baseurl }}{{ post.url }}?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign={{ post.title | replace: ',','' | replace: ' ', '' | xml_escape }}" />
-    <published>{{ post.date | date_to_xmlschema }}</published>
-    <updated>{{ post.date | date_to_xmlschema }}</updated>
-    <id>{{ site.baseurl }}{{ post.id }}</id>
-    <content type="html"><![CDATA[ {{ post.content }} ]]></content>
-  </entry>
-  {% endfor %}
+  <content type="html">
+    {{ post.content | xml_escape }}
+    {% include feed-footer.html %}
+  </content>
+</entry>
+{% endfor %}
 
 </feed>
