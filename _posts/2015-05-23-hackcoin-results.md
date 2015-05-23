@@ -57,7 +57,7 @@ It is common and popular for startups to promise stock options to their early em
 We were very impressed with the feasibility of all projects. All had clearly thought out not only technical implications, but also taken into account legal barriers and possible markets and revenue models. Thank you very much, see you soon!
 
 ## Thank you to all sponsors!
-
+{:.text-center}
 
 [![NXT](/media/2015/05/nxt.png)](http://nxt.org/)
 {:.text-center}
