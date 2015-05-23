@@ -130,3 +130,7 @@ figure a img {
 body {
   font-family: "Raleway", Arial, sans-serif;
 }
+
+.text-center {
+  text-align: center;
+}
