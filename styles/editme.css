@@ -134,3 +134,7 @@ body {
 .text-center {
   text-align: center;
 }
+
+article iframe {
+  max-width: 100%;
+}

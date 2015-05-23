@@ -56,6 +56,10 @@ It is common and popular for startups to promise stock options to their early em
 
 We were very impressed with the feasibility of all projects. All had clearly thought out not only technical implications, but also taken into account legal barriers and possible markets and revenue models. Thank you very much, see you soon!
 
+## Awards Video 
+
+<iframe width="960" height="720" src="https://www.youtube-nocookie.com/embed/OMQgsu21Cfw" frameborder="0" allowfullscreen></iframe>
+
 ## Thank you to all sponsors!
 {:.text-center}
 
