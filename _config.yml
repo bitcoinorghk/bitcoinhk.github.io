@@ -20,6 +20,8 @@ notifications: "visible"
 markdown: kramdown
 permalink: pretty
 
+timezone: Asia/Hong_Kong
+
 gems:
   - jekyll-redirect-from
 

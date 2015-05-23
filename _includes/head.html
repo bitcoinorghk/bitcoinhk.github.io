@@ -3,7 +3,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="viewport" content="width=device-width">
+
+    {% if page.excerpt %}<meta name="description" content="{{ page.excerpt | strip_html }}">
+    {% else %}
     <meta name="description" content="{{ site.description }}">
+    {% endif %}
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
     <!-- Custom CSS -->
@@ -16,6 +20,7 @@
     </style>
 
     <link rel="stylesheet" href="{{ "/styles/editme.css" | prepend: site.baseurl }}">
+    <link rel="alternate" type="application/atom+xml" title="{{ site.name }}" href="{{ site.baseurl }}/atom.xml" >
 
     <link rel="shortcut icon" href="/favicon.png">
     <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale = 1.0,maximum-scale=2.0,user-scalable=no">
@@ -27,4 +32,16 @@
     <!-- Apple Touch Icon -->
     <link rel="apple-touch-icon" content="/favicon.png">
     <link rel="apple-touch-icon-precomposed" href="favicon.png">
+    <script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Raleway:400,300,700:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://cdnjs.cloudflare.com/ajax/libs/webfont/1.5.18/webfontloader.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
 </head>

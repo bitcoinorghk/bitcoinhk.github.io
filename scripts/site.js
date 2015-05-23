@@ -31,4 +31,8 @@ $(document).ready(function(){
   var s = document.getElementsByTagName('script')[0];
   s.parentNode.insertBefore(nt, s);
   })();
+
+
+  // remove bottom border on links if there's an image in them
+  $('a > img').parent().css("border-bottom","0");
 });

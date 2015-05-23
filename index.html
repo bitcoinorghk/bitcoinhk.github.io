@@ -1,6 +1,7 @@
 ---
 layout: default
 background: "url(/images/bahk-red-skyline.png) #FF0000"
+excerpt: "Fostering and promoting Bitcoin and its technology in Hong Kong."
 ---
 
 <header>
@@ -44,9 +45,15 @@ background: "url(/images/bahk-red-skyline.png) #FF0000"
         <h2>Recent happenings</h2>
         <div class="meetups">
           {% assign curDate = site.time | date: '%s' %}
-            {% for post in site.posts limit:5%}
+
+          {% assign count = 0 %}
+          {% assign recent_limit = 5 %}
+
+
+            {% for post in site.posts %}
               {% assign postStartDate = post.date | date: '%s' %}
               {% if curDate > postStartDate %}
+
               <a class="post-link white-box" href="{{ post.url | prepend: site.baseurl }}">
                 <div class="preview" style="background:{{ post.background }}">
                   <div class="date">
@@ -62,11 +69,15 @@ background: "url(/images/bahk-red-skyline.png) #FF0000"
                 {% if post.subtitle %}
                 <p>{{ post.subtitle }}</p>
                 {% else %}
-                <p>{% if post.author %}Written by {{ post.author }}{% endif %}</p>
+                <p>{% if post.author %}Written by +{{ post.author }}{% endif %}</p>
                 {% endif %}
                 {% endif %}
               </a>
               <br>
+              {% assign count = count | plus: 1 %}
+              {% if count >= recent_limit %}
+              {% break %}
+              {% endif %}
               {% endif %}
             {% endfor %}
           </div>

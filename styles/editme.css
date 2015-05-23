@@ -114,3 +114,23 @@ figure a img {
     clear: left;
   }
 }
+
+[data-passname] {
+  border-bottom: dashed 1px #FF0000;
+}
+[data-passname][data-style=embedded] {
+  border-bottom: 0;
+}
+
+
+.post-link .preview {
+  background-color: #FF0000;
+}
+
+body {
+  font-family: "Raleway", Arial, sans-serif;
+}
+
+.text-center {
+  text-align: center;
+}
