@@ -59,25 +59,32 @@ We were very impressed with the feasibility of all projects. All had clearly tho
 ## Thank you to all sponsors!
 
 
--> [![NXT](/media/2015/05/nxt.png)](http://nxt.org/) <-
+[![NXT](/media/2015/05/nxt.png)](http://nxt.org/)
+{:.text-center}
 
 [![Seedcoin](/media/2015/05/seedcoin.png)](http://www.seedco.in/home/)
+{:.text-center}
 
 [![Bitmain](/media/2015/05/bitmain.png)](https://www.bitmaintech.com/)
+{:.text-center}
 
 [![Paperclip](/media/2015/05/paperclip.jpg)](http://papercliphk.com/)
-
+{:.text-center}
 
 [![Trezor](/media/2015/05/trezor.png)](https://www.buytrezor.com/)
+{:.text-center}
 
 [![Gatecoin](/media/2015/05/gatecoin.png)](https://gatecoin.com/)
+{:.text-center}
 
 [![Black Arrow Software](/media/2015/05/blackarrow.jpg)](http://www.blackarrowsoftware.com/)
-
+{:.text-center}
 
 [![Counterparty](/media/2015/05/counterparty.png)](http://counterparty.io/)
+{:.text-center}
 
 [![BitcoinPRBuzz](/media/2015/05/bitcoinprbuzz.png)](http://bitcoinprbuzz.com/)
+{:.text-center}
 
 [![Allcoinsnews](/media/2015/05/allcoinsnews.png)](http://allcoinsnews.com/)
-
+{:.text-center}
