@@ -40,7 +40,7 @@ University students travel a lot, live on cash and are always short of it. Excep
 ![Forex](/media/2015/05/forex.jpg)
 
 ### 3. Smart Contracts
-**Joseph**
+**Joseph, Jerry**
 
 Currently many small businesses are not served by banks, as the compliance costs for small loans are too high for them. Individuals are often willing to cover these loans and have an easier time doing their due diligence, but have trouble creating a legally sound and yet adaptable contract. This project creates easily customizable contracts with javascript which the consignees can sign cryptographically and manually.
 Later on this project aims to build rails for these smart contracts to become tradable, hedgeable and automizable.
@@ -59,6 +59,7 @@ We were very impressed with the feasibility of all projects. All had clearly tho
 ## Awards Video 
 
 <iframe width="960" height="720" src="https://www.youtube-nocookie.com/embed/OMQgsu21Cfw" frameborder="0" allowfullscreen></iframe>
+{:.text-center}
 
 ## Thank you to all sponsors!
 {:.text-center}
