@@ -20,7 +20,6 @@ sitemap: false
 <author>
   <name>{{ site.title }}</name>
   <uri>{{ site.url }}/</uri>
-  {% if site.email %}<email>{{ site.email }}</email>{% endif %}
 </author>
 
 {% for post in site.posts limit: page.limit %}
@@ -29,10 +28,18 @@ sitemap: false
   <link href="{{ base }}{{ post.url }}"/>
   <updated>{{ post.date | date_to_xmlschema }}</updated>
   <id>{{ base }}{{ post.id }}</id>
+  {% if post.author %}
   <author>
     <name>{{ post.author | xml_escape }}</name>
     <uri>https://r.nametiles.co/{{ post.author }}</uri>
   </author>
+  {% else %}
+  <author>
+    <name>{{ site.title }}</name>
+    <uri>{{ site.url }}/</uri>
+    {% if site.email %}<email>{{ site.email }}</email>{% endif %}
+  </author>
+  {% endif %}
   <content type="html">
     {{ post.content | xml_escape }}
     {% include feed-footer.html %}
