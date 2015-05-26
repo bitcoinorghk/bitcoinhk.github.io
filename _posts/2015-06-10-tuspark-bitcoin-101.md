@@ -90,7 +90,7 @@ Get **50% off** by prepaying with Bitcoin until June 22. Click here:
 
 ![panel](/media/2015/05/invoice.jpg)
 
-### #4, June 30: Smart Contracts (panel)
+### #4, June 30: Smart Contracts (lecture)
 Today's contracts are difficult enough to read for most humans, who barely skip through them even on the matter of life and death. How can contracts become smarter, machine readable and self-enforcable? Two talks explore what is possible today, and give an outlook more science than fiction.
 
 Date: **June 30, 2015 19:30 - 21:30**     
@@ -117,7 +117,7 @@ Get **50% off** by prepaying with Bitcoin until June 29. Click here:
 
 ![panel](/media/2015/05/miner.jpg)
 
-### #2, July: Bitcoin Startups (lecture)
+### #2, July: Bitcoin Startups (panel)
 While Hong Kong is establishing itself as a hotbed for startups in Asia, Bitcoin startups come here to find a mixed climate of welcoming regulation, apathetic government and a repellent financial system. In this panel we explore the challenges that particularly Bitcoin startups face, the problems they intend to solve and their view on Hong Kong as a developing Fintech center.
 
 Date: **July, 2015 19:30 - 21:30**     
