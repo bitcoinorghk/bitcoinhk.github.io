@@ -16,7 +16,7 @@ background: "url(/media/2015/05/hackcoin.jpg) #FF0000"
 ![Hacking](/media/2015/05/hacking.jpg)
 
 Adam Vaziri, founder of Diacle gave a quick introduction to the systems and APIs that were attractive for the participants to use. Two developers from NXT and Counterparty even agreed to be available for remote support calls from Israel and Taiwan.
-Four teams were formed, and everyone quickly stuck their heads together to get working, only interrupted for lunch from a local Cha Chaan Teng, which was sponsored by local Bitcoin exchange Gatecoin, who also heavily contributed to publicizing the event ([read a great post by Inggrid here](https://www.gatecoin.com/blog/2015/05/hk-first-blockchain-hackathod/)).
+Four teams were formed, and everyone quickly stuck their heads together to get working, only interrupted for lunch from a local Cha Chaan Teng, which was sponsored by local Bitcoin exchange Gatecoin, who also heavily contributed to publicizing the event ([read a great post by +iyonata here](https://www.gatecoin.com/blog/2015/05/hk-first-blockchain-hackathod/)).
 
 ![Lunch](/media/2015/05/lunch.jpg)
 
