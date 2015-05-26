@@ -51,10 +51,9 @@ We explain to you in 15 minutes how to create your own Bitcoin wallet so you can
 Date: **June 16, 2015 19:30 - 21:30**     
 Location: Tuspark HK Innovation Hub, **118 Wai Yip Street, Kwun Tong**, Hong Kong     
 (Near **Ngau Tau Kok MTR exit B6**, 30 mins by subway from Central)     
-Presenter: Larry Salibra (+larry) & Leonhard Weese (+liongrass)
-Member Fee: **Free for members** of Tuspark and the Bitcoin Association of Hong Kong    
-Non-member Fee: **50 HKD** (payable in cash upon arrival)     
-RSVP via meetup.com: <a href="http://www.meetup.com/Bitcoin-HK/events/222732237/" data-event="222732237" class="mu-rsvp-btn">RSVP Here</a>    
+Presenter: Larry Salibra (+larry) & Leonhard Weese (+liongrass)    
+Fee: **50 HKD** (payable in cash upon arrival)     
+RSVP via universe: <a class="unii-listing-button unii-pink unii-medium" href="https://www.universe.com/events/plug-and-pay-tuspark-bitcoin-series-tickets-3QJKB">RSVP Here</a><script type="text/javascript" src="https://www.universe.com/embed.js"/>    
 
 ![panel](/media/2015/05/atm.jpg)
 
@@ -73,7 +72,7 @@ Speakers:
 Moderator: Moderator    
 Member Fee: **Free for members** of Tuspark and the Bitcoin Association of Hong Kong    
 Non-member Fee: **50 HKD** (payable in cash upon arrival)     
-RSVP via meetup.com: <a href="http://www.meetup.com/Bitcoin-HK/events/222732237/" data-event="222732237" class="mu-rsvp-btn">RSVP Here</a>    
+RSVP via universe: <a class="unii-listing-button unii-blue unii-medium" href="https://www.universe.com/events/bitcoin-regulation-tuspark-lecture-series-tickets-YGP6H">RSVP here</a><script type="text/javascript" src="https://www.universe.com/embed.js"/>    
 Get **50% off** by prepaying with Bitcoin until June 22. Click here:     
 
 <form action="https://www.coinpayments.net/index.php" method="post">
@@ -100,7 +99,7 @@ Location: Tuspark HK Innovation Hub, **118 Wai Yip Street, Kwun Tong**, Hong Kon
 Speaker: Joseph Wang    
 Member Fee: **Free for members** of Tuspark and the Bitcoin Association of Hong Kong    
 Non-member Fee: **50 HKD** (payable in cash upon arrival)     
-RSVP via meetup.com: <a href="http://www.meetup.com/Bitcoin-HK/events/222732237/" data-event="222732237" class="mu-rsvp-btn">RSVP Here</a>    
+RSVP via universe: <a class="unii-listing-button unii-pink unii-medium" href="https://www.universe.com/events/smart-contracts-tuspark-lecture-series-tickets-SC2H1">RSVP here</a><script type="text/javascript" src="https://www.universe.com/embed.js"/>    
 Get **50% off** by prepaying with Bitcoin until June 29. Click here:     
 
 <form action="https://www.coinpayments.net/index.php" method="post">
@@ -118,7 +117,7 @@ Get **50% off** by prepaying with Bitcoin until June 29. Click here:
 
 ![panel](/media/2015/05/miner.jpg)
 
-### #2, July: Bitcoin Startups (panel)
+### #2, July: Bitcoin Startups (lecture)
 While Hong Kong is establishing itself as a hotbed for startups in Asia, Bitcoin startups come here to find a mixed climate of welcoming regulation, apathetic government and a repellent financial system. In this panel we explore the challenges that particularly Bitcoin startups face, the problems they intend to solve and their view on Hong Kong as a developing Fintech center.
 
 Date: **July, 2015 19:30 - 21:30**     
@@ -133,7 +132,7 @@ Speakers:
 Moderator: Moderator    
 Member Fee: **Free for members** of Tuspark and the Bitcoin Association of Hong Kong    
 Non-member Fee: **50 HKD** (payable in cash upon arrival)     
-RSVP via meetup.com: <a href="http://www.meetup.com/Bitcoin-HK/events/222732237/" data-event="222732237" class="mu-rsvp-btn">RSVP Here</a>    
+RSVP via universe: Coming Soon    
 Get **50% off** by prepaying with Bitcoin until July. Click here:     
 
 <form action="https://www.coinpayments.net/index.php" method="post">
