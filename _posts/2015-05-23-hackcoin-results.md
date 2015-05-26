@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Hackcoin, Hong Kong's first Blockchain Hackathon
-date: "2015-05-23 20:00:00"
+date: "2016-05-23 20:00:00"
 permalink: /2015-hackcoin-results/
 author: liongrass
 published: true
@@ -59,7 +59,6 @@ We were very impressed with the feasibility of all projects. All had clearly tho
 ## Awards Video 
 
 <iframe width="960" height="720" src="https://www.youtube-nocookie.com/embed/OMQgsu21Cfw" frameborder="0" allowfullscreen></iframe>
-{:.text-center}
 
 ## Thank you to all sponsors!
 {:.text-center}
