@@ -1,7 +1,7 @@
 ---
 layout: meetup
 title: Tuspark Lecture Series - Bitcoin Startups Panel
-date: "2015-06-30 19:00:00"
+date: "2015-07-07 19:00:00"
 permalink: "/2015-tuspark-startups-panel/"
 host: Bitcoin Association of Hong Kong
 address: Tuspark HK Innovation Hub, 118 Wai Yip Street, Kwun Tong, Hong Kong
