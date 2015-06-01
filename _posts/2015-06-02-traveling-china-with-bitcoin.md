@@ -11,7 +11,7 @@ background: "url(/media/2015/06/chiuchow.jpg) #FF0000"
 
 ### Traveling China With Bitcoins
 
-While China has a well functioning payment system that can settle even small amounts swiftly and cheaply, it is entirely interoperable with the outside world, making it difficult for outsiders to purchase goods on Taobao, or train tickets.
+While China has a well functioning payment system that can settle even small amounts swiftly and cheaply, it is entirely inoperable with the outside world, making it difficult for outsiders to purchase goods on Taobao, or train tickets.
 Even Expedia cannot settle payments with all hotels in China, leaving the international credit card holder with a simple reservation, that the hotel then might simply pass on to a paying customer if they fill up.
 We know that Bitcoin can solve these payment gaps, and already a few services exist that let you almost entirely tour China using almost entirely Bitcoin.
 
