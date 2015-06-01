@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Hackcoin, Hong Kong's first Blockchain Hackathon
-date: "2016-05-23 20:00:00"
+date: "2015-05-23 20:00:00"
 permalink: /2015-hackcoin-results/
 author: liongrass
 published: true
