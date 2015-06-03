@@ -33,7 +33,7 @@ As long as you have Wifi [BTC Tele](https://www.btctele.com/) can help you top u
 If you need cash in China the most convenient way to cash out your Bitcoins is the [ANX Union Pay Card](https://anxbtc.com/pages/#/card) (the one denominated in Hong Kong Dollars). The fee to withdraw is similar to what most banks charge for withdrawls abroad, and you can convert your bitcoins into Hong Kong Dollars on the ANX exchange platform for their market rate (minus the usual trading fee). It is a Union Pay card, so will work smoothly at all ATMs in China.
 
 ### Young Pioneer Tours
-Probably nobody in China has been accepting Bitcoin for longer than these guys. While [Yougn Pioneer Tours](http://www.youngpioneertours.com/) mostly focuses on their North Korea tours (which start in Beijing), they also offer amazing tours to the Chines Ghost Cities, around Beijing and Xi'an. And if you want more, there is even Iran, Cuba and Turkmenistan.
+Probably nobody in China has been accepting Bitcoin for longer than these guys. While [Young Pioneer Tours](http://www.youngpioneertours.com/) mostly focuses on their North Korea tours (which start in Beijing), they also offer amazing tours to the Chines Ghost Cities, around Beijing and Xi'an. And if you want more, there is even Iran, Cuba and Turkmenistan.
 
 ![](/media/2015/06/shantou.jpg)
 
