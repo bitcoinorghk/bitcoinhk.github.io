@@ -60,10 +60,13 @@ RSVP via universe: <a class="unii-listing-button unii-pink unii-medium" href="ht
 ### #3, June 23: Bitcoin Regulation (panel)
 While Bitcoin remains 'unregulated' in Hong Kong, few understand what this term actually means. In other places the situation is far more confusing, creating frustration among those who feel barred from creating and investing in Bitcoin ideas. How does Bitcoin fit into the existing financial regulatory framework of Hong Kong, and how might this change in the future?
 
+References:
+* [NYDFS Announces Final Bitlicense Framework](http://www.dfs.ny.gov/about/speeches/sp1506031.htm)
+
 Date: **June 23, 2015 19:00 - 21:00**     
 Location: Tuspark HK Innovation Hub, **118 Wai Yip Street, Kwun Tong**, Hong Kong     
 (Near **Ngau Tau Kok MTR exit B6**, 30 mins by subway from Central)     
-Speakers:    
+Moderator:    
 * Pindar Wong
 Member Fee: **Free for members** of Tuspark and the Bitcoin Association of Hong Kong    
 Non-member Fee: **50 HKD** (payable in cash upon arrival)     
@@ -124,7 +127,12 @@ While Hong Kong is establishing itself as a hotbed for startups in Asia, Bitcoin
 Date: **July 7, 2015 19:00 - 21:00**     
 Location: Tuspark HK Innovation Hub, **118 Wai Yip Street, Kwun Tong**, Hong Kong     
 (Near **Ngau Tau Kok MTR exit B6**, 30 mins by subway from Central)     
-Moderator: Jehan Chu    
+Moderator: Jehan Chu     
+Panelists:
+
+* Aurelien Menant ([Gatecoin](https://gatecoin.com/))
+* George Harrap ([Bitspark](https://bitspark.io/))
+
 Member Fee: **Free for members** of Tuspark and the Bitcoin Association of Hong Kong    
 Non-member Fee: **50 HKD** (payable in cash upon arrival)     
 RSVP via universe: <a class="unii-listing-button unii-blue unii-medium" href="https://www.universe.com/events/bitcoin-startups-tuspark-lecture-series-tickets-5G4KM">RSVP here</a><script type="text/javascript" src="https://www.universe.com/embed.js"/>    
