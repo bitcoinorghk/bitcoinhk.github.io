@@ -24,7 +24,7 @@ Date: **June 29, 2015 19:00 - 21:00**
 Location: Tuspark HK Innovation Hub, **118 Wai Yip Street, Kwun Tong**, Hong Kong     
 (Near **Ngau Tau Kok MTR exit B6**, 30 mins by subway from Central)     
 Speaker: Joseph Wang and Pindar Wong (+pindar)   
-Member Fee: **Free for members** of Tuspark and the Bitcoin Association of Hong Kong    
+Member Fee: **Free for members** of Tuspark and the Bitcoin Association of Hong Kong and full-time students    
 Non-member Fee: **50 HKD** (payable in cash upon arrival)     
 RSVP via universe: <a class="unii-listing-button unii-pink unii-medium" href="https://www.universe.com/events/smart-contracts-tuspark-lecture-series-tickets-SC2H1">RSVP here</a><script type="text/javascript" src="https://www.universe.com/embed.js"/>    
 Get **50% off** by prepaying with Bitcoin until June 29. Click here:     
