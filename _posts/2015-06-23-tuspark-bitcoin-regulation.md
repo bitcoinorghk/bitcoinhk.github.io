@@ -21,7 +21,7 @@ Location: Tuspark HK Innovation Hub, **118 Wai Yip Street, Kwun Tong**, Hong Kon
 (Near **Ngau Tau Kok MTR exit B6**, 30 mins by subway from Central)     
 Moderator:    
 * Pindar Wong
-Member Fee: **Free for members** of Tuspark and the Bitcoin Association of Hong Kong    
+Member Fee: **Free for members** of Tuspark and the Bitcoin Association of Hong Kong and full-time students    
 Non-member Fee: **50 HKD** (payable in cash upon arrival)     
 RSVP via universe: <a class="unii-listing-button unii-blue unii-medium" href="https://www.universe.com/events/bitcoin-regulation-tuspark-lecture-series-tickets-YGP6H">RSVP here</a><script type="text/javascript" src="https://www.universe.com/embed.js"/>    
 Get **50% off** by prepaying with Bitcoin until June 22. Click here:     
