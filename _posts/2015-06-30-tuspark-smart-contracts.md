@@ -1,7 +1,7 @@
 ---
 layout: meetup
 title: Tuspark Lecture Series - Smart Contracts
-date: "2015-06-30 19:00:00"
+date: "2015-06-29 19:00:00"
 permalink: "/2015-tuspark-smart-contracts/"
 host: Bitcoin Association of Hong Kong
 address: Tuspark HK Innovation Hub, 118 Wai Yip Street, Kwun Tong, Hong Kong
@@ -14,10 +14,16 @@ published: true
 
 Today's contracts are difficult enough to read for most humans, who barely skip through them even on the matter of life and death. How can contracts become smarter, machine readable and self-enforcable? Two talks explore what is possible today, and give an outlook more science than fiction.
 
-Date: **June 30, 2015 19:00 - 21:00**     
+First lecture, Joseph Wang:
+Presenting a machine readable, legally enforcable contract that facilitates loans for small businesses cheaper and more flexible than any bank could. This contract is already used in a number of loans in Hong Kong today and ready to scale up for the emerging p2p (or rather, p2b) lending platforms.
+
+Second lecture, Pindar Wong:
+While today's smart contracts still rely on our existing legal system for enforcement, future smart contracts will become self-executing, unforgeable and impossible to cheat on.
+
+Date: **June 29, 2015 19:00 - 21:00**     
 Location: Tuspark HK Innovation Hub, **118 Wai Yip Street, Kwun Tong**, Hong Kong     
 (Near **Ngau Tau Kok MTR exit B6**, 30 mins by subway from Central)     
-Speaker: Joseph Wang    
+Speaker: Joseph Wang and Pindar Wong (+pindar)   
 Member Fee: **Free for members** of Tuspark and the Bitcoin Association of Hong Kong    
 Non-member Fee: **50 HKD** (payable in cash upon arrival)     
 RSVP via universe: <a class="unii-listing-button unii-pink unii-medium" href="https://www.universe.com/events/smart-contracts-tuspark-lecture-series-tickets-SC2H1">RSVP here</a><script type="text/javascript" src="https://www.universe.com/embed.js"/>    
