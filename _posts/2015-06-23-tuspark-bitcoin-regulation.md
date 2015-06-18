@@ -27,6 +27,7 @@ Speakers:
 
 * Don Weinland (Banking Correspondent, [SCMP](http://www.scmp.com/author/don-weinland))
 * Janos Barberis (Regulatory Consultant, [Fintech HK](http://fintech.hk/))
+* George Harrap (CEO, [Bitspark](https://bitspark.io/))
 
 Member Fee: **Free for members** of Tuspark and the Bitcoin Association of Hong Kong and full-time students    
 Non-member Fee: **50 HKD** (payable in cash upon arrival)     
