@@ -21,6 +21,7 @@ Panelists:
 
 * Aurelien Menant ([Gatecoin](https://gatecoin.com/))
 * George Harrap ([Bitspark](https://bitspark.io/))
+* Arthur Hayes ([BitMEX](https://www.bitmex.com/))
 
 Member Fee: **Free for members** of Tuspark and the Bitcoin Association of Hong Kong and full-time students    
 Non-member Fee: **50 HKD** (payable in cash upon arrival)     
