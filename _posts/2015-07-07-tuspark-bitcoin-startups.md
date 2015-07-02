@@ -10,7 +10,7 @@ background: "url(/media/2015/05/tuspark.jpg) #FF0000"
 published: true
 ---
 
-### Tuspark Lecture Series: Smart Contracts
+### Bitcoin Startups (panel)
 While Hong Kong is establishing itself as a hotbed for startups in Asia, Bitcoin startups come here to find a mixed climate of welcoming regulation, apathetic government and a repellent financial system. In this panel we explore the challenges that particularly Bitcoin startups face, the problems they intend to solve and their view on Hong Kong as a developing Fintech center.
 
 Date: **July 7, 2015 19:00 - 21:00**     
