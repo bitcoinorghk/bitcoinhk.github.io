@@ -20,7 +20,7 @@ Moderator: Jehan Chu
 Panelists:
 
 * Aurelien Menant ([Gatecoin](https://gatecoin.com/))
-* Maxine Ryan ([Bitspark](https://bitspark.io/))
+* George Harrap ([Bitspark](https://bitspark.io/))
 * Arthur Hayes ([BitMEX](https://www.bitmex.com/))
 
 Member Fee: **Free for members** of Tuspark and the Bitcoin Association of Hong Kong and full-time students    
