@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title: Monthly Meetup
+title: Scaling Bitcoin
 date: "2015-12-06 09:00:00"
 permalink: "/2015-12-scaling-bitcoin-announcement/"
 host: Bitcoin Association of Hong Kong
