@@ -26,7 +26,7 @@ Fun fact: On Sunday, November 24, 2013 over 100 people met at the public area of
 
 The most convenient way to buy Bitcoins is an ATM. Usually you only need to show the ATM the QR code of your Bitcoin address, insert bank notes and confirm the exchange rate. The process takes less than 30 seconds, is anonymous but can cost up to 5% in fees.
 
-Bitcoin ATMs are located at:
+Bitcoin ATMs are located at:    
 **[President Commercial Centre](http://hkbitcoinatm.com/)**, Shop 322, 3/F, 608 Nathan Road, **Mong Kok**    
 **[Worldwide House](https://www.bitfx.com/)**, Shop 215, 2/F, 19 Des Voeux Road, **Central**    
 **[Worldwide House](http://www.hkbitcoinkiosk.com/)**, Shop 357. 3/F, 19 Des Voeux Road, **Central**    
@@ -34,6 +34,11 @@ Bitcoin ATMs are located at:
 **[Kowloonbay International Trade & Exhibition Centre](http://www.bitcoinatm.com.hk/)**, Room 1182, 1 Trademark Drive, **Kowloon Bay**    
 
 You may also browse [coinatmradar.com](http://coinatmradar.com/) for more or less up to date information on the location of Bitcoin ATMs.
+
+### By Octopus Card
+
+With the help of Hong Kong ecommerce shop [Too Free To Fail](https://toofreetofail.com/) you can exchange your old Octopus card to Bitcoin, though maximally 500 HKD per card.
+Just visit [this page on their store](https://toofreetofail.com/products/we-buy-your-old-octopus-card-for-bitcoin), send in your old Octopus card by mail and receive shiny new Bitcoins in exchange.
 
 ### Bitcoin Exchanges
 
