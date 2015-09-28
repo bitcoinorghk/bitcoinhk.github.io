@@ -140,7 +140,7 @@ Get **50% off** by prepaying with Bitcoin until June 29. Click here:
 
 ![panel](/media/2015/05/miner.jpg)
 
-### #2, July 7: Bitcoin Startups (panel)
+### #5, July 7: Bitcoin Startups (panel)
 While Hong Kong is establishing itself as a hotbed for startups in Asia, Bitcoin startups come here to find a mixed climate of welcoming regulation, apathetic government and a repellent financial system. In this panel we explore the challenges that particularly Bitcoin startups face, the problems they intend to solve and their view on Hong Kong as a developing Fintech center.
 
 Date: **July 7, 2015 19:00 - 21:00**     
@@ -168,5 +168,76 @@ Get **50% off** by prepaying with Bitcoin until July 6. Click here:
 	<input type="hidden" name="allow_quantity" value="1">
 	<input type="hidden" name="want_shipping" value="0">
 	<input type="hidden" name="success_url" value="https://www.bitcoinhk/2015-tuspark-bitcoin-101/">	
+	<input type="image" src="https://www.coinpayments.net/images/pub/checkout-blue.png" alt="RSVP Now with Bitcoin">
+</form>
+
+![trainchain](/media/2015/05/trainchain.JPG)
+
+### #6, October 14: Blockchain vs Bitcoin (panel)
+"It's not about Bitcoin, it's about the underlying technology." While Bitcoin without doubt has had extraordinary success among all of the currently available blockchains, it suffers from a poor image, banks and regulators staying clear of it and internal conflicts about further innovation and direction. To what extend can other blockchains surpass Bitcoin? What are 'private blockchains', and what can we expect when banks are declaring they are 'exploring blockchain technology?'
+Our panelists have a diverse background in finance 
+
+Date: **October 14, 2015 19:00 - 21:00**     
+Location: Tuspark Workhub, 4/F Yes & Right House, **1 Mody Road, Tsim Sha Tsui**, Hong Kong     
+(Near **Exit N5, Tsim Sha Tsui Station**)     
+Moderator: Leonhard Weese     
+Panelists:
+
+* Jared Tate ([Digibyte](http://www.digibyte.co/))
+* Itay Damti ([Leverate](http://leverate.com/))
+* Adam Vaziri ([Diacle](http://diacle.com/))
+
+Member Fee: **Free for members** of Tuspark and the Bitcoin Association of Hong Kong and full-time students    
+Non-member Fee: **100 HKD** (payable by credit card or paypal)     
+RSVP via eventbrite: eventbrite-link    
+Get **25% off** by prepaying with Bitcoin. Click here:     
+
+<form action="https://www.coinpayments.net/index.php" method="post">
+	<input type="hidden" name="cmd" value="_pay">
+	<input type="hidden" name="reset" value="1">
+	<input type="hidden" name="merchant" value="84ffa7d089e5eefdc9ff75f09f948f80">
+	<input type="hidden" name="currency" value="HKD">
+	<input type="hidden" name="amountf" value="75">
+	<input type="hidden" name="item_name" value="Blockchain vs Bitcoin">
+	<input type="hidden" name="allow_quantity" value="1">
+	<input type="hidden" name="want_shipping" value="0">
+	<input type="hidden" name="success_url" value="https://www.bitcoinhk/2015-tuspark-blockchain-vs-bitcoin/">	
+	<input type="image" src="https://www.coinpayments.net/images/pub/checkout-blue.png" alt="RSVP Now with Bitcoin">
+</form>
+
+![trainchain](/media/2015/05/apm.JPG)
+
+### #7, October 22: Decentralize All The Things - A Technical Discussion
+The Bitcoin Blockchain might be an amazing piece of technological innovation, but it isn't perfect. In three presentations we will explain its constraints and how they can or should be lifted, or the technology that exists to extend on Bitcoin's (or another blockchain's) capability.
+
+* The Blocksize Debate, how we can scale
+* Blockstack, how we can store and distribute other types of data
+* Bitcoin Scripting, how we can write other applications
+
+Date: **October 22, 2015 19:00 - 21:00**     
+Location: Tuspark Workhub, 4/F Yes & Right House, **1 Mody Road, Tsim Sha Tsui**, Hong Kong     
+(Near **Exit N5, Tsim Sha Tsui Station**)     
+ 
+Presenters:
+
+* Leonhard Weese ([Bitcoin Association](https://www.bitcoinhk.org/))
+* Larry Salibra ([Nametiles](https://nametiles.co/), [Pay4Bugs](https://www.pay4bugs.com/))
+* Franta Polach ([formerly Slush Mining Pool](https://mining.bitcoin.cz/)
+
+Member Fee: **Free for members** of Tuspark and the Bitcoin Association of Hong Kong and full-time students    
+Non-member Fee: **100 HKD** (payable by credit card or paypal)     
+RSVP via eventbrite: eventbrite-link    
+Get **25% off** by prepaying with Bitcoin. Click here:     
+
+<form action="https://www.coinpayments.net/index.php" method="post">
+	<input type="hidden" name="cmd" value="_pay">
+	<input type="hidden" name="reset" value="1">
+	<input type="hidden" name="merchant" value="84ffa7d089e5eefdc9ff75f09f948f80">
+	<input type="hidden" name="currency" value="HKD">
+	<input type="hidden" name="amountf" value="75">
+	<input type="hidden" name="item_name" value="Decentralize All The Things">
+	<input type="hidden" name="allow_quantity" value="1">
+	<input type="hidden" name="want_shipping" value="0">
+	<input type="hidden" name="success_url" value="https://www.bitcoinhk/2015-tuspark-bitcoin-decentralize/">	
 	<input type="image" src="https://www.coinpayments.net/images/pub/checkout-blue.png" alt="RSVP Now with Bitcoin">
 </form>
