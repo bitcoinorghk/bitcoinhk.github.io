@@ -201,7 +201,7 @@ Get **25% off** by prepaying with Bitcoin. Click here:
 	<input type="hidden" name="item_name" value="Blockchain vs Bitcoin">
 	<input type="hidden" name="allow_quantity" value="1">
 	<input type="hidden" name="want_shipping" value="0">
-	<input type="hidden" name="success_url" value="https://www.bitcoin.hk/2015-tuspark-blockchain-vs-bitcoin/">	
+	<input type="hidden" name="success_url" value="https://www.bitcoinhk.org/2015-tuspark-blockchain-vs-bitcoin/">	
 	<input type="image" src="https://www.coinpayments.net/images/pub/checkout-blue.png" alt="RSVP Now with Bitcoin">
 </form>
 
