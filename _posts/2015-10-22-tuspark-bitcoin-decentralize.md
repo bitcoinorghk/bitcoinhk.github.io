@@ -14,7 +14,7 @@ published: true
 The Bitcoin Blockchain might be an amazing piece of technological innovation, but it isn't perfect. In three presentations we will explain its constraints and how they can or should be lifted, or the technology that exists to extend on Bitcoin's (or another blockchain's) capability.
 
 * The Blocksize Debate, how we can scale
-* Blockstack, how we can store and distribute other types of datas
+* Blockstack, how we can store and distribute other types of data
 
 Date: **October 22, 2015 19:00 - 21:00**     
 Location: Tuspark Workhub, 4/F Yes & Right House, **1 Mody Road, Tsim Sha Tsui**, Hong Kong     
