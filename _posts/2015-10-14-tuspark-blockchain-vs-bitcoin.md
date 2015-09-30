@@ -43,4 +43,5 @@ Get **25% off** by registering with Bitcoin. Click here:
 	<input type="image" src="https://www.coinpayments.net/images/pub/checkout-blue.png" alt="RSVP Now with Bitcoin">
 </form>
 
-![trainchain](/media/2015/05/apm.JPG)
+[![Tuspark Global Hub](/media/2015/10/tuspark.png)](http://tuspark.hk/)
+{:.text-center}

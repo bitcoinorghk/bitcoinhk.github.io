@@ -42,3 +42,6 @@ Get **25% off** by prepaying with Bitcoin. Click here:
 	<input type="hidden" name="success_url" value="https://www.bitcoinhk/2015-tuspark-bitcoin-decentralize/">	
 	<input type="image" src="https://www.coinpayments.net/images/pub/checkout-blue.png" alt="RSVP Now with Bitcoin">
 </form>
+
+[![Tuspark Global Hub](/media/2015/10/tuspark.png)](http://tuspark.hk/)
+{:.text-center}

@@ -206,7 +206,7 @@ Get **25% off** by registering with Bitcoin. Click here:
 	<input type="image" src="https://www.coinpayments.net/images/pub/checkout-blue.png" alt="RSVP Now with Bitcoin">
 </form>
 
-![trainchain](/media/2015/05/apm.JPG)
+![automatic people mover](/media/2015/05/apm.JPG)
 
 ### #7, October 22: Decentralize All The Things - A Technical Discussion
 The Bitcoin Blockchain might be an amazing piece of technological innovation, but it isn't perfect. In three presentations we will explain its constraints and how they can or should be lifted, or the technology that exists to extend on Bitcoin's (or another blockchain's) capability.
@@ -240,3 +240,6 @@ Get **25% off** by prepaying with Bitcoin. Click here:
 	<input type="hidden" name="success_url" value="https://www.bitcoinhk/2015-tuspark-bitcoin-decentralize/">	
 	<input type="image" src="https://www.coinpayments.net/images/pub/checkout-blue.png" alt="RSVP Now with Bitcoin">
 </form>
+
+[![Tuspark Global Hub](/media/2015/10/tuspark.png)](http://tuspark.hk/)
+{:.text-center}
