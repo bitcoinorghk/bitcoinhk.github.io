@@ -15,14 +15,17 @@ The Bitcoin Association of Hong Kong is open to all individuals with a connectio
 
 The Bitcoin Association Hong Kong stems from a group of people who started to discuss and promote Bitcoin in Hong Kong in the summer of 2012. As the group of people and Bitcoin grew the enthusiasts began to formalize and organize themselves to further promote the use of Bitcoin and related technologies in Hong Kong.
 
-## Become a Member
-
-We very much welcome individuals in Hong Kong to join us as full members. [You can find the membership application here](/join/).
-
 ## Stay in Touch
 
+[Join our Meetup Group to be alerted immediately about new events!](http://www.meetup.com/Bitcoin-HK/)
+
+[Join our Telegram Channel @BitcoinHK for announcements, events and opportunities!](https://telegram.me/bitcoinhk)
+
  <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/bitcoinhk" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/bitcoinhk', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address to receive regular updates, events, news and articles on Bitcoin in and around Hong Kong.</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /></form>
-         
+
+## Become a Member
+
+We very much welcome individuals in Hong Kong to join us as full members. [You can find the membership application here](/join/). 
 
 ## Leadership
 

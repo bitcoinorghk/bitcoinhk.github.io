@@ -5,7 +5,7 @@ date: "2015-10-14 19:00:00"
 permalink: "/2015-tuspark-blockchain-vs-bitcoin/"
 host: Bitcoin Association of Hong Kong
 address: Tuspark Workhub, 4/F Yes & Right House, 1 Mody Road, Tsim Sha Tsui, Hong Kong
-link: "NA"
+link: "https://www.eventbrite.hk/e/blockchain-vs-bitcoin-tickets-18857349841"
 background: "url(/media/2015/05/tuspark.jpg) #FF0000"
 published: true
 ---
@@ -27,7 +27,7 @@ Panelists:
 
 Member Fee: **Free for members** of Tuspark and the Bitcoin Association of Hong Kong and full-time students    
 Non-member Fee: **100 HKD** (payable by credit card or paypal)     
-RSVP via eventbrite: (eventbrite link will be ready soon)     
+[RSVP via eventbrite](https://www.eventbrite.hk/e/blockchain-vs-bitcoin-tickets-18857349841)     
 Get **25% off** by registering with Bitcoin. Click here:     
 
 <form action="https://www.coinpayments.net/index.php" method="post">
