@@ -175,7 +175,7 @@ Get **50% off** by prepaying with Bitcoin until July 6. Click here:
 
 ### #6, October 14: Blockchain vs Bitcoin (panel)
 "It's not about Bitcoin, it's about the underlying technology." While Bitcoin without doubt has had extraordinary success among all of the currently available blockchains, it suffers from a poor image, banks and regulators staying clear of it and internal conflicts about further innovation and direction. To what extend can other blockchains surpass Bitcoin? What are 'private blockchains', and what can we expect when banks are declaring they are 'exploring blockchain technology?'
-Our panelists have a diverse background in finance 
+Our panelists have a diverse background in finance and provide you with great insights and views into an emerging new economy.
 
 Date: **October 14, 2015 19:00 - 21:00**     
 Location: Tuspark Workhub, 4/F Yes & Right House, **1 Mody Road, Tsim Sha Tsui**, Hong Kong     
@@ -186,11 +186,12 @@ Panelists:
 * Jared Tate ([Digibyte](http://www.digibyte.co/))
 * Itai Damti ([Leverate](http://leverate.com/))
 * Adam Vaziri ([Diacle](http://diacle.com/))
+* Aurelien Menant ([Gatecoin](https://gatecoin.com/))
 
 Member Fee: **Free for members** of Tuspark and the Bitcoin Association of Hong Kong and full-time students    
 Non-member Fee: **100 HKD** (payable by credit card or paypal)     
-RSVP via eventbrite: eventbrite-link    
-Get **25% off** by prepaying with Bitcoin. Click here:     
+[RSVP via eventbrite](https://www.eventbrite.hk/e/blockchain-vs-bitcoin-tickets-18857349841)     
+Get **25% off** by registering with Bitcoin. Click here:     
 
 <form action="https://www.coinpayments.net/index.php" method="post">
 	<input type="hidden" name="cmd" value="_pay">
@@ -212,7 +213,6 @@ The Bitcoin Blockchain might be an amazing piece of technological innovation, bu
 
 * The Blocksize Debate, how we can scale
 * Blockstack, how we can store and distribute other types of data
-* Bitcoin Scripting, how we can write other applications
 
 Date: **October 22, 2015 19:00 - 21:00**     
 Location: Tuspark Workhub, 4/F Yes & Right House, **1 Mody Road, Tsim Sha Tsui**, Hong Kong     
@@ -222,11 +222,10 @@ Presenters:
 
 * Leonhard Weese ([Bitcoin Association](https://www.bitcoinhk.org/))
 * Larry Salibra ([Nametiles](https://nametiles.co/), [Pay4Bugs](https://www.pay4bugs.com/))
-* Franta Polach ([formerly Slush Mining Pool](https://mining.bitcoin.cz/)
 
 Member Fee: **Free for members** of Tuspark and the Bitcoin Association of Hong Kong and full-time students    
 Non-member Fee: **100 HKD** (payable by credit card or paypal)     
-RSVP via eventbrite: eventbrite-link    
+[RSVP via eventbrite](https://www.eventbrite.hk/e/decentralize-all-the-things-a-technical-discussion-bitcoinblockchains-tickets-18857373913)    
 Get **25% off** by prepaying with Bitcoin. Click here:     
 
 <form action="https://www.coinpayments.net/index.php" method="post">
