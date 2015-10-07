@@ -1,11 +1,11 @@
 ---
 layout: blog
 title: Bitcoin Scams
-date: "2015-10-02 02:00:00"
+date: "2015-10-07 02:00:00"
 permalink: /2015-bitcoin-scams/
 author: liongrass
 published: true
-background: "url(/media/2015/09/b.JPG) #FF0000"
+background: "url(/media/2015/10/scams.JPG) #FF0000"
 
 ---
 
@@ -47,5 +47,5 @@ The scammer will usually ask for a small down payment to begin work or mail you 
 
 ## Also Check Out
 
-[The Hong Kong Police on Bitcoins](http://www.police.gov.hk/ppp_en/04_crime_matters/ccb/cct_04.html)
+[The Hong Kong Police on Bitcoins](http://www.police.gov.hk/ppp_en/04_crime_matters/ccb/cct_04.html)    
 [The Hong Kong Police on Cryptolockers](http://www.police.gov.hk/offbeat/1026/eng/2076.html)
