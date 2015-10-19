@@ -26,8 +26,8 @@ Presenters:
 * Larry Salibra ([Nametiles](https://nametiles.co/), [Pay4Bugs](https://www.pay4bugs.com/))
 
 Member Fee: **Free for members** of Tuspark and the Bitcoin Association of Hong Kong and full-time students    
-Non-member Fee: **100 HKD** (payable by credit card or paypal)     
-[RSVP via eventbrite](https://www.eventbrite.hk/e/decentralize-all-the-things-a-technical-discussion-bitcoinblockchains-tickets-18857373913)    
+Non-member Fee: **50 HKD** (payable by credit card or paypal)     
+[RSVP via eventbrite](https://www.eventbrite.hk/e/decentralize-all-the-things-a-technical-discussion-bitcoinblockchains-tickets-18857373913?discount=tgn)    
 Get **25% off** by prepaying with Bitcoin. Click here:     
 
 <form action="https://www.coinpayments.net/index.php" method="post">
