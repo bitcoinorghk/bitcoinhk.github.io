@@ -35,7 +35,7 @@ Get **25% off** by prepaying with Bitcoin. Click here:
 	<input type="hidden" name="reset" value="1">
 	<input type="hidden" name="merchant" value="84ffa7d089e5eefdc9ff75f09f948f80">
 	<input type="hidden" name="currency" value="HKD">
-	<input type="hidden" name="amountf" value="75">
+	<input type="hidden" name="amountf" value="37.5">
 	<input type="hidden" name="item_name" value="Decentralize All The Things">
 	<input type="hidden" name="allow_quantity" value="1">
 	<input type="hidden" name="want_shipping" value="0">
