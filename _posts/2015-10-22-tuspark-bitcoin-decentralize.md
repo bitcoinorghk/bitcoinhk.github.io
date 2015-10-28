@@ -10,6 +10,8 @@ background: "url(/media/2015/05/tuspark.jpg) #FF0000"
 published: true
 ---
 
+**This event has been canceled and will be rescheduled**
+
 ### #7, October 22: Decentralize All The Things - A Technical Discussion
 The Bitcoin Blockchain might be an amazing piece of technological innovation, but it isn't perfect. In three presentations we will explain its constraints and how they can or should be lifted, or the technology that exists to extend on Bitcoin's (or another blockchain's) capability.
 
@@ -19,7 +21,7 @@ The Bitcoin Blockchain might be an amazing piece of technological innovation, bu
 Date: **October 22, 2015 19:00 - 21:00**     
 Location: Tuspark Workhub, 4/F Yes & Right House, **1 Mody Road, Tsim Sha Tsui**, Hong Kong     
 (Near **Exit N5, Tsim Sha Tsui Station**)     
- 
+
 Presenters:
 
 * Leonhard Weese ([Bitcoin Association](https://www.bitcoinhk.org/))
@@ -39,7 +41,7 @@ Get **25% off** by prepaying with Bitcoin. Click here:
 	<input type="hidden" name="item_name" value="Decentralize All The Things">
 	<input type="hidden" name="allow_quantity" value="1">
 	<input type="hidden" name="want_shipping" value="0">
-	<input type="hidden" name="success_url" value="https://www.bitcoinhk/2015-tuspark-bitcoin-decentralize/">	
+	<input type="hidden" name="success_url" value="https://www.bitcoinhk/2015-tuspark-bitcoin-decentralize/">
 	<input type="image" src="https://www.coinpayments.net/images/pub/checkout-blue.png" alt="RSVP Now with Bitcoin">
 </form>
 
