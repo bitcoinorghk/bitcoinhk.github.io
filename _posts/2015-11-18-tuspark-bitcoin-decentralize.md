@@ -5,7 +5,7 @@ date: "2015-11-18 19:00:00"
 permalink: "/2015-tuspark-bitcoin-decentralize/"
 host: Bitcoin Association of Hong Kong
 address: Tuspark Workhub, 23/F Island Beverly, 1 Great George Street, Causeway Bay, Hong Kong
-link: ""
+link: "https://www.eventbrite.hk/e/decentralize-all-the-things-a-technical-discussion-bitcoinblockchains-tickets-18857373913"
 background: "url(/media/2015/05/tuspark.jpg) #FF0000"
 published: true
 ---
