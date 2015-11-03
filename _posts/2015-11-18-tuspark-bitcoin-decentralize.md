@@ -1,26 +1,26 @@
 ---
 layout: meetup
 title: Tuspark Lecture Series - Decentralize All The Things
-date: "2015-10-22 19:00:00"
+date: "2015-11-18 19:00:00"
 permalink: "/2015-tuspark-bitcoin-decentralize/"
 host: Bitcoin Association of Hong Kong
-address: Tuspark Workhub, 4/F Yes & Right House, 1 Mody Road, Tsim Sha Tsui, Hong Kong
-link: "https://www.eventbrite.hk/e/decentralize-all-the-things-a-technical-discussion-bitcoinblockchains-tickets-18857373913"
+address: Tuspark Workhub, 23/F Island Beverly, 1 Great George Street, Causeway Bay, Hong Kong
+link: ""
 background: "url(/media/2015/05/tuspark.jpg) #FF0000"
 published: true
 ---
 
-**This event has been canceled and will be rescheduled**
+**This event has been rescheduled for November 18. The location has been changed to Causwway Bay**
 
-### #7, October 22: Decentralize All The Things - A Technical Discussion
+### #7, November 18: Decentralize All The Things - A Technical Discussion
 The Bitcoin Blockchain might be an amazing piece of technological innovation, but it isn't perfect. In three presentations we will explain its constraints and how they can or should be lifted, or the technology that exists to extend on Bitcoin's (or another blockchain's) capability.
 
 * The Blocksize Debate, how we can scale
 * Blockstack, how we can store and distribute other types of data
 
-Date: **October 22, 2015 19:00 - 21:00**     
-Location: Tuspark Workhub, 4/F Yes & Right House, **1 Mody Road, Tsim Sha Tsui**, Hong Kong     
-(Near **Exit N5, Tsim Sha Tsui Station**)     
+Date: **November 18, 2015 19:00 - 21:00**     
+Location: Tuspark Workhub, 23/F Island Beverly, **1 Great George Street, Causeway Bay**, Hong Kong     
+(Around the corner from **Exit E, Causway Bay Station**)     
 
 Presenters:
 
