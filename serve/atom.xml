@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+
+
+<title>The Bitcoin Association of Hong Kong</title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll v</generator>
+<icon>https://www.bitcoinhk.org/images/apple-touch-icon-precomposed.png</icon>
+<subtitle>Fostering and promoting Bitcoin and its technology in Hong Kong.</subtitle>
+<link href="https://www.bitcoinhk.org/atom.xml" rel="self"/>
+<link href="https://www.bitcoinhk.org/" rel="alternate" type="text/html"/>
+<updated>2015-11-03T12:17:56+08:00</updated>
+<id>https://www.bitcoinhk.org/</id>
+<author>
+  <name>The Bitcoin Association of Hong Kong</name>
+  <uri>https://www.bitcoinhk.org/</uri>
+</author>
+
+
+<entry>
+  <title>Scaling Bitcoin</title>
+  <link href="https://www.bitcoinhk.org/2015-12-scaling-bitcoin-announcement/"/>
+  <updated>2015-12-06T09:00:00+08:00</updated>
+  <id>https://www.bitcoinhk.org/scaling-bitcoin-announcement</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoinhk.org/</uri>
+    <email>info@bitcoinhk.org</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;lets-talk-about-bitcoin&quot;&gt;Let’s Talk About Bitcoin&lt;/h2&gt;
+
+&lt;p&gt;This is the second episode of the Scaling Bitcoin workshop. An academic workshop for Bitcoin developers and those interested in the technology of Bitcoin to discuss and present how Bitcoin can scale. For more information, please visit: &lt;a href=&quot;https://scalingbitcoin.org/&quot;&gt;scalingbitcoin.org&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoinhk.org/2015-12-scaling-bitcoin-announcement/&quot; rel=&quot;nofollow&quot;&gt;Scaling Bitcoin&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoinhk.org/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoinhk.org&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>ASTRI Industry and University Collaboration Forum</title>
+  <link href="https://www.bitcoinhk.org/2015-astri-iucf"/>
+  <updated>2015-11-18T09:30:00+08:00</updated>
+  <id>https://www.bitcoinhk.org/astri-icuf</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoinhk.org/</uri>
+    <email>info@bitcoinhk.org</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;astri-industry-and-university-collaboration-forum&quot;&gt;2015 ASTRI Industry and University Collaboration Forum&lt;/h2&gt;
+
+&lt;p&gt;The Hong Kong Applied Science and Technology Research Institute (ASTRI) will hold its Industry and University Collaboration Forum (IUCF) on 18 November 2015. This is a free  event supported by the Hong Kong Government and is a great opportunity for the Hong Kong Bitcoin community and people working in the fintech and blockchain spaces to meet and get to know other movers and shakers in Hong Kong’s technology industry.&lt;/p&gt;
+
+&lt;h3 id=&quot;about-astri&quot;&gt;About ASTRI&lt;/h3&gt;
+
+&lt;p&gt;Founded by the HKSAR government in 2000, ASTRI’s mission is to enhance Hong Kong’s competitiveness in technology-based industries through applied research. Our goals include performing innovative R&amp;amp;D for greater technological applications in industries and enhance collaborations among universities, R&amp;amp;D institutions and industries.&lt;/p&gt;
+
+&lt;h3 id=&quot;about-the-astri-industry-and-university-collaboration-forum&quot;&gt;About the ASTRI Industry and University Collaboration Forum&lt;/h3&gt;
+
+&lt;p&gt;ASTRI organizes the IUCF annually to inform current and potential partners about our latest technical developments, solicit suggestions for future R&amp;amp;D projects and cultivate opportunities to establish collaborations. This year, we will be focusing on promoting the following initiatives:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;FinTech (Cyber Security and Financial Data Analytics)&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Intelligent Manufacturing&lt;/li&gt;
+  &lt;li&gt;Next Generation Network&lt;/li&gt;
+  &lt;li&gt;Medical &amp;amp; Health&lt;/li&gt;
+  &lt;li&gt;Major Integrated Circuit Development Projects&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Attendees will include:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mr. Nicholas Yang, Advisor to the Chief Executive on Innovation and Technology, The Hong Kong SAR Government&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ms. Annie Choi JP, Commissioner for Innovation and Technology&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Top representatives from various government entities e.g. HKMA, HKPF and big industry players  e.g. Truly, HSBC&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Below please find details of the event:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 18 November 2015&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Time:&lt;/strong&gt; 9:30am – 4:00pm (Registration starts at 8:45 am)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Venue:&lt;/strong&gt; Grand Hall, 1/F, 12W, Phase 3, Hong Kong Science Park&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cost:&lt;/strong&gt; FREE&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Register &lt;a href=&quot;http://www.astri.org/iucf2015&quot;&gt;here&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoinhk.org/2015-astri-iucf&quot; rel=&quot;nofollow&quot;&gt;ASTRI Industry and University Collaboration Forum&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoinhk.org/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoinhk.org&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>The Futurist Forum presents: The future of MONEY</title>
+  <link href="https://www.bitcoinhk.org/2015-the-futurist-forum-future-of-money/"/>
+  <updated>2015-10-28T19:00:00+08:00</updated>
+  <id>https://www.bitcoinhk.org/the-futurist-forum</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoinhk.org/</uri>
+    <email>info@bitcoinhk.org</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;the-futurist-forum-presents-the-future-of-money&quot;&gt;The Futurist Forum presents: The future of MONEY&lt;/h2&gt;
+
+&lt;p&gt;Money has taken different forms throughout history: sea shells, beads, gold and silver, cigarettes, paper dollars, etc. Regardless of the form, the purpose of money is generally to fulfill three basic functions:  a medium of exchange, a unit of account, and / or a store of value. Now, in the digital age of communication, global e-commerce, and big data, is it possible that the next form of currency will be entirely digital, as well? Not just a digital exchange of paper money, but actual, fully digital currency? Join fellow graduate students and professionals at this Futurist Forum to gain an understanding of what cryptocurrency is, and learn about the current and future applications of Bitcoin.&lt;/p&gt;
+
+&lt;h2 id=&quot;speakers&quot;&gt;Speakers:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/PRHacks&quot;&gt;James Bang&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gatecoin.com&quot;&gt;William Piquard&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.larrysalibra.com&quot;&gt;Larry Salibra&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://digibyte.co&quot;&gt;Jared Tate&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoinhk.org/2015-the-futurist-forum-future-of-money/&quot; rel=&quot;nofollow&quot;&gt;The Futurist Forum presents: The future of MONEY&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoinhk.org/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoinhk.org&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Tuspark Lecture Series - Decentralize All The Things</title>
+  <link href="https://www.bitcoinhk.org/2015-tuspark-bitcoin-decentralize/"/>
+  <updated>2015-10-22T19:00:00+08:00</updated>
+  <id>https://www.bitcoinhk.org/tuspark-bitcoin-decentralize</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoinhk.org/</uri>
+    <email>info@bitcoinhk.org</email>
+  </author>
+  
+  <content type="html">
+    &lt;p&gt;&lt;strong&gt;This event has been canceled and will be rescheduled&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;october-22-decentralize-all-the-things---a-technical-discussion&quot;&gt;#7, October 22: Decentralize All The Things - A Technical Discussion&lt;/h3&gt;
+&lt;p&gt;The Bitcoin Blockchain might be an amazing piece of technological innovation, but it isn’t perfect. In three presentations we will explain its constraints and how they can or should be lifted, or the technology that exists to extend on Bitcoin’s (or another blockchain’s) capability.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Blocksize Debate, how we can scale&lt;/li&gt;
+  &lt;li&gt;Blockstack, how we can store and distribute other types of data&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Date: &lt;strong&gt;October 22, 2015 19:00 - 21:00&lt;/strong&gt;   &lt;br /&gt;
+Location: Tuspark Workhub, 4/F Yes &amp;amp; Right House, &lt;strong&gt;1 Mody Road, Tsim Sha Tsui&lt;/strong&gt;, Hong Kong   &lt;br /&gt;
+(Near &lt;strong&gt;Exit N5, Tsim Sha Tsui Station&lt;/strong&gt;)     &lt;/p&gt;
+
+&lt;p&gt;Presenters:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Leonhard Weese (&lt;a href=&quot;https://www.bitcoinhk.org/&quot;&gt;Bitcoin Association&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Larry Salibra (&lt;a href=&quot;https://nametiles.co/&quot;&gt;Nametiles&lt;/a&gt;, &lt;a href=&quot;https://www.pay4bugs.com/&quot;&gt;Pay4Bugs&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Member Fee: &lt;strong&gt;Free for members&lt;/strong&gt; of Tuspark and the Bitcoin Association of Hong Kong and full-time students  &lt;br /&gt;
+Non-member Fee: &lt;strong&gt;50 HKD&lt;/strong&gt; (payable by credit card or paypal)   &lt;br /&gt;
+&lt;a href=&quot;https://www.eventbrite.hk/e/decentralize-all-the-things-a-technical-discussion-bitcoinblockchains-tickets-18857373913?discount=tgn&quot;&gt;RSVP via eventbrite&lt;/a&gt;  &lt;br /&gt;
+Get &lt;strong&gt;25% off&lt;/strong&gt; by prepaying with Bitcoin. Click here:     &lt;/p&gt;
+
+&lt;form action=&quot;https://www.coinpayments.net/index.php&quot; method=&quot;post&quot;&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;cmd&quot; value=&quot;_pay&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;reset&quot; value=&quot;1&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;merchant&quot; value=&quot;84ffa7d089e5eefdc9ff75f09f948f80&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;currency&quot; value=&quot;HKD&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;amountf&quot; value=&quot;37.5&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;item_name&quot; value=&quot;Decentralize All The Things&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;allow_quantity&quot; value=&quot;1&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;want_shipping&quot; value=&quot;0&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;success_url&quot; value=&quot;https://www.bitcoinhk/2015-tuspark-bitcoin-decentralize/&quot; /&gt;
+	&lt;input type=&quot;image&quot; src=&quot;https://www.coinpayments.net/images/pub/checkout-blue.png&quot; alt=&quot;RSVP Now with Bitcoin&quot; /&gt;
+&lt;/form&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;&lt;a href=&quot;http://tuspark.hk/&quot;&gt;&lt;img src=&quot;/media/2015/10/tuspark.png&quot; alt=&quot;Tuspark Global Hub&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoinhk.org/2015-tuspark-bitcoin-decentralize/&quot; rel=&quot;nofollow&quot;&gt;Tuspark Lecture Series - Decentralize All The Things&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoinhk.org/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoinhk.org&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Tuspark Lecture Series - Blockchain vs Bitcoin</title>
+  <link href="https://www.bitcoinhk.org/2015-tuspark-blockchain-vs-bitcoin/"/>
+  <updated>2015-10-14T19:00:00+08:00</updated>
+  <id>https://www.bitcoinhk.org/tuspark-blockchain-vs-bitcoin</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoinhk.org/</uri>
+    <email>info@bitcoinhk.org</email>
+  </author>
+  
+  <content type="html">
+    &lt;h3 id=&quot;october-14-blockchain-vs-bitcoin-panel&quot;&gt;#6, October 14: Blockchain vs Bitcoin (panel)&lt;/h3&gt;
+&lt;p&gt;“It’s not about Bitcoin, it’s about the underlying technology.” While Bitcoin without doubt has had extraordinary success among all of the currently available blockchains, it suffers from a poor image, banks and regulators staying clear of it and internal conflicts about further innovation and direction. To what extend can other blockchains surpass Bitcoin? What are ‘private blockchains’, and what can we expect when banks are declaring they are ‘exploring blockchain technology?’
+Our panelists have a diverse background in finance and provide you with great insights and views into an emerging new economy.&lt;/p&gt;
+
+&lt;p&gt;Date: &lt;strong&gt;October 14, 2015 19:00 - 21:00&lt;/strong&gt;   &lt;br /&gt;
+Location: Tuspark Workhub, 4/F Yes &amp;amp; Right House, &lt;strong&gt;1 Mody Road, Tsim Sha Tsui&lt;/strong&gt;, Hong Kong   &lt;br /&gt;
+(Near &lt;strong&gt;Exit N5, Tsim Sha Tsui Station&lt;/strong&gt;)   &lt;br /&gt;
+Moderator: Leonhard Weese   &lt;br /&gt;
+Panelists:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Jared Tate (&lt;a href=&quot;http://www.digibyte.co/&quot;&gt;Digibyte&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Itai Damti (&lt;a href=&quot;http://leverate.com/&quot;&gt;Leverate&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Adam Vaziri (&lt;a href=&quot;http://diacle.com/&quot;&gt;Diacle&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Aurelien Menant (&lt;a href=&quot;https://gatecoin.com/&quot;&gt;Gatecoin&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Member Fee: &lt;strong&gt;Free for members&lt;/strong&gt; of Tuspark and the Bitcoin Association of Hong Kong and full-time students  &lt;br /&gt;
+Non-member Fee: &lt;strong&gt;100 HKD&lt;/strong&gt; (payable by credit card or paypal)   &lt;br /&gt;
+&lt;a href=&quot;https://www.eventbrite.hk/e/blockchain-vs-bitcoin-tickets-18857349841&quot;&gt;RSVP via eventbrite&lt;/a&gt;   &lt;br /&gt;
+Get &lt;strong&gt;25% off&lt;/strong&gt; by registering with Bitcoin. Click here:     &lt;/p&gt;
+
+&lt;form action=&quot;https://www.coinpayments.net/index.php&quot; method=&quot;post&quot;&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;cmd&quot; value=&quot;_pay&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;reset&quot; value=&quot;1&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;merchant&quot; value=&quot;84ffa7d089e5eefdc9ff75f09f948f80&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;currency&quot; value=&quot;HKD&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;amountf&quot; value=&quot;75&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;item_name&quot; value=&quot;Blockchain vs Bitcoin&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;allow_quantity&quot; value=&quot;1&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;want_shipping&quot; value=&quot;0&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;success_url&quot; value=&quot;https://www.bitcoinhk.org/2015-tuspark-blockchain-vs-bitcoin/&quot; /&gt;	
+	&lt;input type=&quot;image&quot; src=&quot;https://www.coinpayments.net/images/pub/checkout-blue.png&quot; alt=&quot;RSVP Now with Bitcoin&quot; /&gt;
+&lt;/form&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;&lt;a href=&quot;http://tuspark.hk/&quot;&gt;&lt;img src=&quot;/media/2015/10/tuspark.png&quot; alt=&quot;Tuspark Global Hub&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoinhk.org/2015-tuspark-blockchain-vs-bitcoin/&quot; rel=&quot;nofollow&quot;&gt;Tuspark Lecture Series - Blockchain vs Bitcoin&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoinhk.org/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoinhk.org&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Vitalik Buterin - The impact of Blockchain on the Financial Industry</title>
+  <link href="https://www.bitcoinhk.org/2015-vitalik-on-fintech/"/>
+  <updated>2015-10-10T16:00:00+08:00</updated>
+  <id>https://www.bitcoinhk.org/vitalik-on-fintech</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoinhk.org/</uri>
+    <email>info@bitcoinhk.org</email>
+  </author>
+  
+  <content type="html">
+    &lt;p&gt;Please join Ethereum Founder, World Technology Award winner and Peter Thiel Fellow Vitalik Buterin for a discussion on the impact of Blockchain on the Financial Industry. In recent months a flood of banks have actively and publicly engaged with Blockchain technology, setting up internal research teams, their own test coins (Citicoin) or partnering with commercial distributed ledger solutions like R3CEV (including Goldman, UBS, JP Morgan). 
+Is this proof of worth for the cryptocurrency pioneers? Or does this signal the beginning of the end for the anti-bank beginnings of crypto? Join Vitalik Buterin with a moderated Q&amp;amp;A by Jehan Chu for a 2hr session on what the opportunities are for the big banks and the bigger picture.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoinhk.org/2015-vitalik-on-fintech/&quot; rel=&quot;nofollow&quot;&gt;Vitalik Buterin - The impact of Blockchain on the Financial Industry&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoinhk.org/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoinhk.org&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Bitcoin Scams</title>
+  <link href="https://www.bitcoinhk.org/2015-bitcoin-scams/"/>
+  <updated>2015-10-07T02:00:00+08:00</updated>
+  <id>https://www.bitcoinhk.org/bitcoin-scams</id>
+  
+  <author>
+    <name>liongrass</name>
+    <uri>https://r.nametiles.co/liongrass</uri>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;bitcoin-scams&quot;&gt;Bitcoin Scams&lt;/h2&gt;
+
+&lt;p&gt;As long as money has existed people have been trying to extort it from others through the means of deception, violence and theft. While bitcoins are diffcult to steal if basic security procedures are being followed, and we are relatively safe from violence through the natural distance of the online world, scams are following Bitcoin users around wherever they venture, and hardly leave any forum, chat group or conference untouched.
+Bitcoin’s biggest strength, being incredibly easy and cheap to transfer anywhere around the world, makes it also so attractive to those making a living off extorting you from the comfort and safety of their homes. It comes without consumer protection built in, and all transfers are immediate and irreversible. Escrow services exist and are highly recommended when exchanging goods and services with people who you don’t know or cannot verify.
+We present the most common scams in the cryptocurrency world, because knowing how to spot them is the strongest, and often sadly the only protection against them.&lt;/p&gt;
+
+&lt;h3 id=&quot;cryptolocker&quot;&gt;Cryptolocker&lt;/h3&gt;
+
+&lt;p&gt;While not technically a scam, cryptolockers are the most common form of threat linked to Bitcoin. That is not because Bitcoin users are more likely to fall victim to them, but rather that it was infeasable to extort users before cryptocurrencies became popular. Cryptolockers are software deployed by bots which automatically scan the internet for any kind of devices like network storage, routers, servers or databases. But they can also come in the form of app, downloads or torrents. In rare cases they are also deployed by disgruntled contractors or employees.
+Cryptolockers will encrypt your data with a key, and only give you back access to this data after a payment in bitcoin has been made to the attacker. Once attacked, there is little you can do, although a bit of research about the type of malware is usually worth it, as many are as poorly programmed as the systems they infect.
+* To protect yourself from cryptolockers, make sure that your systems are up to date, have proper passwords (use a password manager!) and beware of all software you are running on them. Computers with the latest operating system behind a regular firewall (eg your router) pretty much never get infected.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-ponzi&quot;&gt;The Ponzi&lt;/h3&gt;
+
+&lt;p&gt;To the traditional investor Bitcoin looks pretty boring. It doesn’t pay dividends, yields no interest and is usually not loaned out. So what if there were a product that…. No, forget it. Such products exist, and they are scams. The interest is paid out using the incoming funds of new investments, and while the early investors (eg, the scammers) rejoice and post publicly about the high returns they are seeing, the system soon collapses, leaving late investors empty handed and feeling pretty stupid.
+* As a rule of thumb, a service that promises you a return on your bitcoins is a scam. Of course there might be legitimate services that are able to pay dividends in bitcoin, so even if you have the risk appetite you should still verify all the claims the service makes, as well as checking on the presented owners, managers and premises.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-pump-and-dump&quot;&gt;The Pump and Dump&lt;/h3&gt;
+
+&lt;p&gt;Bitcoin might disappear, but cryptocurrencies are here to stay? While this sounds true to the point of a truism, the chances of somebody having solved the inherent problems in Bitcoin, like scalability, efficiency and power consumption, are pretty thin. Yet many ‘altcoins’ claim they are far more potent than the Bitcoin blockchain, and appeal to your desire to ‘get in early’, ironically by asking for a payment in Bitcoin.
+* Very few altcoins are really innovative, and while nothing speaks against diversifying your portfolio, you should be very cautious of everything that is pre-mined, crowdfunded or heavily marketed.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-double-switch&quot;&gt;The Double Switch&lt;/h3&gt;
+
+&lt;p&gt;Users of fiat currencies have been targeted by the bank switch scam for decades, but with Bitcoin it gets to a whole new level. In the regular bank switch scam the victim would be informed by their business partners or suppliers that ‘the bank account has changed’. This message indeed comes from a fraudster and impersonator, and by the time the real business partner complains about the missing payment, the scammer is long gone with the money. This leaves a trail of documents however, and requires a large pool of compromised bank accounts around the globe to successfully pull off.  &lt;br /&gt;
+In the double switch, the scammer will use the anticipated payment to buy Bitcoins, for example through localbitcoins.com or other forums. This means there are two potential victims involved who are unclear about who they are interacting with. Victim A for example might be making a payment for a computer or flight, sending money via bank wire or paypal to victim B. Victim B is told by the scammer in advance about this payment, which they believe to be a payment for Bitcoin. Victim B then sends the Bitcoin to the scammer, who is the clear beneficiary 
+of this trade.  &lt;br /&gt;
+Whether victim A or B end up losing out is difficult to foresee. It mostly depends on whether A can successfully charge back the money paid for the unrendered service or product. In Hong Kong, bank wires are generally irreversible, but when made within a bank it is up to the bank’s discretion what to do. But even if the payment is irreversible, victim B might still find themselves in the focus of a money laundering investigation.
+* Always verify identities when trading Bitcoin online, and make sure these identities match up with bank accounts and other documents. Only trade with systems that enable escrow, and look out for positive reviews.&lt;/p&gt;
+
+&lt;h3 id=&quot;do-you-know-who-i-am&quot;&gt;Do You Know Who I Am?&lt;/h3&gt;
+
+&lt;p&gt;If you have posted an offer somewhere, for freelance work for example, or material goods, you might quickly find your inbox clustered with responses. Some of those will seem professional and link to pages filled with references, reviews and trade history.
+The scammer will usually ask for a small down payment to begin work or mail you the goods, but they never arrive.
+* Always verify if the person you are talking to is representative of the online identity that you are presented with. Ideally you have the possiblity to use escrow and internal messaging systems on the platforms you are using, or are being reached out to through email addresses listed on the public profiles that these emails refer to.&lt;/p&gt;
+
+&lt;h2 id=&quot;also-check-out&quot;&gt;Also Check Out&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.police.gov.hk/ppp_en/04_crime_matters/ccb/cct_04.html&quot;&gt;The Hong Kong Police on Bitcoins&lt;/a&gt;  &lt;br /&gt;
+&lt;a href=&quot;http://www.police.gov.hk/offbeat/1026/eng/2076.html&quot;&gt;The Hong Kong Police on Cryptolockers&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoinhk.org/2015-bitcoin-scams/&quot; rel=&quot;nofollow&quot;&gt;Bitcoin Scams&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoinhk.org/about/&quot; rel=&quot;nofollow&quot;&gt;liongrass&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoinhk.org&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Monthly Meetup</title>
+  <link href="https://www.bitcoinhk.org/2015-10-monthly-meetup/"/>
+  <updated>2015-10-06T19:00:00+08:00</updated>
+  <id>https://www.bitcoinhk.org/monthly-meetup</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoinhk.org/</uri>
+    <email>info@bitcoinhk.org</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;lets-talk-about-bitcoin&quot;&gt;Let’s Talk About Bitcoin&lt;/h2&gt;
+
+&lt;p&gt;Our monthly casual Bitcoin meetup. Catch up with the crowd, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoinhk.org/2015-10-monthly-meetup/&quot; rel=&quot;nofollow&quot;&gt;Monthly Meetup&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoinhk.org/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoinhk.org&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Hangout With ANX</title>
+  <link href="https://www.bitcoinhk.org/2015-09-hangout-with-anx/"/>
+  <updated>2015-09-21T19:00:00+08:00</updated>
+  <id>https://www.bitcoinhk.org/hangout-with-anx</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoinhk.org/</uri>
+    <email>info@bitcoinhk.org</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;hangout-with-anx&quot;&gt;Hangout With ANX&lt;/h2&gt;
+
+&lt;p&gt;Hong Kong Bitcoin Exchange ANX just moved to a new office in Wan Chai following their second anniversary. 
+You are all invited to hang out with the ANX family at their great new location to drinks and great chats with the community.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoinhk.org/2015-09-hangout-with-anx/&quot; rel=&quot;nofollow&quot;&gt;Hangout With ANX&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoinhk.org/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoinhk.org&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Monthly Meetup</title>
+  <link href="https://www.bitcoinhk.org/2015-09-monthly-meetup/"/>
+  <updated>2015-09-14T19:00:00+08:00</updated>
+  <id>https://www.bitcoinhk.org/monthly-meetup</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoinhk.org/</uri>
+    <email>info@bitcoinhk.org</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;lets-talk-about-bitcoin&quot;&gt;Let’s Talk About Bitcoin&lt;/h2&gt;
+
+&lt;p&gt;Our monthly casual Bitcoin meetup. Catch up with the crowd, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoinhk.org/2015-09-monthly-meetup/&quot; rel=&quot;nofollow&quot;&gt;Monthly Meetup&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoinhk.org/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoinhk.org&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Buy Bitcoins in Hong Kong</title>
+  <link href="https://www.bitcoinhk.org/2015-buy-bitcoins-in-hong-kong/"/>
+  <updated>2015-09-08T02:00:00+08:00</updated>
+  <id>https://www.bitcoinhk.org/buy-bitcoins-in-hong-kong</id>
+  
+  <author>
+    <name>liongrass</name>
+    <uri>https://r.nametiles.co/liongrass</uri>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;buying-bitcoins-in-hong-kong&quot;&gt;Buying Bitcoins in Hong Kong&lt;/h2&gt;
+
+&lt;p&gt;The options on how to buy Bitcoin can be overwhelming at first. Unlike with centralized systems like Alipay or Paypal there is no ‘official’ way to fund your accounts, and fees vary across services and locations. As a rule of thumb, the more convenient and fast a HKD -&amp;gt; Bitcoin exchange is, the higher the fees are.
+Compared with selling Bitcoin, there is little risk associated with buying.
+Unfortunately Bitcoin still does not have the legal status in Hong Kong that it deserves, and banks are reluctant to deal with companies and individuals associated with Bitcoin. In this environment it is easy for scammers to attempt to defraud you of your Dollars or Bitcoins in certain kinds of transactions.&lt;/p&gt;
+
+&lt;h3 id=&quot;in-person&quot;&gt;In Person&lt;/h3&gt;
+
+&lt;p&gt;Buying bitcoins in person has become less and less popular in Hong Kong in the past years, and few traders are still willing to meet you in a coffee shop or library to sell you Bitcoins. The website &lt;a href=&quot;https://localbitcoins.com/buy-bitcoins-online/hkd/ 18 listings&quot;&gt;localbitcoins.com&lt;/a&gt; as well as the Android app &lt;a href=&quot;https://mycelium.com/lt/help.html&quot;&gt;Mycelium&lt;/a&gt; can be used to find people in Hong Kong to meet up with.
+If you just need a few dollars worth to ‘try it out’ or ‘play with’ or need help setting up or operating your wallet, you will likely find somebody to trade at the regular &lt;a href=&quot;http://www.meetup.com/Bitcoin-HK/&quot;&gt;Bitcoin meetups&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Fun fact: On Sunday, November 24, 2013 over 100 people met at the public area of Hysan Mall in Causeway Bay to trade and chat.&lt;/p&gt;
+
+&lt;h3 id=&quot;bitcoin-atms&quot;&gt;Bitcoin ATMs&lt;/h3&gt;
+
+&lt;p&gt;The most convenient way to buy Bitcoins is an ATM. Usually you only need to show the ATM the QR code of your Bitcoin address, insert bank notes and confirm the exchange rate. The process takes less than 30 seconds, is anonymous but can cost up to 5% in fees.&lt;/p&gt;
+
+&lt;p&gt;Bitcoin ATMs are located at:  &lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;http://hkbitcoinatm.com/&quot;&gt;President Commercial Centre&lt;/a&gt;&lt;/strong&gt;, Shop 322, 3/F, 608 Nathan Road, &lt;strong&gt;Mong Kok&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;https://www.bitfx.com/&quot;&gt;Worldwide House&lt;/a&gt;&lt;/strong&gt;, Shop 215, 2/F, 19 Des Voeux Road, &lt;strong&gt;Central&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;http://www.hkbitcoinkiosk.com/&quot;&gt;Worldwide House&lt;/a&gt;&lt;/strong&gt;, Shop 357. 3/F, 19 Des Voeux Road, &lt;strong&gt;Central&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;https://anxintl.com/contact-us/&quot;&gt;CNT Tower&lt;/a&gt;&lt;/strong&gt;, 18/F, 338 Hennessy Road, &lt;strong&gt;Wan Chai&lt;/strong&gt;  &lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;http://www.bitcoinatm.com.hk/&quot;&gt;Kowloonbay International Trade &amp;amp; Exhibition Centre&lt;/a&gt;&lt;/strong&gt;, Room 1182, 1 Trademark Drive, &lt;strong&gt;Kowloon Bay&lt;/strong&gt;    &lt;/p&gt;
+
+&lt;p&gt;You may also browse &lt;a href=&quot;http://coinatmradar.com/&quot;&gt;coinatmradar.com&lt;/a&gt; for more or less up to date information on the location of Bitcoin ATMs.&lt;/p&gt;
+
+&lt;h3 id=&quot;by-octopus-card&quot;&gt;By Octopus Card&lt;/h3&gt;
+
+&lt;p&gt;With the help of Hong Kong ecommerce shop &lt;a href=&quot;https://toofreetofail.com/&quot;&gt;Too Free To Fail&lt;/a&gt; you can exchange your old Octopus card to Bitcoin, though maximally 500 HKD per card.
+Just visit &lt;a href=&quot;https://toofreetofail.com/products/we-buy-your-old-octopus-card-for-bitcoin&quot;&gt;this page on their store&lt;/a&gt;, send in your old Octopus card by mail and receive shiny new Bitcoins in exchange.&lt;/p&gt;
+
+&lt;h3 id=&quot;bitcoin-exchanges&quot;&gt;Bitcoin Exchanges&lt;/h3&gt;
+
+&lt;p&gt;Buying Bitcoins on exchanges is usually the cheapest option in terms of fees and is relatively fast and convenient too. But it often requires a few days to set up an account and get verified, and you can expect exchanges based in Hong Kong to ask for your personal information like ID or address proof before you can start using their accounts.
+Please note that Bitcoin exchanges are not to be treated as banks. We recommend you to withdraw your coins quickly after your purchase to a wallet you control, and never keep any funds on an exchange for a longer time.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://anxpro.com/&quot;&gt;ANX&lt;/a&gt;&lt;/strong&gt;
+Once you are signed up and verified, depositing your Hong Kong dollars with ANX is easy. You can hand it over in cash at their retail store in Sai Ying Pun or main office in Wan Chai and it will be credited quickly to your account, where you can exchange them to Bitcoin and withdraw to your wallet.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://gatecoin.com/&quot;&gt;Gatecoin&lt;/a&gt;&lt;/strong&gt;
+Gatecoin is a well established Bitcoin exchange operating in a global market from Hong Kong. You can send them local wire transfers from your Hong Kong Dollar bank account and have them credited to your account after verification.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.bitcashout.com/&quot;&gt;Bitcashout&lt;/a&gt;&lt;/strong&gt;
+Bitcashout is a small and reliable Bitcoin exchange based in Hong Kong. You can deposit via wire transfer.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://localbitcoins.com/country/HK&quot;&gt;Localbitcoins&lt;/a&gt;&lt;/strong&gt;
+Localbitcoins is a decentralized exchange. That means that while Bitcoins are deposited into accounts held by the exchange, Hong Kong dollars are transacted via various means of payment directly between users. It is up to the user to follow the appropriate Anti-Money-Laundering and Know-Your-Customer rules.
+This means you have to be extra careful who you interact with, and rates can be significantly higher than on other exchanges.&lt;/p&gt;
+
+&lt;h3 id=&quot;earn-bitcoins&quot;&gt;Earn Bitcoins&lt;/h3&gt;
+
+&lt;p&gt;The by far cheapest way to get Bitcoins is to accept them as payment. No matter if you run a business, are employed, do freelance work or your friends owe you money, it may be a good idea to ask for these payments to be made in Bitcoin. Especially online and in international transfers the instantaneous and near-free Bitcoin transactions are far superior to other means.
+You can also consider listing your hostel or room on &lt;a href=&quot;https://www.9flats.com/&quot;&gt;9flats&lt;/a&gt; instead of Airbnb and receive your payments in Bitcoin.
+Many reward systems like &lt;a href=&quot;https://www.pointshound.com/&quot;&gt;pointshound&lt;/a&gt; or &lt;a href=&quot;https://www.hotelgo24.com/&quot;&gt;HotelGo24&lt;/a&gt; allow you to cash out your rewards directly in Bitcoin. So you pay as much for your travel bookings as you would elsewhere, but you get a tiny reward in Bitcoin as a kickback.&lt;/p&gt;
+
+&lt;p&gt;Feel free to comment below about your experiences, thoughts and additions.&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoinhk.org/2015-buy-bitcoins-in-hong-kong/&quot; rel=&quot;nofollow&quot;&gt;Buy Bitcoins in Hong Kong&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoinhk.org/about/&quot; rel=&quot;nofollow&quot;&gt;liongrass&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoinhk.org&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Drinks with Roger of Coinbase</title>
+  <link href="https://www.bitcoinhk.org/drinks-with-roger-of-coinbase/"/>
+  <updated>2015-08-31T19:00:00+08:00</updated>
+  <id>https://www.bitcoinhk.org/drinks-with-roger-of-coinbase</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoinhk.org/</uri>
+    <email>info@bitcoinhk.org</email>
+  </author>
+  
+  <content type="html">
+    &lt;p&gt;Roger Gu, Director of Business Development for Coinbase, is stopping in Hong Kong next week. Come out and have a drink with him!&lt;/p&gt;
+
+&lt;p&gt;Coinbase is a bitcoin wallet and exchange service headquartered in San Francisco, California. Coinbase facilitates exchange between bitcoin and fiat currencies in twenty-six countries, and bitcoin transactions and storage in 190 countries. Coinbase has raised a total of $106,000,000 in venture capital funding and supports 2.5 million users, 40,000 merchants, and 7,000 developer applications.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoinhk.org/drinks-with-roger-of-coinbase/&quot; rel=&quot;nofollow&quot;&gt;Drinks with Roger of Coinbase&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoinhk.org/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoinhk.org&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Monthly Meetup</title>
+  <link href="https://www.bitcoinhk.org/2015-08-monthly-meetup/"/>
+  <updated>2015-08-17T19:00:00+08:00</updated>
+  <id>https://www.bitcoinhk.org/monthly-meetup</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoinhk.org/</uri>
+    <email>info@bitcoinhk.org</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;lets-talk-about-bitcoin&quot;&gt;Let’s Talk About Bitcoin&lt;/h2&gt;
+
+&lt;p&gt;Our monthly casual Bitcoin meetup. Catch up with the crowd, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoinhk.org/2015-08-monthly-meetup/&quot; rel=&quot;nofollow&quot;&gt;Monthly Meetup&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoinhk.org/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoinhk.org&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Meet Simon of BitTunes</title>
+  <link href="https://www.bitcoinhk.org/meet-simon-of-bittunes/"/>
+  <updated>2015-08-08T19:00:00+08:00</updated>
+  <id>https://www.bitcoinhk.org/meet-simon-of-bittunes</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoinhk.org/</uri>
+    <email>info@bitcoinhk.org</email>
+  </author>
+  
+  <content type="html">
+    &lt;p&gt;Simon Edhouse of BitTunes will be in Hong Kong this weekend. Some bitcoiners will be meeting up in the public area outside of Red Bar on top of IFC Mall for some drinks and to chat about the future of bitcoin and music.&lt;/p&gt;
+
+&lt;p&gt;BitTunes is a music technology startup based in London which has created a music sharing &amp;amp; earning platform that monetizes the exchange of digital data as people share songs. Users can earn percentages of Bitcoin simply by buying and sharing music. Please note that the area we’ll be meeting is outdoors and is public, so feel free to bring your own drinks and snacks.&lt;/p&gt;
+
+&lt;p&gt;If you have trouble finding the group, &lt;a href=&quot;https://telegram.me/quinnlo&quot;&gt;message Quinn Lo (@quinnlo) via Telegram&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoinhk.org/meet-simon-of-bittunes/&quot; rel=&quot;nofollow&quot;&gt;Meet Simon of BitTunes&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoinhk.org/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoinhk.org&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Drinks with Jani of Cashila</title>
+  <link href="https://www.bitcoinhk.org/drinks-with-jani-of-cashila/"/>
+  <updated>2015-07-22T19:00:00+08:00</updated>
+  <id>https://www.bitcoinhk.org/drinks-with-jani</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoinhk.org/</uri>
+    <email>info@bitcoinhk.org</email>
+  </author>
+  
+  <content type="html">
+    &lt;p&gt;Jani Valjavec from Cashila is coming to Hong Kong next week. Come out and have a drink with him!&lt;/p&gt;
+
+&lt;p&gt;Cashila is a payment gateway, that allows anyone with bitcoin to send EUR to any bank account in Europe.&lt;/p&gt;
+
+&lt;p&gt;The reservation at Grappas is under “Bitcoin.”&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoinhk.org/drinks-with-jani-of-cashila/&quot; rel=&quot;nofollow&quot;&gt;Drinks with Jani of Cashila&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoinhk.org/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoinhk.org&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Monthly Meetup</title>
+  <link href="https://www.bitcoinhk.org/2015-07-monthly-meetup/"/>
+  <updated>2015-07-13T19:00:00+08:00</updated>
+  <id>https://www.bitcoinhk.org/monthly-meetup</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoinhk.org/</uri>
+    <email>info@bitcoinhk.org</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;lets-talk-about-bitcoin&quot;&gt;Let’s Talk About Bitcoin&lt;/h2&gt;
+
+&lt;p&gt;Our monthly casual Bitcoin meetup. Catch up with the crowd, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
+
+&lt;p&gt;Paul and Marshall from &lt;a href=&quot;https://www.cryptsy.com/&quot;&gt;cryptsy&lt;/a&gt; will join us this time!&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoinhk.org/2015-07-monthly-meetup/&quot; rel=&quot;nofollow&quot;&gt;Monthly Meetup&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoinhk.org/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoinhk.org&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Tuspark Lecture Series - Bitcoin Startups Panel</title>
+  <link href="https://www.bitcoinhk.org/2015-tuspark-startups-panel/"/>
+  <updated>2015-07-07T19:00:00+08:00</updated>
+  <id>https://www.bitcoinhk.org/tuspark-bitcoin-startups</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoinhk.org/</uri>
+    <email>info@bitcoinhk.org</email>
+  </author>
+  
+  <content type="html">
+    &lt;h3 id=&quot;bitcoin-startups-panel&quot;&gt;Bitcoin Startups (panel)&lt;/h3&gt;
+&lt;p&gt;While Hong Kong is establishing itself as a hotbed for startups in Asia, Bitcoin startups come here to find a mixed climate of welcoming regulation, apathetic government and a repellent financial system. In this panel we explore the challenges that particularly Bitcoin startups face, the problems they intend to solve and their view on Hong Kong as a developing Fintech center.&lt;/p&gt;
+
+&lt;p&gt;Date: &lt;strong&gt;July 7, 2015 19:00 - 21:00&lt;/strong&gt;   &lt;br /&gt;
+Location: Tuspark HK Innovation Hub, &lt;strong&gt;118 Wai Yip Street, Kwun Tong&lt;/strong&gt;, Hong Kong   &lt;br /&gt;
+(Near &lt;strong&gt;Ngau Tau Kok MTR exit B6&lt;/strong&gt;, 30 mins by subway from Central)   &lt;br /&gt;
+Moderator: Jehan Chu   &lt;br /&gt;
+Panelists:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Aurelien Menant (&lt;a href=&quot;https://gatecoin.com/&quot;&gt;Gatecoin&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;George Harrap (&lt;a href=&quot;https://bitspark.io/&quot;&gt;Bitspark&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Arthur Hayes (&lt;a href=&quot;https://www.bitmex.com/&quot;&gt;BitMEX&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Member Fee: &lt;strong&gt;Free for members&lt;/strong&gt; of Tuspark and the Bitcoin Association of Hong Kong and full-time students  &lt;br /&gt;
+Non-member Fee: &lt;strong&gt;50 HKD&lt;/strong&gt; (payable in cash upon arrival)   &lt;br /&gt;
+RSVP via universe: &lt;a class=&quot;unii-listing-button unii-blue unii-medium&quot; href=&quot;https://www.universe.com/events/bitcoin-startups-tuspark-lecture-series-tickets-5G4KM&quot;&gt;RSVP here&lt;/a&gt;&lt;script type=&quot;text/javascript&quot; src=&quot;https://www.universe.com/embed.js&quot;&gt;&lt;/script&gt;  &lt;br /&gt;
+Get &lt;strong&gt;50% off&lt;/strong&gt; by prepaying with Bitcoin until July 6. Click here:     &lt;/p&gt;
+
+&lt;form action=&quot;https://www.coinpayments.net/index.php&quot; method=&quot;post&quot;&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;cmd&quot; value=&quot;_pay&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;reset&quot; value=&quot;1&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;merchant&quot; value=&quot;84ffa7d089e5eefdc9ff75f09f948f80&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;currency&quot; value=&quot;HKD&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;amountf&quot; value=&quot;25&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;item_name&quot; value=&quot;Bitcoin Startups&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;allow_quantity&quot; value=&quot;1&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;want_shipping&quot; value=&quot;0&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;success_url&quot; value=&quot;https://www.bitcoinhk/2015-tuspark-bitcoin-101/&quot; /&gt;	
+	&lt;input type=&quot;image&quot; src=&quot;https://www.coinpayments.net/images/pub/checkout-blue.png&quot; alt=&quot;RSVP Now with Bitcoin&quot; /&gt;
+&lt;/form&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoinhk.org/2015-tuspark-startups-panel/&quot; rel=&quot;nofollow&quot;&gt;Tuspark Lecture Series - Bitcoin Startups Panel&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoinhk.org/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoinhk.org&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Tuspark Lecture Series - Smart Contracts</title>
+  <link href="https://www.bitcoinhk.org/2015-tuspark-smart-contracts/"/>
+  <updated>2015-06-29T19:00:00+08:00</updated>
+  <id>https://www.bitcoinhk.org/tuspark-smart-contracts</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoinhk.org/</uri>
+    <email>info@bitcoinhk.org</email>
+  </author>
+  
+  <content type="html">
+    &lt;h3 id=&quot;tuspark-lecture-series-smart-contracts&quot;&gt;Tuspark Lecture Series: Smart Contracts&lt;/h3&gt;
+
+&lt;p&gt;Today’s contracts are difficult enough to read for most humans, who barely skip through them even on the matter of life and death. How can contracts become smarter, machine readable and self-enforcable? Two talks explore what is possible today, and give an outlook more science than fiction.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First lecture, Dr. Joseph Wang &amp;amp; Max Jackowski:&lt;/strong&gt;
+Presenting a machine readable, legally enforcable contract that facilitates loans for small businesses cheaper and more flexible than any bank could. This contract is already used in a number of loans in Hong Kong today and ready to scale up for the emerging p2p (or rather, p2b) lending platforms.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Max is a postgraduate student at the Faculty of Law at the University of Hong Kong. His research focuses on the relationship between the law and disruptive technologies. He has developed great interest in the subject of smart contracts as it provides for a novel and innovative way of understanding, analysing and enforcing the law&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Dr. Joseph Wang is investment banker and chief scientist for Bitquant
+Research Laboratories (Asia) Limited, an applied research financial
+technology laboratory.  He is using smart contracts to issue loans to
+high-tech SME’s in Hong Kong and is developing digital currency for
+trade with Africa.  He claims to be the first person to use a smart
+contract for a real world business transaction.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Second lecture, Pindar Wong:&lt;/strong&gt;
+While today’s smart contracts still rely on our existing legal system for enforcement, future smart contracts will become self-executing, unforgeable and impossible to cheat on.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pindar Wong is the Chairman of VeriFi (Hong Kong) Ltd, a discrete Internet Financial Infrastructure consultancy. He is establishing the ‘Smart Contracts Initiative’ (SCI) based on networked accounting and open digital ledger technologies.  He is an active member of the World Wide Web Consortium’s Web Payment Community Group. As a Commissioner on the Global Commission on Internet Governance, he is helping to articulate and advance a strategic vision for the future of Internet governance. He also serves on the Digital 21 Strategy Advisory Committee of the Hong Kong Government, the School of Engineering Advisory Committee HKUST and the Technical Advisory Board of the Packet Clearing House. Previously, he co-founded Hong Kong’s first licensed ISP in 1993, was the first Vice-Chairman of ICANN, Chairman of the Asia Pacific Internet Association, alternate Chairman of Asia Pacific Network Information Centre and elected Trustee of the Internet Society.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Date: &lt;strong&gt;June 29, 2015 19:00 - 21:00&lt;/strong&gt;   &lt;br /&gt;
+Location: Tuspark HK Innovation Hub, &lt;strong&gt;118 Wai Yip Street, Kwun Tong&lt;/strong&gt;, Hong Kong   &lt;br /&gt;
+(Near &lt;strong&gt;Ngau Tau Kok MTR exit B6&lt;/strong&gt;, 30 mins by subway from Central)   &lt;br /&gt;
+Speaker: Joseph Wang and Pindar Wong (+pindar) &lt;br /&gt;
+Member Fee: &lt;strong&gt;Free for members&lt;/strong&gt; of Tuspark and the Bitcoin Association of Hong Kong and full-time students  &lt;br /&gt;
+Non-member Fee: &lt;strong&gt;50 HKD&lt;/strong&gt; (payable in cash upon arrival)   &lt;br /&gt;
+RSVP via universe: &lt;a class=&quot;unii-listing-button unii-pink unii-medium&quot; href=&quot;https://www.universe.com/events/smart-contracts-tuspark-lecture-series-tickets-SC2H1&quot;&gt;RSVP here&lt;/a&gt;&lt;script type=&quot;text/javascript&quot; src=&quot;https://www.universe.com/embed.js&quot;&gt;&lt;/script&gt;  &lt;br /&gt;
+Get &lt;strong&gt;50% off&lt;/strong&gt; by prepaying with Bitcoin until June 29. Click here:     &lt;/p&gt;
+
+&lt;form action=&quot;https://www.coinpayments.net/index.php&quot; method=&quot;post&quot;&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;cmd&quot; value=&quot;_pay&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;reset&quot; value=&quot;1&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;merchant&quot; value=&quot;84ffa7d089e5eefdc9ff75f09f948f80&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;currency&quot; value=&quot;HKD&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;amountf&quot; value=&quot;25&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;item_name&quot; value=&quot;Smart Contracts&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;allow_quantity&quot; value=&quot;1&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;want_shipping&quot; value=&quot;0&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;success_url&quot; value=&quot;https://www.bitcoinhk/2015-tuspark-bitcoin-101/&quot; /&gt;
+	&lt;input type=&quot;image&quot; src=&quot;https://www.coinpayments.net/images/pub/checkout-blue.png&quot; alt=&quot;RSVP Now with Bitcoin&quot; /&gt;
+&lt;/form&gt;
+
+&lt;p&gt;&lt;img src=&quot;/media/2015/05/miner.jpg&quot; alt=&quot;panel&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoinhk.org/2015-tuspark-smart-contracts/&quot; rel=&quot;nofollow&quot;&gt;Tuspark Lecture Series - Smart Contracts&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoinhk.org/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoinhk.org&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Tuspark Lecture Series - Bitcoin Regulation</title>
+  <link href="https://www.bitcoinhk.org/2015-tuspark-bitcoin-regulation/"/>
+  <updated>2015-06-23T19:00:00+08:00</updated>
+  <id>https://www.bitcoinhk.org/tuspark-bitcoin-regulation</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoinhk.org/</uri>
+    <email>info@bitcoinhk.org</email>
+  </author>
+  
+  <content type="html">
+    &lt;h3 id=&quot;tuspark-lecture-series-bitcoin-regulation-panel&quot;&gt;Tuspark Lecture Series: Bitcoin Regulation Panel&lt;/h3&gt;
+&lt;p&gt;While Bitcoin remains ‘unregulated’ in Hong Kong, few understand what this term actually means. In other places the situation is far more confusing, creating frustration among those who feel barred from creating and investing in Bitcoin ideas. How does Bitcoin fit into the existing financial regulatory framework of Hong Kong, and how might this change in the future?&lt;/p&gt;
+
+&lt;p&gt;References:
+* &lt;a href=&quot;http://www.dfs.ny.gov/about/speeches/sp1506031.htm&quot;&gt;NYDFS Announces Final Bitlicense Framework&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Date: &lt;strong&gt;June 23, 2015 19:00 - 21:00&lt;/strong&gt;   &lt;br /&gt;
+Location: Tuspark HK Innovation Hub, &lt;strong&gt;118 Wai Yip Street, Kwun Tong&lt;/strong&gt;, Hong Kong   &lt;br /&gt;
+(Near &lt;strong&gt;Ngau Tau Kok MTR exit B6&lt;/strong&gt;, 30 mins by subway from Central)   &lt;br /&gt;
+Moderator:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pindar Wong&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Speakers:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Don Weinland (Banking Correspondent, &lt;a href=&quot;http://www.scmp.com/author/don-weinland&quot;&gt;SCMP&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Janos Barberis (Regulatory Consultant, &lt;a href=&quot;http://fintech.hk/&quot;&gt;Fintech HK&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;George Harrap (CEO, &lt;a href=&quot;https://bitspark.io/&quot;&gt;Bitspark&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Member Fee: &lt;strong&gt;Free for members&lt;/strong&gt; of Tuspark and the Bitcoin Association of Hong Kong and full-time students  &lt;br /&gt;
+Non-member Fee: &lt;strong&gt;50 HKD&lt;/strong&gt; (payable in cash upon arrival)   &lt;br /&gt;
+RSVP via universe: &lt;a class=&quot;unii-listing-button unii-blue unii-medium&quot; href=&quot;https://www.universe.com/events/bitcoin-regulation-tuspark-lecture-series-tickets-YGP6H&quot;&gt;RSVP here&lt;/a&gt;&lt;script type=&quot;text/javascript&quot; src=&quot;https://www.universe.com/embed.js&quot;&gt;&lt;/script&gt;  &lt;br /&gt;
+Get &lt;strong&gt;50% off&lt;/strong&gt; by prepaying with Bitcoin until June 22. Click here:     &lt;/p&gt;
+
+&lt;form action=&quot;https://www.coinpayments.net/index.php&quot; method=&quot;post&quot;&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;cmd&quot; value=&quot;_pay&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;reset&quot; value=&quot;1&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;merchant&quot; value=&quot;84ffa7d089e5eefdc9ff75f09f948f80&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;currency&quot; value=&quot;HKD&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;amountf&quot; value=&quot;25&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;item_name&quot; value=&quot;Bitcoin Regulation&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;allow_quantity&quot; value=&quot;1&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;want_shipping&quot; value=&quot;0&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;success_url&quot; value=&quot;https://www.bitcoinhk/2015-tuspark-bitcoin-101/&quot; /&gt;
+	&lt;input type=&quot;image&quot; src=&quot;https://www.coinpayments.net/images/pub/checkout-blue.png&quot; alt=&quot;RSVP Now with Bitcoin&quot; /&gt;
+&lt;/form&gt;
+
+&lt;p&gt;&lt;img src=&quot;/media/2015/05/invoice.jpg&quot; alt=&quot;panel&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoinhk.org/2015-tuspark-bitcoin-regulation/&quot; rel=&quot;nofollow&quot;&gt;Tuspark Lecture Series - Bitcoin Regulation&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoinhk.org/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoinhk.org&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Tuspark Lecture Series - Plug and Pay</title>
+  <link href="https://www.bitcoinhk.org/2015-tuspark-plug-and-pay/"/>
+  <updated>2015-06-16T19:00:00+08:00</updated>
+  <id>https://www.bitcoinhk.org/tuspark-plug-and-pay</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoinhk.org/</uri>
+    <email>info@bitcoinhk.org</email>
+  </author>
+  
+  <content type="html">
+    &lt;h3 id=&quot;tuspark-lecture-series-plug-and-pay&quot;&gt;Tuspark Lecture Series: Plug and Pay&lt;/h3&gt;
+&lt;p&gt;We explain to you in 15 minutes how to create your own Bitcoin wallet so you can make and receive your first Bitcoins. The registration fee will be fully refunded to your bitcoin wallet so that you can start spending them immediately for drinks.&lt;/p&gt;
+
+&lt;p&gt;Date: &lt;strong&gt;June 16, 2015 19:00 - 21:00&lt;/strong&gt;   &lt;br /&gt;
+Location: Tuspark HK Innovation Hub, &lt;strong&gt;118 Wai Yip Street, Kwun Tong&lt;/strong&gt;, Hong Kong   &lt;br /&gt;
+(Near &lt;strong&gt;Ngau Tau Kok MTR exit B6&lt;/strong&gt;, 30 mins by subway from Central)   &lt;br /&gt;
+Presenter: Larry Salibra (+larry) &amp;amp; Leonhard Weese (+liongrass)  &lt;br /&gt;
+Fee: &lt;strong&gt;50 HKD&lt;/strong&gt; (payable in cash upon arrival)   &lt;br /&gt;
+RSVP via universe: &lt;a class=&quot;unii-listing-button unii-pink unii-medium&quot; href=&quot;https://www.universe.com/events/plug-and-pay-tuspark-bitcoin-series-tickets-3QJKB&quot;&gt;RSVP Here&lt;/a&gt;&lt;script type=&quot;text/javascript&quot; src=&quot;https://www.universe.com/embed.js&quot;&gt;&lt;/script&gt;    &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/media/2015/05/atm.jpg&quot; alt=&quot;panel&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoinhk.org/2015-tuspark-plug-and-pay/&quot; rel=&quot;nofollow&quot;&gt;Tuspark Lecture Series - Plug and Pay&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoinhk.org/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoinhk.org&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Tuspark Lecture Series - Bitcoin 101</title>
+  <link href="https://www.bitcoinhk.org/2015-tuspark-bitcoin-101/"/>
+  <updated>2015-06-10T19:00:00+08:00</updated>
+  <id>https://www.bitcoinhk.org/tuspark-bitcoin-101</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoinhk.org/</uri>
+    <email>info@bitcoinhk.org</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;tuspark-lecture-series-bitcoin-101&quot;&gt;Tuspark Lecture Series: Bitcoin 101&lt;/h2&gt;
+
+&lt;p&gt;This non-technical lecture will give you a quick explanation of Bitcoin wallets, transactions and mining. It will explain the history and milestones of this young technology and give an overview on Bitcoin’s regulatory environment.&lt;/p&gt;
+
+&lt;p&gt;Date: &lt;strong&gt;June 10, 2015 19:00 - 21:00&lt;/strong&gt;   &lt;br /&gt;
+Location: Tuspark HK Innovation Hub, &lt;strong&gt;118 Wai Yip Street, Kwun Tong&lt;/strong&gt;, Hong Kong   &lt;br /&gt;
+(Near &lt;strong&gt;Ngau Tau Kok MTR exit B6&lt;/strong&gt;, 30 mins by subway from Central)   &lt;br /&gt;
+Speaker: Leonhard Weese (+liongrass)  &lt;br /&gt;
+Member Fee: &lt;strong&gt;Free for members&lt;/strong&gt; of Tuspark and the Bitcoin Association of Hong Kong and full-time students  &lt;br /&gt;
+Non-member Fee: &lt;strong&gt;50 HKD&lt;/strong&gt; (payable in cash upon arrival)   &lt;br /&gt;
+RSVP via universe: &lt;a class=&quot;unii-listing-button unii-red unii-medium&quot; href=&quot;https://www.universe.com/events/tuspark-bitcoin-lecture-series-1-bitcoin-101-tickets-FKDHT&quot;&gt;RSVP Here&lt;/a&gt;&lt;script type=&quot;text/javascript&quot; src=&quot;https://www.universe.com/embed.js&quot;&gt;&lt;/script&gt;    &lt;/p&gt;
+
+&lt;p&gt;Get &lt;strong&gt;50% off&lt;/strong&gt; by prepaying with Bitcoin until June 9. Click here:     &lt;/p&gt;
+
+&lt;form action=&quot;https://www.coinpayments.net/index.php&quot; method=&quot;post&quot;&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;cmd&quot; value=&quot;_pay&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;reset&quot; value=&quot;1&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;merchant&quot; value=&quot;84ffa7d089e5eefdc9ff75f09f948f80&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;currency&quot; value=&quot;HKD&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;amountf&quot; value=&quot;25&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;item_name&quot; value=&quot;Bitcoin 101&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;allow_quantity&quot; value=&quot;1&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;want_shipping&quot; value=&quot;0&quot; /&gt;
+	&lt;input type=&quot;hidden&quot; name=&quot;success_url&quot; value=&quot;https://www.bitcoinhk/2015-tuspark-bitcoin-101/&quot; /&gt;
+	&lt;input type=&quot;image&quot; src=&quot;https://www.coinpayments.net/images/pub/checkout-blue.png&quot; alt=&quot;RSVP Now with Bitcoin&quot; /&gt;
+&lt;/form&gt;
+
+&lt;p&gt;&lt;img src=&quot;/media/2015/05/panel.jpg&quot; alt=&quot;panel&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoinhk.org/2015-tuspark-bitcoin-101/&quot; rel=&quot;nofollow&quot;&gt;Tuspark Lecture Series - Bitcoin 101&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoinhk.org/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoinhk.org&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Drinks with Ethereum Founder Vitalik Buterin</title>
+  <link href="https://www.bitcoinhk.org/2015-ethereum-founder-vitalik-buterin/"/>
+  <updated>2015-06-08T19:00:00+08:00</updated>
+  <id>https://www.bitcoinhk.org/ethereum-founder-vitalik-buterin</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoinhk.org/</uri>
+    <email>info@bitcoinhk.org</email>
+  </author>
+  
+  <content type="html">
+    &lt;p&gt;Ethereum Founder and Bitcoin Magazine writer &lt;span data-passname=&quot;vitalik&quot;&gt;Vitalik Buterin&lt;/span&gt; will be in town this Monday 8 June 2015 so hope you will all join for a casual drink at Grappa’s! Nothing special planned, just another chance to gather. Please note for those interested in a talk by &lt;span data-passname=&quot;vitalik&quot;&gt;Vitalik&lt;/span&gt;, there will also be a more formal talk programmed on Tuesday evening organized through the &lt;a href=&quot;http://www.meetup.com/Ethereum-Hong-Kong/&quot;&gt;Ethereum HK Meetup group&lt;/a&gt;.&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoinhk.org/2015-ethereum-founder-vitalik-buterin/&quot; rel=&quot;nofollow&quot;&gt;Drinks with Ethereum Founder Vitalik Buterin&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoinhk.org/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoinhk.org&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Start Accepting Bitcoin Now</title>
+  <link href="https://www.bitcoinhk.org/2015-accept-bitcoin-now/"/>
+  <updated>2015-06-06T20:00:00+08:00</updated>
+  <id>https://www.bitcoinhk.org/accept-bitcoin-now</id>
+  
+  <author>
+    <name>liongrass</name>
+    <uri>https://r.nametiles.co/liongrass</uri>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;start-accepting-bitcoin-now&quot;&gt;Start Accepting Bitcoin Now&lt;/h2&gt;
+
+&lt;p&gt;In Hong Kong it can be incredibly difficult for a company to start accepting credit cards, and services like Paypal quickly charge between 4 and 8% of your revenue. Bitcoin can be a great alternative for those with international customers, especially since it has become easy to acquire bitcoins in the United States, China and Europe. Even in Taiwan you can now buy bitcoin at every Family Mart store.&lt;/p&gt;
+
+&lt;p&gt;To accept Bitcoins, you will just need a wallet. A payment processor makes the process easier for you, and if you can’t pay salaries or suppliers in Bitcoin you will need to exchange them for HKD. This guide explains how to do this in Hong Kong. Bitcoin is great for you because it gives you back the control you deserve over your money, but it also means you will need to be able to handle the responsbility of storing and backing up your keys securel and reliably. Be careful, but don’t miss the opportunity!&lt;/p&gt;
+
+&lt;h3 id=&quot;wallet&quot;&gt;Wallet&lt;/h3&gt;
+&lt;p&gt;This can be an app on your phone or computer. Of course you will need to think about computer security and backups. But any computer that is up to date with good passwords and anti virus will be okay.
+I recommend &lt;a href=&quot;https://electrum.org/&quot;&gt;Electrum&lt;/a&gt;. When you set it up there will be a backup phrase. Don’t store this phrase on any computer, rather write it down on a piece of paper and put it in a safe place.
+You only need to do it once.
+Alternatives: &lt;a href=&quot;https://bitcoin.org/en/download&quot;&gt;Bitcoin Core&lt;/a&gt;, &lt;a href=&quot;https://www.multibit.org/index.html&quot;&gt;Multibit&lt;/a&gt;.
+Theoretically that’s all you need to set yourself up.&lt;/p&gt;
+
+&lt;h3 id=&quot;payment-processor&quot;&gt;Payment Processor&lt;/h3&gt;
+&lt;p&gt;To make receiving payments easier, use a processor. They sort of work like Paypal, except that they are much much cheaper (or even free) and easier to sign up. Make sure that the payment processor sends the Bitcoin into your own wallet, because why trust someone else with your money?
+I recommend &lt;a href=&quot;https://www.coinpayments.net/index.php&quot;&gt;Coinpayments&lt;/a&gt;, because its easy to sign up for it and easy to integrate.
+Check out &lt;a href=&quot;https://www.bitcoinhk.org/2015-tuspark-bitcoin-lecture-series/&quot;&gt;this article on our website&lt;/a&gt; for how we integrated the buttons.
+&lt;a href=&quot;https://bitpay.com/&quot;&gt;Bitpay&lt;/a&gt; is also pretty good, but signup isn’t as fast (they want to do some KYC).&lt;/p&gt;
+
+&lt;h3 id=&quot;cash-out&quot;&gt;Cash out&lt;/h3&gt;
+&lt;p&gt;In the end you need to turn your Bitcoins into cash (of course its easier if you find a way to spend them for products and services).
+You can check out &lt;a href=&quot;https://localbitcoins.com/&quot;&gt;localbitcoins&lt;/a&gt; to quickly find somebody to send you a wire transfer. As long as that wire is being processed localbitcoins will hold your bitcoins in escrow.
+You can also get an account with local exchange &lt;a href=&quot;https://gatecoin.com/&quot;&gt;Gatecoin&lt;/a&gt;. You can sell your Bitcoins there and request a wire transfer to withdraw your HKD into your bank account.
+You can also get yourself an account with Hong Kong Bitcoin exchange &lt;a href=&quot;https://anxbtc.com/&quot;&gt;ANX&lt;/a&gt;, who have neat HKD debit cards, you load them up with Bitcoin and take out cash at any Union Pay ATM. This comes at a cost of about 1.5 to 3%. Convenience and speed has a price, but it still beats Paypal by a huge margin.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoinhk.org/2015-accept-bitcoin-now/&quot; rel=&quot;nofollow&quot;&gt;Start Accepting Bitcoin Now&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoinhk.org/about/&quot; rel=&quot;nofollow&quot;&gt;liongrass&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoinhk.org&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Traveling China With Bitcoins</title>
+  <link href="https://www.bitcoinhk.org/2015-traveling-china-with-bitcoins/"/>
+  <updated>2015-06-01T20:00:00+08:00</updated>
+  <id>https://www.bitcoinhk.org/traveling-china-with-bitcoin</id>
+  
+  <author>
+    <name>liongrass</name>
+    <uri>https://r.nametiles.co/liongrass</uri>
+  </author>
+  
+  <content type="html">
+    &lt;h3 id=&quot;traveling-china-with-bitcoins&quot;&gt;Traveling China With Bitcoins&lt;/h3&gt;
+
+&lt;p&gt;While China has a well functioning payment system that can settle even small amounts swiftly and cheaply, it is entirely inoperable with the outside world, making it difficult for outsiders to purchase goods on Taobao, or train tickets.
+Even Expedia cannot settle payments with all hotels in China, leaving the international credit card holder with a simple reservation, that the hotel then might simply pass on to a paying customer if they fill up.
+We know that Bitcoin can solve these payment gaps, and already a few services exist that let you almost entirely tour China using almost entirely Bitcoin.&lt;/p&gt;
+
+&lt;h3 id=&quot;wechat-secretary&quot;&gt;WeChat Secretary&lt;/h3&gt;
+&lt;p&gt;By far the most powerful tool when travelling China is the &lt;a href=&quot;http://wesecretary.com/&quot;&gt;WeChat Secretary&lt;/a&gt;. Marketed as a concierge service for expats in China, it turns out to be incredibly useful in organizing things that would otherwise take you hours to figure out, and even longer to pay for.
+You can reach them via WeChat or Email, and pretty much any purchase you want to make they can arrange, for a premium of 10%. Train tickets are by far the most useful, as train stations are crowded and travel agents often asking for a multiple of that fee (China Travel Service in Hong Kong for example charges 100 HKD per ticket in fees).
+They can also book plane tickets, hotels, arrange private cars (you might still have to pay the driver in cash) or McDonald’s delivery.&lt;/p&gt;
+
+&lt;p&gt;WeChat Secretary also accepts Alipay, Paypal, Bank Transfer and even Credit Cards (for which they should seriously consider getting a TLS certificate). A deposit of at least 300 RMB is encouraged with Bitcoin to keep the costs of verifying payments low. In my opinion it could be a great alternative to use Telegram instead of (or in addition to) WeChat, and use Telebit to settle small transactions immediately.&lt;/p&gt;
+
+&lt;h3 id=&quot;btc-tele&quot;&gt;BTC Tele&lt;/h3&gt;
+&lt;p&gt;Getting a local SIM card for your trip is a great idea (for example to keep in touch with the WeChat Secretary), but topping up your prepaid plan can be annoying. You have to find a kiosk, rub a plastic card, enter long numbers and in the end you can be sure that you will always run out of money when it’s 3am, you’re sitting in your hotel room and the McDonald’s delivery long overdue.
+As long as you have Wifi &lt;a href=&quot;https://www.btctele.com/&quot;&gt;BTC Tele&lt;/a&gt; can help you top up your SIM card with Bitcoin in a matter of minutes, just by entering your phone number, selecting a recharge amount and sending some coin.&lt;/p&gt;
+
+&lt;h3 id=&quot;btctrip&quot;&gt;BTCTrip&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://btctrip.com/&quot;&gt;BTCTrip&lt;/a&gt; has an extensive network of Hotels in China, including even some of the budget chains. I booked a hotel in Shantou, and was again impressed with the great and fast checkout experience.&lt;/p&gt;
+
+&lt;h3 id=&quot;anx-union-pay-card&quot;&gt;ANX Union Pay Card&lt;/h3&gt;
+&lt;p&gt;If you need cash in China the most convenient way to cash out your Bitcoins is the &lt;a href=&quot;https://anxbtc.com/pages/#/card&quot;&gt;ANX Union Pay Card&lt;/a&gt; (the one denominated in Hong Kong Dollars). The fee to withdraw is similar to what most banks charge for withdrawls abroad, and you can convert your bitcoins into Hong Kong Dollars on the ANX exchange platform for their market rate (minus the usual trading fee). It is a Union Pay card, so will work smoothly at all ATMs in China.&lt;/p&gt;
+
+&lt;h3 id=&quot;young-pioneer-tours&quot;&gt;Young Pioneer Tours&lt;/h3&gt;
+&lt;p&gt;Probably nobody in China has been accepting Bitcoin for longer than these guys. While &lt;a href=&quot;http://www.youngpioneertours.com/&quot;&gt;Young Pioneer Tours&lt;/a&gt; mostly focuses on their North Korea tours (which start in Beijing), they also offer amazing tours to the Chines Ghost Cities, around Beijing and Xi’an. And if you want more, there is even Iran, Cuba and Turkmenistan.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/media/2015/06/shantou.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoinhk.org/2015-traveling-china-with-bitcoins/&quot; rel=&quot;nofollow&quot;&gt;Traveling China With Bitcoins&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoinhk.org/about/&quot; rel=&quot;nofollow&quot;&gt;liongrass&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoinhk.org&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+<entry>
+  <title>Monthly Meetup</title>
+  <link href="https://www.bitcoinhk.org/2015-06-monthly-meetup/"/>
+  <updated>2015-06-01T19:00:00+08:00</updated>
+  <id>https://www.bitcoinhk.org/monthly-meetup</id>
+  
+  <author>
+    <name>The Bitcoin Association of Hong Kong</name>
+    <uri>https://www.bitcoinhk.org/</uri>
+    <email>info@bitcoinhk.org</email>
+  </author>
+  
+  <content type="html">
+    &lt;h2 id=&quot;lets-talk-about-bitcoin&quot;&gt;Let’s Talk About Bitcoin&lt;/h2&gt;
+
+&lt;p&gt;Our monthly casual Bitcoin meetup. Catch up with the crowd, enjoy a drink or snacks and catch up on blockchain drama.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://www.bitcoinhk.org/2015-06-monthly-meetup/&quot; rel=&quot;nofollow&quot;&gt;Monthly Meetup&lt;/a&gt; was originally published by &lt;a href=&quot;https://www.bitcoinhk.org/about/&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; on &lt;a href=&quot;https://www.bitcoinhk.org&quot; rel=&quot;nofollow&quot;&gt;The Bitcoin Association of Hong Kong&lt;/a&gt;.&lt;/p&gt;
+
+  </content>
+</entry>
+
+
+</feed>

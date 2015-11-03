@@ -1,0 +1,140 @@
+/* Need to override something? Write your CSS here, and use !important only if neccessary.  */
+.bg-accent, .logo, nav a.logo, .cover {
+  background-color: red;
+}
+
+a, .text-accent, .dotted-link, p a, article a {
+  color: red;
+}
+
+.logo img {
+  max-width: 60px;
+  border-radius: 5px;
+  position: relative;
+  top: -9px;
+}
+
+.cover-overlay {
+  background-color: rgba(0,0,0,0.2);
+}
+
+header h1, header p.lead, .post-header, nav.site-header {
+  text-shadow: 0px 0px 5px rgba(0, 0, 0, 0.9);
+}
+
+nav {
+  padding-bottom: 0px;
+}
+
+nav a.logo {
+  background: none;
+}
+
+footer {
+  background-color: white;
+}
+
+footer img {
+  max-width: 210px;
+}
+
+.footnote {
+  background-color: black;
+}
+
+.footnote .to-the-moon {
+  border-radius: 3px;
+}
+
+@media screen and (max-width: 768px) {
+  .leaders {
+    display:flex;
+    display: -webkit-flex;
+    flex-flow: column;
+    -webkit-flex-flow: column;
+  }
+
+  .leaders .larry {
+    order: 2;
+    -webkit-order: 2;
+  }
+
+  .leaders .leo {
+    order: 1;
+    -webkit-order: 1;
+  }
+
+  .leaders .sang {
+    order: 3;
+    -webkit-order: 3;
+  }
+}
+
+
+
+figure {
+  margin: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+figure img {
+  margin-bottom: 10px;
+}
+
+figure a img {
+  transform: translate(0, 0);
+  -webkit-transition-duration: 0.25s;
+  -moz-transition-duration: 0.25s;
+  -o-transition-duration: 0.25s;
+  opacity: 0.7;
+}
+
+@media screen and (min-width: 769px) {
+
+
+  figure.half img {
+    width: 310px;
+    float: left;
+    margin-right: 10px;
+
+  }
+  figure.half figcaption {
+    clear: left;
+  }
+  figure.third img {
+
+    width: 200px;
+    float: left;
+    margin-right: 10px;
+
+
+  }
+
+  figure.third figcaption {
+    clear: left;
+  }
+}
+
+[data-passname] {
+  border-bottom: dashed 1px #FF0000;
+}
+[data-passname][data-style=embedded] {
+  border-bottom: 0;
+}
+
+
+.post-link .preview {
+  background-color: #FF0000;
+}
+
+body {
+  font-family: "Raleway", Arial, sans-serif;
+}
+
+.text-center {
+  text-align: center;
+}
+
+article iframe {
+  max-width: 100%;
+}
