@@ -6,7 +6,7 @@ permalink: "/2015-11-shenzhen-bitcoin-meetup/"
 host: Bitcoin Association of Hong Kong
 address: Willy's Crab Shack, 18 Shiyun Road, Shekou, Nanshan, Shenzhen
 link: "http://www.meetup.com/Bitcoin-HK/events/226722382/"
-background: "url(/media/2015/11/shenzhen.jpg) #FF0000"
+background: "url(/media/2015/11/shenzhen.png) #FF0000"
 published: true
 ---
 
