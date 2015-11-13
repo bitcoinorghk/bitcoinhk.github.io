@@ -25,7 +25,7 @@ Location: Tuspark Workhub, 23/F Island Beverly, **1 Great George Street, Causewa
 
 Presenters:
 
-* Filipe Farina
+* Filipe Farinha
 * Leonhard Weese ([Bitcoin Association](https://www.bitcoinhk.org/))
 * Larry Salibra ([Nametiles](https://nametiles.co/), [Pay4Bugs](https://www.pay4bugs.com/))
 
