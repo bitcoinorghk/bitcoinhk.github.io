@@ -17,6 +17,7 @@ The Bitcoin Blockchain might be an amazing piece of technological innovation, bu
 
 * The Blocksize Debate, how we can scale
 * Blockstack, how we can store and distribute other types of data
+* Decentralizing Big Data analytics
 
 Date: **November 18, 2015 19:00 - 21:00**     
 Location: Tuspark Workhub, 23/F Island Beverly, **1 Great George Street, Causeway Bay**, Hong Kong     
@@ -24,6 +25,7 @@ Location: Tuspark Workhub, 23/F Island Beverly, **1 Great George Street, Causewa
 
 Presenters:
 
+* Filipe Farina
 * Leonhard Weese ([Bitcoin Association](https://www.bitcoinhk.org/))
 * Larry Salibra ([Nametiles](https://nametiles.co/), [Pay4Bugs](https://www.pay4bugs.com/))
 
