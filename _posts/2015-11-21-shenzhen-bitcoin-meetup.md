@@ -3,7 +3,7 @@ layout: meetup
 title: Shenzhen Bitcoin Meetup
 date: "2015-11-21 15:00:00"
 permalink: "/2015-11-shenzhen-bitcoin-meetup/"
-host: Bitcoin Association of Hong Kong
+host: Shenzhen Bitcoin Community
 address: Willy's Crab Shack, 18 Shiyun Road, Shekou, Nanshan, Shenzhen
 link: "http://www.meetup.com/Bitcoin-HK/events/226722382/"
 background: "url(/media/2015/11/shenzhen.png) #FF0000"
