@@ -10,7 +10,7 @@ background: "url(/media/2015/05/tuspark.jpg) #FF0000"
 published: true
 ---
 
-**This event has been rescheduled for November 18. The location has been changed to Causwway Bay**
+**This event has been rescheduled for November 18. The location has been changed to Causeway Bay**
 
 ### #7, November 18: Decentralize All The Things - A Technical Discussion
 The Bitcoin Blockchain might be an amazing piece of technological innovation, but it isn't perfect. In three presentations we will explain its constraints and how they can or should be lifted, or the technology that exists to extend on Bitcoin's (or another blockchain's) capability.
@@ -21,7 +21,7 @@ The Bitcoin Blockchain might be an amazing piece of technological innovation, bu
 
 Date: **November 18, 2015 19:00 - 21:00**     
 Location: Tuspark Workhub, 23/F Island Beverly, **1 Great George Street, Causeway Bay**, Hong Kong     
-(Around the corner from **Exit E, Causway Bay Station**)     
+(Around the corner from **Exit E, Causeway Bay Station**)     
 
 Presenters:
 
