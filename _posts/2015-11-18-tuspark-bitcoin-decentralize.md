@@ -10,14 +10,18 @@ background: "url(/media/2015/05/tuspark.jpg) #FF0000"
 published: true
 ---
 
-**This event has been rescheduled for November 18. The location has been changed to Causeway Bay**
+
+**Presentation videos are now available!**
+
 
 ### #7, November 18: Decentralize All The Things - A Technical Discussion
 The Bitcoin Blockchain might be an amazing piece of technological innovation, but it isn't perfect. In three presentations we will explain its constraints and how they can or should be lifted, or the technology that exists to extend on Bitcoin's (or another blockchain's) capability.
 
-* The Blocksize Debate, how we can scale
-* Blockstack, how we can store and distribute other types of data
-* Decentralizing Big Data analytics
+* [Watch "The Blocksize Debate, how we can scale" by Leonhard Weese](https://www.youtube.com/watch?v=UcMZhYSXQYQ)
+* [Watch "Intro to Blockstore and Blockchain ID" by Larry Salibra](https://www.larrysalibra.com/talks/2015-11-18-blockstore-blockchain-id/#video)
+* [Watch "Decentralizing Big Data Analytics" by Filipe Farinha](https://www.youtube.com/watch?v=5r6GCZ7LGpo)
+
+[Re-live the evening by watching all three presentations.](https://www.youtube.com/playlist?list=PLzntL9E2Gq2zMhUOk8WRd5DislbBeaSLJ)
 
 Date: **November 18, 2015 19:00 - 21:00**     
 Location: Tuspark Workhub, 23/F Island Beverly, **1 Great George Street, Causeway Bay**, Hong Kong     
