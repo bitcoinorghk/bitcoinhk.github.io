@@ -13,3 +13,7 @@ published: true
 ## Scaling Bitcoin
 
 This is the second episode of the Scaling Bitcoin workshop. An academic workshop for Bitcoin developers and those interested in the technology of Bitcoin to discuss and present how Bitcoin can scale. For more information, please visit: [scalingbitcoin.org](https://scalingbitcoin.org/)
+
+
+We will be [live streaming the event](/scaling-bitcoin-2015/live/) and are running
+[chat groups for attendees](/scaling-bitcoin-2015/chat-groups/).
