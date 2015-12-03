@@ -8,6 +8,8 @@ address: Hong Kong Cyberport, 100 Cyberport Road, Cyberport Hong Kong
 link: "http://www.meetup.com/Bitcoin-HK/events/225208942/"
 background: "url(/media/2015/12/workshop.JPG) #FF0000"
 published: true
+redirect_from:
+ - /scaling-bitcoin-2015/
 ---
 
 ## Scaling Bitcoin
