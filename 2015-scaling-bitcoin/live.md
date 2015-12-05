@@ -20,8 +20,8 @@ Begins on 6 December 2015 at 8:50 AM HKT
 
 2015年12月6日上午8點50分鐘 （香港時間）播出
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/qdghS32TeZU" frameborder="0" allowfullscreen></iframe>
-<a href="https://youtu.be/qdghS32TeZU" class="btn">Watch on Youtube</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SeHuBQpi8SE" frameborder="0" allowfullscreen></iframe>
+<a href="https://youtu.be/SeHuBQpi8SE" class="btn">Watch on Youtube</a>
 
 ## Day 1 - Afternoon Session ／ 第一日下午
 
@@ -29,8 +29,8 @@ Begins on 6 December 2015 at 2:50 PM HKT
 
 2015年12月6日下午2點50分鐘 （香港時間）播出
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/krYhFGq9Q58" frameborder="0" allowfullscreen></iframe>
-<a href="https://youtu.be/krYhFGq9Q58" class="btn">Watch on Youtube</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_OZlLRzyG1s" frameborder="0" allowfullscreen></iframe>
+<a href="https://youtu.be/_OZlLRzyG1s" class="btn">Watch on Youtube</a>
 
 ## Day 2 - Morning Session ／ 第二日上午
 
@@ -38,8 +38,8 @@ Begins on 7 December 2015 at 8:50 AM HKT
 
 2015年12月7日上午8點50分鐘 （香港時間）播出
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/gv1DRi_7Sso" frameborder="0" allowfullscreen></iframe>
-<a href="https://youtu.be/gv1DRi_7Sso" class="btn">Watch on Youtube</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/37LiYOOevqs" frameborder="0" allowfullscreen></iframe>
+<a href="https://youtu.be/37LiYOOevqs" class="btn">Watch on Youtube</a>
 
 ## Day 2 - Afternoon Session ／ 第二日下午
 
@@ -47,8 +47,8 @@ Begins on 7 December 2015 at 2:50 PM HKT
 
 2015年12月7日下午2點50分鐘 （香港時間）播出
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/K2boD2bHZzw" frameborder="0" allowfullscreen></iframe>
-<a href="https://youtu.be/K2boD2bHZzw" class="btn">Watch on Youtube</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k0Cf_-IB4Ys" frameborder="0" allowfullscreen></iframe>
+<a href="https://youtu.be/k0Cf_-IB4Ys" class="btn">Watch on Youtube</a>
 
 
 {% include stay-in-touch.md %}
