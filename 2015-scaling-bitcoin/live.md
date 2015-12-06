@@ -20,8 +20,8 @@ Begins on 6 December 2015 at 8:50 AM HKT
 
 2015年12月6日上午8點50分鐘 （香港時間）播出
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SeHuBQpi8SE" frameborder="0" allowfullscreen></iframe>
-<a href="https://youtu.be/SeHuBQpi8SE" class="btn">Watch on Youtube</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FTBPo_wP0jU" frameborder="0" allowfullscreen></iframe>
+<a href="https://youtu.be/FTBPo_wP0jU" class="btn">Watch on Youtube</a>
 
 ## Day 1 - Afternoon Session ／ 第一日下午
 
