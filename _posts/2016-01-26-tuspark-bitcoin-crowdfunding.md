@@ -1,7 +1,7 @@
 ---
 layout: meetup
 title: Tuspark Lecture Series - Crowdfunding
-date: "2016-01-25 19:00:00"
+date: "2016-01-26 19:00:00"
 permalink: "/2015-tuspark-bitcoin-crowdfunding/"
 host: Bitcoin Association of Hong Kong
 address: Tuspark Workhub, 23/F Island Beverly, 1 Great George Street, Causeway Bay, Hong Kong
@@ -11,12 +11,12 @@ published: true
 ---
 
 
-### #9, January 25: Crowdfunding
+### #9, January 26: Crowdfunding
 
 Crowdfunding will shape the way we see and create startups in many ways. Already funding sites make it possible to raise money for projects big and small, no matter if they are for profit or not.    
 But often enough it is not possible for the users to receive capital in return, like a traditional investor would. With cryptocurrencies lowering the barrier to receive payments even for unincorporated businesses and individuals the risk of fraud significantly increases. But cryptostocks also make it possible to issue capital to the users in a secure and reliable way, despite that practice being illegal in many jurisdictions. Which direction will crowdfunding take, and what role will cryptocurrencies play in it?    
 
-Date: **January 25, 2016 19:00 - 21:00**     
+Date: **January 26, 2016 19:00 - 21:00**     
 Location: Tuspark Workhub, 23/F Island Beverly, **1 Great George Street, Causeway Bay**, Hong Kong     
 (Around the corner from **Exit E, Causeway Bay Station**)     
 
