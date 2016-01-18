@@ -5,7 +5,7 @@ date: "2016-01-26 19:00:00"
 permalink: "/2015-tuspark-bitcoin-crowdfunding/"
 host: Bitcoin Association of Hong Kong
 address: Tuspark Workhub, 23/F Island Beverly, 1 Great George Street, Causeway Bay, Hong Kong
-link: ""
+link: "https://www.eventbrite.hk/e/bitcoin-series-crowfunding-tickets-20850624780"
 background: "url(/media/2015/05/tuspark.jpg) #FF0000"
 published: true
 ---
@@ -29,7 +29,7 @@ Moderator: Alessandra Lombardi
 
 Member Fee: **Free for members** of Tuspark and the Bitcoin Association of Hong Kong and full-time students    
 Non-member Fee: **50 HKD** (payable by credit card or paypal)     
-[RSVP via eventbrite]()    
+[RSVP via eventbrite](https://www.eventbrite.hk/e/bitcoin-series-crowfunding-tickets-20850624780)    
 Get **25% off** by prepaying with Bitcoin. Click here:     
 
 <form action="https://www.coinpayments.net/index.php" method="post">
