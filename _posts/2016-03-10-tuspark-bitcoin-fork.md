@@ -26,7 +26,7 @@ Speaker: Leonhard Weese
 Member Fee: **Free for members** of Tuspark and the Bitcoin Association of Hong Kong and full-time students    
 Non-member Fee: **50 HKD** (payable by credit card or paypal)     
 [RSVP via eventbrite]()    
-Get **25% off** by prepaying with Bitcoin. Click here:     
+Get **25% off** by pre-paying with Bitcoin. Click here:     
 
 <form action="https://www.coinpayments.net/index.php" method="post">
 	<input type="hidden" name="cmd" value="_pay">
