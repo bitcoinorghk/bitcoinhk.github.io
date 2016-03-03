@@ -5,6 +5,9 @@ description: "Fostering and promoting Bitcoin and its technology in Hong Kong."
 baseurl: ""
 url: "https://www.bitcoinhk.org"
 
+
+future: true
+
 # More settings
 accent: "#E74C3C"
 github: "bitcoinhk/bitcoinhk.github.io"
