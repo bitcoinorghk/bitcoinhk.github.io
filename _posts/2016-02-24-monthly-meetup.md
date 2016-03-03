@@ -1,10 +1,10 @@
 ---
 layout: meetup
 title: Monthly Meetup
-date: "2016-03-02 19:00:00"
+date: "2016-03-07 20:00:00"
 permalink: "/2016-03-monthly-meetup/"
 host: Bitcoin Association of Hong Kong
-address: Grappa's Cellar, Jardine House, 1 Connaught Road, Central, Hong Kong
+address: Mr & Mrs Fox, 23 Tong Chong Street, Quarry Bay, Hong Kong
 link: "http://www.meetup.com/Bitcoin-HK/events/228490128/"
 background: "url(/media/2014/12/beer.jpg) #FF0000"
 published: true
@@ -12,4 +12,4 @@ published: true
 
 ## Let's Talk About Bitcoin
 
-Our monthly casual Bitcoin meetup. Catch up with the crowd, enjoy a drink or snacks and catch up on blockchain drama. March 7, 2016.
+Our monthly casual Bitcoin meetup. Catch up with the crowd, enjoy a drink or snacks and catch up on blockchain drama.
