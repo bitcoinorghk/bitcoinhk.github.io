@@ -1,8 +1,8 @@
 ---
 layout: meetup
-title: Tuspark Lecture Series - Seggregated Witnesses
+title: Tuspark Lecture Series - Segregated Witnesses
 date: "2016-03-16 19:00:00"
-permalink: "/2016-tuspark-seggregated-witnesses/"
+permalink: "/2016-tuspark-segregated-witnesses/"
 host: Bitcoin Association of Hong Kong
 address: Tuspark Workhub, 4/F Yes & Right House, 1 Mody Road, Tsim Sha Tsui, Hong Kong
 link: ""
@@ -11,7 +11,7 @@ published: true
 ---
 
 
-### #11, March 16: Seggregated Witnesses
+### #11, March 16: Segregated Witnesses
 
 Segregated Witnesses (Segwit) is one of the most heated topics in Bitcoin protocol development. It aims to fix the problem of "transaction malleability", a big headache for developers for a long time. It also brings a number of bonus features, and opens exciting opportunities for significantly scaling Bitcoin's transaction capacity. Without too much technical jargon, the speaker will introduce how Segwit works, what improvements it is expected to bring, and how it will be implemented.
 
