@@ -1,7 +1,7 @@
 ---
 layout: meetup
 title: Celebrate the Year of the Monkey With ANX
-date: "2016-02-24 19:00:00"
+date: "2016-03-24 19:00:00"
 permalink: "/2016-02-hangout-with-anx/"
 host: ANX
 address: 18/F, CNT Tower, 338 Hennessy Road, Wan Chai, Hong Kong
