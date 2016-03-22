@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title: Monthly Meetup
+title: Pizza & Drinks with Luis
 date: "2016-03-23 19:00:00"
 permalink: "/2016-03-pizza-with-luis/"
 host: Bitcoin Association of Hong Kong
