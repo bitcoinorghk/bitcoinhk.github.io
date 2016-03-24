@@ -11,7 +11,7 @@ tags:
 - segwit
 - blockchain
 permalink: /bitcoin-lecture-series/episode-1-upgrading-bitcoin-segregated-witness
-image: /images/bahk-logo-big-1024x1024.png
+image: /images/bahk-logo-big-podcast.png
 podcast_link: /media/podcast/EP1_-_Upgrading_Bitcoin_-_Segregated_Witness-mono.m4a
 podcast_file_size: 55 MB
 podcast_duration: "1:40:20"
