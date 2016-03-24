@@ -13,6 +13,8 @@ published: true
 
 ### #11, March 16: Segregated Witnesses
 
+_[Audio, Video & Slides of this event are available as part of The Bitcoin Lecture Series](/bitcoin-lecture-series/episode-1-upgrading-bitcoin-segregated-witness)_
+
 Segregated Witnesses (Segwit) is one of the most heated topics in Bitcoin protocol development. It aims to fix the problem of "transaction malleability", a big headache for developers for a long time. It also brings a number of bonus features, and opens exciting opportunities for significantly scaling Bitcoin's transaction capacity. Without too much technical jargon, the speaker will introduce how Segwit works, what improvements it is expected to bring, and how it will be implemented.
 
 Date: **March 16, 2016 19:00 - 21:00**     

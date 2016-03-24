@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<header class="post-header">
+  <div class="c">
+    <h1>{{ page.title }}</h1>
+    <p class="lead">{% if page.episode_title %}{{ page.episode_title }}{% endif %}</p>
+  </div>
+</header>
+
+{% assign curDate = site.time | date: '%s' %}
+{% assign postStartDate = post.date | date: '%s' %}
+
+<div id="details">
+  <div class="c">
+    <p class="lead">{% if page.author %} By +{{ page.author }} on {% endif %} {{ page.date | date: '%-d %B, %Y' }}</p>
+  </div>
+</div>
+
+<!-- END COVER -->
+</div>
+</div>
+
+<section class="post">
+
+  <div class="c">
+
+  <article class="post-content">
+  {{ content }}
+  </article>
+  </div>
+
+</section>
