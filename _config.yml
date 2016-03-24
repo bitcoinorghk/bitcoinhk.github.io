@@ -8,6 +8,30 @@ url: "https://www.bitcoinhk.org"
 
 future: true
 
+
+
+
+
+# podcast stuff
+
+podcast_url: https://www.bitcoinhk.org/podcast/
+podcast_album_art: /images/bahk-logo-big-1024x1024.png
+podcast_title: The Bitcoin Lecture Series
+podcast_owner: The Bitcoin Association of Hong Kong
+podcast_email: info@bitcoinhk.org
+podcast_category: Technology
+podcast_subcategory_one:
+podcast_subcategory_two: 
+podcast_explicit: "no"
+podcast_author: The Bitcoin Association of Hong Kong
+podcast_description: The talks and panels at events held by the Bitcoin Association of Hong Kong
+podcast_summary: The Bitcoin Lecture Series is a series of podcasts and videos sharing the talks and panels at events held by the Bitcoin Association of Hong Kong with the global Bitcoin and blockchain communities.
+podcast_subtitle: Join us in learning more about Bitcoin and blockchain!
+
+
+
+
+
 # More settings
 accent: "#E74C3C"
 github: "bitcoinhk/bitcoinhk.github.io"
