@@ -1,7 +1,7 @@
 ---
 layout: meetup
 title: DBS - Blockchain Unchained
-date: "2016-04-16 19:00:00"
+date: "2016-04-13 19:00:00"
 permalink: "/2016-dbs-blockchain-unchained/"
 host: DBS
 address: The Vault, G/F, OTB building, 160 Gloucester Road, Wan Chai, Hong Kong
