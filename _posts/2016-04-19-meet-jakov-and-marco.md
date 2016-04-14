@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title: Meet Charles and Jeremy
+title: Meet Jakov and Marco
 date: "2016-04-19 19:00:00"
 permalink: "/2016-04-meet-jakov-and-marco/"
 host: Bitcoin Association of Hong Kong
