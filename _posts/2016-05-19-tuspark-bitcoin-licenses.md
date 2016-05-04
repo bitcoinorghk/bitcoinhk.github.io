@@ -2,7 +2,7 @@
 layout: meetup
 title: Tuspark Lecture Series - Licenses
 date: "2016-05-19 19:00:00"
-permalink: "/2016-tuspark-bitcoin-crowdfunding/"
+permalink: "/2016-tuspark-bitcoin-licenses/"
 host: Bitcoin Association of Hong Kong
 address: Tuspark Workhub, 23/F Island Beverly, 1 Great George Street, Causeway Bay, Hong Kong
 link: "https://tgnglobal.com/events/obtaining-licenses-money-lending-bitcoin-and-the-basic-law"
@@ -35,7 +35,7 @@ Get **25% off** by prepaying with Bitcoin. Click here:
 	<input type="hidden" name="item_name" value="Licenses">
 	<input type="hidden" name="allow_quantity" value="1">
 	<input type="hidden" name="want_shipping" value="0">
-	<input type="hidden" name="success_url" value="https://www.bitcoinhk/2016-tuspark-bitcoin-crowdfunding/">
+	<input type="hidden" name="success_url" value="https://www.bitcoinhk/2016-tuspark-bitcoin-licenses/">
 	<input type="image" src="https://www.coinpayments.net/images/pub/checkout-blue.png" alt="RSVP Now with Bitcoin">
 </form>
 
