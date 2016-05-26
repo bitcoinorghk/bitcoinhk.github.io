@@ -52,12 +52,17 @@ Luis:
 "As a technology company, we should be leading the market. Bitcoin is a payment system with optimistic prospect for the near future, as the fee is low and the payment can be made immediately."
 [cloudion.hk](http://cloudion.hk/)
 
+## HKBay
+
+Marc:
+"Three reasons: (1) no or very low cost, (2) easy to implement on website, (3) safer for merchants than PayPal et al"
+[HKBay](http://www.hkbay.com/store/index.php?language=en)
+
 ## Pay4Bugs
 
 Larry*:
 "It's not actually that great for us, given that it doesn't allow us to do recurring payments, but for high risk transactions it's perfect."
 [pay4bugs.com](https://www.pay4bugs.com/)
-
 
 ## Too Free To Fail
 
