@@ -49,6 +49,9 @@ Please note that Bitcoin exchanges are not to be treated as banks. We recommend 
 **[ANX](https://anxpro.com/)**
 Once you are signed up and verified, depositing your Hong Kong dollars with ANX is easy. You can hand it over in cash at their retail store in Sai Ying Pun or main office in Wan Chai and it will be credited quickly to your account, where you can exchange them to Bitcoin and withdraw to your wallet.
 
+**[BitFirst](https://www.bitfirst.com/)**
+Bitfirst is the youngest Hong Kong Bitcoin exchange. You can deposit cash or wire Hong Kong dollars into their local bank account after verification.
+
 **[Gatecoin](https://gatecoin.com/)**
 Gatecoin is a well established Bitcoin exchange operating in a global market from Hong Kong. You can send them local wire transfers from your Hong Kong Dollar bank account and have them credited to your account after verification.
 
