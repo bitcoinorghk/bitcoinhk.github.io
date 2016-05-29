@@ -46,6 +46,11 @@ Alessandro:
 "Bitcoin is a modern evolution of more traditional payment systems that simplify transactions in a secure fashion and lower costs for our business."
 [duemaesta.com](http://www.duemaesta.com/)
 
+## Abbelio Wines
+
+Mike: "The main reason we accept Bitcoin is to give customers more choice."
+[abbelio-wines.com.hk](https://www.abbelio-wines.com.hk/)
+
 ## Cloudion
 
 Luis:
