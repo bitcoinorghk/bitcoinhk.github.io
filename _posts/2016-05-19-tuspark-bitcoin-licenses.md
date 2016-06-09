@@ -13,6 +13,10 @@ published: true
 
 ### #13, May 19: Obtaining Licenses: Money Lending, Bitcoin and the Basic Law
 
+**Update**: You can find the [video of the event here](https://www.youtube.com/watch?v=cMVAMDYVDfs), and [download the slides here](/media/2016/05/licenses.pdf).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cMVAMDYVDfs" frameborder="0" allowfullscreen></iframe>
+
 Joseph Wang will talk about his experiences going to court against the Hong Kong Police in order to get a Money Lending license and to be able to use bitcoin for money lending settlement. He will talk about his surprisingly positive and pleasant experiences with the Hong Kong Police, bureaucracy, and judiciary, and the constitutional and legal arguments he used to win his case, and the relationship between the arguments he used and "one country, two systems". He will talk about how the Hong Kong government uses (or fails to use) technology, and how technology fundamentally changes the way that Hong Kong is governed. He will conclude with the broader constitutional implications of his arguments toward the use of bitcoin, Hong Kong's relationship with Beijing as we head toward 2047, and Hong Kong's role as an international financial center.    
 
 Date: **May 19, 2016 19:00 - 21:00**     
