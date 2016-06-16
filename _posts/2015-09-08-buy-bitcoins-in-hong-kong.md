@@ -30,7 +30,6 @@ Bitcoin ATMs are located at:
 **[President Commercial Centre](http://hkbitcoinatm.com/)**, Shop 322, 3/F, 608 Nathan Road, **Mong Kok**    
 **[Shing Lee Shopping Arcade](http://hkbitcoinatm.com/)**, Shop 19, 1/F, 6 Wing Kut Street, **Central**    
 **[Worldwide House](https://www.bitfx.com/)**, Shop 215, 2/F, 19 Des Voeux Road, **Central**    
-**[Worldwide House](http://www.hkbitcoinkiosk.com/)**, Shop 357. 3/F, 19 Des Voeux Road, **Central**    
 **[CNT Tower](https://anxintl.com/contact-us/)**, 18/F, 338 Hennessy Road, **Wan Chai**    
 **[Kowloonbay International Trade & Exhibition Centre](http://www.bitcoinatm.com.hk/)**, Room 1182, 1 Trademark Drive, **Kowloon Bay**    
 
@@ -47,7 +46,7 @@ Buying Bitcoins on exchanges is usually the cheapest option in terms of fees and
 Please note that Bitcoin exchanges are not to be treated as banks. We recommend you to withdraw your coins quickly after your purchase to a wallet you control, and never keep any funds on an exchange for a longer time.
 
 **[ANX](https://anxpro.com/)**
-Once you are signed up and verified, depositing your Hong Kong dollars with ANX is easy. You can hand it over in cash at their retail store in Sai Ying Pun or main office in Wan Chai and it will be credited quickly to your account, where you can exchange them to Bitcoin and withdraw to your wallet.
+Once you are signed up and verified, depositing your Hong Kong dollars with ANX is easy. You can hand it over in cash at their main office in Wan Chai and it will be credited quickly to your account, where you can exchange them to Bitcoin and withdraw to your wallet.
 
 **[BitFirst](https://www.bitfirst.com/)**
 Bitfirst is the youngest Hong Kong Bitcoin exchange. You can deposit cash or wire Hong Kong dollars into their local bank account after verification.
