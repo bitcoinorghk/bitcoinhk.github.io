@@ -4,7 +4,7 @@ title: Chat with Morgan McKenney - Citi Head of Core Cash Management, APAC
 date: "2016-06-16 19:30:00"
 permalink: "/2016-06-morgan-mckenney/"
 host: Bitcoin Association of Hong Kong
-address: TBD, Hong Kong
+address: Metta, 21/F California Tower, D'Aguilar Street, Central, Hong Kong
 link: "http://www.meetup.com/Bitcoin-HK/events/231708881/"
 background: "url(/media/2016/06/citi.jpg) #FF0000"
 published: true
