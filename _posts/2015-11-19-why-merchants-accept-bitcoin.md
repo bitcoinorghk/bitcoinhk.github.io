@@ -51,6 +51,11 @@ Alessandro:
 Mike: "The main reason we accept Bitcoin is to give customers more choice."
 [abbelio-wines.com.hk](https://www.abbelio-wines.com.hk/)
 
+## Flavours from Apulia
+
+Antonio: "We wanted to contribute to spreading the use of the virtual currency in different fields of the wholesale and retail market, such as wine selling."
+[flavoursapulia.com.hk](https://www.flavoursapulia.com.hk/estore/home)
+
 ## Cloudion
 
 Luis:
