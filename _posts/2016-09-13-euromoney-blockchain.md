@@ -12,7 +12,7 @@ published: true
 
 ## Capital Markets Blockchains Conference 2016
 
-Euromoney’s Capital Markets Blockchain Conference will take place on 13 & 14 September at the Marco Polo Hongkong Hotel. It is a FinTech conference on Blockchain centered around its application to the capital markets.
+Euromoney’s Capital Markets Blockchain Conference will take place on 13 September at the Marco Polo Hongkong Hotel. It is a FinTech conference on Blockchain centered around its application to the capital markets.
 
 We will bring startups and entrepreneurs, financial institutions, regulators, investors and more to discuss the practicality and implementation of blockchain into the capital markets.
 
