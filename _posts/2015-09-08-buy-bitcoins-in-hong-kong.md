@@ -35,6 +35,10 @@ Bitcoin ATMs are located at:
 
 You may also browse [coinatmradar.com](http://coinatmradar.com/) for more or less up to date information on the location of Bitcoin ATMs.
 
+### By Wire Transfer
+
+The most convenient way to buy Bitcoins through Wire transfer is [Xapo](https://xapo.com/). You will be required to confirm your identity by uploading documents, such as ID scans and address proof. You will then be able to purchase Bitcoin through their portal and pay through a wire transfer to a Hong Kong bank account. This costs around 2% in fees. Xapo uses market rates at the level of major US exchanges.
+
 ### By Octopus Card
 
 With the help of Hong Kong ecommerce shop [Too Free To Fail](https://toofreetofail.com/) you can exchange your old Octopus card to Bitcoin, though maximally 500 HKD per card.
