@@ -40,9 +40,9 @@ We very much welcome individuals in Hong Kong to join us as full members. [You c
 <div data-passname="liongrass" data-style="embedded" data-height="fixed"></div>
 </div>
 
-<div class="col-33 sang" style="text-align: center;">
+<div class="col-33 dominique" style="text-align: center;">
 <b>Director</b>
-<div data-passname="sangyeon89" data-style="embedded" data-height="fixed"></div>
+<div data-passname="francesd" data-style="embedded" data-height="fixed"></div>
 </div>
 </div>
 
