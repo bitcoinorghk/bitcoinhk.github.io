@@ -29,7 +29,7 @@ The most convenient way to buy Bitcoins is an ATM. Usually you only need to show
 Bitcoin ATMs are located at:    
 **[President Commercial Centre](http://hkbitcoinatm.com/)**, Shop 322, 3/F, 608 Nathan Road, **Mong Kok**    
 **[Shing Lee Shopping Arcade](http://hkbitcoinatm.com/)**, Shop 19, 1/F, 6 Wing Kut Street, **Central**    
-**[Worldwide House](https://www.bitfx.com/)**, Shop 215, 2/F, 19 Des Voeux Road, **Central**    
+**[Science Park, Enterprise Place](https://coinatmradar.com/bitcoin_atm/1241/bitcoin-atm-genesis-coin-hong-kong-kong-science-park-and-creative-and-technology-limited/)**, By Formosa Tea Shop, G/F, Enterprise Place, 5, Science Park West Avenue, Hong Kong Science Park, **Sha Tin**    
 **[CNT Tower](https://anxintl.com/contact-us/)**, 18/F, 338 Hennessy Road, **Wan Chai**    
 **[Kowloonbay International Trade & Exhibition Centre](http://www.bitcoinatm.com.hk/)**, Room 1182, 1 Trademark Drive, **Kowloon Bay**    
 
