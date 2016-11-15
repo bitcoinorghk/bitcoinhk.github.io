@@ -1,7 +1,7 @@
 ---
 layout: meetup
 title: Asia FinTech Business
-date: "2016-01-14 09:00:00"
+date: "2017-01-14 09:00:00"
 permalink: "/2016-12-asia-fintech-business/"
 host: Beacon Events
 address: Harbour Grand Hong Kong, 1 Oil Street, North Point, Hong Kong
