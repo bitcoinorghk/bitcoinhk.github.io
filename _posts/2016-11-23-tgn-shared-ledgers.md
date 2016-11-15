@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title: TGN Bitcoin Lecture Series 16 - Cryptocurrencies and Monetary Supply
+title: TGN Bitcoin Lecture Series 16 - Shared Ledgers and the Age of the Consortia
 date: "2016-11-23 19:00:00"
 permalink: "/2016-tgn-shared-ledger/"
 host: Bitcoin Association of Hong Kong
