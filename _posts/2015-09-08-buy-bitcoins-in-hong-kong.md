@@ -33,7 +33,7 @@ Bitcoin ATMs are located at:
 **[CNT Tower](https://anxintl.com/contact-us/)**, 18/F, 338 Hennessy Road, **Wan Chai**    
 **[Kowloonbay International Trade & Exhibition Centre](http://www.bitcoinatm.com.hk/)**, Room 1182, 1 Trademark Drive, **Kowloon Bay**    
 
-You may also browse [coinatmradar.com](http://coinatmradar.com/) for more or less up to date information on the location of Bitcoin ATMs.
+You may also browse [coinatmradar.com](http://coinatmradar.com/) for more or less up to date information on the location, uptime and rates of Bitcoin ATMs.
 
 ### By Wire Transfer
 
