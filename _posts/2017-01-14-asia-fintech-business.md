@@ -17,7 +17,7 @@ published: true
 
 Beacon Events, in Partnership with Inspira, are collaborating together to bring you Asia FinTech Business - providing exclusive news on the most effective, inspiring, and innovative ideas in the Fintech industry. We will be encouraging intimate networking sessions with top executives from leading companies to give participants the maximum amount of valuable new ideas and contacts in a short amount of time. Don't miss this opportunity to really connect with the thought leaders of today.
 
-[![Asia Fintech Business Overview](/media/2016/12/fintech2.png)](http://asiafintechbusiness.com/)
+[![Asia Fintech Business Overview](/media/2016/12/fintechs.png)](http://asiafintechbusiness.com/)
 {:.text-center}
 
 
