@@ -20,9 +20,9 @@ Prebook now: **50 HKD per person**
 
 Cash at door: 300 HKD per person
 
-Full members of the Bitcoin Association of Hong Kong: **FREE.** Please RSVP to leo@bitcoinhk.org.
+Full members of the Bitcoin Association of Hong Kong: **FREE.** Please RSVP to [leo@bitcoinhk.org](mailto:leo@bitcoinhk.org).
 
-To reserve your spot, pay for your ticket here (Bitcoin and Ethereum accepted only).  
+To reserve your spot, pay for your ticket **through Coinpayments below** (Bitcoin and Ethereum accepted only).  
 
 <form action="https://www.coinpayments.net/index.php" method="post">
 	<input type="hidden" name="cmd" value="_pay_simple">
@@ -37,6 +37,9 @@ To reserve your spot, pay for your ticket here (Bitcoin and Ethereum accepted on
 	<input type="hidden" name="cancel_url" value="https://www.meetup.com/Bitcoin-HK/events/235726166/">
 	<input type="image" src="https://www.coinpayments.net/images/pub/CP-main-large.png" alt="Buy Now with CoinPayments.net">
 </form>
-
-[![BitMEX](https://www.bitmex.com/img/bitmex-logo-alt.png)](https://www.bitmex.com/)
 {:.text-center}
+
+[![BitMEX](/media/2016/12/bitmex.png)](https://www.bitmex.com/)
+{:.text-center}
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.9237789316953!2d114.15332931549574!3d22.28087694922889!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404007b2c091555%3A0x75f0632d0a46cfa9!2zTWV0dMSB!5e0!3m2!1sen!2s!4v1479912167176" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
