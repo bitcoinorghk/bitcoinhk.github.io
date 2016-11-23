@@ -12,18 +12,17 @@ published: true
 
 ## Blockchain Holiday Party
 
-We are looking forward to welcoming you to our Bitcoin Holiday Party at Metta.
+We are looking forward to welcoming you to our Bitcoin Holiday Party at Metta, sponsored by [BitMEX](https://www.bitmex.com/). 
 
-We have arranged for snacks and three hours of free flow of wine and beer to celebrate yet another successful year of Bitcoin history.
+We have arranged for snacks and three hours of free flow of wine and beer to celebrate yet another successful year of Bitcoin history. Thanks to a generous sponsorship from BitMEX, we are able to offer you this event at the low cost of 50 HKD.
 
-Prebook now: **280 HKD per person**
+Prebook now: **50 HKD per person**
 
-Cash at door: 350 HKD per person
+Cash at door: 300 HKD per person
 
-Full members of the Bitcoin Association of Hong Kong: 100 HKD if prebooked online.
+Full members of the Bitcoin Association of Hong Kong: **FREE.** Please RSVP to leo@bitcoinhk.org.
 
 To reserve your spot, pay for your ticket here (Bitcoin and Ethereum accepted only).  
-Alternatively, you may pay in cash at the door.
 
 <form action="https://www.coinpayments.net/index.php" method="post">
 	<input type="hidden" name="cmd" value="_pay_simple">
@@ -32,9 +31,12 @@ Alternatively, you may pay in cash at the door.
 	<input type="hidden" name="item_name" value="Bitcoin Holiday Party">
 	<input type="hidden" name="item_desc" value="Ticket for BAHK&#039;s Holiday Party">
 	<input type="hidden" name="currency" value="HKD">
-	<input type="hidden" name="amountf" value="280.00000000">
+	<input type="hidden" name="amountf" value="50.00000000">
 	<input type="hidden" name="want_shipping" value="0">
 	<input type="hidden" name="success_url" value="https://www.meetup.com/Bitcoin-HK/events/235726166/">
 	<input type="hidden" name="cancel_url" value="https://www.meetup.com/Bitcoin-HK/events/235726166/">
 	<input type="image" src="https://www.coinpayments.net/images/pub/CP-main-large.png" alt="Buy Now with CoinPayments.net">
 </form>
+
+[![BitMEX](https://www.bitmex.com/img/bitmex-logo-alt.png)](https://www.bitmex.com/)
+{:.text-center}
