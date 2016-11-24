@@ -22,7 +22,7 @@ Cash at door: 300 HKD per person
 
 Full members of the Bitcoin Association of Hong Kong: **FREE.** Please RSVP to [leo@bitcoinhk.org](mailto:leo@bitcoinhk.org).
 
-To reserve your spot, pay for your ticket **through Coinpayments below** (Bitcoin and Ethereum accepted only).  
+To reserve your spot, pay for your ticket **through Coinpayments below** (plenty of cryptocurrencies accepted, including **Bitcoin**, **Ethereum**, Dash and Monero).  
 
 <form action="https://www.coinpayments.net/index.php" method="post">
 	<input type="hidden" name="cmd" value="_pay_simple">
