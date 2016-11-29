@@ -4,7 +4,7 @@ title: Monthly Central Meetup
 date: "2016-11-29 19:00:00"
 permalink: "/2016-12-monthly-central-meetup/"
 host: Bitcoin Association of Hong Kong
-address: Grappa's Cellar, Jardine House, 1 Connaught Road, Central, Hong Kong
+address: IQ Bar, G/F, Winner Building , 27-37 D'Aguilar Street, Lan Kwai Fong, Central
 link: "https://www.meetup.com/Bitcoin-HK/events/234751770/"
 background: "url(/media/2014/12/beer.jpg) #FF0000"
 published: true
