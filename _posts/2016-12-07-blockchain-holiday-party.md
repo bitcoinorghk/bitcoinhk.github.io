@@ -24,7 +24,8 @@ Full members of the Bitcoin Association of Hong Kong: **FREE.** Please RSVP to [
 
 To reserve your spot, pay for your ticket **through Coinpayments below** (plenty of cryptocurrencies accepted, including **Bitcoin**, **Ethereum**, Dash and Monero).  
 
-<form action="https://www.coinpayments.net/index.php" method="post">
+*edit: Dec 7, 5pm: We have closed this online payments portal. We will still accept Bitcoin at the door. See you there!*
+<!-- <form action="https://www.coinpayments.net/index.php" method="post">
 	<input type="hidden" name="cmd" value="_pay_simple">
 	<input type="hidden" name="reset" value="1">
 	<input type="hidden" name="merchant" value="84ffa7d089e5eefdc9ff75f09f948f80">
@@ -37,7 +38,7 @@ To reserve your spot, pay for your ticket **through Coinpayments below** (plenty
 	<input type="hidden" name="cancel_url" value="https://www.meetup.com/Bitcoin-HK/events/235726166/">
 	<input type="image" src="https://www.coinpayments.net/images/pub/CP-main-large.png" alt="Buy Now with CoinPayments.net">
 </form>
-{:.text-center}
+{:.text-center}-->
 
 [![BitMEX](/media/2016/12/bitmex.png)](https://www.bitmex.com/)
 {:.text-center}
