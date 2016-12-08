@@ -12,6 +12,10 @@ published: true
 
 ### Bitcoin Unlimited: Presentations and Discussion
 
+update:
+The video has been uploaded here:
+<iframe width="100%" height="630" src="https://www.youtube.com/embed/nAqos76JONw" frameborder="0" allowfullscreen></iframe>
+
 Date: **November 28, 2016 19:00 - 21:00**     
 Location: Tuspark Workhub, 4/F Yes & Right House, **1 Mody Road, Tsim Sha Tsui**, Hong Kong     
 (Near **Exit N5, Tsim Sha Tsui Station**)     
