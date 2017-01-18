@@ -7,7 +7,7 @@ host: Beacon Events
 address: Harbour Grand Hong Kong, 1 Oil Street, North Point, Hong Kong
 link: "http://asiafintechbusiness.com/register/"
 background: "url(/media/2016/12/stock.jpg) #FF0000"
-published: true
+published: false
 ---
 
 ## Asia FinTech Business
