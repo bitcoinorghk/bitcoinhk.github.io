@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title: TGN Bitcoin Lecture Series 17 - The Lightning and Raiden Networks
+title: TGN Bitcoin Lecture Series 18 - The Lightning and Raiden Networks
 date: "2017-01-17 19:00:00"
 permalink: "/2017-tgn-lightning-raiden/"
 host: Bitcoin Association of Hong Kong
@@ -10,7 +10,7 @@ background: "url(/media/2015/05/tuspark.jpg) #FF0000"
 published: true
 ---
 
-### #17, January 17: The Lightning and Raiden Networks
+### #18, January 17: The Lightning and Raiden Networks
 
 Date: **January 17, 2016 19:00 - 21:00**     
 Location: Tuspark Workhub, 23/F Island Beverly, **1 Great George Street, Causeway Bay**, Hong Kong     
