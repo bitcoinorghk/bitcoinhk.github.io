@@ -12,6 +12,8 @@ published: true
 
 ## Game Theory and Network Attacks: How to Destroy Bitcoin
 
+[Update: You can find the slides here.](/media/2017/05/How_to_Destroy_Bitcoin.pdf)
+
 Date: **May 15, 2017 19:00 - 21:00**     
 Location: Metta, 21/F California Tower, **30-32 D'Aguilar Street, Central**, Hong Kong     
 
