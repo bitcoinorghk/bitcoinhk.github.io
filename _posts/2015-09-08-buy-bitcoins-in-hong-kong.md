@@ -9,7 +9,7 @@ background: "url(/media/2015/09/b.JPG) #FF0000"
 
 ---
 
-last updated: 2017-03-11
+last updated: 2017-06-26
 
 ## Buying Bitcoins in Hong Kong
 
@@ -33,7 +33,6 @@ Bitcoin ATMs are located at:
 **[President Commercial Centre](http://hkbitcoinatm.com/)**, Shop 322, 3/F, 608 Nathan Road, **Mong Kok**    
 **[Shing Lee Shopping Arcade](http://hkbitcoinatm.com/)**, Shop 19, 1/F, 6 Wing Kut Street, **Central**    
 **[T.Mark](http://hkbitcoinatm.com/)**, Shop 329, 3/F, 18 Tai Ho Road, **Tsuen Wan**    
-**[Science Park, Enterprise Place](https://coinatmradar.com/bitcoin_atm/1241/bitcoin-atm-genesis-coin-hong-kong-kong-science-park-and-creative-and-technology-limited/)**, by Formosa Tea Shop, G/F, Enterprise Place, 5 Science Park West Avenue, Hong Kong Science Park, **Sha Tin**    
 **[CNT Tower](https://anxintl.com/contact-us/)**, 18/F, 338 Hennessy Road, **Wan Chai**    
 **[Kowloonbay International Trade & Exhibition Centre](http://www.bitcoinatm.com.hk/)**, Room 1182, 1 Trademark Drive, **Kowloon Bay**    
 
@@ -41,7 +40,7 @@ You may also browse [coinatmradar.com](http://coinatmradar.com/) for more or les
 
 ### By Wire Transfer
 
-The most convenient way to buy Bitcoins through Wire transfer is [Xapo](https://xapo.com/). You will be required to confirm your identity by uploading documents, such as ID scans and address proof. You will then be able to purchase Bitcoin through their portal and pay through a wire transfer to a Hong Kong bank account. This costs around 2% in fees. Xapo uses market rates at the level of major US exchanges.
+A convenient way to buy Bitcoins through Wire transfer is [Xapo](https://xapo.com/). You will be required to confirm your identity by uploading documents, such as ID scans and address proof. You will then be able to purchase Bitcoin through their portal and pay through a wire transfer to a Hong Kong bank account. This costs around 2% in fees. Xapo uses market rates at the level of major US exchanges.
 
 ### Bitcoin Exchanges
 
@@ -55,14 +54,21 @@ There are currently four exchanges with local Hong Kong bank accounts. Some of t
 **[ANX](https://anxpro.com/)**
 Once you are signed up and verified, depositing your Hong Kong dollars with ANX is easy. You can hand it over in cash at their main office in Wan Chai and it will be credited quickly to your account, where you can exchange them to Bitcoin and withdraw to your wallet.
 
-**[BitFirst](https://www.bitfirst.com/)**
-Bitfirst is the youngest Hong Kong Bitcoin exchange. You can deposit cash or wire Hong Kong dollars into their local bank account after verification.
-
 **[Gatecoin](https://gatecoin.com/)**
 Gatecoin is a well established Bitcoin exchange operating in a global market from Hong Kong. You can send them local wire transfers from your Hong Kong Dollar bank account and have them credited to your account after verification.
 
 **[Bitcashout](https://www.bitcashout.com/)**
 Bitcashout is a small and reliable Bitcoin exchange based in Hong Kong. You can deposit via wire transfer.
+
+#### OTC Exchanges
+
+For larger amounts, you can go to an OTC Exchange, or broker. A broker will give you a quick quote for a single trade, usually upwards of 50 BTC. You will be able to sell or buy Bitcoins against a wire transfer.
+
+**[Gatecoin](https://gatecoin.com/)**
+Same as the above mentioned exchange.
+
+**[Octagon Financial](https://www.octfinancial.com/)**
+Affiliated with ANX as mentioned above.
 
 #### Overseas Exchanges
 
