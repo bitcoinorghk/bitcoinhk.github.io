@@ -24,11 +24,11 @@ While Bitcoin in general is **not yet regulated** other existing regulations mig
 
 Bitcoin did not get onto the radar of the Hong Kong regulators until late 2013. Until then there was little Bitcoin activity in Hong Kong. Bitfinex was likely the first exchange to open bank accounts in Hong Kong and offering exchange and trading services largely to international customers in 2012.
 
-ANX and Bitcashout followed in 2013, and Bitcoin prices continued to rally througout November 2011, reaching a high of US$1153.27 on European exchange Bitstamp on December 4, 2013.
+ANX and Bitcashout followed in 2013, and Bitcoin prices continued to rally througout November 2013, reaching a high of US$1153.27 on European exchange Bitstamp on December 4, 2013.
 
 The then Financial Secretary John Tsang 曾俊華 mentioned Bitcoin for the first time in a [blog post](http://www.fso.gov.hk/chi/blog/blog011213.htm) on December 1, 2013 ([referenced here](http://www.scmp.com/business/banking-finance/article/1396917/virtual-currency-entrepreneurs-fight-future-bitcoin-hong)). In this article Tsang gives a good summary of how Bitcoin works and warns about its volatile nature and the lack of support from a state or issuer. He warns of a bubble bursting and sees many opportunities for software developers.
 
-On December 4, 2014 the issue was [picked up by by Hong Kong's parliament](http://library.legco.gov.hk:1080/record=b1162178), the Legislative Council.
+On December 4, 2014 the issue was [picked up by Hong Kong's parliament](http://library.legco.gov.hk:1080/record=b1162178), the Legislative Council.
 
 Legislator Christopher Cheung 張華峰, representing the financial services asks: "Will the Government state its position on the Bitcoin clearly and openly, so that the industry can have something to go by?"
 
@@ -60,7 +60,7 @@ The only guidance available is [a document from the Customs and Excise Departmen
 
 While not carrying legal status, the Joint Financial Intelligence Unit (JFIU) [references a 2014 report by the Paris-based Financial Action Task Force (FATF) on cryptocurrencies](http://www.jfiu.gov.hk/info/doc/Virtual-currency-key-definitions-and-potential-aml-cft-risks.pdf). The document may be interesting as a reference point.
 
-In March 2015 the Secretary for Financial Services & the Treasury, Prof KC Chan 陳家強 [reiterated the government's stance](https://www.news.gov.hk/en/categories/finance/html/2015/03/20150325_150920.shtml) that Bitcoin regulation is "not neeeded".
+In March 2015 the Secretary for Financial Services & the Treasury, Prof KC Chan 陳家強 [reiterated the government's stance](https://www.news.gov.hk/en/categories/finance/html/2015/03/20150325_150920.shtml) that Bitcoin regulation is "not needed".
 
 ### Taxation
 
@@ -134,6 +134,6 @@ I expect it to take a long time until the Hong Kong government reclassifies Bitc
 
 #### Notes
 
-This post was written by Leonhard Weese, and for obvious reasons does not constitute legal advise. For corrections, suggestions and consulting inquiries contact the author via [@LeoAW](https://twitter.com/leoaw) or leo (at) bitcoinhk (dot) hk
+This post was written by Leonhard Weese, and for obvious reasons does not constitute legal advise. For corrections, suggestions and inquiries contact the author via [@LeoAW](https://twitter.com/leoaw) or leo (at) bitcoinhk (dot) hk
 
 
