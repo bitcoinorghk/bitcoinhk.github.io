@@ -1,11 +1,13 @@
 ---
 layout: blog
 title: Start Accepting Bitcoin Now
-date: "2015-06-06 20:00:00"
-permalink: /2015-accept-bitcoin-now/
+date: "2017-08-31 20:00:00"
+permalink: /accept-bitcoin-now/
 author: liongrass
 published: true
 background: "url(/media/2015/06/bitcoin.jpg) #FF0000"
+redirect_from:
+  - /2015-accept-bitcoin-now/
 
 ---
 
