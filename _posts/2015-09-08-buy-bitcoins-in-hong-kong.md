@@ -34,7 +34,8 @@ Bitcoin ATMs are located at:
 **[Shing Lee Shopping Arcade](http://hkbitcoinatm.com/)**, Shop 19, 1/F, 6 Wing Kut Street, **Central**    
 **[T.Mark](http://hkbitcoinatm.com/)**, Shop 329, 3/F, 18 Tai Ho Road, **Tsuen Wan**    
 **[CNT Tower](https://anxintl.com/contact-us/)**, 18/F, 338 Hennessy Road, **Wan Chai**    
-**[Kowloonbay International Trade & Exhibition Centre](http://www.bitcoinatm.com.hk/)**, Room 1182, 1 Trademark Drive, **Kowloon Bay**    
+**[CHIC by The Oyster House](http://www.bitcoinatm.com.hk/)**, 2/F, The Cameron, 33 Cameron Road, **Tsim Sha Tsui**    
+**[NDNX CoWork Tech Hub](http://www.bitcoinatm.com.hk/)**, 27/F, 35 Hung To Road, **Kwun Tong**    
 
 You may also browse [coinatmradar.com](http://coinatmradar.com/) for more or less up to date information on the location, uptime and rates of Bitcoin ATMs.
 
