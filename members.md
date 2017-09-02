@@ -21,7 +21,9 @@ The Bitcoin Association Hong Kong stems from a group of people who started to di
 
 [Join our Telegram Channel @BitcoinHK for announcements, events and opportunities!](https://telegram.me/bitcoinhk)
 
- <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/bitcoinhk" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/bitcoinhk', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address to receive regular updates, events, news and articles on Bitcoin in and around Hong Kong.</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /></form>
+[Subscribe to our Calendar, which lists both our events and all other Bitcoin/Ethereum/Blockchain events around Hong Kong.](https://calendar.google.com/calendar/embed?src=ci5scbiblqooe1iuhunkkdrhek%40group.calendar.google.com&ctz=Asia/Hong_Kong) [Click here for the ICAl/ICS file](https://calendar.google.com/calendar/ical/ci5scbiblqooe1iuhunkkdrhek%40group.calendar.google.com/public/basic.ics)
+
+ <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/bitcoinhk" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/bitcoinhk', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Subscribe to our newsletter to receive regular updates, events, news and articles on Bitcoin in and around Hong Kong.</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /></form>
 
 ## Become a Member
 
