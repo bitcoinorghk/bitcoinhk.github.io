@@ -1,11 +1,11 @@
 ---
 layout: meetup
 title: Monthly Kowloon Meetup
-date: "2017-09-19 19:00:00"
-permalink: "/2017-09-monthly-kowloon-meetup/"
+date: "2017-10-17 19:00:00"
+permalink: "/2017-10-monthly-kowloon-meetup/"
 host: Bitcoin Association of Hong Kong
 address: The Crescent Moon, 2 Hop Kwan Street, Kowloon, Hong Kong
-link: "https://www.meetup.com/Bitcoin-HK/events/241878810/"
+link: "https://www.meetup.com/Bitcoin-HK/events/242473780/"
 background: "url(/media/2014/12/beer.jpg) #FF0000"
 published: true
 ---
