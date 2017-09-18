@@ -27,7 +27,7 @@ Speaker: Leo Weese
 
 This is a paid workshop. Feel free to bring your smartphone or laptop if you would like to try out the software on the spot. Bring a USB stick (>4GB, any brand but Sandisk) to get a free copy of the [operating system TAILS](https://tails.boum.org/).
 
-Fee: HK$150. Please pay and RSVP through our partner or pay by Bitcoin here to enjoy a 20% discount.
+Fee: HK$150. Please [pay and RSVP through our partner Garage Society](https://www.eventbrite.hk/e/bitcoin-security-workshop-tickets-37993773399) or pay by Bitcoin here to enjoy a 20% discount.
 
 同一主題的講座，也將於十月二十六日下午七時以廣東話多辦一場，如果你想聽廣東話，請參加十月二十六日那一場，詳情將會另行通知。 
 
