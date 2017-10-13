@@ -5,7 +5,7 @@ date: "2017-10-03 19:00:00"
 permalink: "/2017-gs-bitcoin-security-en/"
 host: Bitcoin Association of Hong Kong
 address: Garage Society QRC, 19/F, 199 Queen's Road Central, Sheung Wan, Hong Kong
-link: "https://www.meetup.com/Bitcoin-HK/events/243354836/"
+link: "https://www.eventbrite.hk/e/bitcoin-security-workshop-tickets-37993773399"
 background: "url(/media/2017/05/garage.jpg) #FF0000"
 published: true
 ---
