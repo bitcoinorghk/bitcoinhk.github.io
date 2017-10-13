@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Buy Bitcoins in Hong Kong
-date: "2017-08-31 02:00:00"
+date: "2017-10-14 02:00:00"
 permalink: /buy-bitcoins-in-hong-kong/
 author: liongrass
 published: true
@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-last updated: 2017-08-31
+last updated: 2017-10-14 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md)
 
 ## Buying Bitcoins in Hong Kong
 
@@ -22,10 +22,10 @@ Unfortunately Bitcoin still does not have the legal status in Hong Kong that it 
 
 ### In Person
 
-Buying bitcoins in person has become less and less popular in Hong Kong in the past years, and few traders are still willing to meet you in a coffee shop or library to sell you Bitcoins. The website [localbitcoins.com](https://localbitcoins.com/buy-bitcoins-online/hkd/ 18 listings) as well as the Android app [Mycelium](https://mycelium.com/lt/help.html) can be used to find people in Hong Kong to meet up with.
+As banks are more aggressively acting against Bitcoin companies, trading bitcoins in person has become more popular again in Hong Kong recently. The website [localbitcoins.com](https://localbitcoins.com/buy-bitcoins-online/hkd/ 18 listings) as well as the Android app [Mycelium](https://mycelium.com/lt/help.html) can be used to find people in Hong Kong to meet up with.
 If you just need a few dollars worth to 'try it out' or 'play with' or need help setting up or operating your wallet, you will likely find somebody to trade at the regular [Bitcoin meetups](http://www.meetup.com/Bitcoin-HK/).
 
-Historic fact: On Sunday, November 24, 2013 over 100 people met at the public area of Hysan Mall in Causeway Bay to trade and chat at an event "Satoshi Square". These events exist to highlight the peer-to-peer nature of Bitcoin and are still occasionally held at the Bitcoin meetup.
+Some OTC exchanges (see below) also deal with cash deposits and withdrawals. Clarify with your exchange or traders beforehand what currencies, notes and payment forms they accept.
 
 ### Bitcoin ATMs
 
@@ -33,17 +33,16 @@ The most convenient way to buy Bitcoins is an ATM. Usually you only need to show
 
 Bitcoin ATMs are located at:    
 **[President Commercial Centre](http://hkbitcoinatm.com/)**, Shop 322, 3/F, 608 Nathan Road, **Mong Kok**    
+**[S Tattoo Studio](https://www.instagram.com/s.tattoostudio/)**, 1/F, Reclamation Street 470F,  **Mong Kok**   
 **[Shing Lee Shopping Arcade](http://hkbitcoinatm.com/)**, Shop 19, 1/F, 6 Wing Kut Street, **Central**    
 **[T.Mark](http://hkbitcoinatm.com/)**, Shop 329, 3/F, 18 Tai Ho Road, **Tsuen Wan**    
 **[CNT Tower](https://anxintl.com/contact-us/)**, 18/F, 338 Hennessy Road, **Wan Chai**    
+**[Genesis Block](https://www.genesisblockhk.com/)**, U/G, 273 Hennessy Road, **Wan Chai**   
 **[CHIC by The Oyster House](http://www.bitcoinatm.com.hk/)**, 2/F, The Cameron, 33 Cameron Road, **Tsim Sha Tsui**    
 **[NDNX CoWork Tech Hub](http://www.bitcoinatm.com.hk/)**, 27/F, 35 Hung To Road, **Kwun Tong**    
 
+
 You may also browse [coinatmradar.com](http://coinatmradar.com/) for more or less up to date information on the location, uptime and rates of Bitcoin ATMs.
-
-### By Wire Transfer
-
-A convenient way to buy Bitcoins through Wire transfer is [Xapo](https://xapo.com/). You will be required to confirm your identity by uploading documents, such as ID scans and address proof. You will then be able to purchase Bitcoin through their portal and pay through a wire transfer to a Hong Kong bank account. This costs around 2% in fees. Xapo uses market rates at the level of major US exchanges.
 
 ### Bitcoin Exchanges
 
@@ -63,6 +62,9 @@ Gatecoin is a well established Bitcoin exchange operating in a global market fro
 **[Bitcashout](https://www.bitcashout.com/)**
 Bitcashout is a small and reliable Bitcoin exchange based in Hong Kong. You can deposit via wire transfer.
 
+**[Tidebit](https://www.tidebit.com/)**
+Tidebit is the newest of Hong Kong Bitcoin exchanges. You can deposit cash for free or via wire transfer for a 2% fee.
+
 #### OTC Exchanges
 
 For larger amounts, you can go to an OTC Exchange, or broker. A broker will give you a quick quote for a single trade, usually upwards of 50 BTC. You will be able to sell or buy Bitcoins against a wire transfer.
@@ -72,6 +74,9 @@ Same as the above mentioned exchange.
 
 **[Octagon Financial](https://www.octfinancial.com/)**
 Affiliated with ANX as mentioned above.
+
+**[Genesis Block](https://www.genesisblockhk.com/)**
+Opened in September 2017 in Wan Chai, the Genesis Block functions as an OTC trading hub as well as a co-working and event space.
 
 #### Overseas Exchanges
 
@@ -90,16 +95,16 @@ Decentralized Exchanges don't have their own bank accounts. Instead, buyers and 
 **[Localbitcoins](https://localbitcoins.com/country/HK)**
 Localbitcoins is a decentralized exchange managed from Finland.
 
-**[Bitsquare](https://bitsquare.io/)**
-Bitsquare is not a company, and is not run by anybody. Instead it acts as a network of users, which you can join by downloading the Bitsquare software. This software might be experimental at times, but shows promise in leading the way to a truly decentralized future.
+**[Bisq](https://bisq.network/)**
+Bisq (formerly Bitsquare) is not a company, and is not run by anybody. Instead it acts as a network of users, which you can join by downloading the Bitsquare software. This software might be experimental at times, but shows promise in leading the way to a truly decentralized future.
 
 ### Earn Bitcoins
 
 The by far cheapest way to get Bitcoins is to accept them as payment. No matter if you run a business, are employed, do freelance work or your friends owe you money, it may be a good idea to ask for these payments to be made in Bitcoin. Especially online and in international transfers the instantaneous and near-free Bitcoin transactions are far superior to other means.
-You can also consider listing your hostel or room on [9flats](https://www.9flats.com/) instead of Airbnb and receive your payments in Bitcoin.
-Many reward systems like [pointshound](https://www.pointshound.com/) or [HotelGo24](https://www.hotelgo24.com/) allow you to cash out your rewards directly in Bitcoin. So you pay as much for your travel bookings as you would elsewhere, but you get a tiny reward in Bitcoin as a kickback.
+
+If you have a business, you can consider accepting Bitcoin as a form of payment. [Learn all about it here.](https://www.bitcoinhk.org/accept-bitcoin-now/)
 
 
-Feel free to comment below about your experiences, thoughts and additions.
+Feel free to comment about your experiences, thoughts and additions.
 
 
