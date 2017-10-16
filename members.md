@@ -32,9 +32,9 @@ We very much welcome individuals in Hong Kong to join us as full members. [You c
 ## Leadership
 
 <div class="leaders">
-<div class="col-33 larry" style="text-align: center;">
+<div class="col-33 chechung" style="text-align: center;">
 <b>Director</b>
-<div data-passname="larry" data-style="embedded" data-height="fixed"></div>
+<div data-passname="chechung" data-style="embedded" data-height="fixed"></div>
 </div>
 
 <div class="col-33 leo" style="text-align: center;">
