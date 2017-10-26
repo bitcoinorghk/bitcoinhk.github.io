@@ -51,7 +51,7 @@ Original chain is Bitcoin, B2X will not be allocated to each user
 [Bitspark](https://bitspark.io/)  
 Will decide in mutual agreement with each remittance partner based on liquidity and reliability of each chain
 
-[Cryptomover](https://cryptomover.com/)  
+[Cryptomover](https://cryptomover.com/) [[Statement](https://medium.com/cryptomover/its-the-forking-bitcoin-index-ad1e4f5dbfd0)]  
 Original chain is Bitcoin, B2X will be allocated to each user
 
 [Gatecoin](https://gatecoin.com/) [[Statement](https://blog.gatecoin.com/gatecoin-will-not-support-the-segwit2x-b2x-hard-fork-acbab0985dc2)]  
@@ -63,7 +63,7 @@ ATMs will only dispense BTC as defined by Bitfinex
 [HKBitcoinATM](http://hkbitcoinatm.com/)  
 ATMs will only dispense BTC as defined by the legacy chain
 
-[OKCoin](https://www.okcoin.com/) [Statement](https://support.okcoin.com/hc/en-us/articles/115002166351-OKCoin-Policy-On-Segwit2x-HardFork)]  
+[OKCoin](https://www.okcoin.com/) [[Statement](https://support.okcoin.com/hc/en-us/articles/115002166351-OKCoin-Policy-On-Segwit2x-HardFork)]  
 Original chain is Bitcoin, B2X will be allocated to each user
 
 [Tidebit](https://www.tidebit.com/)  

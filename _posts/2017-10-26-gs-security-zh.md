@@ -32,6 +32,7 @@ Leo 是香港比特幣協會的主席。比特幣、信息技術的安全及網�
 費用﹕HK$150 （請跟我們的合作夥伴預約及付款，或以比特幣付款更享有八折優惠） 
 Garage Society 及香港比特幣協會會員免費 (需要登記)
 
+<!--
 <form action="https://www.coinpayments.net/index.php" method="post">
 	<input type="hidden" name="cmd" value="_pay_simple">
 	<input type="hidden" name="reset" value="1">
@@ -46,6 +47,9 @@ Garage Society 及香港比特幣協會會員免費 (需要登記)
 	<input type="image" src="https://www.coinpayments.net/images/pub/buynow-grey.png" alt="Buy Now with CoinPayments.net">
 </form>
 {:.text-center}
+-->
+
+Note: Online payments have been closed. You are welcome to pay with Bitcoin at the door.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.8158024621976!2d114.14846525124635!3d22.28496628525968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404007c1a7e34cf%3A0xdd1cc60bfdd911c0!2sGarage+Society+QRC!5e0!3m2!1sen!2s!4v1495723892446" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
