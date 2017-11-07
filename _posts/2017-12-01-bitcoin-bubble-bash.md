@@ -5,7 +5,7 @@ date: "2017-12-01 19:00:00"
 permalink: "/2017-12-bitcoin-bubble-bash/"
 host: Bitcoin Association of Hong Kong
 address: Pazzeria, U/G, 5 Elgin Street, Central, Hong Kong
-link: ""
+link: "https://www.meetup.com/Bitcoin-HK/events/244886536/"
 background: "url(/media/2014/12/beer.jpg) #FF0000"
 published: true
 ---
@@ -31,8 +31,8 @@ To reserve your spot, pay for your ticket **through Coinpayments below** (plenty
 	<input type="hidden" name="currency" value="HKD">
 	<input type="hidden" name="amountf" value="100.00000000">
 	<input type="hidden" name="want_shipping" value="0">
-	<input type="hidden" name="success_url" value="">
-	<input type="hidden" name="cancel_url" value="">
+	<input type="hidden" name="success_url" value="https://www.meetup.com/Bitcoin-HK/events/244886536/">
+	<input type="hidden" name="cancel_url" value="https://www.meetup.com/Bitcoin-HK/events/244886536/">
 	<input type="image" src="https://www.coinpayments.net/images/pub/CP-main-large.png" alt="Buy Now with CoinPayments.net">
 </form>
 {:.text-center}
