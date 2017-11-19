@@ -15,14 +15,13 @@ Becoming a member gives you full access to the community and the association. Yo
 - Access to members-only events
 - Reduced fees to ordinary events
 - Email alerts about Bitcoin related Events
-- Listing on this website using your passcard
-- Access to the closed forum
+- Listing on this website using your blockstack id
 - Ability to order name cards
 
 
 ## Membership Application
 
-To sign up, simply fill out the application form below. The membership fee for 2015/2016 is set at 130,000 bits (0.13 BTC) and will be revised once per year.
+To sign up, simply fill out the application form below. The membership fee for 2017/2018 is set at 13,000 bits (0.013 BTC) and will be revised once per year.
 
 We will send you an email with a confirmation usually within 48h. We are an organization for individuals in Hong Kong, so in some rare cases we might follow up with you about how you are related to Hong Kong.
 
