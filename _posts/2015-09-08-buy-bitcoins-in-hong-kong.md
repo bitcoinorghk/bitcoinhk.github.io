@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Buy Bitcoins in Hong Kong
-date: "2017-10-14 02:00:00"
+date: "2017-11-19 02:00:00"
 permalink: /buy-bitcoins-in-hong-kong/
 author: liongrass
 published: true
@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-last updated: 2017-10-14 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md)
+last updated: 2017-11-19 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md)
 
 ## Buying Bitcoins in Hong Kong
 
@@ -59,9 +59,6 @@ Once you are signed up and verified, depositing your Hong Kong dollars with ANX 
 **[Gatecoin](https://gatecoin.com/)**
 Gatecoin is a well established Bitcoin exchange operating in a global market from Hong Kong. You can send them local wire transfers from your Hong Kong Dollar bank account and have them credited to your account after verification.
 
-**[Bitcashout](https://www.bitcashout.com/)**
-Bitcashout is a small and reliable Bitcoin exchange based in Hong Kong. You can deposit via wire transfer.
-
 **[Tidebit](https://www.tidebit.com/)**
 Tidebit is the newest of Hong Kong Bitcoin exchanges. You can deposit cash for free or via wire transfer for a 2% fee.
 
@@ -77,6 +74,9 @@ Affiliated with ANX as mentioned above.
 
 **[Genesis Block](https://www.genesisblockhk.com/)**
 Opened in September 2017 in Wan Chai, the Genesis Block functions as an OTC trading hub as well as a co-working and event space.
+
+**[Circle Trading](https://www.circletrading.com/)**
+Circle is a Boston-based financial services firm most popular for their money transfer app. They opened a Bitcoin OTC trading desk in Hong Kong in November 2017.
 
 #### Overseas Exchanges
 
