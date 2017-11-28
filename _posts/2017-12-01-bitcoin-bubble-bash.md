@@ -20,7 +20,15 @@ Prebook now: **100 HKD per person**
 
 Full members of the Bitcoin Association of Hong Kong: **FREE.** Please RSVP to [info@bitcoinhk.org](mailto:info@bitcoinhk.org).
 
-To reserve your spot, pay for your ticket **through Coinpayments below** (plenty of cryptocurrencies accepted, including **Bitcoin**, **Ethereum**, Bitcoin Cash, Monero, Dash and Dogecoin (much wow!)).  
+To reserve your spot, pay for your ticket **through Coinpayments or Bitpay below** (plenty of cryptocurrencies accepted, including **Bitcoin**, **Ethereum**, Bitcoin Cash, Monero, Dash and Dogecoin (much wow!)).  
+
+<form action="https://bitpay.com/checkout" method="post" >
+  <input type="hidden" name="action" value="checkout" />
+  <input type="hidden" name="posData" value="" />
+  <input type="hidden" name="data" value="fPb7mv8gWi4bWFtOeSKXrynPlK9MkdlKIfCNzJqOb5DoIxuvWIToojVx2L262mjg+p1rNmGYNzuzFnaT+Kk9G5Amgs3MdkqJoXOT1MBZYoYG6MGPuQ32PzZ57G2fjhE694nnpaq6Xx82orr/yyv2gw==" />
+  <input type="image" src="https://bitpay.com/img/button-large.png" border="0" name="submit" alt="BitPay, the easy way to pay with bitcoins." >
+</form>
+{:.text-center}
 
 <form action="https://www.coinpayments.net/index.php" method="post">
 	<input type="hidden" name="cmd" value="_pay_simple">
