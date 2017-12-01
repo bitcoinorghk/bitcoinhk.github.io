@@ -17,18 +17,24 @@ We are looking forward to welcoming you to our Bitcoin Party at Pazzeria, sponso
 We have arranged for a free flow of Pizza, Wraps and Bruschetti and two drinks (craft beers or wine) for each guest to celebrate  the most successful year of Bitcoin history yet (again!). Thanks to a generous sponsorship from BitMEX, we are able to offer you this event at the low cost of 100 HKD, but we will only accept cryptocurrency.
 
 Prebook now: **100 HKD per person**
+At the door: "200 HKD per person**
 
 Full members of the Bitcoin Association of Hong Kong: **FREE.** Please RSVP to [info@bitcoinhk.org](mailto:info@bitcoinhk.org).
 
-To reserve your spot, pay for your ticket **through Coinpayments or Bitpay below** (plenty of cryptocurrencies accepted, including **Bitcoin**, **Ethereum**, Bitcoin Cash, Monero, Dash and Dogecoin (much wow!)).  
+To reserve your spot, pay for your ticket **through Coinpayments or Bitpay below** (plenty of cryptocurrencies accepted, including **Bitcoin**, **Ethereum**, Bitcoin Cash, Monero, Dash and Dogecoin (much wow!)).
 
+**Pre-registration has been closed. You are welcome to get your tickets at the door. We have limited space available.**
+
+<!--
 <form action="https://bitpay.com/checkout" method="post" >
   <input type="hidden" name="action" value="cartAdd" />
   <input type="hidden" name="data" value="XQYmg7bdoLcX6YAQgkubrS" />
   <input type="image" src="https://bitpay.com/img/button1.png" border="0" name="submit" alt="BitPay, pay with bitcoins." >
 </form>
 {:.text-center}
+-->
 
+<!--
 <form action="https://www.coinpayments.net/index.php" method="post">
 	<input type="hidden" name="cmd" value="_pay_simple">
 	<input type="hidden" name="reset" value="1">
@@ -43,6 +49,7 @@ To reserve your spot, pay for your ticket **through Coinpayments or Bitpay below
 	<input type="image" src="https://www.coinpayments.net/images/pub/CP-main-large.png" alt="Buy Now with CoinPayments.net">
 </form>
 {:.text-center}
+-->
 
 [![BitMEX](/media/2016/12/bitmex.png)](https://www.bitmex.com/)
 {:.text-center}
