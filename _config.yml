@@ -3,7 +3,7 @@ title: The Bitcoin Association of Hong Kong
 location: Hong Kong
 description: "Fostering and promoting Bitcoin and its technology in Hong Kong."
 baseurl: ""
-url: "https://www.bitcoinhk.org"
+url: "https://www.bitcoin.org.hk"
 
 
 future: true
@@ -14,7 +14,7 @@ future: true
 
 # podcast stuff
 
-podcast_url: https://www.bitcoinhk.org/podcast/
+podcast_url: https://www.bitcoin.org.hk/podcast/
 podcast_album_art: /images/bahk-logo-big-podcast.png
 podcast_title: The Bitcoin Lecture Series
 podcast_owner: The Bitcoin Association of Hong Kong
@@ -54,7 +54,7 @@ gems:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'https://www.bitcoinhk.org/'
+  siteurl: 'https://www.bitcoin.org.hk/'
   media: 'media'
   ignore:
     - index.html

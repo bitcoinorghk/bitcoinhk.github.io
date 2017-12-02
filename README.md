@@ -1,4 +1,4 @@
-# [BAHK Website](https://www.bitcoinhk.org/)
+# [BAHK Website](https://www.bitcoin.org.hk/)
 
 A Jekyll-flavored hosted on GitHub pages.
 
