@@ -16,7 +16,9 @@ You can also reach us by email at: [info@bitcoinhk.org][2]
 
 [Join our Meetup Group to be alerted immediately about new events!](http://www.meetup.com/Bitcoin-HK/)
 
-[Join our Telegram Channel @BitcoinHK for announcements, events and opportunities!](https://telegram.me/bitcoinhk)
+Join our Telegram Channel [@BitcoinHK]((https://telegram.me/bitcoinhk)) for announcements, events and opportunities, and join [Bitcoinorghk]((https://telegram.me/bitcoinorghk)) for the latest news.
+
+
 
 [Subscribe to our Calendar, which lists both our events and all other Bitcoin/Ethereum/Blockchain events around Hong Kong.](https://calendar.google.com/calendar/embed?src=ci5scbiblqooe1iuhunkkdrhek%40group.calendar.google.com&ctz=Asia/Hong_Kong) [Click here for the ICAl/ICS file](https://calendar.google.com/calendar/ical/ci5scbiblqooe1iuhunkkdrhek%40group.calendar.google.com/public/basic.ics)
 
