@@ -16,7 +16,7 @@ You can also reach us by email at: [info@bitcoinhk.org][2]
 
 [Join our Meetup Group to be alerted immediately about new events!](http://www.meetup.com/Bitcoin-HK/)
 
-Join our Telegram Channel [@BitcoinHK]((https://telegram.me/bitcoinhk)) for announcements, events and opportunities, and join [Bitcoinorghk]((https://telegram.me/bitcoinorghk)) for the latest news.
+Join our Telegram Channel [@BitcoinHK](https://telegram.me/bitcoinhk) for announcements, events and opportunities, and join [Bitcoinorghk](https://telegram.me/bitcoinorghk) for the latest news.
 
 
 
