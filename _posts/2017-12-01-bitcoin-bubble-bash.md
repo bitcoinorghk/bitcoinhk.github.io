@@ -19,7 +19,7 @@ We have arranged for a free flow of Pizza, Wraps and Bruschetti and two drinks (
 Prebook now: **100 HKD per person**
 At the door: "200 HKD per person**
 
-Full members of the Bitcoin Association of Hong Kong: **FREE.** Please RSVP to [info@bitcoinhk.org](mailto:info@bitcoinhk.org).
+Full members of the Bitcoin Association of Hong Kong: **FREE.** Please RSVP to [info@bitcoin.org.hk](mailto:info@bitcoin.org.hk).
 
 To reserve your spot, pay for your ticket **through Coinpayments or Bitpay below** (plenty of cryptocurrencies accepted, including **Bitcoin**, **Ethereum**, Bitcoin Cash, Monero, Dash and Dogecoin (much wow!)).
 

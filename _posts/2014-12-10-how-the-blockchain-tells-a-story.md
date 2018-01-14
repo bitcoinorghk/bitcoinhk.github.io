@@ -12,7 +12,7 @@ redirect_from:
 
 ## How the Blockchain tells a story
 
-Today at our [“Plug and Pay”](http://www.bitcoinhk.org/post/104773939865/impressions-from-our-plug-and-pay-event-with) event we made a total of 46 Bitcoin transactions, handing out 0.0185 Bitcoin to each of the 16 paying participants. 15 drinks were sold for bitcoin (later drinks were handed out for free).
+Today at our [“Plug and Pay”](http://www.bitcoin.org.hk/post/104773939865/impressions-from-our-plug-and-pay-event-with) event we made a total of 46 Bitcoin transactions, handing out 0.0185 Bitcoin to each of the 16 paying participants. 15 drinks were sold for bitcoin (later drinks were handed out for free).
 
 The entire event was tracked on the blockchain, which now nicely tells the story of what happened.
 

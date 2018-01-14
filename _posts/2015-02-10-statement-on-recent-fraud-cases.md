@@ -26,4 +26,4 @@ The Bitcoin Association of Hong Kong is a community organisation that aims to ed
 
 We are committed to helping any investigation against companies that use bitcoin as a tool or buzzword to defraud or otherwise harm people.
 
-**If you have any questions about Bitcoin, please ask anytime: [info@bitcoinhk.org](info@bitcoinhk.org)**
+**If you have any questions about Bitcoin, please ask anytime: [info@bitcoin.org.hk](info@bitcoin.org.hk)**

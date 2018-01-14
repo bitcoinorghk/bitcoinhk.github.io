@@ -15,7 +15,7 @@ We are happy to announce the Tuspark Bitcoin Lecture Series, which takes place o
 
 The Tuspark Bitcoin Lecture Series is co-organized by the Bitcoin Association of Hong Kong and will provide knowledge and education for those new to Bitcoin as well as those with a specialized interest in it.
 
-To rsvp please use the provided links or send us an email to [info@bitcoinhk.org](mailto:info@bitcoinhk.org).
+To rsvp please use the provided links or send us an email to [info@bitcoin.org.hk](mailto:info@bitcoin.org.hk).
 
 ### #1, June 10: Bitcoin 101 (lecture)
 This non-technical lecture will give you a quick explanation of Bitcoin wallets, transactions and mining. It will explain the history and milestones of this young technology and give an overview on Bitcoin's regulatory environment.

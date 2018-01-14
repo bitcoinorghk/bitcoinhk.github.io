@@ -19,4 +19,4 @@ Membership fee for the year 2015/2016 is set at **0.13 Bitcoin**.
 
 As a member of the Bitcoin Association of Hong Kong you enjoy full access to the community and the association. You enjoy voting rights, profit from networking and education events and help influence the quickly changing landscape of Bitcoin in Hong Kong.
 
-If you have any concerns, comments, questions or ideas, comment below using our forum or contact us directly at info@bitcoinhk.org.
+If you have any concerns, comments, questions or ideas, comment below using our forum or contact us directly at info@bitcoin.org.hk

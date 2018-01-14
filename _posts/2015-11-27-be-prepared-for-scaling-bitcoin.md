@@ -19,9 +19,9 @@ You will be able to pick up the goods at various locations and occasions before 
 
 你可以在“擴展比特幣”研討會的會前活動取貨。為了避免運費，結帳時選擇"Pick up at Scaling Bitcoin"。
 
-We are a little flexible with the pickup arrangement and understand that you will need your package as early as possible. Write your itinerary or questions to [info@bitcoinhk.org](mailto:info@bitcoinhk.org) and we will get back to you as soon as we can!
+We are a little flexible with the pickup arrangement and understand that you will need your package as early as possible. Write your itinerary or questions to [info@bitcoin.org.hk](mailto:info@bitcoin.org.hk) and we will get back to you as soon as we can!
 
-如果你有關於取貨時間地點或其它問題，請向[info@bitcoinhk.org](mailto:info@bitcoinhk.org) 發送電郵。我們會儘快回覆你！
+如果你有關於取貨時間地點或其它問題，請向[info@bitcoin.org.hk](mailto:info@bitcoin.org.hk) 發送電郵。我們會儘快回覆你！
 
 Take note of our pre-stamped return envelopes, with which you can refund your Octopus cards for Bitcoin as conveniently as we can make it possible.
 
