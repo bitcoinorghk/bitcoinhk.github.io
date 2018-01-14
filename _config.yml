@@ -18,7 +18,7 @@ podcast_url: https://www.bitcoin.org.hk/podcast/
 podcast_album_art: /images/bahk-logo-big-podcast.png
 podcast_title: The Bitcoin Lecture Series
 podcast_owner: The Bitcoin Association of Hong Kong
-podcast_email: info@bitcoinhk.org
+podcast_email: info@bitcoin.org.hk
 podcast_category: Technology
 podcast_subcategory_one:
 podcast_subcategory_two:
@@ -35,9 +35,9 @@ podcast_subtitle: Join us in learning more about Bitcoin and blockchain!
 # More settings
 accent: "#E74C3C"
 github: "bitcoinhk/bitcoinhk.github.io"
-contact: "info@bitcoinhk.org"
+contact: "info@bitcoin.org.hk"
 organizers: "The Community"
-email: "info@bitcoinhk.org"
+email: "info@bitcoin.org.hk"
 
 # Get Meetup Notifications, visible or hidden
 notifications: "visible"
