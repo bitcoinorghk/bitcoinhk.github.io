@@ -65,8 +65,20 @@ Luis:
 ## HKBay
 
 Marc:
-"Three reasons: (1) no or very low cost, (2) easy to implement on website, (3) safer for merchants than PayPal et al"
+"Three reasons: (1) no or very low cost, (2) easy to implement on website, (3) safer for merchants than PayPal et al."
 [HKBay](http://www.hkbay.com/store/index.php?language=en)
+
+## CK Tax
+
+Michael:
+"I would like to brand my company with digital elements (I believe tax can be automated) and embrace new technology."
+[CK Tax](http://www.ck-tax.com/)
+
+## Montmayeur Gemstones
+
+Bob-John:
+"I only accept Bitcoin for some of my stock."
+[Montmayeur Gemstones](https://www.instagram.com/bobjohn_montmayeur/)
 
 ## Pay4Bugs
 
