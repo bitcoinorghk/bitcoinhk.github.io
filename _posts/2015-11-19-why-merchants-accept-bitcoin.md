@@ -77,7 +77,7 @@ Michael:
 ## Montmayeur Gemstones
 
 Bob-John:
-"I only accept Bitcoin for some of my stock."
+"To be part of the change."
 [Montmayeur Gemstones](https://www.instagram.com/bobjohn_montmayeur/)
 
 ## Pay4Bugs
