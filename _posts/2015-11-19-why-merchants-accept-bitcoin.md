@@ -11,6 +11,8 @@ background: "url(/media/2015/11/mosque.JPG) #FF0000"
 
 # Why Merchants Accept Bitcoin
 
+Updated: January 30, 2018
+
 While Bitcoin has not been able to establish itself as a generally accepted method of payment just yet, support has steadily increased especially among online merchants. Hong Kong especially is still largely a cash-driven society, with Octopus being the only electronic payment system to establish itself outside of the bars and upscale restaurants of Hong Kong island.
 
 But Bitcoin has become widely recognized in certain niches for online payments, such as the sale of gift cards, prepaid value, online gaming, gambling and privacy conscious products such as VPNs.
@@ -77,8 +79,34 @@ Michael:
 ## Montmayeur Gemstones
 
 Bob-John:
-"To be part of the change."
+"To be part of the change and changing my industry."
 [Montmayeur Gemstones](https://www.instagram.com/bobjohn_montmayeur/)
+
+## Ronnie English
+
+Ronald:
+"Just like WordPress, Bitcoin is open source. Everyone can contribute. Bitcoin gives the control of money back to the people, by re-inventing the concept of money."
+[Ronnie English](http://www.ronnieenglish.com/)
+
+## UDomain
+
+[UDomain](https://www.udomain.hk/)
+
+## The Crescent Moon
+
+[The Crescent Moon](https://www.facebook.com/TCMfoodhk/)
+
+## Garage Society
+
+[Garage Society](http://www.thegaragesociety.com/)
+
+## Check Inn Hong Kong
+
+[Check Inn HK](https://checkinnhk.com/)
+
+## L&Y Law Office
+
+[L&Y Law Office](https://www.lylawoffice.com/)
 
 ## Pay4Bugs
 
