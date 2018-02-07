@@ -9,27 +9,10 @@ permalink: "/members/"
 navigation: "visible"
 ---
 
-The Bitcoin Association of Hong Kong is open to all individuals with a connection to Hong Kong who have an interest in Bitcoin, cryptocurrency or related technologies.
-
-## History
-
-The Bitcoin Association Hong Kong stems from a group of people who started to discuss and promote Bitcoin in Hong Kong in the summer of 2012. As the group of people and Bitcoin grew the enthusiasts began to formalize and organize themselves to further promote the use of Bitcoin and related technologies in Hong Kong.
-
-## Stay in Touch
-
-[Join our Meetup Group to be alerted immediately about new events!](http://www.meetup.com/Bitcoin-HK/)
-
-[Join our Telegram Channel @BitcoinHK for announcements, events and opportunities!](https://telegram.me/bitcoinhk)
-
-[Subscribe to our Calendar, which lists both our events and all other Bitcoin/Ethereum/Blockchain events around Hong Kong.](https://calendar.google.com/calendar/embed?src=ci5scbiblqooe1iuhunkkdrhek%40group.calendar.google.com&ctz=Asia/Hong_Kong) [Click here for the ICAl/ICS file](https://calendar.google.com/calendar/ical/ci5scbiblqooe1iuhunkkdrhek%40group.calendar.google.com/public/basic.ics)
-
- <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/bitcoinhk" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/bitcoinhk', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Subscribe to our newsletter to receive regular updates, events, news and articles on Bitcoin in and around Hong Kong.</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /></form>
-
-## Become a Member
-
-We very much welcome individuals in Hong Kong to join us as full members. [You can find the membership application here](/join/). 
 
 ## Leadership
+
+All current directors of the Bitcoin Association of Hong Kong.
 
 <div class="leaders">
 <div class="col-33 chechung" style="text-align: center;">
@@ -48,6 +31,66 @@ We very much welcome individuals in Hong Kong to join us as full members. [You c
 </div>
 </div>
 
-## Press
+## Corporate Members
 
-Please [contact](/contact/) us for media inquiries. Logos and graphics suitable for publication are available in our press kit.
+The Bitcoin Association is about to welcome its first corporate members. To join as a corporate member, [please click here](/corporate).
+
+## Members
+
+A non-exhaustive list of current full members. To join as an individual members, [please click here](/join).
+
+Alexandre Baulne
+
+Arthur Hayes
+
+Aurelien Menant
+
+Ben Delo
+
+Casper Cheng
+
+Chechung Chang
+
+Christina Chu
+
+David Shin
+
+Dmitrii Vasilev
+
+Dominique Abad
+
+Gareth Hayes
+
+Hugo Cheung
+
+Jehan Chu
+
+Joseph Wang
+
+Larry Salibra
+
+Leonhard Weese
+
+Mark So
+
+Nathan Kaiser
+
+Noah Silverman
+
+Olha Kochmar
+
+Patrick Suen
+
+Patrick Chugh
+
+Simon Habart
+
+Tama Churchousd
+
+Tamas Abdel-wahab
+
+Tony Nelson
+
+Vladimir
+
+William Piquard

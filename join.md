@@ -9,14 +9,23 @@ permalink: "/join/"
 navigation: "visible"
 ---
 
-Becoming a member gives you full access to the community and the association. You enjoy voting rights, profit from networking and education events and help influence the quickly changing landscape of Bitcoin in Hong Kong.
+## History
+
+The Bitcoin Association Hong Kong stems from a group of people who started to discuss and promote Bitcoin in Hong Kong in the summer of 2012. As the group of people and Bitcoin grew the enthusiasts began to formalize and organize themselves to further promote the use of Bitcoin and related technologies in Hong Kong.
+
+## Become a member
+
+The Bitcoin Association of Hong Kong is open to all individuals with a connection to Hong Kong who have an interest in Bitcoin, cryptocurrency or related technologies.
+
+Becoming a member gives you full access to the community and the association. You enjoy voting rights, profit from discounted and exclusive networking and education events and help influence the quickly changing landscape of Bitcoin in Hong Kong.
 
 - Passive and active voting rights in the general assembly
 - Access to members-only events
 - Reduced fees to ordinary events
-- Email alerts about Bitcoin related Events
-- Listing on this website using your blockstack id
+- Email alerts about Bitcoin related events
+- [Listing on this website](/members)
 - Ability to order name cards
+- Email address ending in @bitcoin.org.hk
 
 
 ## Membership Application
