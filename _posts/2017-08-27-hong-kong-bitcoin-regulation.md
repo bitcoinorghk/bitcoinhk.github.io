@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Hong Kong Bitcoin Regulation"
-date: "2017-08-27 10:00:00"
+date: "2019-02-09 10:00:00"
 permalink: "/hong-kong-bitcoin-regulation/"
 author: liongrass
 published: true
@@ -9,6 +9,8 @@ background: " url(/media/2015/11/shenzhen.png) #FF0000"
 ---
 
 # Hong Kong, rule of law and the free market
+
+Updated: 2018-02-09
 
 In general, Hong Kong has a reputation as a reliable and predictable non-interventionist regulator. Most rules are clearly laid out and easy to comprehend and follow for people with little legal training (like me).
 
@@ -120,7 +122,9 @@ Advertising money lending services requires a Money Lenders' license issued by t
 
 Securities law is incredibly complicated and Blockchain-based product are not excempt. Whether a cryptocurrency is a commodity or security, and whether a security is a legal security requires very careful examination.
 
-Some tokens, especially those derived from "Token Creation Events" or "Initial Coin Offerings" are very likely securities, and their offering to unqualified investors in Hong Kong is illegal. It however currently seems unlikely that the SFC will go after securities not specifically offered or advertised to Hong Kong investors.
+Some tokens, especially those derived from "Token Creation Events" or "Initial Coin Offerings" [are very likely securities](http://www.sfc.hk/web/EN/news-and-announcements/policy-statements-and-announcements/statement-on-initial-coin-offerings.html), and their offering to unqualified investors in Hong Kong is illegal. It however currently seems unlikely that the SFC will go after securities not specifically offered or advertised to Hong Kong investors.
+
+On February 9, 2018 the SFC [contacted Hong Kong exchanges](http://www.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=18PR13) urging them to delist tokens deemed securities. ICO issuers were also contacted. They either stopped their ICO or promised to comply with securities regulation.
 
 #### Future Outlook
 
