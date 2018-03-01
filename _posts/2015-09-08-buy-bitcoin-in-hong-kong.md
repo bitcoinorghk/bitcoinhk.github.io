@@ -2,12 +2,13 @@
 layout: blog
 title: Buy Bitcoin in Hong Kong
 date: "2017-11-19 02:00:00"
-permalink: /buy-bitcoins-in-hong-kong/
+permalink: /buy-bitcoin-in-hong-kong/
 author: liongrass
 published: true
 background: "url(/media/2015/09/b.JPG) #FF0000"
 redirect_from:
   - /2015-buy-bitcoins-in-hong-kong/
+  - /buy-bitcoins-in-hong-kong/
 
 ---
 
