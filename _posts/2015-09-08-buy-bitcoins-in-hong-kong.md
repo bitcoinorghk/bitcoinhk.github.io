@@ -2,34 +2,35 @@
 layout: blog
 title: Buy Bitcoins in Hong Kong
 date: "2017-11-19 02:00:00"
-permalink: /buy-bitcoins-in-hong-kong/
+permalink: /buy-bitcoin-in-hong-kong/
 author: liongrass
 published: true
 background: "url(/media/2015/09/b.JPG) #FF0000"
 redirect_from:
   - /2015-buy-bitcoins-in-hong-kong/
+  - /buy-bitcoins-in-hong-kong/
 
 ---
 
 last updated: 2017-11-19 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md)
 
-## Buying Bitcoins in Hong Kong
+## Buying Bitcoin in Hong Kong
 
 The options on how to buy Bitcoin can be overwhelming at first. Unlike with centralized systems like Alipay or Paypal there is no 'official' way to fund your accounts, and fees vary across services and locations. As a rule of thumb, the more convenient and fast a HKD -> Bitcoin exchange is, the higher the fees are.
 
 Compared with selling Bitcoin, there is little fraud risk associated with buying.
-Unfortunately Bitcoin still does not have the legal status in Hong Kong that it deserves, and banks are reluctant to deal with companies and individuals associated with Bitcoin. In this environment it is easy for scammers to attempt to defraud you of your Dollars or Bitcoins in certain kinds of transactions.
+Unfortunately Bitcoin still does not have the legal status in Hong Kong that it deserves, and banks are reluctant to deal with companies and individuals associated with Bitcoin. In this environment it is easy for scammers to attempt to defraud you of your Dollars or Bitcoin in certain kinds of transactions.
 
 ### In Person
 
-As banks are more aggressively acting against Bitcoin companies, trading bitcoins in person has become more popular again in Hong Kong recently. The website [localbitcoins.com](https://localbitcoins.com/buy-bitcoins-online/hkd/ 18 listings) as well as the Android app [Mycelium](https://mycelium.com/lt/help.html) can be used to find people in Hong Kong to meet up with.
+As banks are more aggressively acting against Bitcoin companies, trading bitcoin in person has become more popular again in Hong Kong recently. The website [localbitcoins.com](https://localbitcoins.com/buy-bitcoins-online/hkd/ 18 listings) as well as the Android app [Mycelium](https://mycelium.com/lt/help.html) can be used to find people in Hong Kong to meet up with.
 If you just need a few dollars worth to 'try it out' or 'play with' or need help setting up or operating your wallet, you will likely find somebody to trade at the regular [Bitcoin meetups](http://www.meetup.com/Bitcoin-HK/).
 
 Some OTC exchanges (see below) also deal with cash deposits and withdrawals. Clarify with your exchange or traders beforehand what currencies, notes and payment forms they accept.
 
 ### Bitcoin ATMs
 
-The most convenient way to buy Bitcoins is an ATM. Usually you only need to show the ATM the QR code of your Bitcoin address, insert bank notes and confirm the exchange rate. The process takes less than 30 seconds, is anonymous but can cost up to 5% in fees. Prepare your wallet ahead of time, and bring exact change. ATMs generally accept only HKD bank notes.
+The most convenient way to buy Bitcoin is an ATM. Usually you only need to show the ATM the QR code of your Bitcoin address, insert bank notes and confirm the exchange rate. The process takes less than 30 seconds, is anonymous but can cost up to 5% in fees. Prepare your wallet ahead of time, and bring exact change. ATMs generally accept only HKD bank notes.
 
 Bitcoin ATMs are located at:    
 **[President Commercial Centre](http://hkbitcoinatm.com/)**, Shop 322, 3/F, 608 Nathan Road, **Mong Kok**    
@@ -46,7 +47,7 @@ You may also browse [coinatmradar.com](http://coinatmradar.com/) for more or les
 
 ### Bitcoin Exchanges
 
-Buying Bitcoins on exchanges is usually the cheapest option in terms of fees and is relatively fast and convenient too. But it often requires a few days to set up an account and get verified, and you can expect exchanges based in Hong Kong to ask for your personal information like ID or address proof before you can start using their accounts.
+Buying Bitcoin on exchanges is usually the cheapest option in terms of fees and is relatively fast and convenient too. But it often requires a few days to set up an account and get verified, and you can expect exchanges based in Hong Kong to ask for your personal information like ID or address proof before you can start using their accounts.
 Please note that Bitcoin exchanges are not to be treated as banks. We recommend you to withdraw your coins quickly after your purchase to a wallet you control, and never keep any funds on an exchange for a longer time.
 
 #### Hong Kong Exchanges
@@ -64,7 +65,7 @@ Tidebit is the newest of Hong Kong Bitcoin exchanges. You can deposit cash for f
 
 #### OTC Exchanges
 
-For larger amounts, you can go to an OTC Exchange, or broker. A broker will give you a quick quote for a single trade, usually upwards of 50 BTC. You will be able to sell or buy Bitcoins against a wire transfer.
+For larger amounts, you can go to an OTC Exchange, or broker. A broker will give you a quick quote for a single trade, usually upwards of 50 BTC. You will be able to sell or buy Bitcoin against a wire transfer.
 
 **[Gatecoin](https://gatecoin.com/)**
 Same as the above mentioned exchange.
@@ -90,7 +91,7 @@ Gemini is a New York exchange that specializes on large volumes. It only accepts
 
 #### Decentralized Exchanges
 
-Decentralized Exchanges don't have their own bank accounts. Instead, buyers and sellers interact directly with each other when transfering money. It is up to the user to follow the appropriate Anti-Money-Laundering and Know-Your-Customer rules. The Bitcoins are held in escrow by the exchange. It's very important to make use of these escrow options and be careful who you interact with.
+Decentralized Exchanges don't have their own bank accounts. Instead, buyers and sellers interact directly with each other when transfering money. It is up to the user to follow the appropriate Anti-Money-Laundering and Know-Your-Customer rules. The Bitcoin are held in escrow by the exchange. It's very important to make use of these escrow options and be careful who you interact with.
 
 **[Localbitcoins](https://localbitcoins.com/country/HK)**
 Localbitcoins is a decentralized exchange managed from Finland.
@@ -98,9 +99,9 @@ Localbitcoins is a decentralized exchange managed from Finland.
 **[Bisq](https://bisq.network/)**
 Bisq (formerly Bitsquare) is not a company, and is not run by anybody. Instead it acts as a network of users, which you can join by downloading the Bitsquare software. This software might be experimental at times, but shows promise in leading the way to a truly decentralized future.
 
-### Earn Bitcoins
+### Earn Bitcoin
 
-The by far cheapest way to get Bitcoins is to accept them as payment. No matter if you run a business, are employed, do freelance work or your friends owe you money, it may be a good idea to ask for these payments to be made in Bitcoin. Especially online and in international transfers the instantaneous and near-free Bitcoin transactions are far superior to other means.
+The by far cheapest way to get Bitcoin is to accept them as payment. No matter if you run a business, are employed, do freelance work or your friends owe you money, it may be a good idea to ask for these payments to be made in Bitcoin. Especially online and in international transfers the instantaneous and near-free Bitcoin transactions are far superior to other means.
 
 If you have a business, you can consider accepting Bitcoin as a form of payment. [Learn all about it here.](https://www.bitcoinhk.org/accept-bitcoin-now/)
 
