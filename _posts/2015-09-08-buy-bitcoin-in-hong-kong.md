@@ -79,6 +79,9 @@ Opened in September 2017 in Wan Chai, the Genesis Block functions as an OTC trad
 **[Circle Trading](https://www.circletrading.com/)**
 Circle is a Boston-based financial services firm most popular for their money transfer app. They opened a Bitcoin OTC trading desk in Hong Kong in November 2017.
 
+**[BitInsightHK](http://bitinsighthk.com/)**
+Hong Kong's newest OTC exchange is located in Central and was opened in February 2018.
+
 #### Overseas Exchanges
 
 Some exchanges overseas serve the Hong Kong market. Wire transfers to these exchanges are more expensive, but often more reliable and there is significantly more market depth. Disputes however cannot easily be resolved through the Hong Kong legal system and can quickly become complicated and expensive to resolve.
