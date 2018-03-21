@@ -138,6 +138,6 @@ I expect it to take a long time until the Hong Kong government reclassifies Bitc
 
 #### Notes
 
-This post was written by Leonhard Weese, and for obvious reasons does not constitute legal advise. For corrections, suggestions and inquiries contact the author via [@LeoAW](https://twitter.com/leoaw) or leo (at) bitcoinhk (dot) hk
+This post was written by Leonhard Weese, and for obvious reasons does not constitute legal advise. For corrections, suggestions and inquiries contact the author via [@LeoAW](https://twitter.com/leoaw) or leo (at) bitcoin (dot) org (dot) hk
 
 
