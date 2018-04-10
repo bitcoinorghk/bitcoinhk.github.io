@@ -59,13 +59,19 @@ Dmitrii Vasilev
 
 Dominique Abad
 
+Felix Weis
+
 Gareth Hayes
+
+Gary Watkins
 
 Hugo Cheung
 
 Jehan Chu
 
 Joseph Wang
+
+Kong Yong Ng
 
 Larry Salibra
 
@@ -78,6 +84,8 @@ Nathan Kaiser
 Noah Silverman
 
 Olha Kochmar
+
+Patrice Poujol
 
 Patrick Suen
 
@@ -94,3 +102,5 @@ Tony Nelson
 Vladimir
 
 William Piquard
+
+Yuki Jiang
