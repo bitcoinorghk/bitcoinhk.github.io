@@ -20,6 +20,10 @@ Speaker:
 
 **Leo Weese** (Bitcoin Association of Hong Kong)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dVVh4_psahw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+[You can find the slides here](/media/2018/03/security.pdf)
+
 Storage has been a big issue in crypto investing. Once in a while we heard about exchanges being hacked and coins being stolen. While leaving the cryptos at exchanges may be convenient, there are other options available which are far more secure. In this talk we have invited Mr. Leonhard Weese, President of Bitcoin Association of Hong Kong, to speak on this extremely important topic of storage security. We believe that there are precautions that any investor should be aware of before investing heavily into bitcoins and other cryptos. While the talk may focus more on Bitcoins, similar principles apply to other cryptos.
 
 This is a paid workshop. Feel free to bring your smartphone or laptop if you would like to try out the software on the spot. Bring a USB stick (>4GB, any brand but Sandisk) to get a free copy of the [operating system TAILS](https://tails.boum.org/).

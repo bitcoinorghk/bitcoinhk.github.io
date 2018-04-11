@@ -20,6 +20,8 @@ Speaker:
 
 **[Mark So](https://www.rpc.co.uk/people/mark-so/)** & **[Ben Yates](https://www.rpc.co.uk/people/ben-yates/)** (RPC Law Firm)
 
+[You can find the slides here](/media/2018/04/regulation.pdf)
+
 In this session, Ben Yates and Mark So, fintech lawyers from law firm [RPC](https://www.rpc.co.uk/), will look at the legal implications of the recent explosion of ICOs from a Hong Kong perspective, and provide their thoughts on how the law might evolve in the coming months and years. There will be plenty of opportunities to ask questions and become involved in the discussion.
 
 1. Key features of ICOs
