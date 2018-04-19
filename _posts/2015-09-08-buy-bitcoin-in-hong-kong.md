@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Buy Bitcoin in Hong Kong
-date: "2017-11-19 02:00:00"
+date: "2018-04-19 02:00:00"
 permalink: /buy-bitcoin-in-hong-kong/
 author: liongrass
 published: true
@@ -12,7 +12,7 @@ redirect_from:
 
 ---
 
-last updated: 2017-11-19 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md)
+last updated: 2018-04-19 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md)
 
 ## Buying Bitcoin in Hong Kong
 
@@ -33,14 +33,26 @@ Some OTC exchanges (see below) also deal with cash deposits and withdrawals. Cla
 The most convenient way to buy Bitcoin is an ATM. Usually you only need to show the ATM the QR code of your Bitcoin address, insert bank notes and confirm the exchange rate. The process takes less than 30 seconds, is anonymous but can cost up to 5% in fees. Prepare your wallet ahead of time, and bring exact change. ATMs generally accept only HKD bank notes.
 
 Bitcoin ATMs are located at:    
+
+#### Kowloon
+
 **[President Commercial Centre](http://hkbitcoinatm.com/)**, Shop 322, 3/F, 608 Nathan Road, **Mong Kok**    
 **[S Tattoo Studio](https://www.instagram.com/s.tattoostudio/)**, 1/F, Reclamation Street 470F,  **Mong Kok**   
+**[W Plaza, CHIC之堡](http://nitroswap.com/en/locations.html)**, Shop 113, 602-608 Presidential Commercial Building, Nathan Road, **Mong Kok**    
+**[Metro Sham Shui(深之都)](http://nitroswap.com/en/locations.html)**, Shop 238, Kam Wah Mansion, 226-242 Cheung Sha Wan Rd, **Sham Shui Po**    
+**[Nathan Hotel](https://coinatmradar.com/bitcoin_atm/3943/bitcoin-atm-genesis-coin-kowloon-starbucks-coffee-nathan-hotel/)**, 387 Nathan Road, Starbucks Coffee, **Yau Ma Tei**
+
+#### Hong Kong
+
 **[Shing Lee Shopping Arcade](http://hkbitcoinatm.com/)**, Shop 19, 1/F, 6 Wing Kut Street, **Central**    
-**[T.Mark](http://hkbitcoinatm.com/)**, Shop 329, 3/F, 18 Tai Ho Road, **Tsuen Wan**    
 **[CNT Tower](https://anxintl.com/contact-us/)**, 18/F, 338 Hennessy Road, **Wan Chai**    
-**[Genesis Block](https://www.genesisblockhk.com/)**, U/G, 273 Hennessy Road, **Wan Chai**   
-**[CHIC by The Oyster House](http://www.bitcoinatm.com.hk/)**, 2/F, The Cameron, 33 Cameron Road, **Tsim Sha Tsui**    
-**[NDNX CoWork Tech Hub](http://www.bitcoinatm.com.hk/)**, 27/F, 35 Hung To Road, **Kwun Tong**    
+**[Genesis Block](https://www.genesisblockhk.com/)**, U/G, 273 Hennessy Road, **Wan Chai**    
+
+#### New Territories
+
+**[T.Mark](http://hkbitcoinatm.com/)**, Shop 329, 3/F, 18 Tai Ho Road, **Tsuen Wan**    
+**[23 Mei Wan St](https://www.genesisblockhk.com/our-services/atm-machine/)**, G/F, **Tsuen Wan**    
+**[One Terminal(壹號總站)](http://nitroswap.com/en/locations.html)**, Shop 14,2 Tsing Shan Square, **Tuen Mun**    
 
 
 You may also browse [coinatmradar.com](http://coinatmradar.com/) for more or less up to date information on the location, uptime and rates of Bitcoin ATMs.
@@ -57,18 +69,18 @@ There are currently four exchanges with local Hong Kong bank accounts. Some of t
 **[ANX](https://anxpro.com/)**
 Once you are signed up and verified, depositing your Hong Kong dollars with ANX is easy. You can hand it over in cash at their main office in Wan Chai and it will be credited quickly to your account, where you can exchange them to Bitcoin and withdraw to your wallet.
 
-**[Gatecoin](https://gatecoin.com/)**
-Gatecoin is a well established Bitcoin exchange operating in a global market from Hong Kong. You can send them local wire transfers from your Hong Kong Dollar bank account and have them credited to your account after verification.
-
 **[Tidebit](https://www.tidebit.com/)**
 Tidebit is the newest of Hong Kong Bitcoin exchanges. You can deposit cash for free or via wire transfer for a 2% fee.
+
+**[Coinsuper](https://www.coinsuper.com/)**
+The youngest of Hong Kong's Bitcoin exchanges accepts only USD deposits into their bank account.
 
 #### OTC Exchanges
 
 For larger amounts, you can go to an OTC Exchange, or broker. A broker will give you a quick quote for a single trade, usually upwards of 50 BTC. You will be able to sell or buy Bitcoin against a wire transfer.
 
 **[Gatecoin](https://gatecoin.com/)**
-Same as the above mentioned exchange.
+The international Hong Kong-based exchange Gatecoin also offers OTC trading.
 
 **[Octagon Financial](https://www.octfinancial.com/)**
 Affiliated with ANX as mentioned above.
