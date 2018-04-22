@@ -38,7 +38,7 @@ Bitcoin ATMs are located at:
 
 **[President Commercial Centre](http://hkbitcoinatm.com/)**, Shop 322, 3/F, 608 Nathan Road, **Mong Kok**    
 **[S Tattoo Studio](https://www.instagram.com/s.tattoostudio/)**, 1/F, Reclamation Street 470F,  **Mong Kok**   
-**[W Plaza, CHIC之堡](http://nitroswap.com/en/locations.html)**, Shop 113, 602-608 Presidential Commercial Building, Nathan Road, **Mong Kok**    
+**[Presidential Commercial Centre](http://nitroswap.com/en/locations.html)**, W Plaza, CHIC之堡, Shop 113, 602-608 , Nathan Road, **Mong Kok**    
 **[Metro Sham Shui(深之都)](http://nitroswap.com/en/locations.html)**, Shop 238, Kam Wah Mansion, 226-242 Cheung Sha Wan Rd, **Sham Shui Po**    
 **[Nathan Hotel](https://coinatmradar.com/bitcoin_atm/3943/bitcoin-atm-genesis-coin-kowloon-starbucks-coffee-nathan-hotel/)**, 387 Nathan Road, Starbucks Coffee, **Yau Ma Tei**
 
@@ -53,9 +53,12 @@ Bitcoin ATMs are located at:
 **[T.Mark](http://hkbitcoinatm.com/)**, Shop 329, 3/F, 18 Tai Ho Road, **Tsuen Wan**    
 **[23 Mei Wan St](https://www.genesisblockhk.com/our-services/atm-machine/)**, G/F, **Tsuen Wan**    
 **[One Terminal(壹號總站)](http://nitroswap.com/en/locations.html)**, Shop 14,2 Tsing Shan Square, **Tuen Mun**    
+**[Hang Wai Industrial Centre](https://www.genesisblockhk.com/our-services/atm-machine/)**, G/F, 6 Kin Tai Street, (Entrance at A2 Lift Lobby), **Tuen Mun**    
 
 
 You may also browse [coinatmradar.com](http://coinatmradar.com/) for more or less up to date information on the location, uptime and rates of Bitcoin ATMs.
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1bQBtLOmBUyg372DEkpIQFe3Ql3KwnRnz" width="100%" height="480"></iframe>
 
 ### Bitcoin Exchanges
 
