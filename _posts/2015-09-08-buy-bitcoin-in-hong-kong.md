@@ -45,7 +45,7 @@ Bitcoin ATMs are located at:
 #### Hong Kong
 
 **[Shing Lee Shopping Arcade](http://hkbitcoinatm.com/)**, Shop 19, 1/F, 6 Wing Kut Street, **Central**    
-**[CNT Tower](https://anxintl.com/contact-us/)**, 18/F, 338 Hennessy Road, **Wan Chai**    
+**[CNT Tower](https://anxintl.com/contact-us/)**, Room F, 19/F, 338 Hennessy Road, **Wan Chai**    
 **[Genesis Block](https://www.genesisblockhk.com/)**, U/G, 273 Hennessy Road, **Wan Chai**    
 
 #### New Territories
