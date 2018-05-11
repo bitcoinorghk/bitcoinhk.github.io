@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title: ICO Regulation in Hong Kong
+title: Building the Future of the Lightning Network
 date: "2018-05-08 19:00:00"
 permalink: "/2018-lightning/"
 host: Bitcoin Association of Hong Kong
