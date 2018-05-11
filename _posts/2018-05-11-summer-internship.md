@@ -27,9 +27,9 @@ For the summer of 2018 we are looking for the first time for a crypto-enthusiast
 
 ## What we provide:
 
+- Weekly salary of **HK$1,500** (~20h/week, 4-8 weeks), paid in Bitcoin
 - An introduction into the cryptocurrency world
 - Guidance and education on tech, business and legal issues
-- Weekly salary of **HK$1,500** (~20h/week, 4-8 weeks), paid in Bitcoin
 - Flexible working hours
 
 ## What we are looking for:
