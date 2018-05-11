@@ -2,7 +2,7 @@
 layout: blog
 title: "Bitcoin Summer Internship"
 date: "2018-05-11 10:00:00"
-permalink: "/summer-internship/"
+permalink: "/2018-summer-internship/"
 author: liongrass
 published: true
 background: " url(/media/2017/10/nya.jpg) #FF0000"
