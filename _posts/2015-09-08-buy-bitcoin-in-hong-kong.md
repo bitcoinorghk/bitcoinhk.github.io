@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Buy Bitcoin in Hong Kong
-date: "2018-04-19 02:00:00"
+date: "2018-05-16 02:00:00"
 permalink: /buy-bitcoin-in-hong-kong/
 author: liongrass
 published: true
@@ -12,7 +12,7 @@ redirect_from:
 
 ---
 
-last updated: 2018-04-19 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md)
+last updated: 2018-05-16 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md)
 
 ## Buying Bitcoin in Hong Kong
 
@@ -39,7 +39,8 @@ Bitcoin ATMs are located at:
 **[President Commercial Centre](http://hkbitcoinatm.com/)**, Shop 322, 3/F, 608 Nathan Road, **Mong Kok**    
 **[S Tattoo Studio](https://www.instagram.com/s.tattoostudio/)**, 1/F, Reclamation Street 470F,  **Mong Kok**   
 **[Presidential Commercial Centre](http://nitroswap.com/en/locations.html)**, W Plaza, CHIC之堡, Shop 113, 602-608 , Nathan Road, **Mong Kok**    
-**[Metro Sham Shui(深之都)](http://nitroswap.com/en/locations.html)**, Shop 238, Kam Wah Mansion, 226-242 Cheung Sha Wan Rd, **Sham Shui Po**    
+**[Metro Sham Shui(深之都)](http://nitroswap.com/en/locations.html)**, Shop 038, 3/F, Kam Wah Mansion, 226-242 Cheung Sha Wan Rd, **Sham Shui Po**    
+**[Metro Sham Shui(深之都)](http://bitmac.org/)**, Shop 160, 2/F, Kam Wah Mansion, 226-242 Cheung Sha Wan Rd, **Sham Shui Po**    
 **[Nathan Hotel](https://coinatmradar.com/bitcoin_atm/3943/bitcoin-atm-genesis-coin-kowloon-starbucks-coffee-nathan-hotel/)**, 387 Nathan Road, Starbucks Coffee, **Yau Ma Tei**
 
 #### Hong Kong
