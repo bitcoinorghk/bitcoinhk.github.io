@@ -10,6 +10,8 @@ background: " url(/media/2017/10/nya.jpg) #FF0000"
 
 # Bitcoin Summer Internship
 
+*Update 2018-05-21: This position has been filled. Thank you all for your support!*
+
 ## The Association
 
 The Bitcoin Association of Hong Kong is a community organization and industry representation for Bitcoin businesses, traders, investors, entrepreneurs and enthusiasts. Currently, there are mainly individual members from various background and interests.
@@ -55,6 +57,6 @@ For the summer of 2018 we are looking for the first time for a crypto-enthusiast
 
 ## Applications
 
-Please send your application by email to [internship@bitcoin.org.hk](mailto:internship@bitcoin.org.hk). We will close the application process and modify this page as soon as we have filled the position.
+The application process is currently closed. Stay tuned with future positions by following us on [Twitter](https://twitter.com/bitcoinorghk) and [Telegram](https://telegram.me/bitcoinhk).
 
 
