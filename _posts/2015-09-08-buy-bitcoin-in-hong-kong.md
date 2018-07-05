@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Buy Bitcoin in Hong Kong
-date: "2018-05-16 02:00:00"
+date: "2018-07-06 02:00:00"
 permalink: /buy-bitcoin-in-hong-kong/
 author: liongrass
 published: true
@@ -12,7 +12,7 @@ redirect_from:
 
 ---
 
-last updated: 2018-05-16 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md)
+last updated: 2018-07-06 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md)
 
 ## Buying Bitcoin in Hong Kong
 
@@ -25,6 +25,8 @@ Unfortunately Bitcoin still does not have the legal status in Hong Kong that it 
 
 As banks are more aggressively acting against Bitcoin companies, trading bitcoin in person has become more popular again in Hong Kong recently. The website [localbitcoins.com](https://localbitcoins.com/buy-bitcoins-online/hkd/ 18 listings) as well as the Android app [Mycelium](https://mycelium.com/lt/help.html) can be used to find people in Hong Kong to meet up with.
 If you just need a few dollars worth to 'try it out' or 'play with' or need help setting up or operating your wallet, you will likely find somebody to trade at the regular [Bitcoin meetups](http://www.meetup.com/Bitcoin-HK/).
+
+The exchange [Ignite OTC](https://www.igniteotc.com/) recently opened an in-person trading desk at G/F, Chungking Mansions, Tsim Sha Tsui. Bitcoin can safely be bought and sold against HKD at a reasonable spread.
 
 Some OTC exchanges (see below) also deal with cash deposits and withdrawals. Clarify with your exchange or traders beforehand what currencies, notes and payment forms they accept.
 
@@ -41,13 +43,15 @@ Bitcoin ATMs are located at:
 **[Presidential Commercial Centre](http://nitroswap.com/en/locations.html)**, W Plaza, CHIC之堡, Shop 113, 602-608 , Nathan Road, **Mong Kok**    
 **[Metro Sham Shui(深之都)](http://nitroswap.com/en/locations.html)**, Shop 038, 3/F, Kam Wah Mansion, 226-242 Cheung Sha Wan Rd, **Sham Shui Po**    
 **[Metro Sham Shui(深之都)](http://bitmac.org/)**, Shop 160, 2/F, Kam Wah Mansion, 226-242 Cheung Sha Wan Rd, **Sham Shui Po**    
-**[Nathan Hotel](https://coinatmradar.com/bitcoin_atm/3943/bitcoin-atm-genesis-coin-kowloon-starbucks-coffee-nathan-hotel/)**, 387 Nathan Road, Starbucks Coffee, **Yau Ma Tei**
+**[Nathan Hotel](https://coinatmradar.com/bitcoin_atm/3943/bitcoin-atm-genesis-coin-kowloon-starbucks-coffee-nathan-hotel/)**, 387 Nathan Road, Starbucks Coffee, **Yau Ma Tei**    
+**[Golden Luzon Agency](https://www.genesisblockhk.com/our-services/atm-machine/)**, G/F, 15 Tit Shu Street, **Tai Kok Tsui**
 
 #### Hong Kong
 
 **[Shing Lee Shopping Arcade](http://hkbitcoinatm.com/)**, Shop 19, 1/F, 6 Wing Kut Street, **Central**    
+**[Larry Jewelry](http://www.larryjewelry.com/boutiques/)**Shop G5, G/F, Bank of America Tower, 12 Harcourt Road, **Admiralty**    
 **[CNT Tower](https://anxintl.com/contact-us/)**, Room F, 19/F, 338 Hennessy Road, **Wan Chai**    
-**[Genesis Block](https://www.genesisblockhk.com/)**, U/G, 273 Hennessy Road, **Wan Chai**    
+**[Genesis Block](https://www.genesisblockhk.com/our-services/atm-machine/)**, U/G, 273 Hennessy Road, **Wan Chai**    
 
 #### New Territories
 
@@ -96,7 +100,10 @@ Opened in September 2017 in Wan Chai, the Genesis Block functions as an OTC trad
 Circle is a Boston-based financial services firm most popular for their money transfer app. They opened a Bitcoin OTC trading desk in Hong Kong in November 2017.
 
 **[BitInsightHK](http://bitinsighthk.com/)**
-Hong Kong's newest OTC exchange is located in Central and was opened in February 2018.
+Located in Central and was opened in February 2018.
+
+**[Ignite OTC](https://www.igniteotc.com/)**
+Hong Kong's newest OTC exchange has a shop in Chungking Mansions, but larger trades can be conducted remotely.
 
 #### Overseas Exchanges
 
