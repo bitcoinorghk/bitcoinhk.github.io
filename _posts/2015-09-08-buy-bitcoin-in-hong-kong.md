@@ -44,7 +44,10 @@ Bitcoin ATMs are located at:
 **[Metro Sham Shui(深之都)](http://nitroswap.com/en/locations.html)**, Shop 038, 3/F, Kam Wah Mansion, 226-242 Cheung Sha Wan Rd, **Sham Shui Po**    
 **[Metro Sham Shui(深之都)](http://bitmac.org/)**, Shop 160, 2/F, Kam Wah Mansion, 226-242 Cheung Sha Wan Rd, **Sham Shui Po**    
 **[Nathan Hotel](http://ncxnet.com/)**, 387 Nathan Road, Starbucks Coffee, **Yau Ma Tei**    
-**[Prudential Hotel](http://ncxnet.com/)**, The Lobby, 222 Nathan Road, **Jordan**
+**[Prudential Hotel](http://ncxnet.com/)**, The Lobby, 222 Nathan Road, **Jordan**   
+**[Rich Towers](http://kryptokiosk.com/)**, 16th Floor, ​​​​​​​2 Blenheim Avenue, **Tsim Sha Tsui**   
+**[EasyCoinHK](https://coinatmradar.com/bitcoin_atm/5438/bitcoin-atm-general-bytes-hong-kong-color-rich/)**, Color Rich, 35A Kimberley Road,
+**Tsim Sha Tsui**
 **[Golden Luzon Agency](https://www.genesisblockhk.com/our-services/atm-machine/)**, G/F, 15 Tit Shu Street, **Tai Kok Tsui**
 
 #### Hong Kong
