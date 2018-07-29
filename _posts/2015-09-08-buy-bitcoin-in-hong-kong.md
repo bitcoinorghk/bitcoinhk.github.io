@@ -46,7 +46,6 @@ Bitcoin ATMs are located at:
 **[Nathan Hotel](http://ncxnet.com/)**, 387 Nathan Road, Starbucks Coffee, **Yau Ma Tei**    
 **[Prudential Hotel](http://ncxnet.com/)**, The Lobby, 222 Nathan Road, **Jordan**   
 **[Rich Towers](http://kryptokiosk.com/)**, 16th Floor, ​​​​​​​2 Blenheim Avenue, **Tsim Sha Tsui**   
-**[EasyCoinHK](https://coinatmradar.com/bitcoin_atm/5438/bitcoin-atm-general-bytes-hong-kong-color-rich/)**, Color Rich, 35A Kimberley Road, **Tsim Sha Tsui**   
 **[Golden Luzon Agency](https://www.genesisblockhk.com/our-services/atm-machine/)**, G/F, 15 Tit Shu Street, **Tai Kok Tsui**
 
 #### Hong Kong
@@ -55,6 +54,7 @@ Bitcoin ATMs are located at:
 **[Larry Jewelry](http://ncxnet.com/)**Shop G5, G/F, Bank of America Tower, 12 Harcourt Road, **Admiralty**    
 **[CNT Tower](https://anxintl.com/contact-us/)**, Room F, 19/F, 338 Hennessy Road, **Wan Chai**    
 **[Genesis Block](https://www.genesisblockhk.com/our-services/atm-machine/)**, U/G, 273 Hennessy Road, **Wan Chai**    
+**[Tidebit](https://coinatmradar.com/bitcoin_atm/5437/bitcoin-atm-general-bytes-hong-kong-7f-sino-favour-centre/)**, 7/F Sino Favour Centre, 1 On Yip Street, **Chai Wan**
 
 #### New Territories
 
