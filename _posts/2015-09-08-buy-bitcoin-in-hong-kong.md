@@ -21,6 +21,12 @@ The options on how to buy Bitcoin can be overwhelming at first. Unlike with cent
 Compared with selling Bitcoin, there is little fraud risk associated with buying.
 Unfortunately Bitcoin still does not have the legal status in Hong Kong that it deserves, and banks are reluctant to deal with companies and individuals associated with Bitcoin. In this environment it is easy for scammers to attempt to defraud you of your Dollars or Bitcoin in certain kinds of transactions.
 
+[![HK Bitcoin ATM](http://hkbitcoinatm.com/wp-content/uploads/2018/07/HKBITCOINATM_LOGO.jpg)](http://hkbitcoinatm.com/)
+{:.text-center}
+
+Advertisement
+{:.text-center}
+
 ### In Person
 
 As banks are more aggressively acting against Bitcoin companies, trading bitcoin in person has become more popular again in Hong Kong recently. The website [localbitcoins.com](https://localbitcoins.com/buy-bitcoins-online/hkd/ 18 listings) as well as the Android app [Mycelium](https://mycelium.com/lt/help.html) can be used to find people in Hong Kong to meet up with.
@@ -45,12 +51,12 @@ Bitcoin ATMs are located at:
 **[Metro Sham Shui(深之都)](http://bitmac.org/)**, Shop 160, 2/F, Kam Wah Mansion, 226-242 Cheung Sha Wan Rd, **Sham Shui Po**    
 **[Nathan Hotel](http://ncxnet.com/)**, 387 Nathan Road, Starbucks Coffee, **Yau Ma Tei**    
 **[Prudential Hotel](http://ncxnet.com/)**, The Lobby, 222 Nathan Road, **Jordan**   
-**[Rich Towers](http://kryptokiosk.com/)**, 16th Floor, ​​​​​​​2 Blenheim Avenue, **Tsim Sha Tsui**   
 **[Golden Luzon Agency](https://www.genesisblockhk.com/our-services/atm-machine/)**, G/F, 15 Tit Shu Street, **Tai Kok Tsui**
 
 #### Hong Kong
 
 **[Shing Lee Shopping Arcade](http://hkbitcoinatm.com/)**, Shop 19, 1/F, 6 Wing Kut Street, **Central**    
+**[On Lok House](http://kryptokiosk.com/)**, G/F, 39 Hollywood Road, **Central**    
 **[Larry Jewelry](http://ncxnet.com/)**Shop G5, G/F, Bank of America Tower, 12 Harcourt Road, **Admiralty**    
 **[CNT Tower](https://anxintl.com/contact-us/)**, Room F, 19/F, 338 Hennessy Road, **Wan Chai**    
 **[Genesis Block](https://www.genesisblockhk.com/our-services/atm-machine/)**, U/G, 273 Hennessy Road, **Wan Chai**    
