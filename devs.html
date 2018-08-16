@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Meetups
+title: Developer Meetups
 caption: Join us
 subtitle: Come join one of our upcoming meetups!
 icon: direction
 background: "url(/images/bahk-red-skyline.png) #FF0000"
-permalink: /meetups/
+permalink: /devs/
 navigation: visible
 ---
       <p><a href="https://www.meetup.com/Bitcoin-HK/">Join our Meetup.com group</a> to never miss a meetup!
-      <h2>Upcoming Meetups</h2>
+      <h2>Developer Meetups</h2>
       <div class="meetups">
         {% assign curDate = site.time | date: '%s' %}
         {% for post in site.posts %}
-        {% if post.layout != "blog" %}
+        {% if post.layout == "devmeetup" %}
             {% assign postStartDate = post.date | date: '%s' %}
             {% if postStartDate > curDate %}
               <a class="post-link white-box" href="{{ post.url | prepend: site.baseurl }}">
@@ -37,7 +37,7 @@ navigation: visible
         <div class="meetups">
           {% assign curDate = site.time | date: '%s' %}
             {% for post in site.posts %}
-            {% if post.layout != "blog" %}
+            {% if post.layout == "devmeetup" %}
               {% assign postStartDate = post.date | date: '%s' %}
               {% if curDate > postStartDate %}
               <a class="post-link white-box" href="{{ post.url | prepend: site.baseurl }}">

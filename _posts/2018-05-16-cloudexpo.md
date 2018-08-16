@@ -12,7 +12,7 @@ published: true
 
 ### Building the Future of the Lightning Network
 
-Date: **May 16-17, 2017**     
+Date: **May 16-17, 2018**     
 Location: **Hong Kong Convention and Exhibition Centre**, 1 Harbour Road, Wan Chai, Hong Kong     
 (Short walk from **Exit A5, Wan Chai**)     
 

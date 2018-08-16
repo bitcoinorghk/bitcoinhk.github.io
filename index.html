@@ -22,7 +22,7 @@ excerpt: "Fostering and promoting Bitcoin and its technology in Hong Kong."
       <div class="meetups">
         {% assign curDate = site.time | date: '%s' %}
         {% for post in site.posts %}
-        {% if post.layout == "meetup" %}
+        {% if post.layout != "blog" %}
             {% assign postStartDate = post.date | date: '%s' %}
             {% if postStartDate > curDate %}
               <a class="post-link white-box" href="{{ post.url | prepend: site.baseurl }}">
@@ -82,7 +82,7 @@ excerpt: "Fostering and promoting Bitcoin and its technology in Hong Kong."
             {% endfor %}
           </div>
 
-          <p><a href="/meetups/">All Meetups</a> • <a href="/blog/">All Blog Posts</a></p>
+          <p><a href="/meetups/">All Meetups</a> • <a href="/blog/">All Blog Posts</a> • <a href="/devs/">All Devs Meetups</a></p>
 
 
   </div>

@@ -1,5 +1,5 @@
 ---
-layout: meetup
+layout: devmeetup
 title: Devs Meetup
 date: "2018-07-08 19:00:00"
 permalink: "/2018-07-08-devs-meetup/"

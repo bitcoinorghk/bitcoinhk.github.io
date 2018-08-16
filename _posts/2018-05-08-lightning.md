@@ -12,7 +12,7 @@ published: true
 
 ### Building the Future of the Lightning Network
 
-Date: **May 08, 2017 19:00 - 21:00**     
+Date: **May 08, 2018 19:00 - 21:00**     
 Location: Garage Society, 4/F, **93 Lockhart Road, Wan Chai**, Hong Kong     
 (Short walk from **Exit A1, Wan Chai**)     
 

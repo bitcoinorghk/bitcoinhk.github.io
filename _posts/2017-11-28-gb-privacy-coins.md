@@ -12,7 +12,7 @@ published: true
 
 ### Privacy Coins
 
-Date: **November 28, 2018 19:00 - 21:00**     
+Date: **November 28, 2017 19:00 - 21:00**     
 Location: Genesis Block, 1/F, Kwong Wah Building, **269-273 Hennessy Road**, Wan Chai, Hong Kong     
 (Entrance on **Graham Street**)     
 
