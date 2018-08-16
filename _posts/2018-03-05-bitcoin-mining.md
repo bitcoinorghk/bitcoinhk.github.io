@@ -12,7 +12,7 @@ published: true
 
 ### Peter Ng: Bitcoin Mining
 
-Date: **November 08, 2017 19:00 - 21:00**     
+Date: **November 08, 2018 19:00 - 21:00**     
 Location: Garage Society, 19/F, **199 Queen's Road Central, Sheung Wan**, Hong Kong     
 (Short walk from **Exit A2, Sheung Wan**)     
 

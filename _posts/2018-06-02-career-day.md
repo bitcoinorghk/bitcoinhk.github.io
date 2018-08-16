@@ -12,7 +12,7 @@ published: true
 
 ### Crypto Career Day 2018
 
-Date: **June 02, 2017 14:00 - 19:00**     
+Date: **June 02, 2018 14:00 - 19:00**     
 Location: Garage Society, 4/F, **93 Lockhart Road, Wan Chai**, Hong Kong     
 (Short walk from **Exit A1, Wan Chai**)     
 
