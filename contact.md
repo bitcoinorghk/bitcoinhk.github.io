@@ -8,7 +8,7 @@ permalink: "/contact/"
 navigation: "visible"
 ---
 
-The best way to get in touch with our community is to stop by one of our [events][1].
+The best way to get in touch with our community is to stop by one of our [meetups][1]. For a comprehensive list of all events in Hong Kong, have a look at the [calendar][4].
 
 You can also reach us by email at: [info@bitcoin.org.hk][2]
 
@@ -55,3 +55,4 @@ Join our Telegram Channel [@BitcoinHK](https://telegram.me/bitcoinhk) for announ
 [1]: /meetups
 [2]: mailto:info@bitcoinhk.org
 [3]: https://discuss.bitcoinhk.org
+[4]: /calendar
