@@ -1,5 +1,5 @@
 ---
-layout: meetup
+layout: devmeetup
 title: Bitcoin Unlimited - Presentations and Discussions
 date: "2016-11-28 19:00:00"
 permalink: "/2016-bitcoin-unlimited/"
@@ -12,13 +12,11 @@ published: true
 
 ### Bitcoin Unlimited: Presentations and Discussion
 
-update:
-The video has been uploaded here:
-<iframe width="100%" height="630" src="https://www.youtube.com/embed/nAqos76JONw" frameborder="0" allowfullscreen></iframe>
-
 Date: **November 28, 2016 19:00 - 21:00**     
 Location: Tuspark Workhub, 4/F Yes & Right House, **1 Mody Road, Tsim Sha Tsui**, Hong Kong     
 (Near **Exit N5, Tsim Sha Tsui Station**)     
+
+<iframe width="100%" height="630" src="https://www.youtube.com/embed/nAqos76JONw" frameborder="0" allowfullscreen></iframe>
 
 With Bitcoin Unlimited currently holding 10% of the global hash rate and dominating the Bitcoin news cycle for their controversial stances on scaling, join us for an evening of presentations by their key developers and participate in a discussion which addresses key issues on SegWit, on-chain scaling and the future of the Bitcoin protocol development.
 

@@ -1,5 +1,5 @@
 ---
-layout: meetup
+layout: devmeetup
 title: Tuspark Lecture Series - Segregated Witnesses
 date: "2016-03-16 19:00:00"
 permalink: "/2016-tuspark-segregated-witnesses/"
@@ -8,12 +8,12 @@ address: Tuspark Workhub, 4/F Yes & Right House, 1 Mody Road, Tsim Sha Tsui, Hon
 link: ""
 background: "url(/media/2015/05/tuspark.jpg) #FF0000"
 published: true
+redirect_from:
+ - /bitcoin-lecture-series/episode-1-upgrading-bitcoin-segregated-witness
 ---
 
 
 ### #11, March 16: Segregated Witnesses
-
-_[Audio, Video & Slides of this event are available as part of The Bitcoin Lecture Series](/bitcoin-lecture-series/episode-1-upgrading-bitcoin-segregated-witness)_
 
 Segregated Witnesses (Segwit) is one of the most heated topics in Bitcoin protocol development. It aims to fix the problem of "transaction malleability", a big headache for developers for a long time. It also brings a number of bonus features, and opens exciting opportunities for significantly scaling Bitcoin's transaction capacity. Without too much technical jargon, the speaker will introduce how Segwit works, what improvements it is expected to bring, and how it will be implemented.
 
@@ -21,7 +21,9 @@ Date: **March 16, 2016 19:00 - 21:00**
 Location: Tuspark Workhub, 4/F Yes & Right House, **1 Mody Road, Tsim Sha Tsui**, Hong Kong     
 (Near **Exit N5, Tsim Sha Tsui Station**)     
 
-Speaker: Dr. Johnson Lau, Bitcoin Core Contributor  
+Speaker: **Dr. Johnson Lau**, Bitcoin Core Contributor  
+
+<iframe width="100%" height="630" src="https://www.youtube.com/embed/T1fqOEhFP40" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Member Fee: **Free for members** of Tuspark and the Bitcoin Association of Hong Kong and full-time students    
 Non-member Fee: **50 HKD** (payable by credit card or paypal)     

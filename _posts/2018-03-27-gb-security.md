@@ -1,5 +1,5 @@
 ---
-layout: meetup
+layout: devmeetup
 title: Storage Options for Bitcoin
 date: "2018-03-27 19:00:00"
 permalink: "/2018-gb-bitcoin-security/"
@@ -20,7 +20,7 @@ Speaker:
 
 **Leo Weese** (Bitcoin Association of Hong Kong)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dVVh4_psahw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="630" src="https://www.youtube.com/embed/dVVh4_psahw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 [You can find the slides here](/media/2018/03/security.pdf)
 
