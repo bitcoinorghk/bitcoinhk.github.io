@@ -1,5 +1,5 @@
 ---
-layout: meetup
+layout: devmeetup
 title: ICO Regulation in Hong Kong
 date: "2018-04-10 19:00:00"
 permalink: "/2018-ico-regulation/"
@@ -19,6 +19,8 @@ Location: Garage Society, 9/F, **33 Des Voeux Road Central, Central**, Hong Kong
 Speaker:
 
 **[Mark So](https://www.rpc.co.uk/people/mark-so/)** & **[Ben Yates](https://www.rpc.co.uk/people/ben-yates/)** (RPC Law Firm)
+
+<iframe width="100%" height="630" src="https://www.youtube.com/embed/xn0xmQ_Hlnc" frameborder="0" allowfullscreen></iframe>
 
 [You can find the slides here](/media/2018/04/regulation.pdf)
 

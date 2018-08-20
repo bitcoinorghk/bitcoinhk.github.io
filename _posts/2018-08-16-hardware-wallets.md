@@ -12,7 +12,7 @@ published: true
 
 ### Hardware Wallets - What Makes Them Secure?
 
-Date: **May 08, 2018 19:00 - 21:00**     
+Date: **August 07, 2018 19:00 - 21:00**     
 Location: Garage Society, 9/F, **33 Des Voeux Central, Central**, Hong Kong     
 (Short walk from **Exit B, Central Station**)     
 

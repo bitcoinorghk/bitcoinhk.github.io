@@ -12,11 +12,9 @@ published: true
 
 ## Let's Talk About Code
 
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bhq9D30Rvq8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-{:.text-center}
-
 The Bitcoin Devs meetup is a technical event intended for programmers, developers and technical people. If you want to come and hang out with us, please join us for our casual hangout, which will happen around the corner shortly after!
+
+<iframe width="100%" height="630" src="https://www.youtube-nocookie.com/embed/bhq9D30Rvq8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Special guest: Jimmy Song, Bitcoin Core Contributor and former VP of Engineering at Armory. He will dive into the details of Schnorr Signatures, Bellare-Neven and MuSig.
 
