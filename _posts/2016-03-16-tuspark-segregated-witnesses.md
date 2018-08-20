@@ -23,6 +23,16 @@ Location: Tuspark Workhub, 4/F Yes & Right House, **1 Mody Road, Tsim Sha Tsui**
 
 Speaker: **Dr. Johnson Lau**, Bitcoin Core Contributor  
 
+#### Slides
+
+[PDF](https://www.bitcoin.org.hk/media/presentations/2016-03-16/2016-03-16-Segregated_Witness.pdf) [Web](https://www.bitcoin.org.hk/media/presentations/2016-03-16/segregated-witness/)
+
+#### Audio
+
+[Audio](https://www.bitcoin.org.hk/media/podcast/EP1_-_Upgrading_Bitcoin_-_Segregated_Witness-mono.m4a)
+
+#### Video
+
 <iframe width="100%" height="630" src="https://www.youtube.com/embed/T1fqOEhFP40" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Member Fee: **Free for members** of Tuspark and the Bitcoin Association of Hong Kong and full-time students    
