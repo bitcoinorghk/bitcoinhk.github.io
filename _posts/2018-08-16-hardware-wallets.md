@@ -22,6 +22,10 @@ Tangem co-founder Andrew Pantyukhin will explain how assured microelectronics wo
 
 About the Speaker: **Andrew Pantyukhin** comes from a technical background and is focusing on product and growth at Tangem. He was previously in venture capital and helping early-stage startups refine products at scale
 
+(You can find the slides here](/media/2018/08/hardware.pdf)
+
+<iframe width="100%" height="630" src="https://www.youtube.com/embed/zxRvzPMorWo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d388.06037911364206!2d114.15734325906284!3d22.282788377979923!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34040064a09d4adf%3A0x12681b7f2253e855!2sGarage+Society+Central!5e0!3m2!1sen!2shk!4v1522846323880" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 [![Garage Society](/media/2017/05/garagesociety.png)](http://www.thegaragesociety.com/)
