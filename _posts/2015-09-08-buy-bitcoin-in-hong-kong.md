@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Buy Bitcoin in Hong Kong
-date: "2018-07-06 02:00:00"
+date: "2018-08-22 02:00:00"
 permalink: /buy-bitcoin-in-hong-kong/
 author: liongrass
 published: true
@@ -12,7 +12,7 @@ redirect_from:
 
 ---
 
-last updated: 2018-07-06 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md)
+last updated: 2018-08-22 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md)
 
 ## Buying Bitcoin in Hong Kong
 
