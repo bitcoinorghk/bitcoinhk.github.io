@@ -55,6 +55,7 @@ Bitcoin ATMs are located at:
 
 #### Hong Kong
 
+**[Kwong Kee Building](https://www.genesisblockhk.com/our-services/atm-machine/)**, G/F, , 54-56 Jervois Street, **Sheung Wan**   
 **[Shing Lee Shopping Arcade](http://hkbitcoinatm.com/)**, Shop 19, 1/F, 6 Wing Kut Street, **Central**    
 **[On Lok House](http://kryptokiosk.com/)**, G/F, 39 Hollywood Road, **Central**    
 **[Larry Jewelry](http://ncxnet.com/)**Shop G5, G/F, Bank of America Tower, 12 Harcourt Road, **Admiralty**    
