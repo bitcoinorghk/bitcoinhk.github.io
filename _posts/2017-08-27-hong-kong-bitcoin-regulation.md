@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Hong Kong Bitcoin Regulation"
-date: "2018-02-09 10:00:00"
+date: "2018-08-26 10:00:00"
 permalink: "/hong-kong-bitcoin-regulation/"
 author: liongrass
 published: true
@@ -10,7 +10,7 @@ background: " url(/media/2015/11/shenzhen.png) #FF0000"
 
 # Hong Kong, rule of law and the free market
 
-Updated: 2018-02-09
+Updated: 2018-08-26
 
 In general, Hong Kong has a reputation as a reliable and predictable non-interventionist regulator. Most rules are clearly laid out and easy to comprehend and follow for people with little legal training (like me).
 
@@ -48,7 +48,7 @@ Trading activities are [controlled by the Customs and Excise Department](http://
 
 Some financial regulatory principles such as "Know Your Customer" may still apply to [commotities trading](https://www.stc.tid.gov.hk/english/bsg/BestPractice.html). What this means precisely for Bitcoin trading remains unknown.
 
-The only guidance available is [a document from the Customs and Excise Department from January 30](http://www.customs.gov.hk/filemanager/common/pdf/circular_VC_30012014_en.pdf). In short, people dealing with Bitcoin might have a duty to:
+The only guidance available is [a document from the Customs and Excise Department from January 30, 2014](http://www.customs.gov.hk/filemanager/common/pdf/circular_VC_30012014_en.pdf). In short, people dealing with Bitcoin might have a duty to:
 
 - obtain information on the customer and keeping it up to date
 
@@ -63,6 +63,14 @@ The only guidance available is [a document from the Customs and Excise Departmen
 While not carrying legal status, the Joint Financial Intelligence Unit (JFIU) [references a 2014 report by the Paris-based Financial Action Task Force (FATF) on cryptocurrencies](http://www.jfiu.gov.hk/info/doc/Virtual-currency-key-definitions-and-potential-aml-cft-risks.pdf). The document may be interesting as a reference point.
 
 In March 2015 the Secretary for Financial Services & the Treasury, Prof KC Chan 陳家強 [reiterated the government's stance](https://www.news.gov.hk/en/categories/finance/html/2015/03/20150325_150920.shtml) that Bitcoin regulation is "not needed".
+
+### Bitcoin as a Virtual Currency
+
+Recently, various Hong Kong institutions departments have become less consistent in refering to Bitcoin as a virtual commodity, and instead mention the term 'virtual currency' more frequently.
+
+Most notably, [the Legislative Council](https://www.legco.gov.hk/research-publications/english/essentials-1516ise15-blockchain-technology.htm) refers to Bitcoin as a virtual currency in their research publication. Councillors requently (e.g. [June 2017](https://www.info.gov.hk/gia/general/201706/21/P2017062100532.htm) & [November 2017](https://www.info.gov.hk/gia/general/201711/08/P2017110800405.htm)). In its "Money Laundering and Terrorist Financing Risk Assessment Report" the Financial Services and Treasury Bureay writes ["Virtual currencies (“VCs”) are virtual commodities"](https://www.fstb.gov.hk/fsb/aml/en/doc/hk-risk-assessment-report_e.pdf) and refers to Bitcoin primarily as a virtual currency. The HKMA refers to Bitcoin mainly as a "cryptocurrency" in their November 2016 ["Whitepaper on Distributed Ledger Technology."](https://www.hkma.gov.hk/media/eng/doc/key-functions/finanical-infrastructure/Whitepaper_On_Distributed_Ledger_Technology.pdf) The same goes for the ["Whitepaper 2.0"](https://www.hkma.gov.hk/media/eng/doc/key-functions/finanical-infrastructure/infrastructure/20171025e1a1.pdf) published October 2017.
+
+This terminology puts it more in line with international organizations and in our opinion does not represent a policy shift.
 
 ### Taxation
 
@@ -125,6 +133,8 @@ Securities law is incredibly complicated and Blockchain-based product are not ex
 Some tokens, especially those derived from "Token Creation Events" or "Initial Coin Offerings" [are very likely securities](http://www.sfc.hk/web/EN/news-and-announcements/policy-statements-and-announcements/statement-on-initial-coin-offerings.html), and their offering to unqualified investors in Hong Kong is illegal. It however currently seems unlikely that the SFC will go after securities not specifically offered or advertised to Hong Kong investors.
 
 On February 9, 2018 the SFC [contacted Hong Kong exchanges](http://www.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=18PR13) urging them to delist tokens deemed securities. ICO issuers were also contacted. They either stopped their ICO or promised to comply with securities regulation.
+
+Advising on token offerings, brokering tokens and letting customers trade them [may require a license from the SFC](https://www.sfc.hk/web/EN/regulatory-functions/intermediaries/licensing/guide-to-licence-application/regulated-activities.html).
 
 #### Future Outlook
 
