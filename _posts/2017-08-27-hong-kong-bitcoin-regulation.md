@@ -74,6 +74,8 @@ This terminology puts it more in line with international organizations and in ou
 
 ### Taxation
 
+[For a more comprehensive article about Bitcoin Taxation, please refer to this article.](/hong-kong-bitcoin-taxation/)
+
 Hong Kong's tax regime remains simple and taxes are generally low. There is no Value Added Tax (VAT) or Capital Gains tax, making many of the taxation nightmares around Bitcoin known from other countries non-existent.
 
 Income tax needs to be paid independent of whether payments are made in cash, cheque or Bitcoin and it is generally up to a business if they want to do their accounting in Hong Kong Dollars or Bitcoin.
