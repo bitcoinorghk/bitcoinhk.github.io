@@ -14,7 +14,7 @@ published: true
 
 Date: **August 31, 2018 19:00 - 21:00**     
 Location: Kenetic Capital, **10/F, Ruttonjee House, 11 Duddell Street, Central**, Hong Kong     
-(Short walk from **Exit E, Tai Koo Station**)     
+(Short walk from **Exit G, Central Station**)     
 
 Speaker: **Patrick McCorry**
 
