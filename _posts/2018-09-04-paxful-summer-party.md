@@ -26,7 +26,7 @@ All proceeds will go towards financial education of underbanked individuals in H
 
 [Sponsored by Paxful](https://paxful.com/)
 
-![Sponsored by Paxful](/media/2018/08/summer18.jepg)
+![Sponsored by Paxful](/media/2018/08/summer18.jpeg)
 {:.text-center}
 
 Got an invitation? Fill out the form below:
