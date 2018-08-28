@@ -9,7 +9,7 @@ link: "https://www.meetup.com/Bitcoin-HK/events/lrsmmlyxmbgb/"
 background: "url(/media/2014/12/beer.jpg) #FF0000"
 published: true
 redirect_from:
-  - /summer28/
+  - /summer18/
 ---
 
 ## Let's Talk About Bitcoin
@@ -25,6 +25,9 @@ Get your tickets here:
 All proceeds will go towards financial education of underbanked individuals in Hong Kong. Paxful will match your contributions up to HK$10'000.
 
 [Sponsored by Paxful](https://paxful.com/)
+
+![Sponsored by Paxful](/media/2018/08/summer18.jepg)
+{:.text-center}
 
 Got an invitation? Fill out the form below:
 
