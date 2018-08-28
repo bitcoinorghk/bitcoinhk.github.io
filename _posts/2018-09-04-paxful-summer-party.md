@@ -8,6 +8,8 @@ address: WeWork Causeway Bay, 20/F, 535 Jaffe Road, Causeway Bay, Hong Kong
 link: "https://www.meetup.com/Bitcoin-HK/events/lrsmmlyxmbgb/"
 background: "url(/media/2014/12/beer.jpg) #FF0000"
 published: true
+redirect_from:
+  - /summer28/
 ---
 
 ## Let's Talk About Bitcoin
