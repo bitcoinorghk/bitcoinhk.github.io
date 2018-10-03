@@ -51,7 +51,8 @@ Bitcoin ATMs are located at:
 **[Metro Sham Shui(深之都)](http://bitmac.org/)**, Shop 160, 2/F, Kam Wah Mansion, 226-242 Cheung Sha Wan Rd, **Sham Shui Po**    
 **[Nathan Hotel](http://ncxnet.com/)**, 387 Nathan Road, Starbucks Coffee, **Yau Ma Tei**    
 **[Prudential Hotel](http://ncxnet.com/)**, The Lobby, 222 Nathan Road, **Jordan**   
-**[Golden Luzon Agency](https://www.genesisblockhk.com/our-services/atm-machine/)**, G/F, 15 Tit Shu Street, **Tai Kok Tsui**
+**[Golden Luzon Agency](https://www.genesisblockhk.com/our-services/atm-machine/)**, G/F, 15 Tit Shu Street, **Tai Kok Tsui**    
+**[FunTower](http://ncxnet.com/)**, 29/F, 35 Hung To Road, **Kwun Tong**    
 
 #### Hong Kong
 
@@ -59,6 +60,7 @@ Bitcoin ATMs are located at:
 **[Naked Hub](https://www.genesisblockhk.com/our-services/atm-machine/)**, G/F, 40-44 Bonham Strand, **Sheung Wan, HK**    
 **[Shing Lee Shopping Arcade](http://hkbitcoinatm.com/)**, Shop 19, 1/F, 6 Wing Kut Street, **Central**    
 **[On Lok House](http://kryptokiosk.com/)**, G/F, 39 Hollywood Road, **Central**    
+**[Lotus](https://www.genesisblockhk.com/our-services/atm-machine/)**, 5 Staunton Street, Soho, **Central**    
 **[Larry Jewelry](http://ncxnet.com/)**Shop G5, G/F, Bank of America Tower, 12 Harcourt Road, **Admiralty**    
 **[CNT Tower](https://anxintl.com/contact-us/)**, Room F, 19/F, 338 Hennessy Road, **Wan Chai**    
 **[Genesis Block](https://www.genesisblockhk.com/our-services/atm-machine/)**, U/G, 273 Hennessy Road, **Wan Chai**    
