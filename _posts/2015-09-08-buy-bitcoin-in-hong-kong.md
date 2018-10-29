@@ -65,6 +65,7 @@ Bitcoin ATMs are located at:
 **[Larry Jewelry](http://ncxnet.com/)**Shop G5, G/F, Bank of America Tower, 12 Harcourt Road, **Admiralty**    
 **[CNT Tower](https://anxintl.com/contact-us/)**, Room F, 19/F, 338 Hennessy Road, **Wan Chai**    
 **[Genesis Block](https://www.genesisblockhk.com/our-services/atm-machine/)**, U/G, 273 Hennessy Road, **Wan Chai**    
+**[VELA Hotel](http://ncxnet.com/)**, 86 Morrison Hill Rd, Morrison Hill, **Causeway Bay**
 **[Tidebit](https://coinatmradar.com/bitcoin_atm/5437/bitcoin-atm-general-bytes-hong-kong-7f-sino-favour-centre/)**, 7/F Sino Favour Centre, 1 On Yip Street, **Chai Wan**
 
 #### New Territories
