@@ -57,13 +57,15 @@ Bitcoin ATMs are located at:
 #### Hong Kong
 
 **[Kwong Kee Building](https://www.genesisblockhk.com/our-services/atm-machine/)**, G/F, , 54-56 Jervois Street, **Sheung Wan**   
-**[Naked Hub](https://www.genesisblockhk.com/our-services/atm-machine/)**, G/F, 40-44 Bonham Strand, **Sheung Wan, HK**    
+**[Naked Hub](https://www.genesisblockhk.com/our-services/atm-machine/)**, G/F, 40-44 Bonham Strand, **Sheung Wan**    
+**[LBP Hotel](http://ncxnet.com/)**, Hollywood Centre 77-91 Queen’s Road West, **Sheung Wan**    
 **[Shing Lee Shopping Arcade](http://hkbitcoinatm.com/)**, Shop 19, 1/F, 6 Wing Kut Street, **Central**    
 **[On Lok House](http://kryptokiosk.com/)**, G/F, 39 Hollywood Road, **Central**    
-**[Lotus](https://www.genesisblockhk.com/our-services/atm-machine/)**, 5 Staunton Street, Soho, **Central**    
+**[Lotus](https://www.genesisblockhk.com/our-services/atm-machine/)**, 5 Staunton Street, Soho, **Central**   
 **[Larry Jewelry](http://ncxnet.com/)**Shop G5, G/F, Bank of America Tower, 12 Harcourt Road, **Admiralty**    
 **[CNT Tower](https://anxintl.com/contact-us/)**, Room F, 19/F, 338 Hennessy Road, **Wan Chai**    
 **[Genesis Block](https://www.genesisblockhk.com/our-services/atm-machine/)**, U/G, 273 Hennessy Road, **Wan Chai**    
+**[VELA Hotel](http://ncxnet.com/)**, 86 Morrison Hill Rd, Morrison Hill, **Causeway Bay**
 **[Tidebit](https://coinatmradar.com/bitcoin_atm/5437/bitcoin-atm-general-bytes-hong-kong-7f-sino-favour-centre/)**, 7/F Sino Favour Centre, 1 On Yip Street, **Chai Wan**
 
 #### New Territories
