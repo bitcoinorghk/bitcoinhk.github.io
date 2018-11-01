@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title: Adam Back - How to Scale Bitcoin Securely
+title: Howard Wu - Bitcoin Privacy
 date: "2018-01-08 19:00:00"
 permalink: "/2017-bitcoin-privacy/"
 host: Bitcoin Association of Hong Kong
