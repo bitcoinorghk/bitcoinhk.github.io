@@ -4,6 +4,7 @@ name: salg
 subtitle: Position
 modal-id: 1
 thumbnail: salg_thumb.png
+layout: members
 alt: SALG logo
 link: https://www.salg.cc/
 ---
