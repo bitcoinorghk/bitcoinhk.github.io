@@ -1,0 +1,10 @@
+---
+title: eToro
+name: etoro
+subtitle: Position
+modal-id: 1
+thumbnail: etoro_thumb.png
+layout: members
+alt: eToro logo
+link: https://www.etoro.com/
+---

@@ -22,7 +22,7 @@ excerpt: "Fostering and promoting Bitcoin and its technology in Hong Kong."
       <div class="meetups">
         {% assign curDate = site.time | date: '%s' %}
         {% for post in site.posts %}
-        {% if post.layout != "blog" %}
+        {% if post.layout == "meetup" %}
             {% assign postStartDate = post.date | date: '%s' %}
             {% if postStartDate > curDate %}
               <a class="post-link white-box" href="{{ post.url | prepend: site.baseurl }}">
@@ -51,6 +51,8 @@ excerpt: "Fostering and promoting Bitcoin and its technology in Hong Kong."
 
 
             {% for post in site.posts %}
+            {% if post.layout != "members" %}
+
               {% assign postStartDate = post.date | date: '%s' %}
               {% if curDate > postStartDate %}
 
@@ -77,6 +79,7 @@ excerpt: "Fostering and promoting Bitcoin and its technology in Hong Kong."
               {% assign count = count | plus: 1 %}
               {% if count >= recent_limit %}
               {% break %}
+              {% endif %}
               {% endif %}
               {% endif %}
             {% endfor %}
