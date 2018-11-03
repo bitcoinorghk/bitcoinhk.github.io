@@ -35,6 +35,17 @@ All current directors of the Bitcoin Association of Hong Kong.
 
 The Bitcoin Association is about to welcome its first corporate members. To join as a corporate member, [please click here](/corporate).
 
+<div>
+        <p>
+            {% for post in site.categories.corporate %}
+                <a href="{{ post.link }}">
+                    <img src="/media/corporate/{{ post.thumbnail }}" class="img-responsive img-centered" alt="{{ post.alt }}" title="{{ post.title }}">
+                </a>
+            {% endfor %}
+        </p>
+</div>
+{:.text-center}
+
 ## Members
 
 A non-exhaustive list of current full members. To join as an individual members, [please click here](/join).

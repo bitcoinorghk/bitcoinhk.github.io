@@ -1,0 +1,9 @@
+---
+title: SALG
+name: salg
+subtitle: Position
+modal-id: 1
+thumbnail: salg_thumb.png
+alt: SALG logo
+link: https://www.salg.cc/
+---

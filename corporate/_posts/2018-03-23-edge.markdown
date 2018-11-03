@@ -1,0 +1,9 @@
+---
+title: Edge Wallet
+name: edge
+subtitle: Position
+modal-id: 1
+thumbnail: edge_thumb.png
+alt: Edge Wallet Logo
+link: https://edge.app/
+---
