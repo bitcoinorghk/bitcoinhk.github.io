@@ -22,7 +22,7 @@ excerpt: "Fostering and promoting Bitcoin and its technology in Hong Kong."
       <div class="meetups">
         {% assign curDate = site.time | date: '%s' %}
         {% for post in site.posts %}
-        {% if post.layout == "meetup" %}
+        {% if post.layout != "members" %}
             {% assign postStartDate = post.date | date: '%s' %}
             {% if postStartDate > curDate %}
               <a class="post-link white-box" href="{{ post.url | prepend: site.baseurl }}">
