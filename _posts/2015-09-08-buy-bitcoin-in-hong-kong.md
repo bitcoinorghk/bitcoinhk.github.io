@@ -94,6 +94,9 @@ There are currently four exchanges with local Hong Kong bank accounts. Some of t
 **[ANX](https://anxpro.com/)**
 Once you are signed up and verified, depositing your Hong Kong dollars with ANX is easy. You can hand it over in cash at their main office in Wan Chai and it will be credited quickly to your account, where you can exchange them to Bitcoin and withdraw to your wallet.
 
+**[Gatecoin](https://gatecoin.com/)**
+Gatecoin is one of the older continuous running exchanges in Hong Kong. After focusing on their crypto-to-crypto platform, Gatecoin is once again available for buyers and sellers of BTC through HKD and USD wiretransfers.
+
 **[Tidebit](https://www.tidebit.com/)**
 Tidebit is the newest of Hong Kong Bitcoin exchanges. You can deposit cash for free or via wire transfer for a 2% fee.
 
@@ -107,7 +110,7 @@ For larger amounts, you can go to an OTC Exchange, or broker. A broker will give
 **[Gatecoin](https://gatecoin.com/)**
 The international Hong Kong-based exchange Gatecoin also offers OTC trading.
 
-**[Octagon Financial](https://www.octfinancial.com/)**
+**[OSL](https://www.osl.com/)**
 Affiliated with ANX as mentioned above.
 
 **[Genesis Block](https://www.genesisblockhk.com/)**
