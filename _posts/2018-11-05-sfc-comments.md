@@ -33,11 +33,17 @@ On November 1, 2018, the Chief Executive Officer of the SFC, Ashley Alder, annou
 
 [Henry Yu & Associates: "RE: STATEMENT FROM SFC ON CONCEPTUAL FRAMEWORK FOR REGULATING CRYPTO-EXCHANGES"](/media/2018/11/181106K_HYU_News_re_SFC_Conceptual.pdf)
 
+[OSL Brokerage: "A regulatory framework is a prudent approach to the development of this market"](https://twitter.com/OSLBrokerage/status/1058313293448675328)
+
 ### Media coverage
 
 [Bloomberg: "Hong Kong Reveals Crypto Rules in Push to Tame Wild Market"](https://www.bloomberg.com/news/articles/2018-11-01/hong-kong-reveals-crypto-rules-joining-push-to-tame-wild-market)
 
 [Reuters: "Hong Kong securities regulator to propose 'sandbox' for crypto exchanges"](https://www.reuters.com/article/us-hongkong-regulator-crypto/hong-kong-securities-regulator-to-propose-sandbox-for-crypto-exchanges-idUSKCN1N63DU)
+
+[HKET: "證監限虛擬資產基金 售專業投資者"](https://invest.hket.com/article/2199400/%E8%AD%89%E7%9B%A3%E9%99%90%E8%99%9B%E6%93%AC%E8%B3%87%E7%94%A2%E5%9F%BA%E9%87%91%20%E5%94%AE%E5%B0%88%E6%A5%AD%E6%8A%95%E8%B3%87%E8%80%85)
+
+[HKEJ: "證監發牌規管虛擬幣投資"](http://www1.hkej.com/dailynews/article/id/1981943)
 
 
 Feel free to send us your articles and opinion pieces.
