@@ -29,6 +29,7 @@ You can donate money here using the Lightning network!
 <div class="input-group">
 <div class="input-group-append">
 <input class="form-control" type="number" min="0" step="0.01" name="amount" placeholder="0.00 HKD">
+<input type="hidden" name="notifyEmail" value="btcpay@bitcoin.org.hk" />
 
 <p><input type="button" class="fbutton" 
        name="7" value="7" id="7" 
