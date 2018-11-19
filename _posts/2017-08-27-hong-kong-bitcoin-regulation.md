@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Hong Kong Bitcoin Regulation"
-date: "2018-08-26 10:00:00"
+date: "2018-11-14 10:00:00"
 permalink: "/hong-kong-bitcoin-regulation/"
 author: liongrass
 published: true
@@ -10,7 +10,7 @@ background: " url(/media/2015/11/shenzhen.png) #FF0000"
 
 # Hong Kong, rule of law and the free market
 
-Updated: 2018-08-26
+Updated: 2018-11-14 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2017-08-27-hong-kong-bitcoin-regulation.md)
 
 In general, Hong Kong has a reputation as a reliable and predictable non-interventionist regulator. Most rules are clearly laid out and easy to comprehend and follow for people with little legal training (like me).
 
@@ -20,13 +20,13 @@ However, some license regimes are restrictive and tied to control over real esta
 
 The result of this means that while **Rule of Law** and **Free Market Principles** prevail in Hong Kong, markets are highly duopolized and uncompetitive.
 
-While Bitcoin in general is **not yet regulated** other existing regulations might apply and the above mentioned realities shape Bitcoin markets and businesses in Hong Kong. It is important to understand the political and economical limitations and obscurities of Hong Kong to understand how Bitcoin fits in. Sadly this greatly exceeds the scope of this article.
+While Bitcoin in general is **not specifically regulated** other existing regulations might apply and the above mentioned realities shape Bitcoin markets and businesses in Hong Kong. It is important to understand the political and economical limitations and obscurities of Hong Kong to understand how Bitcoin fits in. Sadly this greatly exceeds the scope of this article.
 
 ## Hong Kong Bitcoin Regulation
 
 Bitcoin did not get onto the radar of the Hong Kong regulators until late 2013. Until then there was little Bitcoin activity in Hong Kong. Bitfinex was likely the first exchange to open bank accounts in Hong Kong and offering exchange and trading services largely to international customers in 2012.
 
-ANX and Bitcashout followed in 2013, and Bitcoin prices continued to rally througout November 2013, reaching a high of US$1153.27 on European exchange Bitstamp on December 4, 2013.
+ANX and Bitcashout followed in 2013, and Bitcoin prices continued to rally throughout November 2013, reaching a high of US$1153.27 on European exchange Bitstamp on December 4, 2013.
 
 The then Financial Secretary John Tsang 曾俊華 mentioned Bitcoin for the first time in a [blog post](http://www.fso.gov.hk/chi/blog/blog011213.htm) on December 1, 2013 ([referenced here](http://www.scmp.com/business/banking-finance/article/1396917/virtual-currency-entrepreneurs-fight-future-bitcoin-hong)). In this article Tsang gives a good summary of how Bitcoin works and warns about its volatile nature and the lack of support from a state or issuer. He warns of a bubble bursting and sees many opportunities for software developers.
 
@@ -64,6 +64,8 @@ While not carrying legal status, the Joint Financial Intelligence Unit (JFIU) [r
 
 In March 2015 the Secretary for Financial Services & the Treasury, Prof KC Chan 陳家強 [reiterated the government's stance](https://www.news.gov.hk/en/categories/finance/html/2015/03/20150325_150920.shtml) that Bitcoin regulation is "not needed".
 
+In September 2018 the HKMA reiterated their stance that Bitcoin is not money, but instead a type of commodity, in a [speech given by its Chief Executive, Norman Chan](https://www.hkma.gov.hk/eng/key-information/speech-speakers/ntlchan/20180921-1.shtml). The speech mimicks that of [Agustín Carstens](https://www.bis.org/speeches/sp180206.pdf) of the Bank of International Settlements in February 2018.
+
 ### Bitcoin as a Virtual Currency
 
 Recently, various Hong Kong institutions departments have become less consistent in refering to Bitcoin as a virtual commodity, and instead mention the term 'virtual currency' more frequently.
@@ -71,6 +73,42 @@ Recently, various Hong Kong institutions departments have become less consistent
 Most notably, [the Legislative Council](https://www.legco.gov.hk/research-publications/english/essentials-1516ise15-blockchain-technology.htm) refers to Bitcoin as a virtual currency in their research publication. Councillors requently (e.g. [June 2017](https://www.info.gov.hk/gia/general/201706/21/P2017062100532.htm) & [November 2017](https://www.info.gov.hk/gia/general/201711/08/P2017110800405.htm)). In its "Money Laundering and Terrorist Financing Risk Assessment Report" the Financial Services and Treasury Bureay writes ["Virtual currencies (“VCs”) are virtual commodities"](https://www.fstb.gov.hk/fsb/aml/en/doc/hk-risk-assessment-report_e.pdf) and refers to Bitcoin primarily as a virtual currency. The HKMA refers to Bitcoin mainly as a "cryptocurrency" in their November 2016 ["Whitepaper on Distributed Ledger Technology."](https://www.hkma.gov.hk/media/eng/doc/key-functions/finanical-infrastructure/Whitepaper_On_Distributed_Ledger_Technology.pdf) The same goes for the ["Whitepaper 2.0"](https://www.hkma.gov.hk/media/eng/doc/key-functions/finanical-infrastructure/infrastructure/20171025e1a1.pdf) published October 2017.
 
 This terminology puts it more in line with international organizations and in our opinion does not represent a policy shift.
+
+### Bitcoin as a Virtual Asset
+
+On November 1, 2018, the Chief Executive Officer of the SFC, Ashley Alder, announced in [a keynote speech](https://www.sfc.hk/web/EN/files/ER/PDF/Speeches/Ashley%20HK%20FinTech%20Week.pdf) at Fintech Week the strict enforcement and clarification of existing rules, as well as a sandboxing arrangement for cryptocurrency exchanges. He groups cryptocurrencies like Bitcoin, security and utility tokens together into the term 'virtual assets or crypto-assets'.
+
+Together with this speech, the SFC released two appendices that attempt to govern the rules of cryptocurrency [funds](https://www.sfc.hk/web/EN/files/ER/PDF/App%201%20-%20Reg%20standards%20for%20VA%20portfolio%20mgrs_eng.pdf) and [exchanges](https://www.sfc.hk/web/EN/files/ER/PDF/App%202_%20Conceptual%20framework%20for%20VA%20trading%20platform_eng.pdf).
+
+The intention of these rules and publications are difficult to understand, as they appeared relatively abruptly and without a clear goal.
+
+#### Funds
+
+Whether a fund needs a license from the SFC is independent of whether it holds these 'virtual assets.'
+
+A fund that only invests in cryptocurrencies (and not in futures or securities) does not need a type 9 license (asset management). If it however distributes such a fund in Hong Kong it requires a type 1 license. The SFC however expects that a fund holding cryptocurrencies behaves as if  it held securities or futures.
+
+All licensed funds that hold more than 10% of their funds in cryptocurrencies are now subject to special Terms and Conditions which may differ from fund to fund.
+
+Any fund that invests in 'virtual assets' may **only be available to professional investors**.
+
+The SFC will also be interested in the security arrangements of such a fund, custodial arrangements or insurance.
+
+The clarifications are trying to limit the cryptocurrency exposure of funds, and keep it off limits for retail investors. It is also trying to heavily disincentivize funds from holding too much cryptocurrency. For example, if due to appreciation the cryptocurrencies in a portfolio increase above 10%, the SFC requires a fund to divest or else see themselves tied to the restrictive terms of conditions.
+
+If you are running a fund, consult a lawyer about whether you need a license to operate in Hong Kong.
+
+#### Exchanges
+
+As explained above, trading activity is regulated by the Customs & Excise Department of the Hong Kong Police Force. The SFC only regulates those exchanges that give investment advice, trade futures or on margin.
+
+Under the new interpretations, the SFC will allow certain cryptocurrency exchanges into a 'sandbox' regime, where the exchanges have to behave as if they were license holders without receiving a license.
+
+Exempt from this sandbox are all currently viable business models, including spot exchanges, Bitcoin ATM providers, OTC exchanges that deal with non-professional investors, margin, derivatives and futures exchanges and those trading ICO tokens.
+
+The only type of exchange qualifying for the sandbox is an OTC exchange serving institutional customers. Such an exchange doesn't require a license, but whether or not it is a sustainable business model to enter the sandbox depends on how many licensed funds require access to the OTC markets.
+
+If you are running a fund offering investment advice, futures, derivatives, margin or trading ICO tokens, consult a lawyer about whether you need a license to operate in Hong Kong. If you do need a license, the SFC won't give it to you and you will not qualify for the sandbox.
 
 ### Taxation
 
@@ -110,17 +148,9 @@ It is likely that confidential notes, minutes and verbal instructions exist that
 
 In reality banks are highly hesitant to open accounts to financial services companies, and even more so cryptocurrency businesses. There are few reports of private banks accounts being shut down due to involvement with Bitcoin trading, but for company accounts this remains common.
 
-#### Derivatives Products
-
-While the trading of Bitcoins is currently is not specifically regulated, some trading products, particularly [futures and derivates](http://www.sfc.hk/web/EN/rules-and-standards/otc-derivatives-regulatory-regime/) may still fall under the regulatory regime of the Securities and Futures Commission.
-
-There is currently no precedent for this as no Hong Kong incorporated exchange offers such products. 
-
-Exchanges that do offer the product tend to reside in jurisdictions where these activities are not regulated. While these exchanges offer their products to customers in Hong Kong, it is unlikely the SFC will aggressively attempt to regulate overseas businesses.
-
 #### Payment Processors
 
-Currently there is no dedicated Bitcoin payment processor active in Hong Kong. While processors like Bitpay and Coinpayments are serving Hong Kong businesses, they aren't exchanging Bitcoins into Hong Kong dollars for them. Hong Kong exchanges offer such services only on a limited on-demand basis.
+Currently there is no dedicated Bitcoin payment processor active in Hong Kong. While some processors like Coingate, Globee, Bitpay and Coinbase are serving Hong Kong businesses, few are exchanging Bitcoins into Hong Kong or U.S. dollars for them. Hong Kong exchanges offer such services only on a limited on-demand basis.
 
 While a payment processor's services would be similar to that of an exchange or broker, it is possible the HKMA could attempt to claim jurisdiction over payment processors, for example as part of the [Stored Value Facility (SVF) license](http://www.hkma.gov.hk/eng/key-functions/international-financial-centre/regulatory-regime-for-svf-and-rps/regulation-of-svf.shtml).
 
@@ -144,7 +174,7 @@ Bitcoin will likely become more regulated as it becomes more popular. I expect c
 
 Cryptocurrencies brokers, exchanges and ATM operators and anybody engaging in or facilitating the exchange of cryptocurrencies will have to apply with the C&ED and prove residency, physical locations, sufficient capitalization and a clean criminal record.
 
-The SFC will clarify its rules towards derivatives and futures trading and enable its existing license holders to offer these products based on cryptocurrencies. Possibly ETFs and other funds will become possible and even listed.
+The SFC will further relax its rules towards funds, and later also derivatives and futures trading and enable its existing license holders to offer these products based on cryptocurrencies. Possibly ETFs and other funds will become possible and even listed.
 
 I expect it to take a long time until the Hong Kong government reclassifies Bitcoin as a currency, which will allow the HKMA to clarify its rules, allow banks to offer Bitcoin-based investment products as well as allow SVF license holders to include Bitcoin into their products.
 
