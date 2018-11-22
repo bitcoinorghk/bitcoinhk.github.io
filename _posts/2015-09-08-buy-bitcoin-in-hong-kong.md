@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Buy Bitcoin in Hong Kong
-date: "2018-08-22 02:00:00"
+date: "2018-11-22 02:00:00"
 permalink: /buy-bitcoin-in-hong-kong/
 author: liongrass
 published: true
@@ -12,7 +12,7 @@ redirect_from:
 
 ---
 
-last updated: 2018-08-22 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md)
+last updated: 2018-11-22 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md)
 
 ## Buying Bitcoin in Hong Kong
 
@@ -51,21 +51,23 @@ Bitcoin ATMs are located at:
 **[Metro Sham Shui(深之都)](http://bitmac.org/)**, Shop 160, 2/F, Kam Wah Mansion, 226-242 Cheung Sha Wan Rd, **Sham Shui Po**    
 **[Nathan Hotel](http://ncxnet.com/)**, 387 Nathan Road, Starbucks Coffee, **Yau Ma Tei**    
 **[Prudential Hotel](http://ncxnet.com/)**, The Lobby, 222 Nathan Road, **Jordan**   
-**[Golden Luzon Agency](https://www.genesisblockhk.com/our-services/atm-machine/)**, G/F, 15 Tit Shu Street, **Tai Kok Tsui**    
+**[Golden Luzon Agency](https://www.genesisblockhk.com/atm/)**, G/F, 15 Tit Shu Street, **Tai Kok Tsui**    
+**[Bitwork](https://genesisblockhk.com/atm/)**, Unit 01-04, 7/F, FTLife Tower, No. 18 Sheung Yuet Road, **Kowloon Bay**    
 **[FunTower](http://ncxnet.com/)**, 29/F, 35 Hung To Road, **Kwun Tong**    
-**[Tencent WeStart](https://www.genesisblockhk.com/our-services/atm-machine/)**, 6/F, KOHO, 75 Hung To Road, **Kwun Tong**    
+**[Tencent WeStart](https://www.genesisblockhk.com/atm/)**, 6/F, KOHO, 75 Hung To Road, **Kwun Tong**    
 
 #### Hong Kong
 
-**[Kwong Kee Building](https://www.genesisblockhk.com/our-services/atm-machine/)**, G/F, , 54-56 Jervois Street, **Sheung Wan**   
-**[Naked Hub](https://www.genesisblockhk.com/our-services/atm-machine/)**, G/F, 40-44 Bonham Strand, **Sheung Wan**    
+**[Kwong Kee Building](https://www.genesisblockhk.com/atm/)**, G/F, , 54-56 Jervois Street, **Sheung Wan**   
+**[Naked Hub](https://www.genesisblockhk.com/atm/)**, G/F, 40-44 Bonham Strand, **Sheung Wan**    
 **[LBP Hotel](http://ncxnet.com/)**, Hollywood Centre 77-91 Queen’s Road West, **Sheung Wan**    
 **[Shing Lee Shopping Arcade](http://hkbitcoinatm.com/)**, Shop 19, 1/F, 6 Wing Kut Street, **Central**    
 **[On Lok House](http://kryptokiosk.com/)**, G/F, 39 Hollywood Road, **Central**    
-**[Lotus](https://www.genesisblockhk.com/our-services/atm-machine/)**, 5 Staunton Street, Soho, **Central**   
+**[Lotus](https://www.genesisblockhk.com/atm/)**, 5 Staunton Street, Soho, **Central**   
+**[PMQ](https://genesisblockhk.com/atm/)**, Garden Meow, 35 Aberdeen Street, HG01-HG05, G/F, Block B, **Central**   
 **[Larry Jewelry](http://ncxnet.com/)**Shop G5, G/F, Bank of America Tower, 12 Harcourt Road, **Admiralty**    
 **[CNT Tower](https://anxintl.com/contact-us/)**, Room F, 19/F, 338 Hennessy Road, **Wan Chai**    
-**[Genesis Block](https://www.genesisblockhk.com/our-services/atm-machine/)**, U/G, 273 Hennessy Road, **Wan Chai**    
+**[Genesis Block](https://www.genesisblockhk.com/atm/)**, U/G, 273 Hennessy Road, **Wan Chai**    
 **[VELA Hotel](http://ncxnet.com/)**, 86 Morrison Hill Rd, Morrison Hill, **Causeway Bay**    
 **[City Garden](http://bitmac.org/)**, Shop 31, Maxibase, Block 1-3, 233 Electric Road, **North Point**    
 **[Tidebit](https://coinatmradar.com/bitcoin_atm/5437/bitcoin-atm-general-bytes-hong-kong-7f-sino-favour-centre/)**, 7/F Sino Favour Centre, 1 On Yip Street, **Chai Wan**
@@ -73,9 +75,10 @@ Bitcoin ATMs are located at:
 #### New Territories
 
 **[T.Mark](http://hkbitcoinatm.com/)**, Shop 329, 3/F, 18 Tai Ho Road, **Tsuen Wan**    
-**[23 Mei Wan St](https://www.genesisblockhk.com/our-services/atm-machine/)**, G/F, **Tsuen Wan**    
+**[23 Mei Wan St](https://www.genesisblockhk.com/atm/)**, G/F, **Tsuen Wan**    
 **[One Terminal(壹號總站)](http://nitroswap.com/en/locations.html)**, Shop 14,2 Tsing Shan Square, **Tuen Mun**    
-**[Hang Wai Industrial Centre](https://www.genesisblockhk.com/our-services/atm-machine/)**, G/F, 6 Kin Tai Street, (Entrance at A2 Lift Lobby), **Tuen Mun**    
+**[Hang Wai Industrial Centre](https://www.genesisblockhk.com/atm/)**, G/F, 6 Kin Tai Street, (Entrance at A2 Lift Lobby), **Tuen Mun**    
+**[HK Bitcoin ATM](http://hkbitcoinatm.com/fanling-shop/)**, G/F, 17D Wo Tai Street, Luen Wo Market, **Fanling**   
 
 
 You may also browse [coinatmradar.com](http://coinatmradar.com/) for more or less up to date information on the location, uptime and rates of Bitcoin ATMs.
