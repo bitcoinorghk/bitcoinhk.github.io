@@ -25,7 +25,7 @@ On November 1, 2018, the Chief Executive Officer of the SFC, Ashley Alder, annou
 
 [You can find Appendix II (on exchanges) here in full.](https://www.sfc.hk/web/EN/files/ER/PDF/App%202_%20Conceptual%20framework%20for%20VA%20trading%20platform_eng.pdf)
 
-### Comments from the Internation Bitcoin Community
+### Comments from the International Bitcoin Community
 
 [Leo Weese: "SFC Regulates Crypto-exchanges — Party Over in Hong Kong?"](https://blog.bitcoin.org.hk/sfc-regulates-crypto-exchanges-party-over-in-hong-kong-bc081100863a)
 
@@ -34,6 +34,8 @@ On November 1, 2018, the Chief Executive Officer of the SFC, Ashley Alder, annou
 [Henry Yu & Associates: "RE: STATEMENT FROM SFC ON CONCEPTUAL FRAMEWORK FOR REGULATING CRYPTO-EXCHANGES"](/media/2018/11/181106K_HYU_News_re_SFC_Conceptual.pdf)
 
 [OSL Brokerage: "A regulatory framework is a prudent approach to the development of this market"](https://twitter.com/OSLBrokerage/status/1058313293448675328)
+
+[PWC: "Overview over Hong Kong's New Crypto Exchange Framework"](https://www.pwchk.com/en/financial-services/financial-services-risk-and-regulations/overview-hk-new-crypto-exchange-framework-nov2018.pdf)
 
 ### Media coverage
 
