@@ -46,8 +46,8 @@ Bitcoin ATMs are located at:
 
 **[President Commercial Centre](http://hkbitcoinatm.com/)**, Shop 322, 3/F, 608 Nathan Road, **Mong Kok**    
 **[S Tattoo Studio](https://www.instagram.com/s.tattoostudio/)**, 1/F, Reclamation Street 470F,  **Mong Kok**   
-**[Presidential Commercial Centre](http://nitroswap.com/en/locations.html)**, W Plaza, CHIC之堡, Shop 113, 602-608 , Nathan Road, **Mong Kok**    
-**[Metro Sham Shui(深之都)](http://nitroswap.com/en/locations.html)**, Shop 038, 3/F, Kam Wah Mansion, 226-242 Cheung Sha Wan Rd, **Sham Shui Po**    
+**[Presidential Commercial Centre](https://nitroswap.com/#location)**, W Plaza, CHIC之堡, Shop 113, 602-608 , Nathan Road, **Mong Kok**    
+**[Metro Sham Shui(深之都)](https://nitroswap.com/#location)**, Shop 038, 3/F, Kam Wah Mansion, 226-242 Cheung Sha Wan Rd, **Sham Shui Po**    
 **[Metro Sham Shui(深之都)](http://bitmac.org/)**, Shop 160, 2/F, Kam Wah Mansion, 226-242 Cheung Sha Wan Rd, **Sham Shui Po**    
 **[Nathan Hotel](http://ncxnet.com/)**, 387 Nathan Road, Starbucks Coffee, **Yau Ma Tei**    
 **[Prudential Hotel](http://ncxnet.com/)**, The Lobby, 222 Nathan Road, **Jordan**   
@@ -65,6 +65,7 @@ Bitcoin ATMs are located at:
 **[On Lok House](http://kryptokiosk.com/)**, G/F, 39 Hollywood Road, **Central**    
 **[Lotus](https://www.genesisblockhk.com/atm/)**, 5 Staunton Street, Soho, **Central**   
 **[PMQ](https://genesisblockhk.com/atm/)**, Garden Meow, 35 Aberdeen Street, HG01-HG05, G/F, Block B, **Central**   
+**[Zenon Cafe](https://nitroswap.com/#location)**, G/F, 86 Wellington Street, **Central**    
 **[Larry Jewelry](http://ncxnet.com/)**Shop G5, G/F, Bank of America Tower, 12 Harcourt Road, **Admiralty**    
 **[CNT Tower](https://anxintl.com/contact-us/)**, Room F, 19/F, 338 Hennessy Road, **Wan Chai**    
 **[Genesis Block](https://www.genesisblockhk.com/atm/)**, U/G, 273 Hennessy Road, **Wan Chai**    
@@ -76,7 +77,7 @@ Bitcoin ATMs are located at:
 
 **[T.Mark](http://hkbitcoinatm.com/)**, Shop 329, 3/F, 18 Tai Ho Road, **Tsuen Wan**    
 **[23 Mei Wan St](https://www.genesisblockhk.com/atm/)**, G/F, **Tsuen Wan**    
-**[One Terminal(壹號總站)](http://nitroswap.com/en/locations.html)**, Shop 14,2 Tsing Shan Square, **Tuen Mun**    
+**[One Terminal(壹號總站)](https://nitroswap.com/#location)**, Shop 14,2 Tsing Shan Square, **Tuen Mun**    
 **[Hang Wai Industrial Centre](https://www.genesisblockhk.com/atm/)**, G/F, 6 Kin Tai Street, (Entrance at A2 Lift Lobby), **Tuen Mun**    
 **[HK Bitcoin ATM](http://hkbitcoinatm.com/fanling-shop/)**, G/F, 17D Wo Tai Street, Luen Wo Market, **Fanling**   
 
