@@ -14,22 +14,11 @@ navigation: "visible"
 
 All current directors of the Bitcoin Association of Hong Kong.
 
-<div class="leaders">
-<div class="col-33 chechung" style="text-align: center;">
-<b>Director</b>
-<div data-passname="chechung" data-style="embedded" data-height="fixed"></div>
-</div>
+**Chechung Chang**
 
-<div class="col-33 leo" style="text-align: center;">
-<b>President</b>
-<div data-passname="liongrass" data-style="embedded" data-height="fixed"></div>
-</div>
+**Leo Weese**
 
-<div class="col-33 dominique" style="text-align: center;">
-<b>Director</b>
-<div data-passname="francesd" data-style="embedded" data-height="fixed"></div>
-</div>
-</div>
+**Olga Kochmar**
 
 ## Corporate Members
 
@@ -50,9 +39,15 @@ The Bitcoin Association is about to welcome its first corporate members. To join
 
 A non-exhaustive list of current full members. To join as an individual members, [please click here](/join).
 
+Abhinav Maheshwari
+
+Alan Li
+
 Alexandre Baulne
 
 Arthur Hayes
+
+Arthur Lai
 
 Aurelien Menant
 
@@ -68,11 +63,19 @@ Chechung Chang
 
 Christina Chu
 
+Clifford Choi
+
+Daniel Babbev
+
+David Haynes
+
 David Shin
 
 Dmitrii Vasilev
 
 Dominique Abad
+
+Elliott Hoffman
 
 Felix Weis
 
@@ -86,15 +89,25 @@ Hugo Cheung
 
 Jehan Chu
 
+Johnny Luk
+
+Jonathan Li
+
 Joseph Wang
 
 Kong Yong Ng
+
+Kristin Low
 
 Larry Salibra
 
 Leonhard Weese
 
 Mark So
+
+Michael Bolger
+
+Michael Edesess
 
 Nathan Kaiser
 
@@ -108,6 +121,10 @@ Patrick Suen
 
 Patrick Chugh
 
+Qinglin Li
+
+Rajiv Seth
+
 Simon Habart
 
 Tama Churchousd
@@ -116,8 +133,12 @@ Tamas Abdel-wahab
 
 Tony Nelson
 
+Vijay Luiz
+
 Vladimir
 
 William Piquard
+
+Xun Liu
 
 Yuki Jiang
