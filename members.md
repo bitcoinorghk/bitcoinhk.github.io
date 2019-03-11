@@ -77,6 +77,8 @@ Dominique Abad
 
 Elliott Hoffman
 
+Felix Mok
+
 Felix Weis
 
 Gareth Hayes
@@ -86,6 +88,8 @@ Gary Watkins
 Hon Sam Lee 李漢森
 
 Hugo Cheung
+
+Indy Cheng
 
 Jehan Chu
 
@@ -124,6 +128,8 @@ Patrick Chugh
 Qinglin Li
 
 Rajiv Seth
+
+Ronald Lam
 
 Simon Habart
 
