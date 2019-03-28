@@ -13,9 +13,9 @@ last updated: 2019-03-28 [version history](https://github.com/bitcoinhk/bitcoinh
 
 ## Gatecoin Liqduidation
 
-Gatecoin is a Hong Kong-based cryptocurrency exchange founded in 2013. It has been ordered by the Hong Kong High Court to be liquidated on March 17, 2019.
+Gatecoin is a Hong Kong-based cryptocurrency exchange founded in 2013. It has been ordered by the Hong Kong High Court to be liquidated on March 14, 2019.
 
-You can find the liquidation order here appointing a liquidator [here](/media/2019/03/2019-03-25_court_order.pdf).
+You can find the liquidation order appointing a liquidator [here](/media/2019/03/2019-03-25_court_order.pdf).
 
 The case has the case number L10/18/2019 MLL/A
 
@@ -39,3 +39,8 @@ News coverage:
 
 - 2019-03-14: [虛擬幣爆煲 港產交易所Gatecoin遭清盤　苦主十萬資產凍過水 支付服務供應商拒評](https://hk.finance.appledaily.com/finance/realtime/article/20190314/59367584)
 - 2019-03-17: [Gatecoin Ordereed to Cease All Operations, Enters Liquidation](https://bitcoinist.com/gatecoin-ordered-to-cease-all-operations-enters-liquidation/)
+
+Important documents:
+
+- 2019-03-26 [Appointment of Liqduidator](/media/2019/03/2019-03-25_court_order.pdf)
+- 2019-03-28 [Search on cases of compulsory winding-up companies](/media/2019/03/2019-03-28-search-on-cases-of-compulsory-winding-up-companies.pdf)
