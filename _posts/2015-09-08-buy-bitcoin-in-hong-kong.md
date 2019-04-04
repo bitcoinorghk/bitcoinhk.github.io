@@ -12,7 +12,7 @@ redirect_from:
 
 ---
 
-last updated: 2018-11-22 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md)
+last updated: 2019-04-03 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md)
 
 ## Buying Bitcoin in Hong Kong
 
@@ -47,10 +47,12 @@ Bitcoin ATMs are located at:
 **[President Commercial Centre](http://hkbitcoinatm.com/)**, Shop 322, 3/F, 608 Nathan Road, **Mong Kok**    
 **[S Tattoo Studio](https://www.instagram.com/s.tattoostudio/)**, 1/F, Reclamation Street 470F,  **Mong Kok**   
 **[Presidential Commercial Centre](https://nitroswap.com/#location)**, W Plaza, CHIC之堡, Shop 113, 602-608 , Nathan Road, **Mong Kok**    
+**[Sin Tat Plaza](https://www.facebook.com/E-COIN-CASH-1732516800201173/)**, S32, 2/F, 83 Argyle Street, **Mong Kok**   
 **[Metro Sham Shui(深之都)](https://nitroswap.com/#location)**, Shop 038, 3/F, Kam Wah Mansion, 226-242 Cheung Sha Wan Rd, **Sham Shui Po**    
 **[Metro Sham Shui(深之都)](http://bitmac.org/)**, Shop 160, 2/F, Kam Wah Mansion, 226-242 Cheung Sha Wan Rd, **Sham Shui Po**    
 **[Nathan Hotel](http://ncxnet.com/)**, 387 Nathan Road, Starbucks Coffee, **Yau Ma Tei**    
 **[Prudential Hotel](http://ncxnet.com/)**, The Lobby, 222 Nathan Road, **Jordan**   
+**[Solo Building](https://www.facebook.com/E-COIN-CASH-1732516800201173/)**, Shop 1216, 12/F, 41-43 Carnarvon Road, **Tsim Sha Tsui**    
 **[Golden Luzon Agency](https://www.genesisblockhk.com/atm/)**, G/F, 15 Tit Shu Street, **Tai Kok Tsui**    
 **[Bitwork](https://genesisblockhk.com/atm/)**, Unit 01-04, 7/F, FTLife Tower, No. 18 Sheung Yuet Road, **Kowloon Bay**    
 **[FunTower](http://ncxnet.com/)**, 29/F, 35 Hung To Road, **Kwun Tong**    
@@ -95,12 +97,6 @@ Please note that Bitcoin exchanges are not to be treated as banks. We recommend 
 
 There are currently four exchanges with local Hong Kong bank accounts. Some of these exchanges also accept cash deposits and cheques.
 
-**[ANX](https://anxpro.com/)**
-Once you are signed up and verified, depositing your Hong Kong dollars with ANX is easy. You can hand it over in cash at their main office in Wan Chai and it will be credited quickly to your account, where you can exchange them to Bitcoin and withdraw to your wallet.
-
-**[Gatecoin](https://gatecoin.com/)**
-Gatecoin is one of the older continuous running exchanges in Hong Kong. After focusing on their crypto-to-crypto platform, Gatecoin is once again available for buyers and sellers of BTC through HKD and USD wiretransfers.
-
 **[Tidebit](https://www.tidebit.com/)**
 Tidebit is the newest of Hong Kong Bitcoin exchanges. You can deposit cash for free or via wire transfer for a 2% fee.
 
@@ -139,12 +135,18 @@ Quoine is a Japanese exchange that offers HKD deposits into their Japanese bank 
 **[Gemini](https://gemini.com/)**
 Gemini is a New York exchange that specializes on large volumes. It only accepts USD deposits and trading.
 
-#### Decentralized Exchanges
+**[Bitstamp]()**
+Bitstamp is a cryptocurrency exchange based in Slovenia. They accept USD and EUR deposits and withdrawals and welcome Hong Kong customers.
 
-Decentralized Exchanges don't have their own bank accounts. Instead, buyers and sellers interact directly with each other when transfering money. It is up to the user to follow the appropriate Anti-Money-Laundering and Know-Your-Customer rules. The Bitcoin are held in escrow by the exchange. It's very important to make use of these escrow options and be careful who you interact with.
+#### Peer-to-peer Exchanges
+
+Pee-to-peer Exchanges don't have their own bank accounts. Instead, buyers and sellers interact directly with each other when transfering money. It is up to the user to follow the appropriate Anti-Money-Laundering and Know-Your-Customer rules. The Bitcoin are held in escrow by the exchange. It's very important to make use of these escrow options and be careful who you interact with.
+
+**[Paxful](https://paxful.com/)**
+Paxful is a peer-to-peer excchange based in Estonia. Hong Kong-based users can trade with each others and use a variety of payment methods including bank wires and deposits, gift cards, Alipay and PayMe.
 
 **[Localbitcoins](https://localbitcoins.com/country/HK)**
-Localbitcoins is a decentralized exchange managed from Finland.
+Localbitcoins is a peer-to-peer exchange managed from Finland.
 
 **[Bisq](https://bisq.network/)**
 Bisq (formerly Bitsquare) is not a company, and is not run by anybody. Instead it acts as a network of users, which you can join by downloading the Bitsquare software. This software might be experimental at times, but shows promise in leading the way to a truly decentralized future.
