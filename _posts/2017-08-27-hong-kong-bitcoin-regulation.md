@@ -10,7 +10,7 @@ background: " url(/media/2015/11/shenzhen.png) #FF0000"
 
 # Hong Kong, rule of law and the free market
 
-Updated: 2018-11-14 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2017-08-27-hong-kong-bitcoin-regulation.md)
+Updated: 2019-04-03 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2017-08-27-hong-kong-bitcoin-regulation.md)
 
 In general, Hong Kong has a reputation as a reliable and predictable non-interventionist regulator. Most rules are clearly laid out and easy to comprehend and follow for people with little legal training (like me).
 
@@ -80,7 +80,9 @@ On November 1, 2018, the Chief Executive Officer of the SFC, Ashley Alder, annou
 
 Together with this speech, the SFC released two appendices that attempt to govern the rules of cryptocurrency [funds](https://www.sfc.hk/web/EN/files/ER/PDF/App%201%20-%20Reg%20standards%20for%20VA%20portfolio%20mgrs_eng.pdf) and [exchanges](https://www.sfc.hk/web/EN/files/ER/PDF/App%202_%20Conceptual%20framework%20for%20VA%20trading%20platform_eng.pdf).
 
-The intention of these rules and publications are difficult to understand, as they appeared relatively abruptly and without a clear goal.
+The intention of these rules and publications are difficult to understand, as they appeared relatively abruptly and without a clear goal. They do not represent law or introduce new regulation.
+
+The term virtual asset has been picked up by Councillor Wu Chi-wai and Secretary for Financial Services and the Treasury, James Lau [in their Q&A in LegCo on April 3, 2019](https://www.info.gov.hk/gia/general/201904/03/P2019040300257.htm), [for which we criticize them.](https://blog.bitcoin.org.hk/clarification-on-hong-kong-bitcoin-regulation-2dd3788357f2)
 
 #### Funds
 
@@ -167,6 +169,8 @@ Some tokens, especially those derived from "Token Creation Events" or "Initial C
 On February 9, 2018 the SFC [contacted Hong Kong exchanges](http://www.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=18PR13) urging them to delist tokens deemed securities. ICO issuers were also contacted. They either stopped their ICO or promised to comply with securities regulation.
 
 Advising on token offerings, brokering tokens and letting customers trade them [may require a license from the SFC](https://www.sfc.hk/web/EN/regulatory-functions/intermediaries/licensing/guide-to-licence-application/regulated-activities.html).
+
+Security Tokens derived from "STOs" are for obvious reasons securities. [The SFC clarifies in their statement from March 28, 2019](https://www.sfc.hk/web/EN/news-and-announcements/policy-statements-and-announcements/statement-on-security-token-offerings.html): "Any person who markets and distributes Security Tokens (whether in Hong Kong or targeting Hong Kong investors) is required to be licensed or registered for Type 1 regulated activity. All usual due diligence, information and investor warnings apply.
 
 #### Future Outlook
 

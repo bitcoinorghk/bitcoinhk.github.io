@@ -34,6 +34,7 @@ Timeline of events:
 - 2019-03-14: [Gatecoin announces liquidation on its website.](/media/2019/03/2019-03-17_gatecoin_announcement.png)
 - 2019-03-25: [Hong Kong High Court appoints liquidator.](/media/2019/03/2019-03-25_court_order.pdf)
 - 2019-03-28: [Liquidator requests creditors to file their claims.](/media/2019/03/2019-03-28_claims.pdf)
+- 2019-04-03: [The case is being referenced in a question by Wu Chi-wai in Legco](https://www.info.gov.hk/gia/general/201904/03/P2019040300257.htm)
 
 News coverage:
 
