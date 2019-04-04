@@ -10,7 +10,7 @@ background: " url(/media/2015/11/shenzhen.png) #FF0000"
 
 # Hong Kong, rule of law and the free market
 
-Updated: 2018-11-14 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2017-08-27-hong-kong-bitcoin-regulation.md)
+Updated: 2019-04-03 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2017-08-27-hong-kong-bitcoin-regulation.md)
 
 In general, Hong Kong has a reputation as a reliable and predictable non-interventionist regulator. Most rules are clearly laid out and easy to comprehend and follow for people with little legal training (like me).
 
