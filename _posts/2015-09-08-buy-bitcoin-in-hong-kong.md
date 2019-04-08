@@ -12,7 +12,7 @@ redirect_from:
 
 ---
 
-last updated: 2019-04-03 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md)
+last updated: 2019-04-08 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md)
 
 ## Buying Bitcoin in Hong Kong
 
@@ -121,9 +121,6 @@ Circle is a Boston-based financial services firm most popular for their money tr
 
 **[BitInsightHK](http://bitinsighthk.com/)**
 Located in Central and was opened in February 2018.
-
-**[Ignite OTC](https://www.igniteotc.com/)**
-Hong Kong's newest OTC exchange has a shop in Chungking Mansions, but larger trades can be conducted remotely.
 
 #### Overseas Exchanges
 
