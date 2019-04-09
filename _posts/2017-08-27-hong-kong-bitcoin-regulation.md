@@ -172,6 +172,8 @@ Advising on token offerings, brokering tokens and letting customers trade them [
 
 Security Tokens derived from "STOs" are for obvious reasons securities. [The SFC clarifies in their statement from March 28, 2019](https://www.sfc.hk/web/EN/news-and-announcements/policy-statements-and-announcements/statement-on-security-token-offerings.html): "Any person who markets and distributes Security Tokens (whether in Hong Kong or targeting Hong Kong investors) is required to be licensed or registered for Type 1 regulated activity. All usual due diligence, information and investor warnings apply.
 
+[Futher reading: Henry Yu & Associates Statement, April 2019](/media/2019/03/HYU_SFC_Statement_STO.pdf)
+
 #### Future Outlook
 
 Bitcoin will likely become more regulated as it becomes more popular. I expect concern over Bitcoin to remain with the C&ED, either through the creation of a "Virtual Currencies/Cryptocurrencies Dealer" license (VCD)" or the inclusion of provisions for cryptocurrencies into the MSO license.
