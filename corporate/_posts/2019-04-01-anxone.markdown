@@ -1,0 +1,10 @@
+---
+title: ANXONE
+name: anxone
+subtitle: Position
+modal-id: 1
+thumbnail: anxone_thumb.png
+layout: members
+alt: ANXONE Logo
+link: https://anxone.io/
+---
