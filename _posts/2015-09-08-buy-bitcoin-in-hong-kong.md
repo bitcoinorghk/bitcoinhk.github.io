@@ -82,6 +82,7 @@ Bitcoin ATMs are located at:
 **[One Terminal(壹號總站)](https://nitroswap.com/#location)**, Shop 14,2 Tsing Shan Square, **Tuen Mun**    
 **[Hang Wai Industrial Centre](https://www.genesisblockhk.com/atm/)**, G/F, 6 Kin Tai Street, (Entrance at A2 Lift Lobby), **Tuen Mun**    
 **[HK Bitcoin ATM](http://hkbitcoinatm.com/fanling-shop/)**, G/F, 17D Wo Tai Street, Luen Wo Market, **Fanling**   
+**[Regal Airport Hotel](https://genesisblockhk.com/)**, Uni Precious, 2/F, 9 Cheong Tat Rd, **Chek Lap Kok**    
 
 
 You may also browse [coinatmradar.com](http://coinatmradar.com/) for more or less up to date information on the location, uptime and rates of Bitcoin ATMs.
