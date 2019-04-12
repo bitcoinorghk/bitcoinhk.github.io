@@ -40,6 +40,7 @@ News coverage:
 
 - 2019-03-14: [虛擬幣爆煲 港產交易所Gatecoin遭清盤　苦主十萬資產凍過水 支付服務供應商拒評](https://hk.finance.appledaily.com/finance/realtime/article/20190314/59367584)
 - 2019-03-17: [Gatecoin Ordereed to Cease All Operations, Enters Liquidation](https://bitcoinist.com/gatecoin-ordered-to-cease-all-operations-enters-liquidation/)
+- 2019-04-09: [清盤人指Gatecoin已破產　正與董事及前職員合作回收資產](https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/316183/%E6%B8%85%E7%9B%A4%E4%BA%BA%E6%8C%87gatecoin%E5%B7%B2%E7%A0%B4%E7%94%A2-%E6%AD%A3%E8%88%87%E8%91%A3%E4%BA%8B%E5%8F%8A%E5%89%8D%E8%81%B7%E5%93%A1%E5%90%88%E4%BD%9C%E5%9B%9E%E6%94%B6%E8%B3%87%E7%94%A2)
 
 Important documents:
 
