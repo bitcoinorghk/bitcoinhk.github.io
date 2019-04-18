@@ -105,7 +105,9 @@ There are currently four exchanges with local Hong Kong bank accounts. Some of t
 Tidebit is the newest of Hong Kong Bitcoin exchanges. You can deposit cash for free or via wire transfer for a 2% fee.
 
 **[Coinsuper](https://www.coinsuper.com/)**
-The youngest of Hong Kong's Bitcoin exchanges accepts only USD deposits into their bank account.
+This Hong Kong Bitcoin exchanges accepts only USD deposits into their bank account.
+
+**[Weever](https://www.weever.com.hk/)** The youngest exchange in Hong Kong accepts deposits through a variety of local bank accounts and is backed by the publicly listed [CASH](http://cash.com.hk/) Financial Services Group.
 
 #### OTC Exchanges
 
