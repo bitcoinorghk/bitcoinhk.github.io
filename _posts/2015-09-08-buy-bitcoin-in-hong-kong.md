@@ -107,7 +107,7 @@ Tidebit is the newest of Hong Kong Bitcoin exchanges. You can deposit cash for f
 **[Coinsuper](https://www.coinsuper.com/)**
 This Hong Kong Bitcoin exchanges accepts only USD deposits into their bank account.
 
-**[Weever](https://www.weever.com.hk/)** The youngest exchange in Hong Kong accepts deposits through a variety of local bank accounts and is backed by the publicly listed [CASH](http://cash.com.hk/) Financial Services Group.
+**[Weever](https://www.weever.com.hk/)** The youngest exchange in Hong Kong accepts deposits through a variety of local bank accounts and is backed by the publicly listed [CASH Financial Services Group](https://www.cfsg.com.hk/).
 
 #### OTC Exchanges
 
