@@ -32,8 +32,6 @@ Advertisement
 As banks are more aggressively acting against Bitcoin companies, trading bitcoin in person has become more popular again in Hong Kong recently. The website [localbitcoins.com](https://localbitcoins.com/buy-bitcoins-online/hkd/ 18 listings) as well as the Android app [Mycelium](https://mycelium.com/lt/help.html) can be used to find people in Hong Kong to meet up with.
 If you just need a few dollars worth to 'try it out' or 'play with' or need help setting up or operating your wallet, you will likely find somebody to trade at the regular [Bitcoin meetups](http://www.meetup.com/Bitcoin-HK/).
 
-The exchange [Ignite OTC](https://www.igniteotc.com/) recently opened an in-person trading desk at G/F, Chungking Mansions, Tsim Sha Tsui. Bitcoin can safely be bought and sold against HKD at a reasonable spread.
-
 Some OTC exchanges (see below) also deal with cash deposits and withdrawals. Clarify with your exchange or traders beforehand what currencies, notes and payment forms they accept.
 
 ### Bitcoin ATMs
