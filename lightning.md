@@ -14,6 +14,18 @@ You can donate money here using the Lightning network!
 <a href="https://coingate.com/pay/lightning" rel="noopener noreferrer nofollow" target="_blank"><img alt="CoinGate Payment Button" src="https://static.coingate.com/images/buttons/4.png" /></a>
 {:.text-center}
 
+<form action="https://www.coinpayments.net/index.php" method="post">
+	<input type="hidden" name="cmd" value="_pay_simple">
+	<input type="hidden" name="reset" value="1">
+	<input type="hidden" name="merchant" value="84ffa7d089e5eefdc9ff75f09f948f80">
+	<input type="hidden" name="item_name" value="Donation">
+	<input type="hidden" name="currency" value="USD">
+	<input type="hidden" name="amountf" value="10.00000000">
+	<input type="hidden" name="want_shipping" value="0">
+	<input type="image" src="https://www.coinpayments.net/images/pub/buynow-grey.png" alt="Buy Now with CoinPayments.net">
+</form>
+{:.text-center}
+
 <form method="POST" action="https://btcpay.bitcoin.org.hk/api/v1/invoices">
     <input type="hidden" name="storeId" value="5fv2Vt5WEuLYBzkhFiaDN4r6xy6JdNqTbi3m1mG4ngFa" />
     <input type="hidden" name="price" value="10" />
