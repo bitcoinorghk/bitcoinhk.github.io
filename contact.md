@@ -14,7 +14,7 @@ You can also reach us by email at: [info@bitcoin.org.hk][2]
 
 ## Stay in Touch
 
-[![Meetup](/media/freq/meetup.jpg)](http://www.meetup.com/Bitcoin-HK/)
+[![Meetup](/media/freq/meetup.png)](http://www.meetup.com/Bitcoin-HK/)
 {:.text-center}
 
 [Join our Meetup Group to be alerted immediately about new events!](http://www.meetup.com/Bitcoin-HK/)
