@@ -67,9 +67,9 @@ Bitcoin ATMs are located at:
 
 **[Naked Hub](https://www.coinhere.io/)**, G/F, 40-44 Bonham Strand, **Sheung Wan**    
 **[Shing Lee Shopping Arcade](http://hkbitcoinatm.com/)**, Shop 19, 1/F, 6 Wing Kut Street, **Central**    
-**[On Lok House](http://kryptokiosk.com/)**, G/F, 39 Hollywood Road, **Central**    
 **[Lotus](https://www.coinhere.io/)**, 5 Staunton Street, Soho, **Central**   
 **[PMQ](https://www.coinhere.io/)**, Garden Meow, 35 Aberdeen Street, HG01-HG05, G/F, Block B, **Central**   
+**[The Hive](https://www.coinhere.io/)**, 33-35 Hillier St, **Sheung Wan**    
 **[Larry Jewelry](http://ncxnet.com/)**Shop G5, G/F, Bank of America Tower, 12 Harcourt Road, **Admiralty**    
 **[Genesis Block](https://www.coinhere.io/)**, U/G, 273 Hennessy Road, **Wan Chai**    
 **[VELA Hotel](http://ncxnet.com/)**, 86 Morrison Hill Rd, Morrison Hill, **Causeway Bay**    
@@ -145,6 +145,9 @@ Pee-to-peer Exchanges don't have their own bank accounts. Instead, buyers and se
 
 **[Paxful](https://paxful.com/)**
 Paxful is a peer-to-peer excchange based in Estonia. Hong Kong-based users can trade with each others and use a variety of payment methods including bank wires and deposits, gift cards, Alipay and PayMe.
+
+**[XanPool](https://xanpool.com/)**
+XanPool allows you to easily buy and sell Bitcoin in Hong Kong and Singapore using PayMe. Funds are not held in custody by the exchange.
 
 **[Localbitcoins](https://localbitcoins.com/country/HK)**
 Localbitcoins is a peer-to-peer exchange managed from Finland.
