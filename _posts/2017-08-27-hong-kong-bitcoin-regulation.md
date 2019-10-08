@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Hong Kong Bitcoin Regulation"
-date: "2018-11-14 10:00:00"
+date: "2019-10-08 10:00:00"
 permalink: "/hong-kong-bitcoin-regulation/"
 author: liongrass
 published: true
@@ -10,7 +10,7 @@ background: " url(/media/2015/11/shenzhen.png) #FF0000"
 
 # Hong Kong, rule of law and the free market
 
-Updated: 2019-04-03 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2017-08-27-hong-kong-bitcoin-regulation.md)
+Updated: 2019-10-08 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2017-08-27-hong-kong-bitcoin-regulation.md)
 
 In general, Hong Kong has a reputation as a reliable and predictable non-interventionist regulator. Most rules are clearly laid out and easy to comprehend and follow for people with little legal training (like me).
 
@@ -96,7 +96,7 @@ Any fund that invests in 'virtual assets' may **only be available to professiona
 
 The SFC will also be interested in the security arrangements of such a fund, custodial arrangements or insurance.
 
-The clarifications are trying to limit the cryptocurrency exposure of funds, and keep it off limits for retail investors. It is also trying to heavily disincentivize funds from holding too much cryptocurrency. For example, if due to appreciation the cryptocurrencies in a portfolio increase above 10%, the SFC requires a fund to divest or else see themselves tied to the restrictive terms of conditions.
+The clarifications are trying to limit the cryptocurrency exposure of funds, and keep it off limits for retail investors. It is also trying to heavily disincentivize funds from holding too much cryptocurrency. For example, if due to appreciation the cryptocurrencies in a portfolio increase above 10%, the SFC requires a fund to divest or else see themselves tied to [restrictive terms of conditions](https://www.sfc.hk/web/EN/files/IS/publications/VA_Portfolio_Managers_Terms_and_Conditions_(EN).pdf).
 
 If you are running a fund, consult a lawyer about whether you need a license to operate in Hong Kong.
 
