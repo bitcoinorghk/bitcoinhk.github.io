@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Buy Bitcoin in Hong Kong
-date: "2018-11-22 02:00:00"
+date: "2019-10-16 02:00:00"
 permalink: /buy-bitcoin-in-hong-kong/
 author: liongrass
 published: true
@@ -12,7 +12,7 @@ redirect_from:
 
 ---
 
-last updated: 2019-04-08 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md)
+last updated: 2019-10-16 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md)
 
 ## Buying Bitcoin in Hong Kong
 
@@ -29,14 +29,13 @@ Advertisement
 
 ### In Person
 
-As banks are more aggressively acting against Bitcoin companies, trading bitcoin in person has become more popular again in Hong Kong recently. The website [localbitcoins.com](https://localbitcoins.com/buy-bitcoins-online/hkd/ 18 listings) as well as the Android app [Mycelium](https://mycelium.com/lt/help.html) can be used to find people in Hong Kong to meet up with.
-If you just need a few dollars worth to 'try it out' or 'play with' or need help setting up or operating your wallet, you will likely find somebody to trade at the regular [Bitcoin meetups](http://www.meetup.com/Bitcoin-HK/).
+As banks are more aggressively acting against Bitcoin companies, trading bitcoin in person has become more popular again in Hong Kong recently. The website [localbitcoins.com](https://localbitcoins.com/buy-bitcoins-online/hkd/ 18 listings) as well as the platform [Paxful](https://paxful.com/). If you just need a few dollars worth to 'try it out' or 'play with' or need help setting up or operating your wallet, you will likely find somebody to trade at the regular [Bitcoin meetups](http://www.meetup.com/Bitcoin-HK/).
 
 Some OTC exchanges (see below) also deal with cash deposits and withdrawals. Clarify with your exchange or traders beforehand what currencies, notes and payment forms they accept.
 
 ### Bitcoin ATMs
 
-The most convenient way to buy Bitcoin is an ATM. Usually you only need to show the ATM the QR code of your Bitcoin address, insert bank notes and confirm the exchange rate. The process takes less than 30 seconds, is anonymous but can cost up to 5% in fees. Prepare your wallet ahead of time, and bring exact change. ATMs generally accept only HKD bank notes.
+The most convenient way to buy Bitcoin is an ATM. Usually you only need to show the ATM the QR code of your Bitcoin address, insert bank notes and confirm the exchange rate. The process takes less than 30 seconds, is anonymous but can cost up to 8% in fees. Prepare your wallet ahead of time, and bring exact change. ATMs generally accept only HKD bank notes, some insist on the first note being of HKD 500 denomination or above.
 
 Bitcoin ATMs are located at:    
 
@@ -92,12 +91,15 @@ You may also browse [coinatmradar.com](http://coinatmradar.com/) for more or les
 
 ### Bitcoin Exchanges
 
-Buying Bitcoin on exchanges is usually the cheapest option in terms of fees and is relatively fast and convenient too. But it often requires a few days to set up an account and get verified, and you can expect exchanges based in Hong Kong to ask for your personal information like ID or address proof before you can start using their accounts.
+Buying Bitcoin on exchanges is usually the cheapest option in terms of fees and is relatively fast and convenient too. But it often requires a few days to set up an account and get verified, and you can expect exchanges based in Hong Kong to ask for your personal information like HKID or address proof before you can start using their accounts.
 Please note that Bitcoin exchanges are not to be treated as banks. We recommend you to withdraw your coins quickly after your purchase to a wallet you control, and never keep any funds on an exchange for a longer time.
 
 #### Hong Kong Exchanges
 
 There are currently four exchanges with local Hong Kong bank accounts. Some of these exchanges also accept cash deposits and cheques.
+
+**[Bitspark](https://www.bitspark.io/)**
+Bitspark is a Hong Kong-based exchange most known for its easy deposit mechanism and low fees. Using the Bitspark app, you can deposit cash at one of Bitspark's cash points (e.g. Calimex in Sheung Wan), then withdraw Bitcoin to your wallet. Please refer to the app ([Android](https://play.google.com/store/apps/details?id=com.bitspark.mercury), [iOS coming soon]()) for a list of cash points.
 
 **[Tidebit](https://www.tidebit.com/)**
 Tidebit is the newest of Hong Kong Bitcoin exchanges. You can deposit cash for free or via wire transfer for a 2% fee.
@@ -109,16 +111,13 @@ This Hong Kong Bitcoin exchanges accepts only USD deposits into their bank accou
 
 #### OTC Exchanges
 
-For larger amounts, you can go to an OTC Exchange, or broker. A broker will give you a quick quote for a single trade, usually upwards of 50 BTC. You will be able to sell or buy Bitcoin against a wire transfer.
-
-**[Gatecoin](https://gatecoin.com/)**
-The international Hong Kong-based exchange Gatecoin also offers OTC trading.
+For larger amounts, you can go to an OTC Exchange, or broker. A broker will give you a quick quote for a single trade, usually upwards of 10 BTC. You will be able to sell or buy Bitcoin against a wire transfer.
 
 **[OSL](https://www.osl.com/)**
-Affiliated with ANX as mentioned above.
+One of the largest OTC exchanges in the world.
 
 **[Genesis Block](https://www.genesisblockhk.com/)**
-Opened in September 2017 in Wan Chai, the Genesis Block functions as an OTC trading hub as well as a co-working and event space.
+Opened in September 2017 in Wan Chai, the Genesis Block functions as an OTC trading hub as well as an event space.
 
 **[Circle Trading](https://www.circletrading.com/)**
 Circle is a Boston-based financial services firm most popular for their money transfer app. They opened a Bitcoin OTC trading desk in Hong Kong in November 2017.
@@ -136,7 +135,7 @@ Quoine is a Japanese exchange that offers HKD deposits into their Japanese bank 
 **[Gemini](https://gemini.com/)**
 Gemini is a New York exchange that specializes on large volumes. It only accepts USD deposits and trading.
 
-**[Bitstamp]()**
+**[Bitstamp](https://www.bitstamp.net/)**
 Bitstamp is a cryptocurrency exchange based in Slovenia. They accept USD and EUR deposits and withdrawals and welcome Hong Kong customers.
 
 #### Peer-to-peer Exchanges
