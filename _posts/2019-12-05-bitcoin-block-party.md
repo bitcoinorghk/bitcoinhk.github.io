@@ -2,7 +2,7 @@
 layout: meetup
 title: Bitcoin Block Party
 date: "2019-12-05 19:00:00"
-permalink: "/2019-12-bitcoin-bubble-bash/"
+permalink: "/2019-bitcoin-block-party/"
 host: Bitcoin Association of Hong Kong
 address: The Italian Club, U/G, 5 Elgin Street, Central, Hong Kong
 link: "https://www.meetup.com/Bitcoin-HK/events/266486473/"
