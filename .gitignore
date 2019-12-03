@@ -1,7 +1,6 @@
 _site/
 .sass-cache/
 node_modules
-terminal
 
 # OS generated files #
 ######################
