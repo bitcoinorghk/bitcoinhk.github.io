@@ -4,7 +4,7 @@ title: "Become a Member"
 caption: "join"
 subtitle: "Contribute and benefit"
 icon: "user"
-background: "url(/images/plug_and_pay.jpg) #FF0000"
+background: "url(/images/bahk-bg-01.jpg) #FF0000"
 permalink: "/join/"
 navigation: "visible"
 ---
