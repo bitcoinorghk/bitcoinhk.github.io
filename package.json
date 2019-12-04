@@ -1,0 +1,24 @@
+{
+  "name": "bitcoinhk.github.io-1",
+  "version": "1.0.0",
+  "description": "A Jekyll-flavored hosted on GitHub pages.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  },
+  "devDependencies": {},
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cliffc2/bitcoinhk.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cliffc2/bitcoinhk.github.io/issues"
+  },
+  "homepage": "https://github.com/cliffc2/bitcoinhk.github.io/build"
+}

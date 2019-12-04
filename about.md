@@ -4,7 +4,7 @@ title: "About"
 caption: "Learn more"
 subtitle: "Serving the Hong Kong community"
 icon: "user"
-background: "url(/images/plug_and_pay.jpg) #FF0000"
+background: "url(/images/bahk-spot-grouppic-01.png) #FF0000"
 permalink: "/about/"
 navigation: "visible"
 ---

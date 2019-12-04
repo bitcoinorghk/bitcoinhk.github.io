@@ -3,7 +3,7 @@ layout: "page"
 title: "Contact us"
 caption: "Learn more"
 icon: "user"
-background: "url(/images/bahk-red-skyline.png) #FF0000"
+background: "url(/images/bahk-devs-01.png) #FF0000"
 permalink: "/contact/"
 navigation: "visible"
 ---
