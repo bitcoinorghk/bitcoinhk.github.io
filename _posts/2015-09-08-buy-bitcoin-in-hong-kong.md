@@ -53,7 +53,7 @@ Bitcoin ATMs are located at:
 **[Sin Tat Plaza](https://coinatmradar.com/bitcoin_atm/7379/bitcoin-atm-general-bytes-kowloon-sin-tat-plaza/)**, S15, 1/F, 83 Argyle Street, **Mong Kok**    
 **[President Commercial Centre](http://hkbitcoinatm.com/)**, Shop 322, 3/F, 608 Nathan Road, **Mong Kok**    
 **[Presidential Commercial Centre](https://nitroswap.com/#location)**, W Plaza, CHIC之堡, Shop 113, 602-608 , Nathan Road, **Mong Kok**    
-**[Sino Centre](https://www.coinhere.io/), 19/F, 582-592 Nathan Road, **Mong Kok**    
+**[Sino Centre](https://www.coinhere.io/)**, 19/F, 582-592 Nathan Road, **Mong Kok**    
 **[Ho King Commercial Centre](https://coinatmradar.com/bitcoin_atm/7388/bitcoin-atm-general-bytes-kowloon-ho-king-commercial-centre/)**, Shop 30, 1/F, 2-6 Fa Yuen Street, **Mong Kok**   
 **[Bo Yan Building](https://www.coinhere.io/)**, G/F, 1 Horse Shoe Lane, **Ngau Tau Kok**    
 **[Golden Luzon Agency](https://www.coinhere.io/)**, G/F, 15 Tit Shu Street, **Tai Kok Tsui**    
@@ -73,10 +73,10 @@ Bitcoin ATMs are located at:
 
 **[PMQ](https://www.coinhere.io/)**, Garden Meow, 35 Aberdeen Street, HG01-HG05, G/F, Block B, **Central**   
 **[Shing Lee Shopping Arcade](http://hkbitcoinatm.com/)**, Shop 19, 1/F, 6 Wing Kut Street, **Central**    
-**[Worktech](https://www.coinhere.io/), 23/F, Island Beverly, 1 Great George Street, **Causeway Bay**    
+**[Worktech](https://www.coinhere.io/)**, 23/F, Island Beverly, 1 Great George Street, **Causeway Bay**    
 **[VELA Hotel](http://ncxnet.com/)**, 86 Morrison Hill Rd, Morrison Hill, **Causeway Bay**    
 **[108 Percival Street](https://www.coinhere.io/)**, Shop D1, G/F, 108-120 Percival Street, **Causeway Bay**    
-**[Tidebit](https://coinatmradar.com/bitcoin_atm/5437/bitcoin-atm-general-bytes-hong-kong-7f-sino-favour-centre/)**, 7/F Sino Favour Centre, 1 On Yip Street, **Chai Wan**
+**[Tidebit](https://coinatmradar.com/bitcoin_atm/5437/bitcoin-atm-general-bytes-hong-kong-7f-sino-favour-centre/)**, 7/F Sino Favour Centre, 1 On Yip Street, **Chai Wan**    
 **[City Garden](http://bitmac.org/)**, Shop 31, Maxibase, Block 1-3, 233 Electric Road, **North Point**    
 **[The Hive](https://www.coinhere.io/)**, 33-35 Hillier St, **Sheung Wan**    
 **[WeWork](https://www.coinhere.io/)**, G/F, 40-44 Bonham Strand, **Sheung Wan**    
@@ -93,7 +93,7 @@ Bitcoin ATMs are located at:
 **[Kam Tai Shopping Centre](https://www.coinhere.io/)**. Shop 105, 1/F, 31 Ning Tai Rd, **Ma On Shan**    
 **[Hang Wai Industrial Centre](https://www.coinhere.io/)**, G/F, 6 Kin Tai Street, (Entrance at A2 Lift Lobby), **Tuen Mun**    
 **[One Terminal(壹號總站)](https://nitroswap.com/#location)**, Shop 14,2 Tsing Shan Square, **Tuen Mun**    
-**[Savannah Place](https://www.coinhere.io/)**, Shop G08A, G/F, 3 Chi Shin Street, **Tseung Kwan O**    
+**[Savannah](https://www.coinhere.io/)**, Shop G08A, G/F, 3 Chi Shin Street, **Tseung Kwan O**    
 **[T.Mark](http://hkbitcoinatm.com/)**, Shop 329, 3/F, 18 Tai Ho Road, **Tsuen Wan**    
 **[23 Mei Wan St](https://www.coinhere.io/)**, G/F, **Tsuen Wan**    
 **[LaundrYup](https://www.coinhere.io/)**, Shop A 2-3, G/F, 1 Tak Lung Back Street, **Sai Kung**    
