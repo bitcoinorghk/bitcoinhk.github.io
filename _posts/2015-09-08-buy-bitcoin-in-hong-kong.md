@@ -143,7 +143,7 @@ Circle is a Boston-based financial services firm most popular for their money tr
 Located in Central and was opened in February 2018.
 
 **[AAX](https://www.aax.com/otc/home)**
-The Hong Kong-based OTC desk of AAX exchanges HKD, USD and CNY to Bitcoin and offers a variety of payment methods, including FPS, WeChat or Alipay.
+The OTC desk of AAX exchanges HKD, USD and CNY to Bitcoin and offers a variety of payment methods, including FPS, WeChat or Alipay.
 
 #### Overseas Exchanges
 
