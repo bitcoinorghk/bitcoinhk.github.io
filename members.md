@@ -14,9 +14,9 @@ navigation: "visible"
 
 All current directors of the Bitcoin Association of Hong Kong.
 
-**Chechung Chang**
+**Clifford Choi**
 
-**Leo Weese**
+**Bryan Cheung**
 
 **Olga Kochmar**
 
