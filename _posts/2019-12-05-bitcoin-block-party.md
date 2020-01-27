@@ -24,17 +24,34 @@ Tickets include free flow of food and two drinks.
 
 **Pre-registration his now open. We have limited space available.**
 
+<style>
+	.submitButton {
+		box-shadow:inset 0px 1px 0px 0px #cf866c;
+		background-color: red;
+		border-radius:3px;
+		border:1px solid #942911;
+		display:inline-block;
+		cursor:pointer;
+		color: white;
+		font-family:Arial;
+		font-size:16px;
+		padding: 8px 24px;
+		text-decoration:none;
+		text-shadow:0px 1px 0px #854629;
+	}
+</style>
+
+#### Buy a Ticket
 <div>
   <form method="POST" action="https://btcpay.bitcoin.org.hk/apps/3Qwmbn2F7Ftc62eRgizKPgzU38rK/pos">
   <input type="hidden" name="amount" value="50" />
   <input type="hidden" name="orderId" value="Ticket" />
   <input type="hidden" name="notificationUrl" value="/2019-12-bitcoin-bubble-bash/" />
   <input type="text"   name="email" placeholder="Your Email Address">
-  <button style="height:200px;width:200px" type="submit">Ticket: $50</button>
+  <button class="submitButton" type="submit">Ticket: $50</button>
 	</form>
 </div>
 
 
-
-
+#### Location
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.8673065926673!2d114.15026435096536!3d22.28301578526057!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404007b9b5c0001%3A0xa80f0e22d61e16a4!2sThe%20Italian%20Club%20Wine%20Bar%20Steak%20House%20Pizza%20Gourmet!5e0!3m2!1sen!2shk!4v1573806211111!5m2!1sen!2shk" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
