@@ -24,23 +24,6 @@ Tickets include free flow of food and two drinks.
 
 **Pre-registration his now open. We have limited space available.**
 
-<style>
-	.submitButton {
-		box-shadow:inset 0px 1px 0px 0px #cf866c;
-		background-color: red;
-		border-radius:3px;
-		border:1px solid #942911;
-		display:inline-block;
-		cursor:pointer;
-		color: white;
-		font-family:Arial;
-		font-size:16px;
-		padding: 8px 24px;
-		text-decoration:none;
-		text-shadow:0px 1px 0px #854629;
-	}
-</style>
-
 #### Buy a Ticket
 <div>
   <form method="POST" action="https://btcpay.bitcoin.org.hk/apps/3Qwmbn2F7Ftc62eRgizKPgzU38rK/pos">
@@ -48,7 +31,7 @@ Tickets include free flow of food and two drinks.
   <input type="hidden" name="orderId" value="Ticket" />
   <input type="hidden" name="notificationUrl" value="/2019-12-bitcoin-bubble-bash/" />
   <input type="text"   name="email" placeholder="Your Email Address">
-  <button class="submitButton" type="submit">Ticket: $50</button>
+  <button class="BTCPayButton" type="submit">Ticket: $50</button>
 	</form>
 </div>
 
