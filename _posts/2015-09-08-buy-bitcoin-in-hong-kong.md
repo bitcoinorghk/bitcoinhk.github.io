@@ -21,7 +21,7 @@ The options on how to buy Bitcoin can be overwhelming at first. Unlike with cent
 Compared with selling Bitcoin, there is little fraud risk associated with buying.
 Unfortunately Bitcoin still does not have the legal status in Hong Kong that it deserves, and banks are reluctant to deal with companies and individuals associated with Bitcoin. In this environment it is easy for scammers to attempt to defraud you of your Dollars or Bitcoin in certain kinds of transactions.
 
-[![HK Bitcoin ATM](https://hkbitcoinatm.com/wp-content/uploads/2018/07/HKBITCOINATM_LOGO.jpg)](https://hkbitcoinatm.com/)
+[![HK Bitcoin ATM](http://hkbitcoinatm.com/wp-content/uploads/2018/07/HKBITCOINATM_LOGO.jpg)](http://hkbitcoinatm.com/)
 {:.text-center}
 
 Advertisement
