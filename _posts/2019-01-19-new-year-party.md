@@ -2,7 +2,7 @@
 layout: meetup
 title: Lunar New Year Party
 date: "2019-01-29 19:00:00"
-permalink: "/2018-new-year-party/"
+permalink: "/2019-new-year-party/"
 host: Bitcoin Association of Hong Kong
 address: Lotus Modern Thai, G/F, 5 Staunton Street, Soho, Hong Kong
 link: "https://www.meetup.com/Bitcoin-HK/events/lrsmmlyzdbhb/"

@@ -2,7 +2,7 @@
 layout: meetup
 title: Central Bitcoin Meetup 中環比特幣聚會
 date: "2019-11-07 19:00:00"
-permalink: "/2018-11-monthly-central-meetup/"
+permalink: "/2019-11-monthly-central-meetup/"
 host: Bitcoin Association of Hong Kong
 address: Craft Beer & Co, 17 Old Bailey Street, Soho, Hong Kong
 link: "https://www.meetup.com/Bitcoin-HK/events/kdhsjryzpbhb/"
