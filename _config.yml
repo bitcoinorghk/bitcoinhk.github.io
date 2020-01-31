@@ -49,7 +49,7 @@ permalink: pretty
 
 timezone: Asia/Hong_Kong
 
-gems:
+plugins:
   - jekyll-redirect-from
 
 prose:
