@@ -1,3 +1,6 @@
+html {
+    background-color: #343a40 !important;
+}    
 .top-header {background-color: #fff;}
 .top-header .timer-row__progress-bar {background:red;}
 .top-header .timer-row {background: #AAAAAA;}
@@ -10,7 +13,7 @@
     border-color: red;}
 .action-button:active, .action-button.active, .open>.action-button.dropdown-toggle {    color: #fff;    background-color: red;    border-color: red;}
 .action-button:active:hover, .action-button:active:focus, .action-button:active.focus, .action-button.active:hover, .action-button.active:focus, .action-button.active.focus, .open>.action-button.dropdown-toggle:hover, .open>.action-button.dropdown-toggle:focus, .open>.action-button.dropdown-toggle.focus {    color: #fff;    background-color: red;    border-color: red;}
-.btnGroupLnd button {border: solid 1px red;}
-.btnGroupLnd button.active {background-color: red; border-color: red;}
-.btnGroupLnd button:hover {background-color:#7faacc;}
-.btnGroupLnd button.active:hover {background-color:red;}
+.btnGroupLnd button {border: solid 1px #7faacc;}
+.btnGroupLnd button.active {background-color: #7faacc #7faacc; border-color:#7faacc;}
+.btnGroupLnd button:hover {background-color: red;}
+.btnGroupLnd button.active:hover {background-color: #7faacc;}
