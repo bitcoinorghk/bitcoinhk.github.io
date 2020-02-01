@@ -1,6 +1,9 @@
 html {
     background-color: #343a40 !important;
 }    
+.modal.page {
+    background-color: #343a40;
+  }  
 .top-header {background-color: #fff;}
 .top-header .timer-row__progress-bar {background:red;}
 .top-header .timer-row {background: #AAAAAA;}
