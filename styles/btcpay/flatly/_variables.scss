@@ -30,8 +30,8 @@ $cyan:    #7faacc !default;
 //$cyan:    #3498DB !default;
 
 
-$primary:       $red !default;
-$secondary:     $cyan !default;
+$primary:       $cyan !default;
+$secondary:     $gray-800 !default;
 $success:       $yellow !default;
 $info:          $cyan !default;
 $warning:       $green !default;
@@ -40,6 +40,10 @@ $light:         $gray-200 !default;
 $dark:          $gray-700 !default;
 
 $yiq-contrasted-threshold:  175 !default;
+
+// Body
+$body-bg:                   $red !default;
+$body-color:                $gray-800  !default;
 
 
 // Links
