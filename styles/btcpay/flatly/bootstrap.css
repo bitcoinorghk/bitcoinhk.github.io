@@ -10766,6 +10766,10 @@ a.text-dark:hover, a.text-dark:focus {
   color: #7faacc !important;
 }
 
+h1 {
+  color: white;
+}
+
 title {
   color: white;
 }
