@@ -16,7 +16,8 @@ $web-font-path: "https://fonts.googleapis.com/css?family=Lato:400,700,400italic"
 }
 
 .bg-dark {
-  background-color: $success !important;
+    background-color: $gray-800 !important;
+//  background-color: $success !important;
   &.navbar-dark .navbar-nav {
     .nav-link:focus,
     .nav-link:hover,
