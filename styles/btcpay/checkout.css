@@ -1,19 +1,19 @@
 html {
-    background-color: #343a40 !important;
+   background-color: #2C3E50 !important;
 }    
 .modal.page {
-    background-color: #343a40;
+    background-color:#2C3E50;
   }  
 .top-header {background-color: #fff;}
-.top-header .timer-row__progress-bar {background:red;}
+.top-header .timer-row__progress-bar {background:#E74C3C ;}
 .top-header .timer-row {background: #AAAAAA;}
 .close-icon {color:#000;}
-.payment-tabs__slider {background: red;     }
-.separatorGem {background: red;}
-.action-button {color: #fff; background-color: red;border-color: red;}
+.payment-tabs__slider {background: #E74C3C ;     }
+.separatorGem {background: #E74C3C ;}
+.action-button {color: #fff; background-color: #E74C3C ;border-color: #E74C3C ;}
 .action-button:hover {background-color: #7faacc;}
-.action-button:focus, .action-button.focus {color: #fff;background-color: red;
-    border-color: red;}
-.action-button:active, .action-button.active, .open>.action-button.dropdown-toggle {    color: #fff;    background-color: red;    border-color: red;}
-.action-button:active:hover, .action-button:active:focus, .action-button:active.focus, .action-button.active:hover, .action-button.active:focus, .action-button.active.focus, .open>.action-button.dropdown-toggle:hover, .open>.action-button.dropdown-toggle:focus, .open>.action-button.dropdown-toggle.focus {    color: #fff;    background-color: red;    border-color: red;}
+.action-button:focus, .action-button.focus {color: #fff;background-color: #E74C3C ;
+    border-color: #E74C3C ;}
+.action-button:active, .action-button.active, .open>.action-button.dropdown-toggle {    color: #fff;    background-color: #E74C3C ;    border-color: #E74C3C ;}
+.action-button:active:hover, .action-button:active:focus, .action-button:active.focus, .action-button.active:hover, .action-button.active:focus, .action-button.active.focus, .open>.action-button.dropdown-toggle:hover, .open>.action-button.dropdown-toggle:focus, .open>.action-button.dropdown-toggle.focus {    color: #fff;    background-color: #E74C3C ;    border-color: #E74C3C ;}
 
