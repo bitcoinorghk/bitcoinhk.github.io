@@ -22,6 +22,7 @@ $indigo:  #6610f2 !default;
 $purple:  #6f42c1 !default;
 $pink:    #e83e8c !default;
 $red:     #E74C3C !default;
+//$red:     #c10c06 !default;
 $orange:  #fd7e14 !default;
 $yellow:  #F39C12 !default;
 $green:   #18BC9C !default;
@@ -32,10 +33,10 @@ $cyan:    #7faacc !default;
 
 $primary:       $cyan !default;
 $secondary:     $gray-800 !default;
-$success:       $yellow !default;
+$success:       $gray-700!default;
 $info:          $cyan !default;
-$warning:       $green !default;
-$danger:        $red !default;
+$warning:       $blue !default;
+$danger:        $yellow  !default;
 $light:         $gray-200 !default;
 $dark:          $gray-700 !default;
 
@@ -43,7 +44,7 @@ $yiq-contrasted-threshold:  175 !default;
 
 // Body
 $body-bg:                   $red !default;
-$body-color:                $gray-800  !default;
+$body-color:                $gray-900  !default;
 
 
 // Links
