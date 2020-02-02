@@ -22,7 +22,6 @@ $indigo:  #6610f2 !default;
 $purple:  #6f42c1 !default;
 $pink:    #e83e8c !default;
 $red:     #E74C3C !default;
-//$red:     #c10c06 !default;
 $orange:  #fd7e14 !default;
 $yellow:  #F39C12 !default;
 $green:   #18BC9C !default;
@@ -32,11 +31,11 @@ $cyan:    #7faacc !default;
 
 
 $primary:       $cyan !default;
-$secondary:     $gray-600 !default;
-$success:       $gray-800!default;
+$secondary:     $blue !default;
+$success:       $yellow !default;
 $info:          $cyan !default;
 $warning:       $yellow !default;
-$danger:        $blue  !default;
+$danger:        $red  !default;
 $light:         $gray-200 !default;
 $dark:          $gray-700 !default;
 

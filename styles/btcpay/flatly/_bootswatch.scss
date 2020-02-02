@@ -27,12 +27,18 @@ $web-font-path: "https://fonts.googleapis.com/css?family=Lato:400,700,400italic"
 }
 
 // title tag
-h1 {
-  color: white;
-}
+//h1 {
+//  color: white;
+//}
 
 title {
   color:white;
+}
+
+.text-center {
+  text-align: center !important;
+  background-color: $gray-800;
+  color: white;
 }
 
 // Buttons =====================================================================
