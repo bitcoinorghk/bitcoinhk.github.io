@@ -29,20 +29,19 @@ $teal:    #20c997 !default;
 $cyan:    #7faacc !default;
 //$cyan:    #3498DB !default;
 
-$primary:       $cyan !default;
-$secondary:     $red !default;
-$success:       $yellow !default;
+$primary:       $red !default;
+$secondary:     $yellow !default;
+$success:       $cyan !default;
 $info:          $green !default;
 $warning:       $orange !default;
 $danger:        $orange !default;
-$light:         $gray-400 !default;
-$dark:          $gray-800 !default;
+$light:         $gray-600 !default;
+$dark:          $gray-700 !default;
 
-$yiq-contrasted-threshold:  175 !default;
+$yiq-contrasted-threshold:  150 !default;
 
 // Body
-
-$body-bg:                   $dark !default;
+$body-bg:                   $gray-900 !default;
 $body-color:                $white  !default;
 
 // Links
