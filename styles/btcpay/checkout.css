@@ -1,0 +1,19 @@
+html {
+   background-color: #343a40!important;
+}    
+.modal.page {
+    background-color: #343a40;
+  }  
+.top-header {background-color: #fff;}
+.top-header .timer-row__progress-bar {background:#E74C3C ;}
+.top-header .timer-row {background: #AAAAAA;}
+.close-icon {color:#000;}
+.payment-tabs__slider {background: #E74C3C ;     }
+.separatorGem {background: #E74C3C ;}
+.action-button {color: #fff; background-color: #E74C3C ;border-color: #E74C3C ;}
+.action-button:hover {background-color: #7faacc;}
+.action-button:focus, .action-button.focus {color: #fff;background-color: #E74C3C ;
+    border-color: #E74C3C ;}
+.action-button:active, .action-button.active, .open>.action-button.dropdown-toggle {    color: #fff;    background-color: #E74C3C ;    border-color: #E74C3C ;}
+.action-button:active:hover, .action-button:active:focus, .action-button:active.focus, .action-button.active:hover, .action-button.active:focus, .action-button.active.focus, .open>.action-button.dropdown-toggle:hover, .open>.action-button.dropdown-toggle:focus, .open>.action-button.dropdown-toggle.focus {    color: #fff;    background-color: #E74C3C ;    border-color: #E74C3C ;}
+
