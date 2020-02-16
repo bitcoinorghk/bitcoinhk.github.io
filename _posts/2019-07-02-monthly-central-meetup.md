@@ -2,7 +2,7 @@
 layout: meetup
 title: Central Bitcoin Meetup 中環比特幣聚會
 date: "2019-07-02 19:00:00"
-permalink: "/2018-07-monthly-central-meetup/"
+permalink: "/2019-07-monthly-central-meetup/"
 host: Bitcoin Association of Hong Kong
 address: Lotus Modern Thai, G/F, 5 Staunton Street, Soho, Hong Kong
 link: "https://www.meetup.com/Bitcoin-HK/events/dplmvqyzkbdb/"
