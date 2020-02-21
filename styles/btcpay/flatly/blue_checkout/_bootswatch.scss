@@ -1,6 +1,14 @@
 // Flatly 4.3.1
 // Bootswatch
 
+// Add Logo Image in overflow-hidden class ===================================
+.overflow-hidden {
+    content: url(https://www.bitcoin.org.hk/images/bahk-logo-big-white.svg);
+    max-width: 200px;
+    width: 24%;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 // Variables ===================================================================
 

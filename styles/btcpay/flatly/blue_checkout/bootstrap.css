@@ -10752,6 +10752,14 @@ a.text-dark:hover, a.text-dark:focus {
   }
 }
 
+.overflow-hidden {
+  content: url(https://www.bitcoin.org.hk/images/bahk-logo-big-white.svg);
+  max-width: 200px;
+  width: 24%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .bg-primary .navbar-nav .active > .nav-link {
   color: #343a40 !important;
 }
