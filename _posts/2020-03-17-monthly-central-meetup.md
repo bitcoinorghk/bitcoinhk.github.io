@@ -1,7 +1,7 @@
 ---
 layout: meetup
 title: Central Bitcoin Meetup 中環比特幣聚會
-date: "2020-03-13 19:00:00"
+date: "2020-03-17 19:00:00"
 permalink: "/2020-03-monthly-central-meetup/"
 host: Bitcoin Association of Hong Kong
 address: Fringe Colette's, 2 Lower Albert Road, Central, Hong Kong
