@@ -63,6 +63,10 @@ You are required to pay income on your profits (the HKD value of your Bitcoin at
 
 The tax perspective of a proof-of-stake miner is relatively complicated compared. A proof-of-stake platform may be considered a security, with your staking income similar to a dividend. Dividends are not taxable, but their trade is relatively restricted and you may not be able to openly sell them to the public.
 
+### Further reading
+
+**[KPMG: Taxation of digital assets in Hong Kong](https://home.kpmg/cn/en/home/insights/2020/04/tax-alert-8-hk-taxation-of-digital-assets-in-hk.html)**
+
 ### Hong Kong Tax Advisors Accepting Bitcoin
 
 **[CK Tax](https://www.ck-tax.com/entax)**
