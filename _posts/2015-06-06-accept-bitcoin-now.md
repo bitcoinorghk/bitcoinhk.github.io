@@ -14,7 +14,7 @@ redirect_from:
 
 ## Start Accepting Bitcoin Now
 
-[請按此查看中文版本。](https://比特幣.組織.香港/%E6%8E%A5%E5%8F%97%E6%AF%94%E7%89%B9%E5%B9%A3/)
+[請按此查看中文版本。](https://比特幣.組織.香港/accept-bitcoin/)
 
 Congratulations! You've made the decision to accept Bitcoin payments. This is a great idea for your business:
 
