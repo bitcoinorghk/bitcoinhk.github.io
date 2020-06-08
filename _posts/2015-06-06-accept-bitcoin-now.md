@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Start Accepting Bitcoin Now
+title: Start Accepting Bitcoin Now 現正開始接受比特幣
 date: "2020-06-07 20:00:00"
 permalink: /accept-bitcoin/
 author: liongrass
@@ -14,6 +14,8 @@ redirect_from:
 
 ## Start Accepting Bitcoin Now
 
+[請按此查看中文版本。](https://比特幣.組織.香港/%E6%8E%A5%E5%8F%97%E6%AF%94%E7%89%B9%E5%B9%A3/)
+
 Congratulations! You've made the decision to accept Bitcoin payments. This is a great idea for your business:
 
 - Flexibility: You control the user experience of your consumers and have a large variety of processors to choose from. You can even run or build your own!
@@ -25,7 +27,7 @@ Congratulations! You've made the decision to accept Bitcoin payments. This is a 
 
 [Coingate](https://coingate.com/ref/accept-btc) is a payment processor based in Estonia. There are [plugins](https://coingate.com/plugins) available for WooCommerce, Magento, or you can use [payment buttons](https://coingate.com/buttons). If you're tech savvy you can also make use of [Coingate's API](https://developer.coingate.com/) to fully control the experience.
 
-If you have a physical location, you can make use of Coingate's POS system. In addition to Bitcoin, Coingate lets you accept [dozens of cryptocurrencies(https://coingate.com/supported-currencies) including BCH, ETH and LTC. Coingate also lets you accept payments using Lightning.
+If you have a physical location, you can make use of Coingate's POS system. In addition to Bitcoin, Coingate lets you accept [dozens of cryptocurrencies](https://coingate.com/supported-currencies) including BCH, ETH and LTC. Coingate also lets you accept payments using Lightning.
 
 [Fees](https://coingate.com/pricing) are set flat at 1%.
 
