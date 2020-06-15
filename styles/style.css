@@ -3579,7 +3579,7 @@ footer .centre .wrapper .text .links a:hover {
   display: grid;
   -ms-grid-columns: 25% 25% 25% 25%;
       grid-template-columns: 25% 25% 25% 25%;
-      grid-template-areas: "head  list list list" "button button . .";
+      grid-template-areas: "head  list list list" "button button . .";
   padding: 24px;
 }
 
@@ -3665,7 +3665,7 @@ footer .centre .wrapper .text .links a:hover {
     display: block;
   }
   .join .third .slider .offer .info {
-        grid-template-areas: "head  head head head" "list  list list list" "button button button button";
+        grid-template-areas: "head  head head head" "list  list list list" "button button button button";
   }
   .join .third .slider .offer .info .head {
     -webkit-box-orient: horizontal;
@@ -3830,7 +3830,7 @@ footer .centre .wrapper .text .links a:hover {
       grid-template-columns: 100%;
   -ms-grid-rows: auto;
       grid-template-rows: auto;
-      grid-template-areas: "corp-head" "corp-logos" "org-head" "org-logos" "com-head" "com-logos";
+      grid-template-areas: "corp-head" "corp-logos" "org-head" "org-logos" "com-head" "com-logos";
 }
 
 .member .corp {
@@ -3910,7 +3910,7 @@ footer .centre .wrapper .text .links a:hover {
 
 @media screen and (max-width: 767px) {
   .member {
-        grid-template-areas: "corp-head" "org-head" "com-head" "corp-logos" "org-logos" "com-logos";
+        grid-template-areas: "corp-head" "org-head" "com-head" "corp-logos" "org-logos" "com-logos";
   }
   .member .tab1 {
     font-weight: 500;
