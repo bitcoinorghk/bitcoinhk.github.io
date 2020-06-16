@@ -23,41 +23,28 @@ navigation: "visible"
 	</div>
 		
 	<div id="corp" class="content">
-		<img src="/media/new/corp/1.png" alt="logo">
-		<img src="/media/new/corp/2.png" alt="logo">
-		<img src="/media/new/corp/3.png" alt="logo">
-		<img src="/media/new/corp/4.png" alt="logo">
-		<img src="/media/new/corp/5.png" alt="logo">
-		<img src="/media/new/corp/6.png" alt="logo">
-		<img src="/media/new/corp/7.png" alt="logo">
-		<img src="/media/new/corp/8.png" alt="logo">
-		<img src="/media/new/corp/9.svg" alt="logo">
-		<img src="/media/new/corp/10.svg" alt="logo">
-		<img src="/media/new/corp/11.svg" alt="logo">
-		<img src="/media/new/corp/12.svg" alt="logo">
-		<img src="/media/new/corp/13.png" alt="logo">
-		<img src="/media/new/corp/14.svg" alt="logo">
-		<img src="/media/new/corp/15.svg" alt="logo">
-		<img src="/media/new/corp/16.svg" alt="logo">
-		<img src="/media/new/corp/17.png" alt="logo">
-		<img src="/media/new/corp/18.svg" alt="logo">
-		<img src="/media/new/corp/19.svg" alt="logo">
-		<img src="/media/new/corp/20.png" alt="logo">
+		<img src="/media/corp/atum.png" alt="logo">
+		<img src="/media/corp/edge.png" alt="logo">
+		<img src="/media/corp/etoro.png" alt="logo">
+		<img src="/media/corp/gb.png" alt="logo">
+		<img src="/media/corp/hkbitcoinatm.png" alt="logo">
+		<img src="/media/corp/nil.png" alt="logo">
+		<img src="/media/corp/anx.png" alt="logo">
+		<img src="/media/corp/salg.svg" alt="logo">
 	</div>
 	<div id="org" class="content  current-content">
-		<img src="/media/new/org/1.svg" alt="logo">
-		<img src="/media/new/org/2.png" alt="logo">
-		<img src="/media/new/org/4.svg" alt="logo">
-		<img src="/media/new/org/5.svg" alt="logo">
-		<img src="/media/new/org/5.png" alt="logo">
+		<img src="/media/org/adam.svg" alt="logo">
+		<img src="/media/org/bach.png" alt="logo">
+		<img src="/media/org/bck.svg" alt="logo">
+		<img src="/media/org/ffm.svg" alt="logo">
 	</div>
 	<div id="com" class="content">
-		<img src="/media/new/media/1.svg" alt="logo">
-		<img src="/media/new/media/2.png" alt="logo">
-		<img src="/media/new/media/3.png" alt="logo">
-		<img src="/media/new/media/4.svg" alt="logo">
-		<img src="/media/new/media/5.svg" alt="logo">
-		<img src="/media/new/media/6.png" alt="logo">
+		<img src="/media/media/jinse.svg" alt="logo">
+		<img src="/media/media/bitcoinmagazine.png" alt="logo">
+		<img src="/media/media/chaintalk.png" alt="logo">
+		<img src="/media/media/coindesk.svg" alt="logo">
+		<img src="/media/media/cointelegraph.svg" alt="logo">
+		<img src="/media/media/forkast.png" alt="logo">
 	</div>
 	
 </div>
