@@ -1,41 +1,95 @@
 {% if site.notifications contains 'visible' %}
-<section id="notifications" class="bg-accent">
-  <div class="c">
 
-      <h3>Keep in touch</h3>
-      <p class="rss-subscribe">
-        <a href="{{ "/atom.xml" | prepend: site.baseurl }}">Subscribe via <i class="icon-broadcast"></i> Atom</a>
-        •
-        <a href="mailto:info@bitcoin.org.hk" target="_blank"><i class="icon-envelope"></i> info@bitcoin.org.hk</a>
+<section id="notifications" class="new-footer">
+  <div class="centre">
 
-      </p>
+      <div class="keep">
+        <h3>Keep in touch</h3>
+        <div class="links">
+          <a href="{{ "/atom.xml" | prepend: site.baseurl }}">
+            Subscribe via Atom
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <g clip-path="url(#clip0)">
+              <path d="M2.286 15.9997C3.54852 15.9997 4.572 14.9763 4.572 13.7137C4.572 12.4512 3.54852 11.4277 2.286 11.4277C1.02348 11.4277 0 12.4512 0 13.7137C0 14.9763 1.02348 15.9997 2.286 15.9997Z"/>
+              <path d="M7.61933 15.9997H10.666C10.666 10.119 5.88067 5.33367 0 5.33301V8.38101C4.20133 8.38167 7.61933 11.7983 7.61933 15.9997Z" fill="#EEEEEE"/>
+              <path d="M16 16C16 7.17733 8.82267 0 0 0V3.04733C7.14267 3.04733 12.9533 8.85667 12.9533 16H16Z"/>
+              </g>
+              <defs>
+              <clipPath id="clip0">
+              <rect width="16" height="16" fill="white"/>
+              </clipPath>
+              </defs>
+              </svg>
+          </a>
+          <a href="mailto:info@bitcoin.org.hk" target="_blank">
+            info@bitcoin.org.hk
+              <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M0.333768 2.97362C2.52971 4.83334 6.38289 8.10516 7.51539 9.12531C7.66743 9.263 7.83049 9.333 7.99977 9.333C8.16871 9.333 8.33149 9.26366 8.48318 9.12663C9.61664 8.10547 13.4698 4.83334 15.6658 2.97362C15.8025 2.85806 15.8234 2.65494 15.7127 2.51366C15.4568 2.18719 15.0753 2 14.6664 2H1.33311C0.924268 2 0.542737 2.18719 0.286893 2.51369C0.176205 2.65494 0.197049 2.85806 0.333768 2.97362Z"/>
+                <path d="M15.8067 3.98127C15.6885 3.92627 15.5495 3.94546 15.4512 4.02946C13.0159 6.0939 9.90788 8.74009 8.93 9.62124C8.38116 10.1167 7.61944 10.1167 7.06931 9.62058C6.027 8.68146 2.53675 5.71433 0.548813 4.02943C0.449844 3.94543 0.310531 3.9269 0.193344 3.98124C0.0755312 4.03596 0 4.1538 0 4.28368V12.6665C0 13.4019 0.597969 13.9998 1.33334 13.9998H14.6667C15.402 13.9998 16 13.4019 16 12.6665V4.28368C16 4.1538 15.9245 4.03565 15.8067 3.98127Z"/>
+               </svg> 
+          </a>
+        </div>
+      </div>
+
+      <div class="social-links">
+        <h4>Social links</h4>
+        <div class="links">
+          <a href="https://www.facebook.com/bitcoinorghk/">
+            <svg width="13" height="24" viewBox="0 0 13 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M9.99652 3.985H12.1875V0.169C11.8095 0.117 10.5095 0 8.99552 0C5.83652 0 3.67252 1.987 3.67252 5.639V9H0.186523V13.266H3.67252V24H7.94652V13.267H11.2915L11.8225 9.001H7.94552V6.062C7.94652 4.829 8.27852 3.985 9.99652 3.985Z"/>
+              </svg>              
+          </a>
+          <a href="https://www.linkedin.com/company/bitcoinorghk/">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+              <path d="M23.9943 24.0002V23.9992H24.0003V15.1972C24.0003 10.8912 23.0733 7.57422 18.0393 7.57422C15.6193 7.57422 13.9953 8.90222 13.3323 10.1612H13.2623V7.97622H8.48926V23.9992H13.4593V16.0652C13.4593 13.9762 13.8553 11.9562 16.4423 11.9562C18.9913 11.9562 19.0293 14.3402 19.0293 16.1992V24.0002H23.9943Z" fill="#FFBEBC"/>
+              <path d="M0.396484 7.97656H5.37249V23.9996H0.396484V7.97656Z" fill="#FFBEBC"/>
+              <path d="M2.882 0C1.291 0 0 1.291 0 2.882C0 4.473 1.291 5.791 2.882 5.791C4.473 5.791 5.764 4.473 5.764 2.882C5.763 1.291 4.472 0 2.882 0V0Z" fill="#FFBEBC"/>
+
+              <defs>
+              <clipPath id="clip0">
+              <rect width="24" height="24" fill="white"/>
+              </clipPath>
+              </defs>
+              </svg>
+          </a>
+          <a href="https://telegram.me/bitcoinorghk">
+            <svg width="24" height="20" viewBox="0 0 24 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M9.41718 13.1814L9.02018 18.7654C9.58818 18.7654 9.83418 18.5214 10.1292 18.2284L12.7922 15.6834L18.3102 19.7244C19.3222 20.2884 20.0352 19.9914 20.3082 18.7934L23.9302 1.82141L23.9312 1.82041C24.2522 0.324405 23.3902 -0.260595 22.4042 0.106406L1.11418 8.25741C-0.338822 8.82141 -0.316822 9.63141 0.867178 9.99841L6.31018 11.6914L18.9532 3.78041C19.5482 3.38641 20.0892 3.60441 19.6442 3.99841L9.41718 13.1814Z"/>
+              </svg>
+          </a>
+          <a href="https://www.twitter.com/bitcoinorghk/">
+            <svg width="24" height="20" viewBox="0 0 24 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M21.534 5.113C22.51 4.42 23.331 3.555 24 2.559V2.558C23.107 2.949 22.157 3.209 21.165 3.335C22.185 2.726 22.964 1.769 23.33 0.616C22.379 1.183 21.329 1.583 20.21 1.807C19.307 0.845 18.02 0.25 16.616 0.25C13.892 0.25 11.699 2.461 11.699 5.171C11.699 5.561 11.732 5.936 11.813 6.293C7.723 6.093 4.103 4.133 1.671 1.146C1.247 1.883 0.997 2.726 0.997 3.633C0.997 5.337 1.874 6.847 3.183 7.722C2.392 7.707 1.617 7.477 0.96 7.116V7.17C0.96 9.561 2.665 11.547 4.902 12.005C4.501 12.115 4.065 12.167 3.612 12.167C3.297 12.167 2.979 12.149 2.681 12.083C3.318 14.031 5.128 15.464 7.278 15.511C5.604 16.82 3.478 17.609 1.177 17.609C0.774 17.609 0.387 17.591 0 17.542C2.18 18.947 4.762 19.75 7.548 19.75C16.231 19.75 21.89 12.506 21.534 5.113Z"/>
+              </svg>
+          </a>
+        </div>
+      </div>
 
   </div>
 </section>
 {% endif %}
 
 <footer>
-
-  <div class="c">
-    <div class="row">
-      <div class="col-33">
+  
+  <div class="centre">
+    <div class="wrapper">
+      <div class="text">
         <h3>BAHK</h3>
         <p>Fostering and promoting Bitcoin and its technology in Hong Kong.</p>
         <p>This site is also available via <a href="https://比特幣.組織.香港">比特幣.組織.香港</a></p>
-		<p>Donations: 1BAHK1Esvn6L1icZREB8SFqTy7bBSRDwaS</p>
-        <p>
-          <a href="/about"><i class="icon-plus"></i> Learn more</a>
-          <br>
-          <a href="/contact"><i class="icon-grid"></i> Contact us</a>
-         </p>
-      </div>
-      <div class="col-33">
-        &nbsp;
-    </div>
 
-    <div class="col-33" style="text-align:center;">
+        <div class="donat">
+          Donations: <p>1BAHK1Esvn6L1icZREB8SFqTy7bBSRDwaS</p>
+        </div>
+       
+        <div class="links">
+          <a href="/about">Learn more</a>
+          <a href="/contact">Contact us</a>
+        </div>
+      </div>
       <img src="/images/site-logo.png" alt="BAHK Logo">
-  </div>
+    </div>
   </div>
 
 </footer>
@@ -48,3 +102,5 @@
 </div>
 
 <script src="/scripts/site.js"></script>
+<script src="/scripts/slick.min.js"></script>
+<script src="/scripts/new.js"></script>

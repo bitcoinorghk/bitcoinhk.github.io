@@ -11,13 +11,15 @@ html {
   -ms-text-size-adjust: 100%;
   /* 2 */
   -webkit-text-size-adjust: 100%;
-  /* 2 */ }
+  /* 2 */
+}
 
 /**
  * Remove default margin.
  */
 body {
-  margin: 0; }
+  margin: 0;
+}
 
 /* HTML5 display definitions
    ========================================================================== */
@@ -38,7 +40,8 @@ main,
 nav,
 section,
 summary {
-  display: block; }
+  display: block;
+}
 
 /**
  * 1. Correct `inline-block` display not defined in IE 8/9.
@@ -51,7 +54,8 @@ video {
   display: inline-block;
   /* 1 */
   vertical-align: baseline;
-  /* 2 */ }
+  /* 2 */
+}
 
 /**
  * Prevent modern browsers from displaying `audio` without controls.
@@ -59,7 +63,8 @@ video {
  */
 audio:not([controls]) {
   display: none;
-  height: 0; }
+  height: 0;
+}
 
 /**
  * Address `[hidden]` styling not present in IE 8/9/10.
@@ -67,7 +72,8 @@ audio:not([controls]) {
  */
 [hidden],
 template {
-  display: none; }
+  display: none;
+}
 
 /* Links
    ========================================================================== */
@@ -75,14 +81,16 @@ template {
  * Remove the gray background color from active links in IE 10.
  */
 a {
-  background: transparent; }
+  background: transparent;
+}
 
 /**
  * Improve readability when focused and also mouse hovered in all browsers.
  */
 a:active,
 a:hover {
-  outline: 0; }
+  outline: 0;
+}
 
 /* Text-level semantics
    ========================================================================== */
@@ -90,20 +98,23 @@ a:hover {
  * Address styling not present in IE 8/9/10/11, Safari, and Chrome.
  */
 abbr[title] {
-  border-bottom: 1px dotted; }
+  border-bottom: 1px dotted;
+}
 
 /**
  * Address style set to `bolder` in Firefox 4+, Safari, and Chrome.
  */
 b,
 strong {
-  font-weight: bold; }
+  font-weight: bold;
+}
 
 /**
  * Address styling not present in Safari and Chrome.
  */
 dfn {
-  font-style: italic; }
+  font-style: italic;
+}
 
 /**
  * Address variable `h1` font-size and margin within `section` and `article`
@@ -111,20 +122,23 @@ dfn {
  */
 h1 {
   font-size: 2em;
-  margin: 0.67em 0; }
+  margin: 0.67em 0;
+}
 
 /**
  * Address styling not present in IE 8/9.
  */
 mark {
   background: #ff0;
-  color: #000; }
+  color: #000;
+}
 
 /**
  * Address inconsistent and variable font size in all browsers.
  */
 small {
-  font-size: 80%; }
+  font-size: 80%;
+}
 
 /**
  * Prevent `sub` and `sup` affecting `line-height` in all browsers.
@@ -134,13 +148,16 @@ sup {
   font-size: 75%;
   line-height: 0;
   position: relative;
-  vertical-align: baseline; }
+  vertical-align: baseline;
+}
 
 sup {
-  top: -0.5em; }
+  top: -0.5em;
+}
 
 sub {
-  bottom: -0.25em; }
+  bottom: -0.25em;
+}
 
 /* Embedded content
    ========================================================================== */
@@ -148,13 +165,15 @@ sub {
  * Remove border when inside `a` element in IE 8/9/10.
  */
 img {
-  border: 0; }
+  border: 0;
+}
 
 /**
  * Correct overflow not hidden in IE 9/10/11.
  */
 svg:not(:root) {
-  overflow: hidden; }
+  overflow: hidden;
+}
 
 /* Grouping content
    ========================================================================== */
@@ -162,22 +181,24 @@ svg:not(:root) {
  * Address margin not present in IE 8/9 and Safari.
  */
 figure {
-  margin: 1em 40px; }
+  margin: 1em 40px;
+}
 
 /**
  * Address differences between Firefox and other browsers.
  */
 hr {
-  -moz-box-sizing: content-box;
   -webkit-box-sizing: content-box;
-  box-sizing: content-box;
-  height: 0; }
+          box-sizing: content-box;
+  height: 0;
+}
 
 /**
  * Contain overflow in all browsers.
  */
 pre {
-  overflow: auto; }
+  overflow: auto;
+}
 
 /**
  * Address odd `em`-unit font size rendering in all browsers.
@@ -187,7 +208,8 @@ kbd,
 pre,
 samp {
   font-family: monospace, monospace;
-  font-size: 1em; }
+  font-size: 1em;
+}
 
 /* Forms
    ========================================================================== */
@@ -211,13 +233,15 @@ textarea {
   font: inherit;
   /* 2 */
   margin: 0;
-  /* 3 */ }
+  /* 3 */
+}
 
 /**
  * Address `overflow` set to `hidden` in IE 8/9/10/11.
  */
 button {
-  overflow: visible; }
+  overflow: visible;
+}
 
 /**
  * Address inconsistent `text-transform` inheritance for `button` and `select`.
@@ -227,7 +251,8 @@ button {
  */
 button,
 select {
-  text-transform: none; }
+  text-transform: none;
+}
 
 /**
  * 1. Avoid the WebKit bug in Android 4.0.* where (2) destroys native `audio`
@@ -243,14 +268,16 @@ input[type="submit"] {
   -webkit-appearance: button;
   /* 2 */
   cursor: pointer;
-  /* 3 */ }
+  /* 3 */
+}
 
 /**
  * Re-set default cursor for disabled elements.
  */
 button[disabled],
 html input[disabled] {
-  cursor: default; }
+  cursor: default;
+}
 
 /**
  * Remove inner padding and border in Firefox 4+.
@@ -258,14 +285,16 @@ html input[disabled] {
 button::-moz-focus-inner,
 input::-moz-focus-inner {
   border: 0;
-  padding: 0; }
+  padding: 0;
+}
 
 /**
  * Address Firefox 4+ setting `line-height` on `input` using `!important` in
  * the UA stylesheet.
  */
 input {
-  line-height: normal; }
+  line-height: normal;
+}
 
 /**
  * It's recommended that you don't attempt to style these elements.
@@ -277,11 +306,11 @@ input {
 input[type="checkbox"],
 input[type="radio"] {
   -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
+          box-sizing: border-box;
   /* 1 */
   padding: 0;
-  /* 2 */ }
+  /* 2 */
+}
 
 /**
  * Fix the cursor style for Chrome's increment/decrement buttons. For certain
@@ -290,7 +319,8 @@ input[type="radio"] {
  */
 input[type="number"]::-webkit-inner-spin-button,
 input[type="number"]::-webkit-outer-spin-button {
-  height: auto; }
+  height: auto;
+}
 
 /**
  * 1. Address `appearance` set to `searchfield` in Safari and Chrome.
@@ -300,10 +330,10 @@ input[type="number"]::-webkit-outer-spin-button {
 input[type="search"] {
   -webkit-appearance: textfield;
   /* 1 */
-  -moz-box-sizing: content-box;
   -webkit-box-sizing: content-box;
   /* 2 */
-  box-sizing: content-box; }
+  box-sizing: content-box;
+}
 
 /**
  * Remove inner padding and search cancel button in Safari and Chrome on OS X.
@@ -312,7 +342,8 @@ input[type="search"] {
  */
 input[type="search"]::-webkit-search-cancel-button,
 input[type="search"]::-webkit-search-decoration {
-  -webkit-appearance: none; }
+  -webkit-appearance: none;
+}
 
 /**
  * Define consistent border, margin, and padding.
@@ -320,7 +351,8 @@ input[type="search"]::-webkit-search-decoration {
 fieldset {
   border: 1px solid #c0c0c0;
   margin: 0 2px;
-  padding: 0.35em 0.625em 0.75em; }
+  padding: 0.35em 0.625em 0.75em;
+}
 
 /**
  * 1. Correct `color` not being inherited in IE 8/9/10/11.
@@ -330,20 +362,23 @@ legend {
   border: 0;
   /* 1 */
   padding: 0;
-  /* 2 */ }
+  /* 2 */
+}
 
 /**
  * Remove default vertical scrollbar in IE 8/9/10/11.
  */
 textarea {
-  overflow: auto; }
+  overflow: auto;
+}
 
 /**
  * Don't inherit the `font-weight` (applied by a rule above).
  * NOTE: the default cannot safely be changed in Chrome and Safari on OS X.
  */
 optgroup {
-  font-weight: bold; }
+  font-weight: bold;
+}
 
 /* Tables
    ========================================================================== */
@@ -352,51 +387,59 @@ optgroup {
  */
 table {
   border-collapse: collapse;
-  border-spacing: 0; }
+  border-spacing: 0;
+}
 
 td,
 th {
-  padding: 0; }
+  padding: 0;
+}
 
 * {
   -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box; }
+  box-sizing: border-box;
+}
 
 .reset:after {
   visibility: hidden;
   display: block;
   content: "";
   clear: both;
-  height: 0; }
+  height: 0;
+}
 
 ::-moz-selection {
   background: rgba(0, 0, 0, 0.8);
   color: #fff;
-  text-shadow: 0 0 3px rgba(0, 0, 0, 0.7); }
+  text-shadow: 0 0 3px rgba(0, 0, 0, 0.7);
+}
 
 ::selection {
   background: rgba(0, 0, 0, 0.8);
   color: #fff;
-  text-shadow: 0 0 3px rgba(0, 0, 0, 0.7); }
+  text-shadow: 0 0 3px rgba(0, 0, 0, 0.7);
+}
 
 body {
   background: white;
   color: black;
   line-height: 1.5em;
   -webkit-font-smoothing: antialiased;
-  font-family: "Raleway", Arial, sans-serif;
+  font-family: "Franklin Gothic", Arial, sans-serif;
   font-weight: normal;
-  vertical-align: middle; }
+  vertical-align: middle;
+}
 
 a {
-  color: #03a9f4;
+  color: #03A9F4;
   text-decoration: none;
-  border-radius: 4px; }
+  border-radius: 4px;
+}
 
 section, header, footer {
   min-height: 100%;
-  position: relative; }
+  position: relative;
+}
 
 .screen-reader {
   position: absolute;
@@ -406,34 +449,45 @@ section, header, footer {
   margin: -1px;
   overflow: hidden;
   clip: rect(0, 0, 0, 0);
-  border: 0; }
+  border: 0;
+}
 
 noscript, noscript img {
   margin: 0;
   display: block;
-  width: 100%; }
+  width: 100%;
+}
 
 noscript div, .oldie {
   font-size: 30px;
   padding: 18px;
   display: block;
-  text-align: center; }
+  text-align: center;
+}
 
-b, strong {
-  font-weight: bold; }
+b,
+strong {
+  font-weight: bold;
+}
 
 .disable-hover {
-  pointer-events: none !important; }
+  pointer-events: none !important;
+}
 
 .right {
-  float: right; }
+  float: right;
+}
 
 .left {
-  float: left; }
+  float: left;
+}
 
 @media screen and (max-width: 400px) {
   @-ms-viewport {
-    width: 320px; } }
+    width: 320px;
+  }
+}
+
 @media all {
   .clear {
     clear: both;
@@ -441,8 +495,8 @@ b, strong {
     overflow: hidden;
     visibility: hidden;
     width: 0;
-    height: 0; }
-
+    height: 0;
+  }
   .c:before, .clearfix:before, .row:before, .c:after, .clearfix:after, .row:after {
     content: ".";
     display: block;
@@ -451,37 +505,39 @@ b, strong {
     font-size: 0;
     line-height: 0;
     width: 0;
-    height: 0; }
-
+    height: 0;
+  }
   .c:after, .clearfix:after {
-    clear: both; }
-
+    clear: both;
+  }
   .c, .clearfix {
-    *zoom: 1; }
-
+    *zoom: 1;
+  }
   .c {
     margin-left: auto;
     margin-right: auto;
     max-width: 1200px;
     padding-left: 10px;
-    padding-right: 10px; }
-
+    padding-right: 10px;
+  }
   .col-5, .mobile-col-5, .col-10, .mobile-col-10, .col-15, .mobile-col-15, .col-20, .mobile-col-20, .col-25, .mobile-col-25, .col-30, .mobile-col-30, .col-35, .mobile-col-35, .col-40, .mobile-col-40, .col-45, .mobile-col-45, .col-50, .mobile-col-50, .col-55, .mobile-col-55, .col-60, .mobile-col-60, .col-65, .mobile-col-65, .col-70, .mobile-col-70, .col-75, .mobile-col-75, .col-80, .mobile-col-80, .col-85, .mobile-col-85, .col-90, .mobile-col-90, .col-95, .mobile-col-95, .col-100, .mobile-col-100, .col-33, .mobile-col-33, .col-66, .mobile-col-66 {
     -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
     box-sizing: border-box;
     padding-left: 10px;
     padding-right: 10px;
     *padding-left: 0;
-    *padding-right: 0; }
-
+    *padding-right: 0;
+  }
   .col-5 > *, .mobile-col-5 > *, .col-10 > *, .mobile-col-10 > *, .col-15 > *, .mobile-col-15 > *, .col-20 > *, .mobile-col-20 > *, .col-25 > *, .mobile-col-25 > *, .col-30 > *, .mobile-col-30 > *, .col-35 > *, .mobile-col-35 > *, .col-40 > *, .mobile-col-40 > *, .col-45 > *, .mobile-col-45 > *, .col-50 > *, .mobile-col-50 > *, .col-55 > *, .mobile-col-55 > *, .col-60 > *, .mobile-col-60 > *, .col-65 > *, .mobile-col-65 > *, .col-70 > *, .mobile-col-70 > *, .col-75 > *, .mobile-col-75 > *, .col-80 > *, .mobile-col-80 > *, .col-85 > *, .mobile-col-85 > *, .col-90 > *, .mobile-col-90 > *, .col-95 > *, .mobile-col-95 > *, .col-100 > *, .mobile-col-100 > *, .col-33 > *, .mobile-col-33 > *, .col-66 > *, .mobile-col-66 > * {
     *margin-left: expression((!this.className.match(/col-[1-9]/) && this.currentStyle.display === "block" && this.currentStyle.width === "auto") && "10px");
-    *margin-right: expression((!this.className.match(/col-[1-9]/) && this.currentStyle.display === "block" && this.currentStyle.width === "auto") && "10px"); }
-
+    *margin-right: expression((!this.className.match(/col-[1-9]/) && this.currentStyle.display === "block" && this.currentStyle.width === "auto") && "10px");
+  }
   .col-parent {
     padding-left: 0;
-    padding-right: 0; } }
+    padding-right: 0;
+  }
+}
+
 @media screen and (max-width: 767px) {
   .mobile-col-100:before, .mobile-col-100:after {
     content: ".";
@@ -491,422 +547,425 @@ b, strong {
     font-size: 0;
     line-height: 0;
     width: 0;
-    height: 0; }
-
+    height: 0;
+  }
   .mobile-col-100:after {
-    clear: both; }
-
+    clear: both;
+  }
   .mobile-col-100 {
-    *zoom: 1; }
-
+    *zoom: 1;
+  }
   .mobile-push-5, .mobile-pull-5, .mobile-push-10, .mobile-pull-10, .mobile-push-15, .mobile-pull-15, .mobile-push-20, .mobile-pull-20, .mobile-push-25, .mobile-pull-25, .mobile-push-30, .mobile-pull-30, .mobile-push-35, .mobile-pull-35, .mobile-push-40, .mobile-pull-40, .mobile-push-45, .mobile-pull-45, .mobile-push-50, .mobile-pull-50, .mobile-push-55, .mobile-pull-55, .mobile-push-60, .mobile-pull-60, .mobile-push-65, .mobile-pull-65, .mobile-push-70, .mobile-pull-70, .mobile-push-75, .mobile-pull-75, .mobile-push-80, .mobile-pull-80, .mobile-push-85, .mobile-pull-85, .mobile-push-90, .mobile-pull-90, .mobile-push-95, .mobile-pull-95, .mobile-push-33, .mobile-pull-33, .mobile-push-66, .mobile-pull-66 {
-    position: relative; }
-
+    position: relative;
+  }
   .hide-on-mobile {
-    display: none !important; }
-
+    display: none !important;
+  }
   .mobile-col-5 {
     float: left;
     width: 5%;
-    *width: expression(Math.floor(0.05 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.05 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-prefix-5 {
-    margin-left: 5%; }
-
+    margin-left: 5%;
+  }
   .mobile-suffix-5 {
-    margin-right: 5%; }
-
+    margin-right: 5%;
+  }
   .mobile-push-5 {
     left: 5%;
-    *left: expression(Math.floor(0.05 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.05 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-pull-5 {
     left: -5%;
-    *left: expression(Math.floor(-0.05 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.05 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-col-10 {
     float: left;
     width: 10%;
-    *width: expression(Math.floor(0.1 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.1 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-prefix-10 {
-    margin-left: 10%; }
-
+    margin-left: 10%;
+  }
   .mobile-suffix-10 {
-    margin-right: 10%; }
-
+    margin-right: 10%;
+  }
   .mobile-push-10 {
     left: 10%;
-    *left: expression(Math.floor(0.1 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.1 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-pull-10 {
     left: -10%;
-    *left: expression(Math.floor(-0.1 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.1 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-col-15 {
     float: left;
     width: 15%;
-    *width: expression(Math.floor(0.15 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.15 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-prefix-15 {
-    margin-left: 15%; }
-
+    margin-left: 15%;
+  }
   .mobile-suffix-15 {
-    margin-right: 15%; }
-
+    margin-right: 15%;
+  }
   .mobile-push-15 {
     left: 15%;
-    *left: expression(Math.floor(0.15 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.15 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-pull-15 {
     left: -15%;
-    *left: expression(Math.floor(-0.15 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.15 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-col-20 {
     float: left;
     width: 20%;
-    *width: expression(Math.floor(0.2 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.2 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-prefix-20 {
-    margin-left: 20%; }
-
+    margin-left: 20%;
+  }
   .mobile-suffix-20 {
-    margin-right: 20%; }
-
+    margin-right: 20%;
+  }
   .mobile-push-20 {
     left: 20%;
-    *left: expression(Math.floor(0.2 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.2 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-pull-20 {
     left: -20%;
-    *left: expression(Math.floor(-0.2 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.2 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-col-25 {
     float: left;
     width: 25%;
-    *width: expression(Math.floor(0.25 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.25 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-prefix-25 {
-    margin-left: 25%; }
-
+    margin-left: 25%;
+  }
   .mobile-suffix-25 {
-    margin-right: 25%; }
-
+    margin-right: 25%;
+  }
   .mobile-push-25 {
     left: 25%;
-    *left: expression(Math.floor(0.25 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.25 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-pull-25 {
     left: -25%;
-    *left: expression(Math.floor(-0.25 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.25 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-col-30 {
     float: left;
     width: 30%;
-    *width: expression(Math.floor(0.3 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.3 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-prefix-30 {
-    margin-left: 30%; }
-
+    margin-left: 30%;
+  }
   .mobile-suffix-30 {
-    margin-right: 30%; }
-
+    margin-right: 30%;
+  }
   .mobile-push-30 {
     left: 30%;
-    *left: expression(Math.floor(0.3 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.3 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-pull-30 {
     left: -30%;
-    *left: expression(Math.floor(-0.3 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.3 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-col-35 {
     float: left;
     width: 35%;
-    *width: expression(Math.floor(0.35 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.35 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-prefix-35 {
-    margin-left: 35%; }
-
+    margin-left: 35%;
+  }
   .mobile-suffix-35 {
-    margin-right: 35%; }
-
+    margin-right: 35%;
+  }
   .mobile-push-35 {
     left: 35%;
-    *left: expression(Math.floor(0.35 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.35 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-pull-35 {
     left: -35%;
-    *left: expression(Math.floor(-0.35 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.35 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-col-40 {
     float: left;
     width: 40%;
-    *width: expression(Math.floor(0.4 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.4 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-prefix-40 {
-    margin-left: 40%; }
-
+    margin-left: 40%;
+  }
   .mobile-suffix-40 {
-    margin-right: 40%; }
-
+    margin-right: 40%;
+  }
   .mobile-push-40 {
     left: 40%;
-    *left: expression(Math.floor(0.4 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.4 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-pull-40 {
     left: -40%;
-    *left: expression(Math.floor(-0.4 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.4 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-col-45 {
     float: left;
     width: 45%;
-    *width: expression(Math.floor(0.45 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.45 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-prefix-45 {
-    margin-left: 45%; }
-
+    margin-left: 45%;
+  }
   .mobile-suffix-45 {
-    margin-right: 45%; }
-
+    margin-right: 45%;
+  }
   .mobile-push-45 {
     left: 45%;
-    *left: expression(Math.floor(0.45 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.45 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-pull-45 {
     left: -45%;
-    *left: expression(Math.floor(-0.45 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.45 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-col-50 {
     float: left;
     width: 50%;
-    *width: expression(Math.floor(0.5 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.5 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-prefix-50 {
-    margin-left: 50%; }
-
+    margin-left: 50%;
+  }
   .mobile-suffix-50 {
-    margin-right: 50%; }
-
+    margin-right: 50%;
+  }
   .mobile-push-50 {
     left: 50%;
-    *left: expression(Math.floor(0.5 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.5 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-pull-50 {
     left: -50%;
-    *left: expression(Math.floor(-0.5 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.5 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-col-55 {
     float: left;
     width: 55%;
-    *width: expression(Math.floor(0.55 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.55 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-prefix-55 {
-    margin-left: 55%; }
-
+    margin-left: 55%;
+  }
   .mobile-suffix-55 {
-    margin-right: 55%; }
-
+    margin-right: 55%;
+  }
   .mobile-push-55 {
     left: 55%;
-    *left: expression(Math.floor(0.55 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.55 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-pull-55 {
     left: -55%;
-    *left: expression(Math.floor(-0.55 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.55 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-col-60 {
     float: left;
     width: 60%;
-    *width: expression(Math.floor(0.6 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.6 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-prefix-60 {
-    margin-left: 60%; }
-
+    margin-left: 60%;
+  }
   .mobile-suffix-60 {
-    margin-right: 60%; }
-
+    margin-right: 60%;
+  }
   .mobile-push-60 {
     left: 60%;
-    *left: expression(Math.floor(0.6 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.6 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-pull-60 {
     left: -60%;
-    *left: expression(Math.floor(-0.6 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.6 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-col-65 {
     float: left;
     width: 65%;
-    *width: expression(Math.floor(0.65 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.65 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-prefix-65 {
-    margin-left: 65%; }
-
+    margin-left: 65%;
+  }
   .mobile-suffix-65 {
-    margin-right: 65%; }
-
+    margin-right: 65%;
+  }
   .mobile-push-65 {
     left: 65%;
-    *left: expression(Math.floor(0.65 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.65 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-pull-65 {
     left: -65%;
-    *left: expression(Math.floor(-0.65 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.65 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-col-70 {
     float: left;
     width: 70%;
-    *width: expression(Math.floor(0.7 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.7 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-prefix-70 {
-    margin-left: 70%; }
-
+    margin-left: 70%;
+  }
   .mobile-suffix-70 {
-    margin-right: 70%; }
-
+    margin-right: 70%;
+  }
   .mobile-push-70 {
     left: 70%;
-    *left: expression(Math.floor(0.7 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.7 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-pull-70 {
     left: -70%;
-    *left: expression(Math.floor(-0.7 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.7 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-col-75 {
     float: left;
     width: 75%;
-    *width: expression(Math.floor(0.75 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.75 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-prefix-75 {
-    margin-left: 75%; }
-
+    margin-left: 75%;
+  }
   .mobile-suffix-75 {
-    margin-right: 75%; }
-
+    margin-right: 75%;
+  }
   .mobile-push-75 {
     left: 75%;
-    *left: expression(Math.floor(0.75 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.75 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-pull-75 {
     left: -75%;
-    *left: expression(Math.floor(-0.75 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.75 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-col-80 {
     float: left;
     width: 80%;
-    *width: expression(Math.floor(0.8 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.8 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-prefix-80 {
-    margin-left: 80%; }
-
+    margin-left: 80%;
+  }
   .mobile-suffix-80 {
-    margin-right: 80%; }
-
+    margin-right: 80%;
+  }
   .mobile-push-80 {
     left: 80%;
-    *left: expression(Math.floor(0.8 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.8 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-pull-80 {
     left: -80%;
-    *left: expression(Math.floor(-0.8 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.8 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-col-85 {
     float: left;
     width: 85%;
-    *width: expression(Math.floor(0.85 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.85 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-prefix-85 {
-    margin-left: 85%; }
-
+    margin-left: 85%;
+  }
   .mobile-suffix-85 {
-    margin-right: 85%; }
-
+    margin-right: 85%;
+  }
   .mobile-push-85 {
     left: 85%;
-    *left: expression(Math.floor(0.85 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.85 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-pull-85 {
     left: -85%;
-    *left: expression(Math.floor(-0.85 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.85 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-col-90 {
     float: left;
     width: 90%;
-    *width: expression(Math.floor(0.9 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.9 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-prefix-90 {
-    margin-left: 90%; }
-
+    margin-left: 90%;
+  }
   .mobile-suffix-90 {
-    margin-right: 90%; }
-
+    margin-right: 90%;
+  }
   .mobile-push-90 {
     left: 90%;
-    *left: expression(Math.floor(0.9 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.9 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-pull-90 {
     left: -90%;
-    *left: expression(Math.floor(-0.9 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.9 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-col-95 {
     float: left;
     width: 95%;
-    *width: expression(Math.floor(0.95 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.95 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-prefix-95 {
-    margin-left: 95%; }
-
+    margin-left: 95%;
+  }
   .mobile-suffix-95 {
-    margin-right: 95%; }
-
+    margin-right: 95%;
+  }
   .mobile-push-95 {
     left: 95%;
-    *left: expression(Math.floor(0.95 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.95 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-pull-95 {
     left: -95%;
-    *left: expression(Math.floor(-0.95 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.95 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-col-33 {
     float: left;
     width: 33.33333%;
-    *width: expression(Math.floor(0.33333 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.33333 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-prefix-33 {
-    margin-left: 33.33333%; }
-
+    margin-left: 33.33333%;
+  }
   .mobile-suffix-33 {
-    margin-right: 33.33333%; }
-
+    margin-right: 33.33333%;
+  }
   .mobile-push-33 {
     left: 33.33333%;
-    *left: expression(Math.floor(0.33333 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.33333 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-pull-33 {
     left: -33.33333%;
-    *left: expression(Math.floor(-0.33333 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.33333 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-col-66 {
     float: left;
     width: 66.66667%;
-    *width: expression(Math.floor(0.66667 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.66667 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-prefix-66 {
-    margin-left: 66.66667%; }
-
+    margin-left: 66.66667%;
+  }
   .mobile-suffix-66 {
-    margin-right: 66.66667%; }
-
+    margin-right: 66.66667%;
+  }
   .mobile-push-66 {
     left: 66.66667%;
-    *left: expression(Math.floor(0.66667 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.66667 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-pull-66 {
     left: -66.66667%;
-    *left: expression(Math.floor(-0.66667 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.66667 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .mobile-col-100 {
     clear: both;
-    width: 100%; } }
+    width: 100%;
+  }
+}
+
 @media screen and (min-width: 768px) {
   .col-100:before, .col-100:after {
     content: ".";
@@ -916,802 +975,883 @@ b, strong {
     font-size: 0;
     line-height: 0;
     width: 0;
-    height: 0; }
-
+    height: 0;
+  }
   .col-100:after {
-    clear: both; }
-
+    clear: both;
+  }
   .col-100 {
-    *zoom: 1; }
-
+    *zoom: 1;
+  }
   .push-5, .pull-5, .push-10, .pull-10, .push-15, .pull-15, .push-20, .pull-20, .push-25, .pull-25, .push-30, .pull-30, .push-35, .pull-35, .push-40, .pull-40, .push-45, .pull-45, .push-50, .pull-50, .push-55, .pull-55, .push-60, .pull-60, .push-65, .pull-65, .push-70, .pull-70, .push-75, .pull-75, .push-80, .pull-80, .push-85, .pull-85, .push-90, .pull-90, .push-95, .pull-95, .push-33, .pull-33, .push-66, .pull-66 {
-    position: relative; }
-
+    position: relative;
+  }
   .hide-on-desktop {
-    display: none !important; }
-
+    display: none !important;
+  }
   .col-5 {
     float: left;
     width: 5%;
-    *width: expression(Math.floor(0.05 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.05 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .prefix-5 {
-    margin-left: 5%; }
-
+    margin-left: 5%;
+  }
   .suffix-5 {
-    margin-right: 5%; }
-
+    margin-right: 5%;
+  }
   .push-5 {
     left: 5%;
-    *left: expression(Math.floor(0.05 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.05 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .pull-5 {
     left: -5%;
-    *left: expression(Math.floor(-0.05 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.05 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .col-10 {
     float: left;
     width: 10%;
-    *width: expression(Math.floor(0.1 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.1 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .prefix-10 {
-    margin-left: 10%; }
-
+    margin-left: 10%;
+  }
   .suffix-10 {
-    margin-right: 10%; }
-
+    margin-right: 10%;
+  }
   .push-10 {
     left: 10%;
-    *left: expression(Math.floor(0.1 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.1 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .pull-10 {
     left: -10%;
-    *left: expression(Math.floor(-0.1 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.1 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .col-15 {
     float: left;
     width: 15%;
-    *width: expression(Math.floor(0.15 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.15 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .prefix-15 {
-    margin-left: 15%; }
-
+    margin-left: 15%;
+  }
   .suffix-15 {
-    margin-right: 15%; }
-
+    margin-right: 15%;
+  }
   .push-15 {
     left: 15%;
-    *left: expression(Math.floor(0.15 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.15 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .pull-15 {
     left: -15%;
-    *left: expression(Math.floor(-0.15 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.15 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .col-20 {
     float: left;
     width: 20%;
-    *width: expression(Math.floor(0.2 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.2 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .prefix-20 {
-    margin-left: 20%; }
-
+    margin-left: 20%;
+  }
   .suffix-20 {
-    margin-right: 20%; }
-
+    margin-right: 20%;
+  }
   .push-20 {
     left: 20%;
-    *left: expression(Math.floor(0.2 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.2 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .pull-20 {
     left: -20%;
-    *left: expression(Math.floor(-0.2 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.2 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .col-25 {
     float: left;
     width: 25%;
-    *width: expression(Math.floor(0.25 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.25 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .prefix-25 {
-    margin-left: 25%; }
-
+    margin-left: 25%;
+  }
   .suffix-25 {
-    margin-right: 25%; }
-
+    margin-right: 25%;
+  }
   .push-25 {
     left: 25%;
-    *left: expression(Math.floor(0.25 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.25 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .pull-25 {
     left: -25%;
-    *left: expression(Math.floor(-0.25 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.25 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .col-30 {
     float: left;
     width: 30%;
-    *width: expression(Math.floor(0.3 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.3 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .prefix-30 {
-    margin-left: 30%; }
-
+    margin-left: 30%;
+  }
   .suffix-30 {
-    margin-right: 30%; }
-
+    margin-right: 30%;
+  }
   .push-30 {
     left: 30%;
-    *left: expression(Math.floor(0.3 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.3 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .pull-30 {
     left: -30%;
-    *left: expression(Math.floor(-0.3 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.3 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .col-35 {
     float: left;
     width: 35%;
-    *width: expression(Math.floor(0.35 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.35 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .prefix-35 {
-    margin-left: 35%; }
-
+    margin-left: 35%;
+  }
   .suffix-35 {
-    margin-right: 35%; }
-
+    margin-right: 35%;
+  }
   .push-35 {
     left: 35%;
-    *left: expression(Math.floor(0.35 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.35 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .pull-35 {
     left: -35%;
-    *left: expression(Math.floor(-0.35 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.35 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .col-40 {
     float: left;
     width: 40%;
-    *width: expression(Math.floor(0.4 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.4 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .prefix-40 {
-    margin-left: 40%; }
-
+    margin-left: 40%;
+  }
   .suffix-40 {
-    margin-right: 40%; }
-
+    margin-right: 40%;
+  }
   .push-40 {
     left: 40%;
-    *left: expression(Math.floor(0.4 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.4 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .pull-40 {
     left: -40%;
-    *left: expression(Math.floor(-0.4 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.4 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .col-45 {
     float: left;
     width: 45%;
-    *width: expression(Math.floor(0.45 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.45 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .prefix-45 {
-    margin-left: 45%; }
-
+    margin-left: 45%;
+  }
   .suffix-45 {
-    margin-right: 45%; }
-
+    margin-right: 45%;
+  }
   .push-45 {
     left: 45%;
-    *left: expression(Math.floor(0.45 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.45 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .pull-45 {
     left: -45%;
-    *left: expression(Math.floor(-0.45 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.45 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .col-50 {
     float: left;
     width: 50%;
-    *width: expression(Math.floor(0.5 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.5 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .prefix-50 {
-    margin-left: 50%; }
-
+    margin-left: 50%;
+  }
   .suffix-50 {
-    margin-right: 50%; }
-
+    margin-right: 50%;
+  }
   .push-50 {
     left: 50%;
-    *left: expression(Math.floor(0.5 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.5 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .pull-50 {
     left: -50%;
-    *left: expression(Math.floor(-0.5 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.5 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .col-55 {
     float: left;
     width: 55%;
-    *width: expression(Math.floor(0.55 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.55 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .prefix-55 {
-    margin-left: 55%; }
-
+    margin-left: 55%;
+  }
   .suffix-55 {
-    margin-right: 55%; }
-
+    margin-right: 55%;
+  }
   .push-55 {
     left: 55%;
-    *left: expression(Math.floor(0.55 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.55 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .pull-55 {
     left: -55%;
-    *left: expression(Math.floor(-0.55 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.55 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .col-60 {
     float: left;
     width: 60%;
-    *width: expression(Math.floor(0.6 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.6 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .prefix-60 {
-    margin-left: 60%; }
-
+    margin-left: 60%;
+  }
   .suffix-60 {
-    margin-right: 60%; }
-
+    margin-right: 60%;
+  }
   .push-60 {
     left: 60%;
-    *left: expression(Math.floor(0.6 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.6 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .pull-60 {
     left: -60%;
-    *left: expression(Math.floor(-0.6 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.6 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .col-65 {
     float: left;
     width: 65%;
-    *width: expression(Math.floor(0.65 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.65 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .prefix-65 {
-    margin-left: 65%; }
-
+    margin-left: 65%;
+  }
   .suffix-65 {
-    margin-right: 65%; }
-
+    margin-right: 65%;
+  }
   .push-65 {
     left: 65%;
-    *left: expression(Math.floor(0.65 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.65 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .pull-65 {
     left: -65%;
-    *left: expression(Math.floor(-0.65 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.65 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .col-70 {
     float: left;
     width: 70%;
-    *width: expression(Math.floor(0.7 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.7 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .prefix-70 {
-    margin-left: 70%; }
-
+    margin-left: 70%;
+  }
   .suffix-70 {
-    margin-right: 70%; }
-
+    margin-right: 70%;
+  }
   .push-70 {
     left: 70%;
-    *left: expression(Math.floor(0.7 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.7 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .pull-70 {
     left: -70%;
-    *left: expression(Math.floor(-0.7 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.7 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .col-75 {
     float: left;
     width: 75%;
-    *width: expression(Math.floor(0.75 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.75 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .prefix-75 {
-    margin-left: 75%; }
-
+    margin-left: 75%;
+  }
   .suffix-75 {
-    margin-right: 75%; }
-
+    margin-right: 75%;
+  }
   .push-75 {
     left: 75%;
-    *left: expression(Math.floor(0.75 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.75 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .pull-75 {
     left: -75%;
-    *left: expression(Math.floor(-0.75 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.75 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .col-80 {
     float: left;
     width: 80%;
-    *width: expression(Math.floor(0.8 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.8 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .prefix-80 {
-    margin-left: 80%; }
-
+    margin-left: 80%;
+  }
   .suffix-80 {
-    margin-right: 80%; }
-
+    margin-right: 80%;
+  }
   .push-80 {
     left: 80%;
-    *left: expression(Math.floor(0.8 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.8 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .pull-80 {
     left: -80%;
-    *left: expression(Math.floor(-0.8 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.8 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .col-85 {
     float: left;
     width: 85%;
-    *width: expression(Math.floor(0.85 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.85 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .prefix-85 {
-    margin-left: 85%; }
-
+    margin-left: 85%;
+  }
   .suffix-85 {
-    margin-right: 85%; }
-
+    margin-right: 85%;
+  }
   .push-85 {
     left: 85%;
-    *left: expression(Math.floor(0.85 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.85 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .pull-85 {
     left: -85%;
-    *left: expression(Math.floor(-0.85 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.85 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .col-90 {
     float: left;
     width: 90%;
-    *width: expression(Math.floor(0.9 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.9 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .prefix-90 {
-    margin-left: 90%; }
-
+    margin-left: 90%;
+  }
   .suffix-90 {
-    margin-right: 90%; }
-
+    margin-right: 90%;
+  }
   .push-90 {
     left: 90%;
-    *left: expression(Math.floor(0.9 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.9 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .pull-90 {
     left: -90%;
-    *left: expression(Math.floor(-0.9 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.9 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .col-95 {
     float: left;
     width: 95%;
-    *width: expression(Math.floor(0.95 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.95 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .prefix-95 {
-    margin-left: 95%; }
-
+    margin-left: 95%;
+  }
   .suffix-95 {
-    margin-right: 95%; }
-
+    margin-right: 95%;
+  }
   .push-95 {
     left: 95%;
-    *left: expression(Math.floor(0.95 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.95 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .pull-95 {
     left: -95%;
-    *left: expression(Math.floor(-0.95 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.95 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .col-33 {
     float: left;
     width: 33.33333%;
-    *width: expression(Math.floor(0.33333 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.33333 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .prefix-33 {
-    margin-left: 33.33333%; }
-
+    margin-left: 33.33333%;
+  }
   .suffix-33 {
-    margin-right: 33.33333%; }
-
+    margin-right: 33.33333%;
+  }
   .push-33 {
     left: 33.33333%;
-    *left: expression(Math.floor(0.33333 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.33333 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .pull-33 {
     left: -33.33333%;
-    *left: expression(Math.floor(-0.33333 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.33333 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .col-66 {
     float: left;
     width: 66.66667%;
-    *width: expression(Math.floor(0.66667 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *width: expression(Math.floor(0.66667 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .prefix-66 {
-    margin-left: 66.66667%; }
-
+    margin-left: 66.66667%;
+  }
   .suffix-66 {
-    margin-right: 66.66667%; }
-
+    margin-right: 66.66667%;
+  }
   .push-66 {
     left: 66.66667%;
-    *left: expression(Math.floor(0.66667 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(0.66667 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .pull-66 {
     left: -66.66667%;
-    *left: expression(Math.floor(-0.66667 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px"); }
-
+    *left: expression(Math.floor(-0.66667 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + "px");
+  }
   .col-100 {
     clear: both;
-    width: 100%; } }
+    width: 100%;
+  }
+}
+
 /* ================================================================== */
 /* This file has a mobile-to-tablet, and tablet-to-desktop breakpoint */
 /* ================================================================== */
 ::-webkit-scrollbar {
-  background: whiteSmoke; }
+  background: whiteSmoke;
+}
 
 ::-webkit-scrollbar-thumb {
   background-color: rgba(0, 0, 0, 0.3);
-  border: solid whiteSmoke 4px; }
+  border: solid whiteSmoke 4px;
+}
 
 ::-webkit-scrollbar-thumb:hover {
-  background-color: #333333; }
+  background-color: #333333;
+}
 
 /*
-  Example usage:
+  Example usage: 
   @include animation(10s, 5s, changecolour)
  */
-@-webkit-keyframes fade-in-top {
+@-webkit-keyframes $animation_name {
   0% {
     opacity: 0;
     transform: translateY(-100px);
-    -webkit-transform: translateY(-100px); }
-
+    -webkit-transform: translateY(-100px);
+  }
   50% {
     opacity: 0;
     transform: translateY(-100px);
-    -webkit-transform: translateY(-100px); }
-
+    -webkit-transform: translateY(-100px);
+  }
   100% {
     opacity: 1;
     transform: translateY(0);
-    -webkit-transform: translateY(0); } }
-@keyframes fade-in-top {
+    -webkit-transform: translateY(0);
+  }
+}
+
+@keyframes $animation_name {
   0% {
     opacity: 0;
     transform: translateY(-100px);
-    -webkit-transform: translateY(-100px); }
-
+    -webkit-transform: translateY(-100px);
+  }
   50% {
     opacity: 0;
     transform: translateY(-100px);
-    -webkit-transform: translateY(-100px); }
-
+    -webkit-transform: translateY(-100px);
+  }
   100% {
     opacity: 1;
     transform: translateY(0);
-    -webkit-transform: translateY(0); } }
-@-webkit-keyframes fade-in-bottom {
+    -webkit-transform: translateY(0);
+  }
+}
+
+@-webkit-keyframes $animation_name {
   0% {
     opacity: 0;
     transform: translateY(200px);
-    -webkit-transform: translateY(200px); }
-
+    -webkit-transform: translateY(200px);
+  }
   50% {
     opacity: 0;
     transform: translateY(200px);
-    -webkit-transform: translateY(200px); }
-
+    -webkit-transform: translateY(200px);
+  }
   100% {
     opacity: 1;
     transform: translateY(0);
-    -webkit-transform: translateY(0); } }
-@keyframes fade-in-bottom {
+    -webkit-transform: translateY(0);
+  }
+}
+
+@keyframes $animation_name {
   0% {
     opacity: 0;
     transform: translateY(200px);
-    -webkit-transform: translateY(200px); }
-
+    -webkit-transform: translateY(200px);
+  }
   50% {
     opacity: 0;
     transform: translateY(200px);
-    -webkit-transform: translateY(200px); }
-
+    -webkit-transform: translateY(200px);
+  }
   100% {
     opacity: 1;
     transform: translateY(0);
-    -webkit-transform: translateY(0); } }
-@-webkit-keyframes fade-in-bottom-scale {
+    -webkit-transform: translateY(0);
+  }
+}
+
+@-webkit-keyframes $animation_name {
   0% {
     opacity: 0;
     transform: translateY(20px) scale(0.7);
-    -webkit-transform: translateY(200px) scale(0.7); }
-
+    -webkit-transform: translateY(200px) scale(0.7);
+  }
   50% {
     opacity: 0;
     transform: translateY(20px) scale(0.85);
-    -webkit-transform: translateY(200px) scale(0.85); }
-
+    -webkit-transform: translateY(200px) scale(0.85);
+  }
   100% {
     opacity: 1;
     transform: translateY(0) scale(1);
-    -webkit-transform: translateY(0) scale(1); } }
-@keyframes fade-in-bottom-scale {
+    -webkit-transform: translateY(0) scale(1);
+  }
+}
+
+@keyframes $animation_name {
   0% {
     opacity: 0;
     transform: translateY(20px) scale(0.7);
-    -webkit-transform: translateY(200px) scale(0.7); }
-
+    -webkit-transform: translateY(200px) scale(0.7);
+  }
   50% {
     opacity: 0;
     transform: translateY(20px) scale(0.85);
-    -webkit-transform: translateY(200px) scale(0.85); }
-
+    -webkit-transform: translateY(200px) scale(0.85);
+  }
   100% {
     opacity: 1;
     transform: translateY(0) scale(1);
-    -webkit-transform: translateY(0) scale(1); } }
-@-webkit-keyframes fade-in-left {
+    -webkit-transform: translateY(0) scale(1);
+  }
+}
+
+@-webkit-keyframes $animation_name {
   0% {
     opacity: 0;
     transform: translateX(-200px);
-    -webkit-transform: translateX(-200px); }
-
+    -webkit-transform: translateX(-200px);
+  }
   100% {
     opacity: 1;
     transform: translateX(0);
-    -webkit-transform: translateX(0); } }
-@keyframes fade-in-left {
+    -webkit-transform: translateX(0);
+  }
+}
+
+@keyframes $animation_name {
   0% {
     opacity: 0;
     transform: translateX(-200px);
-    -webkit-transform: translateX(-200px); }
-
+    -webkit-transform: translateX(-200px);
+  }
   100% {
     opacity: 1;
     transform: translateX(0);
-    -webkit-transform: translateX(0); } }
-@-webkit-keyframes fade-in-right {
+    -webkit-transform: translateX(0);
+  }
+}
+
+@-webkit-keyframes $animation_name {
   0% {
     opacity: 0;
     transform: translateX(200px);
-    -webkit-transform: translateX(200px); }
-
+    -webkit-transform: translateX(200px);
+  }
   100% {
     opacity: 1;
     transform: translateX(0);
-    -webkit-transform: translateX(0); } }
-@keyframes fade-in-right {
+    -webkit-transform: translateX(0);
+  }
+}
+
+@keyframes $animation_name {
   0% {
     opacity: 0;
     transform: translateX(200px);
-    -webkit-transform: translateX(200px); }
-
+    -webkit-transform: translateX(200px);
+  }
   100% {
     opacity: 1;
     transform: translateX(0);
-    -webkit-transform: translateX(0); } }
-@-webkit-keyframes googlenow1 {
+    -webkit-transform: translateX(0);
+  }
+}
+
+@-webkit-keyframes $animation_name {
   0% {
     -webkit-transform: translateY(10rem) rotate(10deg);
-    transform: translateY(10rem) rotate(10deg);
-    opacity: 0; } }
-@keyframes googlenow1 {
+            transform: translateY(10rem) rotate(10deg);
+    opacity: 0;
+  }
+}
+
+@keyframes $animation_name {
   0% {
     -webkit-transform: translateY(10rem) rotate(10deg);
-    transform: translateY(10rem) rotate(10deg);
-    opacity: 0; } }
-@-webkit-keyframes googlenow2 {
+            transform: translateY(10rem) rotate(10deg);
+    opacity: 0;
+  }
+}
+
+@-webkit-keyframes $animation_name {
   0% {
     -webkit-transform: translateY(10rem) rotate(-10deg);
-    transform: translateY(10rem) rotate(-10deg);
-    opacity: 0; } }
-@keyframes googlenow2 {
+            transform: translateY(10rem) rotate(-10deg);
+    opacity: 0;
+  }
+}
+
+@keyframes $animation_name {
   0% {
     -webkit-transform: translateY(10rem) rotate(-10deg);
-    transform: translateY(10rem) rotate(-10deg);
-    opacity: 0; } }
-@-webkit-keyframes heartbeat {
+            transform: translateY(10rem) rotate(-10deg);
+    opacity: 0;
+  }
+}
+
+@-webkit-keyframes $animation_name {
   0% {
     transform: scale(1);
     -webkit-transform: scale(1);
-    text-shadow: 0 0 0px red; }
-
+    text-shadow: 0 0 0px red;
+  }
   50% {
     transform: scale(1.5);
     -webkit-transform: scale(1.5);
-    text-shadow: 0 0 15px red; }
-
+    text-shadow: 0 0 15px red;
+  }
   100% {
     transform: scale(1);
     -webkit-transform: scale(1);
-    text-shadow: 0 0 0px red; } }
-@keyframes heartbeat {
+    text-shadow: 0 0 0px red;
+  }
+}
+
+@keyframes $animation_name {
   0% {
     transform: scale(1);
     -webkit-transform: scale(1);
-    text-shadow: 0 0 0px red; }
-
+    text-shadow: 0 0 0px red;
+  }
   50% {
     transform: scale(1.5);
     -webkit-transform: scale(1.5);
-    text-shadow: 0 0 15px red; }
-
+    text-shadow: 0 0 15px red;
+  }
   100% {
     transform: scale(1);
     -webkit-transform: scale(1);
-    text-shadow: 0 0 0px red; } }
-@-webkit-keyframes inthetardis {
+    text-shadow: 0 0 0px red;
+  }
+}
+
+@-webkit-keyframes $animation_name {
   0% {
     -webkit-transform: skew(0, 0) scale(1);
-    transform: skew(0, 0) scale(1); }
-
+    transform: skew(0, 0) scale(1);
+  }
   10% {
     -webkit-transform: skew(0, 0) scale(0.7);
-    transform: skew(0, 0) scale(0.7); }
-
+    transform: skew(0, 0) scale(0.7);
+  }
   80% {
     -webkit-transform: skew(0, 0) scale(0.7);
-    transform: skew(0, 0) scale(0.7); }
-
+    transform: skew(0, 0) scale(0.7);
+  }
   100% {
     -webkit-transform: skew(0, 0) scale(1);
-    transform: skew(0, 0) scale(1); } }
-@keyframes inthetardis {
+    transform: skew(0, 0) scale(1);
+  }
+}
+
+@keyframes $animation_name {
   0% {
     -webkit-transform: skew(0, 0) scale(1);
-    transform: skew(0, 0) scale(1); }
-
+    transform: skew(0, 0) scale(1);
+  }
   10% {
     -webkit-transform: skew(0, 0) scale(0.7);
-    transform: skew(0, 0) scale(0.7); }
-
+    transform: skew(0, 0) scale(0.7);
+  }
   80% {
     -webkit-transform: skew(0, 0) scale(0.7);
-    transform: skew(0, 0) scale(0.7); }
-
+    transform: skew(0, 0) scale(0.7);
+  }
   100% {
     -webkit-transform: skew(0, 0) scale(1);
-    transform: skew(0, 0) scale(1); } }
-@-webkit-keyframes shimmydown {
+    transform: skew(0, 0) scale(1);
+  }
+}
+
+@-webkit-keyframes $animation_name {
   0% {
     -webkit-transform: translateY(0px);
-    transform: translateY(0px); }
-
+    transform: translateY(0px);
+  }
   80% {
     -webkit-transform: translateY(20px);
-    transform: translateY(20px); }
-
+    transform: translateY(20px);
+  }
   100% {
     -webkit-transform: translateY(180px);
-    transform: translateY(180px); } }
-@keyframes shimmydown {
+    transform: translateY(180px);
+  }
+}
+
+@keyframes $animation_name {
   0% {
     -webkit-transform: translateY(0px);
-    transform: translateY(0px); }
-
+    transform: translateY(0px);
+  }
   80% {
     -webkit-transform: translateY(20px);
-    transform: translateY(20px); }
-
+    transform: translateY(20px);
+  }
   100% {
     -webkit-transform: translateY(180px);
-    transform: translateY(180px); } }
-@-webkit-keyframes colors {
+    transform: translateY(180px);
+  }
+}
+
+@-webkit-keyframes $animation_name {
   0% {
-    background: #b35454; }
-
+    background: #b35454;
+  }
   20% {
-    background: #9354b3; }
-
+    background: #9354b3;
+  }
   40% {
-    background: #547ab3; }
-
+    background: #547ab3;
+  }
   60% {
-    background: #54b398; }
-
+    background: #54b398;
+  }
   80% {
-    background: #67b354; }
-
+    background: #67b354;
+  }
   100% {
-    background: #b35454; } }
-@keyframes colors {
+    background: #b35454;
+  }
+}
+
+@keyframes $animation_name {
   0% {
-    background: #b35454; }
-
+    background: #b35454;
+  }
   20% {
-    background: #9354b3; }
-
+    background: #9354b3;
+  }
   40% {
-    background: #547ab3; }
-
+    background: #547ab3;
+  }
   60% {
-    background: #54b398; }
-
+    background: #54b398;
+  }
   80% {
-    background: #67b354; }
-
+    background: #67b354;
+  }
   100% {
-    background: #b35454; } }
-@-webkit-keyframes radiance {
+    background: #b35454;
+  }
+}
+
+@-webkit-keyframes $animation_name {
   0% {
-    text-shadow: 0 0 12px rgba(122, 210, 249, 0.9); }
-
+    text-shadow: 0 0 12px rgba(122, 210, 249, 0.9);
+  }
   20% {
-    text-shadow: 0 0 25px rgba(122, 210, 249, 0.8); }
-
+    text-shadow: 0 0 25px rgba(122, 210, 249, 0.8);
+  }
   40% {
-    text-shadow: 0 0 150px #18b1f5; }
-
+    text-shadow: 0 0 150px #18b1f5;
+  }
   60% {
-    text-shadow: 0 0 31px rgba(122, 210, 249, 0.8); }
-
+    text-shadow: 0 0 31px rgba(122, 210, 249, 0.8);
+  }
   80% {
-    text-shadow: 0 0 60px #7ad2f9; }
-
+    text-shadow: 0 0 60px #7ad2f9;
+  }
   100% {
-    text-shadow: 0 0 12px rgba(122, 210, 249, 0.9); } }
-@keyframes radiance {
+    text-shadow: 0 0 12px rgba(122, 210, 249, 0.9);
+  }
+}
+
+@keyframes $animation_name {
   0% {
-    text-shadow: 0 0 12px rgba(122, 210, 249, 0.9); }
-
+    text-shadow: 0 0 12px rgba(122, 210, 249, 0.9);
+  }
   20% {
-    text-shadow: 0 0 25px rgba(122, 210, 249, 0.8); }
-
+    text-shadow: 0 0 25px rgba(122, 210, 249, 0.8);
+  }
   40% {
-    text-shadow: 0 0 150px #18b1f5; }
-
+    text-shadow: 0 0 150px #18b1f5;
+  }
   60% {
-    text-shadow: 0 0 31px rgba(122, 210, 249, 0.8); }
-
+    text-shadow: 0 0 31px rgba(122, 210, 249, 0.8);
+  }
   80% {
-    text-shadow: 0 0 60px #7ad2f9; }
-
+    text-shadow: 0 0 60px #7ad2f9;
+  }
   100% {
-    text-shadow: 0 0 12px rgba(122, 210, 249, 0.9); } }
+    text-shadow: 0 0 12px rgba(122, 210, 249, 0.9);
+  }
+}
+
 .margin-transition {
   -webkit-transition: all 0.2s linear;
-  transition: all 0.2s linear; }
-  .margin-transition:hover {
-    margin-top: -5px;
-    margin-bottom: 5px; }
+  transition: all 0.2s linear;
+}
+
+.margin-transition:hover {
+  margin-top: -5px;
+  margin-bottom: 5px;
+}
 
 .fade-in-top-transition {
   -webkit-transform: translate(0, -20%);
-  -ms-transform: translate(0, -20%);
   transform: translate(0, -20%);
   -webkit-transition: all .3s ease-out;
-  transition: all .3s ease-out; }
+  transition: all .3s ease-out;
+}
 
 .fade-in-top-transition-hover {
   -webkit-transform: translate(0, 0%);
-  -ms-transform: translate(0, 0%);
-  transform: translate(0, 0%); }
+  transform: translate(0, 0%);
+}
 
 .fade-in-right-transition {
   -webkit-transform: translate(20%, 0);
-  -ms-transform: translate(20%, 0);
   transform: translate(20%, 0);
   -webkit-transition: all .3s ease-out;
-  transition: all .3s ease-out; }
+  transition: all .3s ease-out;
+}
 
 .fade-in-right-transition-hover {
   -webkit-transform: translate(0, 0%);
-  -ms-transform: translate(0, 0%);
-  transform: translate(0, 0%); }
+  transform: translate(0, 0%);
+}
 
 .fade-in-bottom-transition {
   -webkit-transform: translate(0, 20%);
-  -ms-transform: translate(0, 20%);
   transform: translate(0, 20%);
   -webkit-transition: all .3s ease-out;
-  transition: all .3s ease-out; }
+  transition: all .3s ease-out;
+}
 
 .fade-in-bottom-transition-hover {
   -webkit-transform: translate(0, 0%);
-  -ms-transform: translate(0, 0%);
-  transform: translate(0, 0%); }
+  transform: translate(0, 0%);
+}
 
 .spinning-transition {
   transition: all 0.25s;
   -webkit-transition: all 0.25s;
-  -ms-transform-origin: center;
   transform-origin: center;
-  -webkit-transform-origin: center; }
+  -webkit-transform-origin: center;
+}
 
 .spinning-transition-hover {
   opacity: 1;
   -webkit-transform: rotate(180deg);
-  -ms-transform: rotate(180deg);
-  transform: rotate(180deg); }
+  transform: rotate(180deg);
+}
 
 /*
 @-webkit-keyframes coloranim{0%{background-color:#e21d17}17%{background-color:#116ba9}34%{background-color:#ea670c}51%{background-color:#97be0b}68%{background-color:#ffe603}85%{background-color:#2ab4db}100%{background-color:#e21d17}}
@@ -1840,7 +1980,7 @@ e(1.6) translateX(-20px);opacity:0}100%{transform:scale(1) translateX(0px);opaci
 @-webkit-keyframes googlenow2 { 0% { -webkit-transform:translateY(10rem)rotate(-10deg); opacity: 0; }}
 @keyframes googlenow2 { 0% { -webkit-transform:translateY(10rem)rotate(-10deg); opacity: 0; }}
 
-@-webkit-keyframes fade { 0% { opacity: 0; }}
+@-webkit-keyframes fade { 0% { opacity: 0; }} 
 @keyframes fade { 0% { opacity: 0; }}
 
 @-webkit-keyframes fade-in-top { 0% { opacity: 0; -webkit-transform: translateY(-100px) } 50% { opacity: 0; -webkit-transform: translateY(-100px) } 100% { opacity: 1; -webkit-transform: translateY(0) } }
@@ -1864,32 +2004,40 @@ e(1.6) translateX(-20px);opacity:0}100%{transform:scale(1) translateX(0px);opaci
   text-decoration: none;
   text-align: center;
   cursor: pointer;
-  background: none; }
+  background: none;
+}
 
 .button-block {
-  display: block; }
+  display: block;
+}
 
 .button-rounded {
-  border-radius: 6px; }
+  border-radius: 6px;
+}
 
 .button-circle {
-  border-radius: 300px; }
+  border-radius: 300px;
+}
 
 .button-small {
   font-size: 18px;
-  line-height: 1.2em; }
+  line-height: 1.2em;
+}
 
 .button-normal {
-  font-size: 100%; }
+  font-size: 100%;
+}
 
 .button-large {
   font-size: 24px;
-  line-height: 1.2em; }
+  line-height: 1.2em;
+}
 
 .button-jumbo, .button.btn-large {
   font-size: 32px;
   line-height: 1em;
-  padding: 15px 20px; }
+  padding: 15px 20px;
+}
 
 .button-jumbo-prefix {
   display: inline-block !important;
@@ -1900,27 +2048,14 @@ e(1.6) translateX(-20px);opacity:0}100%{transform:scale(1) translateX(0px);opaci
   padding: 0px 16px;
   border-top-left-radius: 4px;
   border-bottom-left-radius: 4px;
-  border-right: 1px solid rgba(0, 0, 0, 0.45); }
-
-.BTCPayButton {
-    box-shadow:inset 0px 1px 0px 0px #cf866c;
-    background-color: red;
-    border-radius:3px;
-    border:1px solid #942911;
-    display:inline-block;
-    cursor:pointer;
-    color: white;
-    font-family:Arial;
-    font-size:16px;
-    padding: 8px 24px;
-    text-decoration:none;
-    text-shadow:0px 1px 0px #854629;
+  border-right: 1px solid rgba(0, 0, 0, 0.45);
 }
 
 body {
-  font-family: "Raleway", Arial, sans-serif;
+  font-family: "Franklin Gothic", Arial, sans-serif;
   font-size: 18px;
-  line-height: 1.5em; }
+  line-height: 1.5em;
+}
 
 h1, h2, h3, h4, h5 {
   font-weight: bold;
@@ -1928,266 +2063,339 @@ h1, h2, h3, h4, h5 {
   line-height: 1.2em;
   margin: 0.2em auto;
   text-rendering: optimizelegibility;
-  -webkit-text-rendering: optimizelegibility; }
+  -webkit-text-rendering: optimizelegibility;
+}
 
 h1 {
-  font-size: 60px; }
+  font-size: 60px;
+}
 
 h2 {
-  font-size: 40px; }
+  font-size: 40px;
+}
 
 h3 {
-  font-size: 32px; }
+  font-size: 32px;
+}
 
 h4 {
-  font-size: 28px; }
+  font-size: 28px;
+}
 
 h5 {
-  font-size: 24px; }
+  font-size: 24px;
+}
 
 .lead {
   font-size: 28px;
   line-height: 1.3em;
-  margin-bottom: 1em; }
+  margin-bottom: 1em;
+}
 
 .hero {
   font-size: 30px;
-  line-height: 1.4em; }
+  line-height: 1.4em;
+}
 
 .text-left {
-  text-align: left; }
+  text-align: left;
+}
 
 .text-center {
-  text-align: center; }
+  text-align: center;
+}
 
 .text-right {
-  text-align: right; }
+  text-align: right;
+}
 
 .text-justify {
-  text-align: justify; }
+  text-align: justify;
+}
 
 @media only screen and (max-width: 767px) {
   body {
-    font-size: 17px; }
-
+    font-size: 17px;
+  }
   h1 {
-    font-size: 50px; }
-
+    font-size: 50px;
+  }
   p.lead {
-    font-size: 22.5px; } }
+    font-size: 22.5px;
+  }
+}
+
 .str, pre .str, sub .str {
-  color: #e6db5a; }
+  color: #e6db5a;
+}
 
 /* string */
 .kwd, pre .kwd, sub .kwd {
-  color: #66d9ef; }
+  color: #66d9ef;
+}
 
 /* keyword */
 .com, pre .com, sub .com {
   color: #75715e;
-  font-style: italic; }
+  font-style: italic;
+}
 
 /* comment */
 .typ, pre .typ, sub .typ {
-  color: #66d9ef; }
+  color: #66d9ef;
+}
 
 /* type */
 .lit, pre .lit, sub .lit {
-  color: #ae81ff; }
+  color: #ae81ff;
+}
 
 /* literal */
 .pun, pre .pun, sub .pun {
-  color: #fff; }
+  color: #fff;
+}
 
 /* punctuation */
 .pln, pre .pln, sub .pln {
-  color: #fff; }
+  color: #fff;
+}
 
 /* plaintext */
 .tag, pre .tag, sub .tag {
-  color: #f92672; }
+  color: #f92672;
+}
 
 /* html/xml tag */
 .atn, pre .atn, sub .atn {
-  color: #a6e22a; }
+  color: #a6e22a;
+}
 
 /* html/xml attribute name */
 .atv, pre .atv, sub .atv {
-  color: #e6db74; }
+  color: #e6db74;
+}
 
 /* html/xml attribute value */
 .dec, pre .dec, sub .dec {
-  color: #ae81ff; }
+  color: #ae81ff;
+}
 
 /* decimal */
 pre, sub {
   background-color: #272822;
   border-radius: 8px;
-  color: white; }
+  color: white;
+}
 
 pre, sub {
   display: block;
   margin: 1em auto;
   padding: 1em;
-  white-space: pre-wrap; }
+  white-space: pre-wrap;
+}
 
 pre, sub {
   -webkit-box-shadow: inset 0 0 1px 2px #3c3d39, 0 0 15px rgba(0, 0, 0, 0.5);
-  box-shadow: inset 0 0 1px 2px #3c3d39, 0 0 15px rgba(0, 0, 0, 0.5);
-  border: 1px solid #0b0c0a; }
+          box-shadow: inset 0 0 1px 2px #3c3d39, 0 0 15px rgba(0, 0, 0, 0.5);
+  border: 1px solid #0b0c0a;
+}
 
 ol.linenums {
   margin-top: 0;
   margin-bottom: 0;
   color: #75715e;
-  list-style: decimal inside !important; }
+  list-style: decimal inside !important;
+}
 
 body {
   font-size: 18px;
   font-weight: 300;
   background: white;
-  color: black; }
+  color: black;
+}
 
 h1, h2, h3, .button-jumbo, .button.btn-large {
-  font-weight: bold; }
+  font-weight: bold;
+}
 
 input, div.gm-iw div, div.gm-style-mtc div, div.gm-style-cc div {
-  font-family: "Raleway", Arial, sans-serif !important; }
+  font-family: "Franklin Gothic", Arial, sans-serif !important;
+}
 
 img {
   max-width: 100%;
-  height: auto; }
+  height: auto;
+}
 
 hr {
-  border: 2px solid rgba(0, 0, 0, 0.5); }
+  border: 2px solid rgba(0, 0, 0, 0.5);
+}
 
 header, section, footer {
   position: relative;
   overflow: hidden;
-  -webkit-background-size: cover;
   background-size: cover;
   background-position: cover;
-  padding: 40px 0; }
+  padding: 40px 0;
+}
 
 .c {
-  padding: 0 20px; }
+  padding: 0 20px;
+}
 
 section .c {
-  padding: 20px 20px; }
+  padding: 20px 20px;
+}
 
 .sr-only, .back2top {
-  display: none; }
+  display: none;
+}
 
-.transition, a, blockquote, .white-box, nav a {
+.transition, a, blockquote, .white-box {
   transition: all .2s ease-in-out;
-  -webkit-transition: all .2s ease-in-out; }
+  -webkit-transition: all .2s ease-in-out;
+}
 
 .padded {
-  padding: 50px 0; }
+  padding: 50px 0;
+}
 
 .page-height {
   height: 100vh;
-  vertical-align: middle; }
+  vertical-align: middle;
+}
 
 .overflow-hidden {
-  overflow: hidden; }
+  overflow: hidden;
+}
 
 .text-white {
-  color: white; }
+  color: white;
+}
 
 .row [class^=col]:first-child {
-  padding-left: 0; }
+  padding-left: 0;
+}
+
 .row [class^=col]:last-child {
-  padding-right: 0; }
+  padding-right: 0;
+}
 
 .button {
   border-radius: 6px;
-  margin-right: 0.2em; }
+  margin-right: 0.2em;
+}
 
 .button {
   border-radius: 0px;
-  color: #f15823;
-  border: 1px solid #f15823;
+  color: #F15823;
+  border: 1px solid #F15823;
   outline: none;
-  font-weight: normal; }
-  .button:hover {
-    background: #f15823;
-    color: white; }
+  font-weight: normal;
+}
+
+.button:hover {
+  background: #F15823;
+  color: white;
+}
 
 .button-orange {
   border-radius: 0px;
-  color: #f15823;
-  border: 1px solid #f15823; }
-  .button-orange:hover {
-    background: #f15823;
-    color: white; }
+  color: #F15823;
+  border: 1px solid #F15823;
+}
+
+.button-orange:hover {
+  background: #F15823;
+  color: white;
+}
 
 .button-blue {
   border-radius: 0px;
-  color: #03a9f4;
-  border: 1px solid #03a9f4; }
-  .button-blue:hover {
-    background: #03a9f4;
-    color: white; }
+  color: #03A9F4;
+  border: 1px solid #03A9F4;
+}
+
+.button-blue:hover {
+  background: #03A9F4;
+  color: white;
+}
 
 .button-green {
   border-radius: 0px;
-  color: #60d317;
-  border: 1px solid #60d317; }
-  .button-green:hover {
-    background: #60d317;
-    color: white; }
+  color: #60D317;
+  border: 1px solid #60D317;
+}
+
+.button-green:hover {
+  background: #60D317;
+  color: white;
+}
 
 .disabled {
   pointer-events: none;
-  opacity: 0.5; }
+  opacity: 0.5;
+}
 
 .dark-text-shadow {
-  text-shadow: rgba(41, 52, 63, 0.4) 0 -1px 0; }
+  text-shadow: rgba(41, 52, 63, 0.4) 0 -1px 0;
+}
 
 i {
   font-size: 80%;
-  vertical-align: baseline; }
+  vertical-align: baseline;
+}
 
 ul.details {
   border-top: 1px dotted;
-  margin: 1em 2em; }
-  ul.details li {
-    padding: .5em;
-    border-bottom: 1px dotted; }
+  margin: 1em 2em;
+}
+
+ul.details li {
+  padding: .5em;
+  border-bottom: 1px dotted;
+}
 
 a {
   display: inline-block;
   -webkit-tap-highlight-color: rgba(30, 152, 211, 0.5);
   /* &:active {
     -webkit-transform: scale(0.9);
-  } */ }
+  } */
+}
 
 img {
-  max-width: 100%; }
+  max-width: 100%;
+}
 
 .row:before, .row:after {
   clear: both;
-  content: ' '; }
+  content: ' ';
+}
 
 .linearound {
   display: block;
   width: 100%;
   position: relative;
-  text-align: center; }
-  .linearound::after {
-    content: ' ';
-    border-bottom: 1px solid #7d7d7d;
-    width: auto;
-    display: block;
-    margin-top: -2.4em; }
-  .linearound h1, .linearound h2 {
-    display: inline-block;
-    text-align: center;
-    font-size: 60px;
-    color: #7d7d7d;
-    background: white;
-    padding: 0 20px; }
+  text-align: center;
+}
+
+.linearound::after {
+  content: ' ';
+  border-bottom: 1px solid #7d7d7d;
+  width: auto;
+  display: block;
+  margin-top: -2.4em;
+}
+
+.linearound h1, .linearound h2 {
+  display: inline-block;
+  text-align: center;
+  font-size: 60px;
+  color: #7d7d7d;
+  background: white;
+  padding: 0 20px;
+}
 
 .love {
   color: #e74c3c;
@@ -2195,34 +2403,43 @@ img {
   animation: 1s heartbeat infinite;
   -moz-animation: 1s heartbeat infinite;
   -webkit-animation: 1s heartbeat infinite;
-  -ms-animation: 1s heartbeat infinite; }
+  -ms-animation: 1s heartbeat infinite;
+}
 
 .highlight {
-  background: #fff200; }
+  background: #FFF200;
+}
 
 .dotted-link, p a, article a {
   border-radius: 0;
-  border-bottom: 1px dotted; }
-  .dotted-link:hover, p a:hover, article a:hover {
-    border-bottom: 1px solid; }
+  border-bottom: 1px dotted;
+}
+
+.dotted-link:hover, p a:hover, article a:hover {
+  border-bottom: 1px solid;
+}
 
 blockquote {
   margin: 1.5em 0;
   padding: 10px 20px 10px 20px;
   border-left: 8px solid black;
-  background: #f1f1f1;
-  color: black; }
-  blockquote:hover {
-    border-left-color: red; }
+  background: #F1F1F1;
+  color: black;
+}
+
+blockquote:hover {
+  border-left-color: red;
+}
 
 .white {
   background: white;
-  color: black; }
+  color: black;
+}
 
 .white-box {
   border-radius: 4px;
   -webkit-box-shadow: 0 1px 8px rgba(0, 0, 0, 0.05), 0 1px 4px rgba(0, 0, 0, 0.15);
-  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.05), 0 1px 4px rgba(0, 0, 0, 0.15);
+          box-shadow: 0 1px 8px rgba(0, 0, 0, 0.05), 0 1px 4px rgba(0, 0, 0, 0.15);
   height: 100%;
   overflow: hidden;
   position: relative;
@@ -2230,65 +2447,40 @@ blockquote {
   margin: 0;
   padding: 15px;
   background: white;
-  border-bottom: none !important; }
-  .white-box h1, .white-box h2, .white-box h3 {
-    color: black;
-    line-height: 1em;
-    margin: 0;
-    border-bottom: 1px solid; }
-    .white-box h1 i, .white-box h2 i, .white-box h3 i {
-      float: right; }
+  border-bottom: none !important;
+}
+
+.white-box h1, .white-box h2, .white-box h3 {
+  color: black;
+  line-height: 1em;
+  margin: 0;
+  border-bottom: 1px solid;
+}
+
+.white-box h1 i, .white-box h2 i, .white-box h3 i {
+  float: right;
+}
 
 a.white-box:hover {
   -webkit-box-shadow: 0 1px 16px rgba(0, 0, 0, 0.5), 0 1px 8px rgba(0, 0, 0, 0.4);
-  box-shadow: 0 1px 16px rgba(0, 0, 0, 0.5), 0 1px 8px rgba(0, 0, 0, 0.4); }
+          box-shadow: 0 1px 16px rgba(0, 0, 0, 0.5), 0 1px 8px rgba(0, 0, 0, 0.4);
+}
 
 .cover {
   background: #03152a;
   color: white;
-  -webkit-background-size: cover !important;
   background-size: cover !important;
-  background-position: center !important; }
-
-nav {
-  padding: 25px 0; }
-  nav a {
-    display: inline-block;
-    vertical-align: top;
-    color: #FFF;
-    padding: 8px 14px 10px;
-    margin-right: 7px;
-    line-height: 1.2em;
-    font-size: 22px;
-    font-weight: bold; }
-    nav a i {
-      float: left;
-      display: inline-block;
-      font-size: 40px;
-      line-height: 30px;
-      margin-right: 10px;
-      font-weight: normal; }
-    nav a div {
-      display: block;
-      float: right; }
-    nav a small {
-      font-size: 75%;
-      line-height: 1em;
-      font-weight: normal;
-      display: block;
-      white-space: nowrap; }
-    nav a.logo {
-      background: #e74c3c; }
-    nav a.facebook {
-      background: #3a5898;
-      float: right; }
-    nav a:hover {
-      background: rgba(30, 30, 30, 0.8); }
+  background-position: center !important;
+}
 
 .meetups a.white-box {
-  display: block; }
-  .meetups a.white-box h1, .meetups a.white-box h2, .meetups a.white-box h3 {
-    border-bottom: none; }
+  display: block;
+}
+
+.meetups a.white-box h1, .meetups a.white-box h2, .meetups a.white-box h3 {
+  border-bottom: none;
+}
+
 .meetups .preview {
   display: block;
   width: 25%;
@@ -2297,25 +2489,32 @@ nav {
   text-align: center;
   margin: -20px;
   color: white;
-  margin-right: 20px; }
-  .meetups .preview .date {
-    float: none;
-    margin: 20px auto 20px auto; }
+  margin-right: 20px;
+}
+
+.meetups .preview .date {
+  float: none;
+  margin: 20px auto 20px auto;
+}
 
 #now {
-  background: #e74c3c; }
+  background: #e74c3c;
+}
 
 #details {
   background: #464646;
   background: rgba(0, 0, 0, 0.8);
-  color: white; }
+  color: white;
+}
 
 footer {
-  background: #f1f1f1;
-  min-height: 300px; }
+  background: #F1F1F1;
+  min-height: 300px;
+}
 
 #notifications a {
-  color: inherit; }
+  color: inherit;
+}
 
 .date {
   width: 125px;
@@ -2326,87 +2525,1616 @@ footer {
   margin: 20px 50px 0 0;
   font-size: 60px;
   line-height: 60px;
-  text-align: center; }
-  .date small {
-    font-size: 30px;
-    line-height: 45px;
-    display: block; }
+  text-align: center;
+}
+
+.date small {
+  font-size: 30px;
+  line-height: 45px;
+  display: block;
+}
 
 .footnote {
   background: #474747;
-  color: white; }
-  .footnote .to-the-moon {
-    border-radius: 0px;
-    color: white;
-    border: 1px solid white;
-    padding: 5px 10px;
-    vertical-align: middle;
-    margin-top: 12px; }
-    .footnote .to-the-moon:hover {
-      background: white;
-      color: white; }
-    .footnote .to-the-moon:hover {
-      color: black !important; }
-  .footnote p a {
-    color: white; }
+  color: white;
+}
+
+.footnote .to-the-moon {
+  border-radius: 0px;
+  color: white;
+  border: 1px solid white;
+  padding: 5px 10px;
+  vertical-align: middle;
+  margin-top: 12px;
+}
+
+.footnote .to-the-moon:hover {
+  background: white;
+  color: white;
+}
+
+.footnote .to-the-moon:hover {
+  color: black !important;
+}
+
+.footnote p a {
+  color: white;
+}
 
 .visible-mobile {
-  visibility: hidden; }
+  visibility: hidden;
+}
 
 @media screen and (min-width: 768px) {
   .visible-mobile {
-    display: none; } }
+    display: none;
+  }
+}
+
 @media screen and (max-width: 1067px) {
   .nav-transition, nav {
     transition: all .4s ease-in-out;
-    -webkit-transition: all .4s ease-in-out; }
-
+    -webkit-transition: all .4s ease-in-out;
+  }
   nav {
     height: 85px;
     width: auto;
-    overflow: hidden; }
-    nav .menu-button {
-      cursor: pointer; }
-      nav .menu-button i {
-        margin-right: 0px; }
-    nav.expanded {
-      height: auto;
-      overflow: visible; }
-
+    overflow: hidden;
+  }
+  nav .menu-button {
+    cursor: pointer;
+  }
+  nav .menu-button i {
+    margin-right: 0px;
+  }
+  nav.expanded {
+    height: auto;
+    overflow: visible;
+  }
   nav a {
-    margin-right: 0px; } }
+    margin-right: 0px;
+  }
+}
+
 @media screen and (max-width: 767px) {
   .hidden-mobile {
-    display: none !important; }
-
+    display: none !important;
+  }
   .visible-mobile {
-    visibility: visible; }
-
+    visibility: visible;
+  }
   .mobile-transition {
     transition: all .4s ease-in-out;
-    -webkit-transition: all .4s ease-in-out; }
-
+    -webkit-transition: all .4s ease-in-out;
+  }
   .row [class^=col]:first-child {
-    padding-left: 10px; }
+    padding-left: 10px;
+  }
   .row [class^=col]:last-child {
-    padding-right: 10px; }
-
+    padding-right: 10px;
+  }
   h1, h2, h3, h4, h5 {
-    text-align: center; }
-
+    text-align: center;
+  }
   .meetups .preview {
     margin-bottom: 20px;
-    width: 120%; }
-
+    width: 120%;
+  }
   .date {
     display: block;
     margin: auto;
-    float: none; }
-
+    float: none;
+  }
   .cover p.lead, #details {
-    text-align: center; }
-
+    text-align: center;
+  }
   .footnote .to-the-moon {
     float: none;
     display: block;
-    text-align: center; } }
+    text-align: center;
+  }
+}
+
+.nbtn {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 280px;
+  height: 52px;
+  border-radius: 2px;
+}
+
+.centre {
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 0 20px;
+}
+
+.slick-dots {
+  bottom: -40px;
+}
+
+.slick-dots li button:before {
+  font-size: 40px;
+}
+
+.slick-dots li.slick-active button:before {
+  color: #E60600;
+}
+
+.cover-overlay {
+  padding-top: 180px;
+}
+
+.header-wrapper {
+  background-color: black;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+}
+
+.active.head-centre {
+  max-height: 500px;
+  -webkit-transition: max-height .6s;
+  transition: max-height .6s;
+}
+
+.head-centre {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 100px 1fr;
+      grid-template-columns: 100px 1fr;
+  height: auto;
+  max-height: 80px;
+  overflow: hidden;
+  -webkit-transition: max-height .3s;
+  transition: max-height .3s;
+}
+
+.head-centre .menu {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 12px 0;
+}
+
+.head-centre .menu .nav-logo {
+  height: 56px;
+  width: 56px;
+}
+
+.head-centre .menu .burger {
+  display: none;
+}
+
+.head-centre .menu .burger img {
+  display: none;
+  height: 30px;
+  width: 30px;
+}
+
+.head-centre .menu .burger .open {
+  display: block;
+}
+
+.head-centre .menu .burger.show .open {
+  display: none;
+}
+
+.head-centre .menu .burger.show .close {
+  display: block;
+}
+
+.head-centre nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 14px;
+}
+
+.head-centre nav a {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background: #161616;
+  border-radius: 2px;
+  padding: 10px;
+  margin-right: 24px;
+  min-width: 175px;
+  height: 52px;
+}
+
+.head-centre nav a .text p {
+  color: white;
+  font-size: 18px;
+  line-height: 15px;
+  font-weight: 600;
+  margin: 10px 0 0;
+}
+
+.head-centre nav a .text span {
+  font-size: 13px;
+}
+
+.head-centre nav a:hover .text p {
+  color: #E60600;
+}
+
+.head-centre nav .active .text p {
+  color: #E60600;
+}
+
+@media screen and (max-width: 1024px) {
+  .head-centre {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
+  .head-centre .menu .burger {
+    display: block;
+  }
+  .head-centre nav {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    height: auto;
+    padding: 14px 0;
+  }
+  .head-centre nav a {
+    border-bottom: 0px;
+    margin: 0 0 10px 0;
+  }
+}
+
+.new-footer {
+  color: white;
+  background-color: #FF0700;
+  padding: 80px 0;
+}
+
+.new-footer .centre {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.new-footer .centre .keep h3 {
+  margin-bottom: 40px;
+}
+
+.new-footer .centre .keep .links {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.new-footer .centre .keep .links a {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 280px;
+  height: 52px;
+  background-color: #E60600;
+  border: 1px solid #E60600;
+  border-radius: 2px;
+  margin-right: 20px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 0 20px;
+}
+
+.new-footer .centre .keep .links a path {
+  fill: #FFBEBC;
+}
+
+.new-footer .centre .keep .links a:hover {
+  background-color: #FF0700;
+  border-color: white;
+}
+
+.new-footer .centre .keep .links a:hover path {
+  fill: white;
+}
+
+.new-footer .centre .social-links h4 {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 21px;
+  padding-bottom: 40px;
+  text-align: right;
+}
+
+.new-footer .centre .social-links .links {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  min-width: 250px;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.new-footer .centre .social-links .links a {
+  width: 52px;
+  height: 52px;
+  border: 1px solid #E60600;
+  background-color: #E60600;
+  border-radius: 2px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-transition: all .5;
+  transition: all .5;
+}
+
+.new-footer .centre .social-links .links a path {
+  fill: #FFBEBC;
+}
+
+.new-footer .centre .social-links .links a:hover {
+  background-color: #FF0700;
+  border-color: white;
+  -webkit-transition: all .5;
+  transition: all .5;
+}
+
+.new-footer .centre .social-links .links a:hover path {
+  fill: white;
+}
+
+@media screen and (max-width: 768px) {
+  .new-footer .keep .links a {
+    margin-bottom: 20px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .new-footer .centre {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .new-footer .centre .keep .links {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .new-footer .centre .keep .links a {
+    margin-right: 0;
+  }
+  .new-footer .centre .social-links h4 {
+    text-align: center;
+    padding-top: 20px;
+  }
+}
+
+footer {
+  padding: 80px 0;
+}
+
+footer .centre .wrapper {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 5fr 2fr;
+      grid-template-columns: 5fr 2fr;
+}
+
+footer .centre .wrapper img {
+  place-self: center;
+}
+
+footer .centre .wrapper .text {
+  max-width: 600px;
+  padding-right: 20px;
+}
+
+footer .centre .wrapper .text a {
+  font-weight: 600;
+  border-bottom: none;
+}
+
+footer .centre .wrapper .text .donat {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 0 20px;
+  margin-top: 40px;
+  background-color: #F9F9F9;
+  border-radius: 2px;
+  font-weight: 600;
+}
+
+footer .centre .wrapper .text .donat p {
+  color: #E60600;
+  word-break: break-all;
+}
+
+footer .centre .wrapper .text .links {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding-top: 40px;
+}
+
+footer .centre .wrapper .text .links a {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border: 1px solid #EEEEEE;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-radius: 2px;
+  width: 100%;
+  max-width: 280px;
+  height: 52px;
+  color: black;
+  -webkit-transition: all .3;
+  transition: all .3;
+}
+
+footer .centre .wrapper .text .links a:first-child {
+  margin-right: 20px;
+}
+
+footer .centre .wrapper .text .links a:hover {
+  background-color: black;
+  color: white;
+  -webkit-transition: all .5;
+  transition: all .5;
+}
+
+@media screen and (max-width: 767px) {
+  footer .centre .wrapper {
+    -ms-grid-columns: 100%;
+        grid-template-columns: 100%;
+  }
+  footer .centre .wrapper .text {
+    -webkit-box-ordinal-group: 2;
+        -ms-flex-order: 1;
+            order: 1;
+    padding-right: 0;
+  }
+  footer .centre .wrapper .text .donat {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+  footer .centre .wrapper .text .links {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  footer .centre .wrapper .text .links a {
+    max-width: 400px;
+  }
+  footer .centre .wrapper .text .links a:first-child {
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+}
+
+.contact .text {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-bottom: 80px;
+}
+
+.contact .text div {
+  -ms-flex-preferred-size: 48%;
+      flex-basis: 48%;
+  padding: 32px 24px;
+  border: 1px solid #EEEEEE;
+}
+
+.contact .text div a {
+  border-bottom: none;
+}
+
+.contact h2 {
+  margin-bottom: 40px;
+}
+
+.contact .social-links {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr 1fr;
+      grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 40px;
+}
+
+.contact .social-links .card {
+  background-color: #FCFCFC;
+  padding: 32px 24px;
+}
+
+.contact .social-links .card path {
+  fill: #515151;
+  -webkit-transition: fill .3s;
+  transition: fill .3s;
+}
+
+.contact .social-links .card a {
+  height: 100%;
+  width: 100%;
+  border-bottom: none;
+}
+
+.contact .social-links .card a p {
+  color: #E60600;
+}
+
+.contact .social-links .card a .grey {
+  color: #434B5C;
+}
+
+.contact .social-links .card:hover path {
+  fill: #E60600;
+  -webkit-transition: fill .5s;
+  transition: fill .5s;
+}
+
+.contact .form-sub {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 3fr 2fr 2fr;
+      grid-template-columns: 3fr 2fr 2fr;
+  padding: 32px 24px;
+  border: 1px solid #EEEEEE;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  justify-items: center;
+  margin: 40px 0;
+}
+
+.contact .form-sub input {
+  width: 90%;
+  border: 1px solid #EEEEEE;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-radius: 2px;
+  height: 52px;
+  outline: none;
+}
+
+.contact .form-sub input[type=text] {
+  padding-left: 24px;
+}
+
+.contact .form-sub input[type=submit] {
+  border: 1px solid #E60600;
+  border-radius: 2px;
+  font-size: 23px;
+  color: #E60600;
+  background-color: white;
+  -webkit-transition: all .3s;
+  transition: all .3s;
+}
+
+.contact .form-sub input[type=submit]:hover {
+  border: 1px solid white;
+  color: white;
+  background-color: #E60600;
+  -webkit-transition: all .5s;
+  transition: all .5s;
+  border-radius: 2px;
+}
+
+@media screen and (max-width: 768px) {
+  .contact .social-links {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .contact {
+    padding: 0;
+  }
+  .contact .text {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .contact .text div {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .contact .social-links {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
+  .contact .form-sub {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
+  .contact .form-sub input {
+    width: 100%;
+  }
+  .contact .form-sub input[type=text] {
+    margin: 20px 0;
+  }
+}
+
+.about .first {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 50% 50%;
+      grid-template-columns: 50% 50%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding-bottom: 20px;
+  grid-row-gap: 40px;
+}
+
+.about .first img {
+  -ms-grid-column-align: end;
+      justify-self: end;
+}
+
+.about .first .content a {
+  border: 1px solid #FF0700;
+  font-weight: 500;
+  margin-top: 40px;
+}
+
+.about .first .content a:hover {
+  background-color: #E60600;
+  color: white;
+}
+
+.about .second {
+  padding: 80px 0;
+}
+
+.about .second .slider0 {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (25%)[4];
+      grid-template-columns: repeat(4, 25%);
+  grid-row-gap: 40px;
+  justify-items: center;
+}
+
+.about .second .slider0 .card {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: 260px;
+  height: 226px;
+  background: #FCFCFC;
+}
+
+.about .second .slider0 .card img {
+  -webkit-box-flex: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+  padding: 25px;
+}
+
+.about .second .slider0 .card .name {
+  width: 100%;
+  height: 60px;
+  font-weight: bold;
+  font-size: 24px;
+  color: white;
+  background-color: #E60600;
+  padding: 17px 24px;
+}
+
+.about .third .wrapper {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 30% 70%;
+      grid-template-columns: 30% 70%;
+}
+
+.about .third .wrapper .tabs {
+  border: 1px solid #eee;
+}
+
+.about .third .wrapper .tabs .tab1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 16px 24px;
+  border-bottom: 1px solid #eee;
+}
+
+.about .third .wrapper .tabs .tab1 span {
+  font-weight: 500;
+}
+
+.about .third .wrapper .tabs .tab1 path {
+  fill: #eee;
+}
+
+.about .third .wrapper .tabs .tab1:last-child {
+  border-bottom: none;
+}
+
+.about .third .wrapper .tabs .current {
+  color: #E60600;
+  border-right-color: #E60600;
+}
+
+.about .third .wrapper .tabs .current path {
+  fill: #E60600;
+}
+
+.about .third .wrapper .contents {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.about .third .wrapper .contents .content {
+  display: none;
+  padding: 23px;
+  color: #434B5C;
+}
+
+.about .third .wrapper .contents .content a {
+  border-bottom: none;
+}
+
+.about .third .wrapper .contents .content ul {
+  list-style: inside;
+  margin: 0;
+  padding: 0;
+}
+
+.about .third .wrapper .contents .content ul li {
+  color: #E60600;
+}
+
+.about .third .wrapper .contents .content ul li span {
+  color: #434B5C;
+}
+
+.about .third .wrapper .contents .current-content {
+  display: block;
+}
+
+@media screen and (max-width: 768px) {
+  .about .third .wrapper {
+    -ms-grid-columns: 100%;
+        grid-template-columns: 100%;
+  }
+}
+
+.about .fourth {
+  padding: 80px 0;
+}
+
+.about .fourth p {
+  padding-bottom: 40px;
+  font-weight: 500;
+}
+
+.about .fourth .slider1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.about .fourth .slider1 .card {
+  padding: 24px 32px;
+  background: #FCFCFC no-repeat right;
+  width: 360px;
+}
+
+.about .fourth .slider1 .card .stats {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  font-weight: 600;
+}
+
+.about .fourth .slider1 .card .stats span {
+  font-weight: bold;
+  font-size: 64px;
+  color: #E60600;
+}
+
+.about .fourth .slider1 .first-card {
+  background-image: url(/media/new/stat1.svg);
+}
+
+.about .fourth .slider1 .second-card {
+  background-image: url(/media/new/stat2.svg);
+}
+
+.about .fourth .slider1 .third-card {
+  background-image: url(/media/new/stat3.svg);
+}
+
+@media screen and (max-width: 1024px) {
+  .about .second .slider0 {
+    -ms-grid-columns: (50%)[2];
+        grid-template-columns: repeat(2, 50%);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .about .first {
+    -ms-grid-columns: 100%;
+        grid-template-columns: 100%;
+  }
+  .about .first img {
+    -ms-grid-column-align: center;
+        justify-self: center;
+    -webkit-box-ordinal-group: 0;
+        -ms-flex-order: -1;
+            order: -1;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .about .first .content a {
+    width: 100%;
+  }
+  .about .second .slider,
+  .about .fourth .slider {
+    display: block;
+  }
+  .about .second .slider .card,
+  .about .fourth .slider .card {
+    width: 100%;
+  }
+  .about .second .slider1 .card,
+  .about .fourth .slider1 .card {
+    padding: 24px 10px;
+  }
+}
+
+.join .first {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 50% 50%;
+      grid-template-columns: 50% 50%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding-bottom: 20px;
+  grid-row-gap: 40px;
+}
+
+.join .first img {
+  -ms-grid-column-align: end;
+      justify-self: end;
+}
+
+.join .first .content a {
+  border: 1px solid #FF0700;
+  font-weight: 500;
+  margin-top: 40px;
+}
+
+.join .first .content a:hover {
+  background-color: #E60600;
+  color: white;
+}
+
+.join .second .slider1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+.join .second .slider1 .elem {
+  padding: 24px 32px;
+  max-width: 360px;
+  width: 100%;
+  margin-bottom: 40px;
+  background-color: #FCFCFC;
+}
+
+.join .second .slider1 .elem .elem-header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-weight: bold;
+  font-size: 24px;
+  padding-bottom: 20px;
+}
+
+.join .second .slider1 .elem .elem-header p {
+  color: black;
+}
+
+.join .second .slider1 .elem .elem-header span {
+  color: #FF0700;
+}
+
+.join .second .slider1 .elem p {
+  margin: 0;
+}
+
+.join .third .slider {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 50% 50%;
+      grid-template-columns: 50% 50%;
+}
+
+.join .third .slider .offer {
+  border: 1px solid #eee;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.join .third .slider .offer .info {
+  height: 100%;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 25% 25% 25% 25%;
+      grid-template-columns: 25% 25% 25% 25%;
+      grid-template-areas: "head  list list list" "button button . .";
+  padding: 24px;
+}
+
+.join .third .slider .offer .info .head {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-grid-row: 1;
+  -ms-grid-column: 1;
+  grid-area: head;
+}
+
+.join .third .slider .offer .info .head span {
+  padding-bottom: 24px;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.join .third .slider .offer .info ul {
+  -ms-grid-row: 1;
+  -ms-grid-column: 2;
+  -ms-grid-column-span: 3;
+  grid-area: list;
+  padding-left: 50px;
+  color: #E60600;
+}
+
+.join .third .slider .offer .info ul li {
+  padding-bottom: 5px;
+}
+
+.join .third .slider .offer .info ul span {
+  color: #434B5C;
+}
+
+.join .third .slider .offer .info a {
+  -ms-grid-row: 2;
+  -ms-grid-column: 1;
+  -ms-grid-column-span: 2;
+  grid-area: button;
+  -ms-flex-item-align: end;
+      align-self: end;
+  width: 100%;
+  margin-top: 32px;
+  border: 1px solid #E60600;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-radius: 2px;
+  font-size: 24px;
+  height: 52px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #E60600;
+  text-decoration: none;
+}
+
+.join .third .slider .offer .info a:hover {
+  color: white;
+  background-color: #E60600;
+}
+
+.join .third .slider .offer .bonus {
+  padding: 24px;
+  font-size: 14px;
+  line-height: 21px;
+  color: #B0B0B0;
+  border-top: 1px solid #eee;
+}
+
+@media screen and (max-width: 768px) {
+  .join .third .slider {
+    display: block;
+  }
+  .join .third .slider .offer .info {
+        grid-template-areas: "head  head head head" "list  list list list" "button button button button";
+  }
+  .join .third .slider .offer .info .head {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .join .third .slider .offer .info ul {
+    padding-left: 5px;
+  }
+}
+
+.join .network {
+  padding: 40px 0;
+}
+
+.join .network h3 {
+  padding-bottom: 40px;
+}
+
+.join .network .tabs {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  border: 1px solid #eee;
+}
+
+.join .network .tabs .tab1 {
+  height: 52px;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border-right: 1px solid #eee;
+  cursor: pointer;
+}
+
+.join .network .tabs .tab1:last-child {
+  border-right: none;
+}
+
+.join .network .tabs .current {
+  color: #E60600;
+  border-bottom: 1px solid #E60600;
+}
+
+.join .network .logos {
+  padding: 20px;
+}
+
+.join .network .logos .content {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: auto;
+  max-height: 0;
+  overflow: hidden;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.join .network .logos .content img {
+  padding: 40px 10px;
+}
+
+.join .network .logos .current-content {
+  max-height: 1000px;
+  -webkit-transition: all 2s;
+  transition: all 2s;
+}
+
+.join .network a {
+  margin: 0 auto;
+  border: 1px solid #E60600;
+}
+
+.join .network a:hover {
+  background-color: #E60600;
+  color: white;
+}
+
+@media screen and (max-width: 768px) {
+  .join .first {
+    -ms-grid-columns: 100%;
+        grid-template-columns: 100%;
+  }
+  .join .first img {
+    -ms-grid-column-align: center;
+        justify-self: center;
+    -webkit-box-ordinal-group: 0;
+        -ms-flex-order: -1;
+            order: -1;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .join .second .slider1 .elem {
+    padding: 24px 12px;
+  }
+  .join .second .slick-dots {
+    bottom: 0;
+  }
+  .join .network .tabs {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .join .network .tabs .tab1 {
+    border-right: none;
+    border-bottom: 1px solid #eee;
+  }
+  .join .network .tabs .tab1.current {
+    border-bottom-color: #eee;
+    border-right: 1px solid #E60600;
+  }
+  .join .network .logos .content {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .join .network .logos .content img {
+    padding: 40px 20%;
+  }
+  .join .network .logos .current-content {
+    max-height: 3500px;
+  }
+  .join .network a {
+    width: 100%;
+  }
+}
+
+.member {
+  padding: 20px 0;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 100%;
+      grid-template-columns: 100%;
+  -ms-grid-rows: auto;
+      grid-template-rows: auto;
+      grid-template-areas: "corp-head" "corp-logos" "org-head" "org-logos" "com-head" "com-logos";
+}
+
+.member .corp {
+  -ms-grid-row: 1;
+  -ms-grid-column: 1;
+  grid-area: corp-head;
+}
+
+.member #corp {
+  -ms-grid-row: 2;
+  -ms-grid-column: 1;
+  grid-area: corp-logos;
+}
+
+.member .org {
+  -ms-grid-row: 3;
+  -ms-grid-column: 1;
+  grid-area: org-head;
+}
+
+.member #org {
+  -ms-grid-row: 4;
+  -ms-grid-column: 1;
+  grid-area: org-logos;
+}
+
+.member .comm {
+  -ms-grid-row: 5;
+  -ms-grid-column: 1;
+  grid-area: com-head;
+}
+
+.member #com {
+  -ms-grid-row: 6;
+  -ms-grid-column: 1;
+  grid-area: com-logos;
+}
+
+.member .tab1 {
+  height: 52px;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.member .content {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: auto;
+  overflow: hidden;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding-bottom: 100px;
+}
+
+.member .content:last-child {
+  padding-bottom: 0;
+}
+
+.member .content img {
+  padding: 40px 10px;
+}
+
+@media screen and (max-width: 767px) {
+  .member {
+        grid-template-areas: "corp-head" "org-head" "com-head" "corp-logos" "org-logos" "com-logos";
+  }
+  .member .tab1 {
+    font-weight: 500;
+    font-size: 24px;
+    border: 1px solid #eee;
+    cursor: pointer;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  .member .tab1:nth-child(2) {
+    border-top: none;
+    border-bottom: none;
+  }
+  .member .current {
+    color: #E60600;
+    border-right: 1px solid #E60600;
+  }
+  .member .content {
+    max-height: 0;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    padding-bottom: 0;
+  }
+  .member .content img {
+    padding: 40px 10%;
+  }
+  .member .current-content {
+    max-height: 3500px;
+    -webkit-transition: all 2s;
+    transition: all 2s;
+  }
+}
+
+.committees a.nbtn {
+  font-weight: 500;
+  font-size: 18px;
+  border: 1px solid #E60600;
+}
+
+.committees a.nbtn:hover {
+  color: white;
+  background-color: #E60600;
+  border: 1px solid #E60600;
+}
+
+.committees .head {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.committees .head p.header {
+  font-weight: bold;
+  font-size: 32px;
+  margin-bottom: 40px;
+  line-height: 38px;
+}
+
+.committees a {
+  border-bottom: none;
+}
+
+.committees a:hover {
+  border-bottom: none;
+}
+
+.committees .main {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.committees .main .card {
+  width: 360px;
+  margin-bottom: 40px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.committees .main .card .card-header .card-date {
+  padding: 0 24px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: black;
+  border-bottom: 1px solid #eee;
+}
+
+.committees .main .card .card-header .card-date p {
+  font-weight: 600;
+}
+
+.committees .main .card .card-header .card-date span {
+  font-size: 18px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: black;
+}
+
+.committees .main .card .card-header .card-date span img {
+  padding-right: 8px;
+}
+
+.committees .main .card .card-header .card-date:hover {
+  color: #E60600;
+  border-bottom: 1px solid #eee;
+}
+
+.committees .main .card .contact .contact-person {
+  padding: 0 24px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.committees .main .card .contact .contact-person span {
+  color: #E60600;
+  font-weight: 600;
+}
+
+.committees .main .card .links {
+  border-bottom: 1px solid #eee;
+  padding: 0 24px 24px;
+}
+
+.committees .main .card .links a {
+  padding-right: 16px;
+}
+
+.committees .main .card .links a svg path {
+  fill: #515151;
+}
+
+.committees .main .card .links a:hover svg path {
+  fill: #E60600;
+}
+
+.committees .main .card .tags {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  padding: 24px;
+}
+
+.committees .main .card .tags span {
+  margin: 0 10px 10px 0;
+  padding: 3px 8px;
+  color: #FF0700;
+  background: #F9E1E0;
+  border-radius: 2px;
+  display: block;
+}
+
+@supports not (-ms-ime-align: auto) {
+  .committees .main {
+    -webkit-box-pack: space-evenly;
+        -ms-flex-pack: space-evenly;
+            justify-content: space-evenly;
+  }
+}
+
+.committees .foot_link {
+  display: none;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 768px) {
+  .committees .head_link {
+    display: none;
+  }
+  .committees .foot_link {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .committees p.header {
+    text-align: center;
+  }
+  .committees .main .card .contact {
+    display: none;
+  }
+  .committees .main .card:first-child .contact {
+    display: block;
+  }
+}
+/*# sourceMappingURL=style.css.map */
