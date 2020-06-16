@@ -16,7 +16,7 @@ navigation: "visible"
       <h4>Membership</h4>
       <p>The Bitcoin Association of Hong Kong is open to all individuals with a connection to Hong Kong who have an interest in Bitcoin, cryptocurrency or related technologies. Becoming a member gives you full access to the community and the association. You enjoy voting rights, profit from discounted and exclusive networking and education events and help influence the quickly changing landscape of Bitcoin in Hong Kong.</p>
     </div>
-    <img src="/media/new/join1.svg" alt="">  
+    <img src="/images/join1.svg" alt="">  
   </div>
 
   <div class="second">
@@ -85,7 +85,7 @@ navigation: "visible"
           <div class="info">
             <div class="head">
               <span>Corporate</span>
-              <img src="/media/new/join-corporate.svg" alt="">
+              <img src="/images/join-corporate.svg" alt="">
             </div>
             <ul>
               <li><span>Listing on the website</span></li>
@@ -103,7 +103,7 @@ navigation: "visible"
           <div class="info">
             <div class="head">
               <span>Individual</span>
-              <img src="/media/new/join-individual.svg" alt="">
+              <img src="/images/join-individual.svg" alt="">
             </div>
             <ul>
               <li><span>Listing on the website </span></li>
