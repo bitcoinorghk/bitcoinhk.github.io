@@ -17,7 +17,7 @@ navigation: "visible"
       <p>The Bitcoin Association of Hong Kong is still developing and growing. It needs your involvement! If you want to contribute, collaborate, or educate, please get in touch and become a member!</p>
       <a class="nbtn" href="/join">Get in touch</a>
     </div>
-    <img src="/media/new/about1.svg" alt="">
+    <img src="/images/about1.svg" alt="">
   </div>
 
   <div class="second">
@@ -26,19 +26,19 @@ navigation: "visible"
     <div class="slider slider0">
       <div>
         <div class="card">
-          <img src="/media/new/card-image.svg" alt="avatar">
+          <img src="/images/card-image.svg" alt="avatar">
           <div class="name">Bryan Cheung</div>
         </div>
       </div>
       <div>
         <div class="card">
-          <img src="/media/new/card-image.svg" alt="avatar">
+          <img src="/images/card-image.svg" alt="avatar">
           <div class="name">Clifford Choi</div>
         </div>
       </div>
       <div>
         <div class="card">
-          <img src="/media/new/card-image.svg" alt="avatar">
+          <img src="/images/card-image.svg" alt="avatar">
           <div class="name">Olga Kochmar</div>
         </div>
       </div>
