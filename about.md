@@ -42,13 +42,7 @@ navigation: "visible"
           <div class="name">Olga Kochmar</div>
         </div>
       </div>
-      <div>
-        <div class="card">
-          <img src="/media/new/card-image.svg" alt="avatar">
-          <div class="name">Leonhard Weese</div>
-        </div>
-      </div>
-    </div>
+     </div>
   </div>
 
   <div class="third">
@@ -111,7 +105,7 @@ navigation: "visible"
         <div class="card first-card">
           <p>More than</p>
           <div class="stats">
-            <span class="count">500</span>
+            <span class="count">250</span>
             Events held
           </div>
         </div>
@@ -120,7 +114,7 @@ navigation: "visible"
         <div class="card second-card">
           <p>More than</p>
           <div class="stats">
-            <span class="count">3000</span>
+            <span class="count">5000</span>
             Members
           </div>
         </div>
@@ -129,7 +123,7 @@ navigation: "visible"
         <div class="card third-card">
           <p>Experts from more than </p>
           <div class="stats">
-            <span class="count">20</span>
+            <span class="count">30</span>
             Countries
           </div>
         </div>
