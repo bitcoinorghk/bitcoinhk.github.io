@@ -1,0 +1,10 @@
+I"~<h2 id="lets-talk-about-code">Let’s Talk About Code</h2>
+
+<p>Topic: Re-usable payment codes (BIP47). How do they work, how are they implemented?</p>
+
+<p>Speaker: <strong>Nik Blinkov</strong> and <strong>Ive Oparin</strong> of <a href="https://billionapp.com/">Billion App</a></p>
+
+<p>Re-usable payment codes were proposed in April 2015 by Justus Ranvier. Billion App is a privacy-focused mobile Bitcoin wallet that implemented this proposal. Nik and Ive will explain how BIP47 was adopted by Billion App and what is on the table as part of version 2 proposals.</p>
+
+<p>https://github.com/bitcoin/bips/blob/master/bip-0047.mediawiki</p>
+:ET

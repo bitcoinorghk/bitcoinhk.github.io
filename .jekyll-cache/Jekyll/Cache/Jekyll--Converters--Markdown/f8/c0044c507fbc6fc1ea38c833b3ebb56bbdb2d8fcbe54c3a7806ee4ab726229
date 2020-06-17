@@ -1,0 +1,62 @@
+I"�<h2 id="start-accepting-bitcoin-now">Start Accepting Bitcoin Now</h2>
+
+<p><a href="https://比特幣.組織.香港/accept-bitcoin/">請按此查看中文版本。</a></p>
+
+<p>Congratulations! You’ve made the decision to accept Bitcoin payments. This is a great idea for your business:</p>
+
+<ul>
+  <li>Flexibility: You control the user experience of your consumers and have a large variety of processors to choose from. You can even run or build your own!</li>
+  <li>Low fees: Fees can be as low as 0% if you host your own processor. Services that do this for you or convert your Bitcoin to HKD or USD typically charge between 0.5% and 2%.</li>
+  <li>Irreversible: Bitcoin transactions cannot be reversed by the customer, meaning there are zero fraud or chargeback risks. All refunds will have to be initiated by you.</li>
+  <li>Community: Bitcoin users often seek out places and businesses that accept Bitcoin as payments. If you are a Hong Kong business accepting Bitcoin, write us, and we might promote you for free.</li>
+</ul>
+
+<h3 id="option-a-coingate">Option A: Coingate</h3>
+
+<p><a href="https://coingate.com/ref/accept-btc">Coingate</a> is a payment processor based in Estonia. There are <a href="https://coingate.com/plugins">plugins</a> available for WooCommerce, Magento, or you can use <a href="https://coingate.com/buttons">payment buttons</a>. If you’re tech savvy you can also make use of <a href="https://developer.coingate.com/">Coingate’s API</a> to fully control the experience.</p>
+
+<p>If you have a physical location, you can make use of Coingate’s POS system. In addition to Bitcoin, Coingate lets you accept <a href="https://coingate.com/supported-currencies">dozens of cryptocurrencies</a> including BCH, ETH and LTC. Coingate also lets you accept payments using Lightning.</p>
+
+<p><a href="https://coingate.com/pricing">Fees</a> are set flat at 1%.</p>
+
+<p class="text-center"><img src="/media/2020/06/coingate.jpeg" alt="Coingate" /></p>
+
+<h3 id="option-b-alchemy-pay">Option B: Alchemy Pay</h3>
+
+<p><a href="https://www.alchemytech.io/alchemy_english.html">Alchemy Pay</a> is a Singapore-based Fintech company that can help you not only accept Bitcoin and Lightning, but also Alipay and WeChat Pay.</p>
+
+<p>They are currently handling the cryptocurrency payments at over 20 Pricerite stores in Hong Kong. Alchemy Pay will convert your income to HKD and settle it into your bank account.</p>
+
+<p class="text-center"><img src="/media/2020/06/alchemy.jpeg" alt="Alchemy" /></p>
+
+<h3 id="option-c-btcpay">Option C: BTCPay</h3>
+
+<p><a href="https://btcpayserver.org/">BTCPay</a> is a software product rather than a service. As such, you will need to run the software yourself on your own server (for example for ~US$9 per month on <a href="https://medium.com/@BtcpayServer/launch-btcpay-server-via-web-interface-and-deploy-full-bitcoin-node-lnd-in-less-than-a-minute-dc8bc6f06a3">Lunanode</a>). Unlike with payment processers as-a-service, you will not need to sign up or provide identifying information. BTCPay charges no licensing fees, and all payments are handled by yourself without a fee. This is especially great if you have no intention of selling your Bitcoin, but you can also sell them through <a href="/buy-bitcoin-in-hong-kong/">an exchange or broker</a>.</p>
+
+<p>You can use BTCPay as an online or offline tool, as well as use the API to integrate the system into your online shop.</p>
+
+<p>An example payment button. Click on it!</p>
+
+<form method="POST" action="https://btcpay.bitcoin.org.hk/api/v1/invoices" class="text-center">
+    <input type="hidden" name="storeId" value="5fv2Vt5WEuLYBzkhFiaDN4r6xy6JdNqTbi3m1mG4ngFa" />
+    <input type="hidden" name="price" value="10" />
+    <input type="hidden" name="currency" value="USD" />
+    <input type="hidden" name="browserRedirect" value="https://www.bitcoin.org.hk/lightning/" />
+    <input type="hidden" name="notifyEmail" value="btcpay@bitcoin.org.hk" />
+    <input type="image" src="https://btcpay.bitcoin.org.hk/img/paybutton/pay.png" name="submit" style="width:209px" alt="Pay with BtcPay, Self-Hosted Bitcoin Payment Processor" />
+</form>
+
+<p class="text-center"><img src="/media/2020/06/btcpay.jpeg" alt="BTCPay" /></p>
+
+<h3 id="other-payment-processors">Other payment processors</h3>
+
+<ul>
+  <li><a href="https://commerce.coinbase.com/">Coinbase commerce</a></li>
+  <li><a href="https://bitpay.com/">Bitpay</a></li>
+  <li><a href="https://www.coinpayments.net/index.php">Coinpayments</a></li>
+</ul>
+
+<h4 id="contact-us">Contact us</h4>
+
+<p>Are you interested in accepting Bitcoin payments? Have you considered it but are encountering problems? Have you integrated cryptocurrencies into your business but nobody is using it? Contact us at <a href="mailto:info@bitcoin.org.hk">info@bitcoin.org.hk</a> and we’ll reply as quick as we can!</p>
+:ET
