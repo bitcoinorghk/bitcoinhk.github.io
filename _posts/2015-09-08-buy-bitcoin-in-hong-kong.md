@@ -115,9 +115,6 @@ Please note that Bitcoin exchanges are not to be treated as banks. We recommend 
 
 There are currently four exchanges with local Hong Kong bank accounts. Some of these exchanges also accept cash deposits and cheques.
 
-**[Bitspark](https://www.bitspark.io/)**
-Bitspark is a Hong Kong-based exchange most known for its easy deposit mechanism and low fees. Using the Bitspark app, you can deposit cash at one of Bitspark's cash points (e.g. Calimex in Sheung Wan), then withdraw Bitcoin to your wallet. Please refer to the app ([Android](https://play.google.com/store/apps/details?id=com.bitspark.mercury), [iOS coming soon]()) for a list of cash points.
-
 **[Tidebit](https://www.tidebit.com/)**
 Tidebit is the newest of Hong Kong Bitcoin exchanges. You can deposit cash for free or via wire transfer for a 2% fee.
 

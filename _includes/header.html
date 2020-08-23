@@ -1,49 +1,57 @@
 <span id="top"></span>
 <div class="cover" style="background:{{ page.background }}">
 <div class="cover-overlay">
-  <nav class="site-header" role="navigation">
-    <div class="c">
-      <a href="/" class="logo">
-        <div>
-          <img src="/images/bahk-logo-big-white.svg" alt="BAHK Logo">
-        </div>
+  <div class="header-wrapper">
+    <div class="centre head-centre">    
+      <div class="menu">
+        <a href="/" class="nav-logo">
+        <img src="/images/bahk-logo-big-white.svg" alt="BAHK Logo">
       </a>
-      <a href="#" onclick="$('nav').toggleClass('expanded')" class="menu-button visible-mobile right">
-        <i class="icon-more"></i>
-      </a>
-      <a class="page-link" onclick="$('nav').toggleClass('expanded')" href="/about/">
-        <i class="icon-user"></i>
-        <div>
-          About
-          <small>Learn more</small>
-        </div>
-      </a>
-
-      <a class="page-link" onclick="$('nav').toggleClass('expanded')" href="/join/">
-        <i class="icon-cards"></i>
-        <div>
-          Members
-          <small>Join us</small>
-        </div>
-      </a>
-
-      <a class="page-link" onclick="$('nav').toggleClass('expanded')" href="/meetups/">
-        <i class="icon-direction"></i>
-        <div>
-          Meetups
-          <small>Come</small>
-        </div>
-      </a>
-
-      <a class="page-link" onclick="$('nav').toggleClass('expanded')" href="/contact/">
-        <i class="icon-cards"></i>
-        <div>
-          Contact
-          <small>Follow &amp; Subscribe</small>
-        </div>
-      </a>
-
+      <div class="burger">
+        <img class="open" src="\images\nav-burger.svg" alt="menu">
+        <img class="close" src="\images\nav-burger_close.svg" alt="close menu">
+      </div>
     </div>
-  </nav>
 
+    <nav>
+      <a href="/about/">
+        <div class="text">
+          <p>About</p>
+          <span>Learn more</span>
+        </div>
+        <img src="\images\nav-about.svg" alt="About">
+      </a>
+      <a href="/join/">
+        <div class="text">
+          <p>Members</p>
+          <span>Join us</span>
+        </div>
+        <img src="\images\nav-members.svg" alt="Join us">
+      </a>
+      <a href="/committees/">
+        <div class="text">
+          <p>Committees</p>
+          <span>Lead</span>
+        </div>
+        <img src="\images\nav-committees.svg" alt="Committees">
+      </a>
+      <a href="/meetups/">
+        <div class="text">
+          <p>Events</p>
+          <span>Come</span>
+        </div>
+        <img src="\images\nav-events.svg" alt="Events">
+      </a>
+      <a href="/contact/">
+        <div class="text">
+          <p>Contact us</p>
+          <span>Follow</span>
+        </div>
+        <img src="\images\nav-contact.svg" alt="Contact">
+      </a>
+    </nav>
+  </div>
+</div>
+  
   <!-- COVER PHOTO CONTINUES -->
+  

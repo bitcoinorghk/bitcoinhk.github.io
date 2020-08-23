@@ -4,147 +4,47 @@ title: "Members"
 caption: "Learn more"
 subtitle: "Join us today!"
 icon: "user"
-background: " url(/images/founding-day.jpeg) #FF0000"
+background: "url(/images/bahk-bg-01.jpg) #FF0000"
 permalink: "/members/"
 navigation: "visible"
 ---
+<!-- background: " url(/images/founding-day.jpeg) #FF0000" -->
 
+<div class="member">
 
-## Leadership
-
-All current directors of the Bitcoin Association of Hong Kong.
-
-**Clifford Choi**
-
-**Bryan Cheung**
-
-**Olga Kochmar**
-
-## Corporate Members
-
-The Bitcoin Association is about to welcome its first corporate members. To join as a corporate member, [please click here](/corporate).
-
-<div>
-        <p>
-            {% for post in site.categories.corporate %}
-                <a href="{{ post.link }}">
-                    <img src="/media/corporate/{{ post.thumbnail }}" class="img-responsive img-centered" alt="{{ post.alt }}" title="{{ post.title }}">
-                </a>
-            {% endfor %}
-        </p>
+	<div class="tab1 corp " data-tab="corp">
+		Corporate members
+	</div>
+	<div class="tab1 org current" data-tab="org">
+		Partner Organizations
+	</div>
+	<div class="tab1 comm" data-tab="com">
+		Media
+	</div>
+		
+	<div id="corp" class="content">
+		<img src="/media/corp/atum.png" alt="logo">
+		<img src="/media/corp/edge.png" alt="logo">
+		<img src="/media/corp/etoro.png" alt="logo">
+		<img src="/media/corp/gb.png" alt="logo">
+		<img src="/media/corp/hkbitcoinatm.png" alt="logo">
+		<img src="/media/corp/nil.png" alt="logo">
+		<img src="/media/corp/anx.png" alt="logo">
+		<img src="/media/corp/salg.svg" alt="logo">
+	</div>
+	<div id="org" class="content  current-content">
+		<img src="/media/org/adam.svg" alt="logo">
+		<img src="/media/org/bach.png" alt="logo">
+		<img src="/media/org/bck.svg" alt="logo">
+		<img src="/media/org/ffm.svg" alt="logo">
+	</div>
+	<div id="com" class="content">
+		<img src="/media/media/jinse.svg" alt="logo">
+		<img src="/media/media/bitcoinmagazine.png" alt="logo">
+		<img src="/media/media/chaintalk.png" alt="logo">
+		<img src="/media/media/coindesk.svg" alt="logo">
+		<img src="/media/media/cointelegraph.svg" alt="logo">
+		<img src="/media/media/forkast.png" alt="logo">
+	</div>
+	
 </div>
-{:.text-center}
-
-## Members
-
-A non-exhaustive list of current full members. To join as an individual members, [please click here](/join).
-
-Abhinav Maheshwari
-
-Alan Li
-
-Alexandre Baulne
-
-Arthur Hayes
-
-Arthur Lai
-
-Aurelien Menant
-
-Ben Delo
-
-Ben Yates
-
-Bryan Cheung
-
-Casper Cheng
-
-Chechung Chang
-
-Christina Chu
-
-Clifford Choi
-
-Daniel Babbev
-
-David Haynes
-
-David Shin
-
-Dmitrii Vasilev
-
-Dominique Abad
-
-Elliott Hoffman
-
-Felix Mok
-
-Felix Weis
-
-Gareth Hayes
-
-Gary Watkins
-
-Hon Sam Lee 李漢森
-
-Hugo Cheung
-
-Indy Cheng
-
-Jehan Chu
-
-Johnny Luk
-
-Jonathan Li
-
-Joseph Wang
-
-Kong Yong Ng
-
-Kristin Low
-
-Larry Salibra
-
-Leonhard Weese
-
-Mark So
-
-Michael Bolger
-
-Michael Edesess
-
-Nathan Kaiser
-
-Noah Silverman
-
-Olha Kochmar
-
-Patrice Poujol
-
-Patrick Suen
-
-Patrick Chugh
-
-Qinglin Li
-
-Rajiv Seth
-
-Ronald Lam
-
-Simon Habart
-
-Tama Churchousd
-
-Tamas Abdel-wahab
-
-Tony Nelson
-
-Vijay Luiz
-
-Vladimir
-
-William Piquard
-
-Xun Liu
-
-Yuki Jiang
