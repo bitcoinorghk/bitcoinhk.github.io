@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Hong Kong Bitcoin Regulation"
-date: "2019-10-08 10:00:00"
+date: "2020-08-23 10:00:00"
 permalink: "/hong-kong-bitcoin-regulation/"
 author: liongrass
 published: true
@@ -10,7 +10,7 @@ background: " url(/media/2015/11/shenzhen.png) #FF0000"
 
 # Hong Kong, rule of law and the free market
 
-Updated: 2019-10-08 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2017-08-27-hong-kong-bitcoin-regulation.md)
+Updated: 2020-08-23 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2017-08-27-hong-kong-bitcoin-regulation.md)
 
 In general, Hong Kong has a reputation as a reliable and predictable non-interventionist regulator. Most rules are clearly laid out and easy to comprehend and follow for people with little legal training (like me).
 
@@ -28,7 +28,7 @@ Bitcoin did not get onto the radar of the Hong Kong regulators until late 2013. 
 
 ANX and Bitcashout followed in 2013, and Bitcoin prices continued to rally throughout November 2013, reaching a high of US$1153.27 on European exchange Bitstamp on December 4, 2013.
 
-The then Financial Secretary John Tsang 曾俊華 mentioned Bitcoin for the first time in a [blog post](http://www.fso.gov.hk/chi/blog/blog011213.htm) on December 1, 2013 ([referenced here](http://www.scmp.com/business/banking-finance/article/1396917/virtual-currency-entrepreneurs-fight-future-bitcoin-hong)). In this article Tsang gives a good summary of how Bitcoin works and warns about its volatile nature and the lack of support from a state or issuer. He warns of a bubble bursting and sees many opportunities for software developers.
+The then Financial Secretary John Tsang 曾俊華 mentioned Bitcoin for the first time in a [blog post, (Archived)](https://web.archive.org/web/20131204131214/https://www.fso.gov.hk/chi/blog/blog011213.htm) on December 1, 2013 ([referenced here](http://www.scmp.com/business/banking-finance/article/1396917/virtual-currency-entrepreneurs-fight-future-bitcoin-hong)). In this article Tsang gives a good summary of how Bitcoin works and warns about its volatile nature and the lack of support from a state or issuer. He warns of a bubble bursting and sees many opportunities for software developers.
 
 On December 4, 2014 the issue was [picked up by Hong Kong's parliament](http://library.legco.gov.hk:1080/record=b1162178), the Legislative Council.
 
@@ -110,7 +110,7 @@ Exempt from this sandbox are all currently viable business models, including spo
 
 The only type of exchange qualifying for the sandbox is an OTC exchange serving institutional customers. Such an exchange doesn't require a license, but whether or not it is a sustainable business model to enter the sandbox depends on how many licensed funds require access to the OTC markets.
 
-If you are running a fund offering investment advice, futures, derivatives, margin or trading ICO tokens, consult a lawyer about whether you need a license to operate in Hong Kong. If you do need a license, the SFC won't give it to you and you will not qualify for the sandbox.
+If you are running a fund offering investment advice, futures, derivatives, margin or trading ICO tokens, consult a lawyer about whether you need a license to operate in Hong Kong. In August 2020 the SFC issued its first ['approval-in-principle'](https://osl.com/en/in-the-news/press-releases/20200821AIP) to cryptocurrency brokerage OSL.
 
 [Further reading: SFC Regulates Crypto-exchanges — Party Over in Hong Kong?](https://blog.bitcoin.org.hk/sfc-regulates-crypto-exchanges-party-over-in-hong-kong-bc081100863a)
 
