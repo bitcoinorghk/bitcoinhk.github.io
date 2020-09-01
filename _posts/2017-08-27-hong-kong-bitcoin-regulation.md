@@ -24,7 +24,7 @@ While Bitcoin in general is **not specifically regulated** other existing regula
 
 ## Hong Kong Bitcoin Regulation
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1HSTI7Sr2jdCh2Anyh9TjD_0bbkU5mAAXun0_M4TPWcs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<iframe src='https://hk-timeline.netlify.app?font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 Bitcoin did not get onto the radar of the Hong Kong regulators until late 2013. Until then there was little Bitcoin activity in Hong Kong. Bitfinex was likely the first exchange to open bank accounts in Hong Kong and offering exchange and trading services largely to international customers in 2012.
 
