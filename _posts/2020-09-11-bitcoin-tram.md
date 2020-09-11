@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Bitcoin Tram
-date: "2020-09-11 09:00:00"
+date: "2020-09-11 08:00:00"
 permalink: /2020-bitcoin-tram/
 author: liongrass
 published: true
