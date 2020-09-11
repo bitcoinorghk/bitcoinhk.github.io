@@ -80,6 +80,10 @@ Bitcoin is better at being gold than gold.
 
 [Bitcoin Magazine: Community-Funded Bitcoin Awareness Campaign Unveiled in Hong Kong](https://bitcoinmagazine.com/articles/community-funded-bitcoin-awareness-campaign-unveiled-in-hong-kong)
 
+[Decrypt: Bitcoin Ads Plastered Across Hong Kong Trams and Near Banks](https://decrypt.co/41514/bitcoin-ads-plastered-across-hong-kong-trams-and-near-banks)
+
+[BitcoinTalk](https://bitcointalk.org/index.php?topic=5275108.0)
+
 #### Social Media
 
 [@asiahodl](https://twitter.com/asiahodl/status/1304249273182289927) 
@@ -96,7 +100,35 @@ Bitcoin is better at being gold than gold.
 [@BrendanBlumer](https://twitter.com/BrendanBlumer/status/130432892381618995200) 
 [@justindanethan](https://twitter.com/justindanethan/status/1304292810892345344) 
 [@collectionist](https://twitter.com/collectionist/status/1304280318048792576) 
-[@dominiquefrnces](https://twitter.com/dominiquefrnces/status/1304341406022991872)
+[@dominiquefrnces](https://twitter.com/dominiquefrnces/status/1304341406022991872) 
+[@mikeshashimi](https://twitter.com/mikeshashimi/status/1304373962864951296) 
+[@flip_btcmag](https://twitter.com/flip_btcmag/status/1304423843138883594) 
+[@zackvoell](https://twitter.com/zackvoell/status/1304431166179680261) 
+[@BitcoinMagazine](https://twitter.com/BitcoinMagazine/status/1304430556978044929) 
+[@nwoodfine](https://twitter.com/nwoodfine/status/1304432588103151617) 
+[@lucas_lclc](https://twitter.com/lucas_lclc/status/1304397043671142400) 
+[@BitcoinMemeHub](https://twitter.com/BitcoinMemeHub/status/1304386745312530433) 
+[@danielwingen](https://twitter.com/danielwingen/status/1304382588082151425) 
+[@BitcoinMemeHub](https://twitter.com/BitcoinMemeHub/status/1304363411321401344) 
+[@DominikWeil](https://twitter.com/DominikWeil/status/1304355893123768320) 
+[@emylacapra](https://twitter.com/emylacapra/status/1304345157047922692) 
+[@tylerwinklevoss](https://twitter.com/tylerwinklevoss/status/1304393687024234496) 
+[@cyber_grinder](https://twitter.com/cyber_grinder/status/1304438703897686023) 
+[@BradMichelson](https://twitter.com/BradMichelson/status/1304425250541711361) 
+[@TruthRaiderHQ](https://twitter.com/TruthRaiderHQ/status/1304434555802267650) 
+[@\_\_\_CryptoNews](https://twitter.com/___CryptoNews/status/1304435807546032128) 
+[@PaulESamson](https://twitter.com/PaulESamson/status/1304439152025448448) 
+[@FarooqAhmedX](https://twitter.com/FarooqAhmedX/status/1304432706617520134) 
+[@sovereignty_btc](https://twitter.com/sovereignty_btc/status/1304429742385508354) 
+[@DScamron](https://twitter.com/DScamron/status/1304434356799320064) 
+[@prosmoon](https://twitter.com/prosmoon/status/1304385055402450944) 
+[@dezcrypto](https://twitter.com/dezcrypto/status/1304408122124054534) 
+[@PhoenixSquawk](https://twitter.com/PhoenixSquawk/status/1304272766472990721) 
+[@BitcoinEdu](https://twitter.com/BitcoinEdu/status/1304416166325166086) 
+[@Bryan_A_Cheung](https://twitter.com/Bryan_A_Cheung/status/1304325197529378817) 
+[@CWNFeed](https://twitter.com/CWNFeed/status/1304334703927975936) 
+
+
 
 ##### Related
 
