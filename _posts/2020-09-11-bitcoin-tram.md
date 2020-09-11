@@ -14,7 +14,7 @@ background: "url(/media/2020/09/background.png) #FF0000"
 \#BeYourOwnBank
 {:.text-center}
 
-This September, you will notice three doubledecker trams in full Bitcoin livery cruising east and west the tracks on Hong Kong Island. Each tram carries the Bitcoin logo and lettering on its front and back. The trams are accompanied by 20 billboards in matching design.
+This September, you will notice three doubledecker trams (#110) in full Bitcoin livery cruising east and west the tracks on Hong Kong Island. Each tram carries the Bitcoin logo and lettering on its front and back. The trams are accompanied by 20 billboards in matching design.
 
 The educational campaign is an initiative from the Hong Kong Bitcoin community coordinated by the Bitcoin Association of Hong Kong. The campaign is financed with donations from the community.
 
@@ -75,3 +75,32 @@ Bitcoin is better at being gold than gold.
 
 "There is practically no chance that space satellites would be used to improve phone, telegraph, TV and radio service.” - FCC Commissioner T.A.M. Craven, 1961
 {:.text-center}
+
+### In the media
+
+[Bitcoin Magazine: Community-Funded Bitcoin Awareness Campaign Unveiled in Hong Kong](https://bitcoinmagazine.com/articles/community-funded-bitcoin-awareness-campaign-unveiled-in-hong-kong)
+
+#### Social Media
+
+[@asiahodl](https://twitter.com/asiahodl/status/1304249273182289927) 
+[@sergioargentum](https://twitter.com/sergioargentum/status/1304246569030483969) 
+[@Martin_CMCC](https://twitter.com/Martin_CMCC/status/1304266654449360896) 
+[@genesisblockhk](https://twitter.com/genesisblockhk/status/1304266534664187904) 
+[@WageCan](https://twitter.com/WageCan/status/1304276317681020928) 
+[@Melt_Dem](https://twitter.com/Melt_Dem/status/1304291541591240704) 
+[@JayHao8](https://twitter.com/JayHao8/status/13042852251203911750) 
+[@romain_rouphael](https://twitter.com/romain_rouphael/status/1304321232460972032) 
+[@torum_official](https://twitter.com/torum_official/status/1304321556470853632) 
+[@larrysalibra](https://twitter.com/larrysalibra/status/1304325870107025408) 
+[@osldotcom](https://twitter.com/osldotcom/status/1304327557450330120) 
+[@BrendanBlumer](https://twitter.com/BrendanBlumer/status/130432892381618995200) 
+[@justindanethan](https://twitter.com/justindanethan/status/1304292810892345344) 
+[@collectionist](https://twitter.com/collectionist/status/1304280318048792576) 
+[@dominiquefrnces](https://twitter.com/dominiquefrnces/status/1304341406022991872)
+
+##### Related
+
+[‘Bitcoin to the Moon’ Signs Appear on Ukrainian Tram](https://news.bitcoin.com/bitcoin-to-the-moon-signs-appear-on-ukrainian-tram/)
+
+[Bitcoin Suisse Tram Comes To Zurich](https://www.bitcoinsuisse.com/news/bitcoin-suisse-tram-comes-to-zurich)
+
