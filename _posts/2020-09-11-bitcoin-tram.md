@@ -82,6 +82,22 @@ Bitcoin is better at being gold than gold.
 
 [Decrypt: Bitcoin Ads Plastered Across Hong Kong Trams and Near Banks](https://decrypt.co/41514/bitcoin-ads-plastered-across-hong-kong-trams-and-near-banks)
 
+[Cointelegraph: Hong Kong’s BTC association pushes ‘Bitcoin Tram’ ad campaign](https://cointelegraph.com/news/hong-kong-s-btc-association-pushes-bitcoin-tram-ad-campaign)
+
+[ConseilsCrypto: Les tramways de Hong Kong aux couleurs et logo de Bitcoin BTC](https://conseilscrypto.com/tramways-hong-kong-couleurs-logo-bitcoin-btc/)
+
+[Portal do Bitcoin: Organização espalha anúncios sobre Bitcoin em Hong Kong: “Seja seu próprio banco”](https://portaldobitcoin.uol.com.br/organizacao-espalha-anuncios-sobre-bitcoin-em-hong-kong-seja-seu-proprio-banco/)
+
+[CryptoActu: Bitcoin s’affiche à Hong Kong](https://cryptoactu.com/bitcoin-saffiche-a-hong-kong/)
+
+[KriptoKoin: Hong Kong’da Bitcoin Reklamları Boy Gösteriyor!](https://kriptokoin.com/hong-kongda-bitcoin-reklamlari-boy-gosteriyor/)
+
+[AMBCrypto: Anuncios de Bitcoin que se muestran fuera de los bancos en Hong Kong, en un esfuerzo por difundir el conocimiento de BTC](https://es.ambcrypto.com/anuncios-de-bitcoin-que-se-muestran-fuera-de-los-bancos-en-hong-kong-en-un-esfuerzo-por-difundir-el-conocimiento-de-btc/)
+
+[Reddit1](https://www.reddit.com/r/Bitcoin/comments/iqnsm9/in_front_of_hsbc_hq_in_hong_kong/) 
+[Reddit2](https://www.reddit.com/r/Bitcoin/comments/iqqoor/a_local_bitcoin_community_pooled_funds_to_put/) 
+[Reddit3](https://www.reddit.com/r/Bitcoin/comments/iqoqwx/welcome_to_hong_kong_the_bitcoin_tram_has_arrived/) 
+
 [BitcoinTalk](https://bitcointalk.org/index.php?topic=5275108.0)
 
 #### Social Media
@@ -127,7 +143,22 @@ Bitcoin is better at being gold than gold.
 [@BitcoinEdu](https://twitter.com/BitcoinEdu/status/1304416166325166086) 
 [@Bryan_A_Cheung](https://twitter.com/Bryan_A_Cheung/status/1304325197529378817) 
 [@CWNFeed](https://twitter.com/CWNFeed/status/1304334703927975936) 
-
+[@HongKongHermit](https://twitter.com/HongKongHermit/status/1304281450104061952) 
+[@BitLift](https://twitter.com/BitLift/status/1304450404994789376) 
+[@EspacioBitcoin](https://twitter.com/EspacioBitcoin/status/1304453458393812994) 
+[@\_spiraI](https://twitter.com/_spiraI/status/1304474530602246144) 
+[@cryptojenhk](https://twitter.com/cryptojenhk/status/1304567243448041472) 
+[@SFox](https://twitter.com/SFox/status/1304433265227583489) 
+[@Kosmatos](https://twitter.com/Kosmatos/status/1304433541401411584) 
+[@nlw](https://twitter.com/nlw/status/1304599976350187521) 
+[@winklevoss](https://twitter.com/winklevoss/status/1304520509732909058) 
+[@Xentagz](https://twitter.com/Xentagz/status/1304486200477134848) 
+[@BlockWorksGroup](https://twitter.com/BlockWorksGroup/status/1304539684304023553) 
+[@AltcoinDailyio](https://twitter.com/AltcoinDailyio/status/1304479442635337728) 
+[@Btcexpertindia](https://twitter.com/Btcexpertindia/status/13044874917271019530) 
+[@Will_Corkin](https://twitter.com/Will_Corkin/status/1304634597259444225) 
+[@Blockchainlaw91](https://twitter.com/Blockchainlaw91/status/1304503536789712898) 
+[@GigaBitcoin](https://twitter.com/GigaBitcoin/status/1304586832399622144) 
 
 
 ##### Related
