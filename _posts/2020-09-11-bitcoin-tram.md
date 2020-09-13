@@ -14,7 +14,7 @@ background: "url(/media/2020/09/background.png) #FF0000"
 \#BeYourOwnBank
 {:.text-center}
 
-This September, you will notice three doubledecker trams (#110) in full Bitcoin livery cruising east and west the tracks on Hong Kong Island. Each tram carries the Bitcoin logo and lettering on its front and back. The trams are accompanied by 20 billboards in matching design.
+This September, you will notice three doubledecker trams (#33, #110, #138) in full Bitcoin livery cruising east and west the tracks on Hong Kong Island. Each tram carries the Bitcoin logo and lettering on its front and back. The trams are accompanied by 20 billboards in matching design.
 
 The educational campaign is an initiative from the Hong Kong Bitcoin community coordinated by the Bitcoin Association of Hong Kong. The campaign is financed with donations from the community.
 
@@ -185,6 +185,10 @@ Bitcoin is better at being gold than gold.
 [@jasontowsley](https://twitter.com/jasontowsley/status/1304742272538472449) 
 [@GeoffreyKFCheng](https://twitter.com/GeoffreyKFCheng/status/1304382579785654273) 
 [@hascendp6](https://twitter.com/hascendp6/status/1304868079206313986)
+
+[cryptofedotov](https://www.facebook.com/cryptofedotov/posts/3485329964823031)
+[eglobal](https://www.facebook.com/eglobal/posts/10164496091305434)
+[wincent.hung](https://www.facebook.com/wincent.hung/posts/10158812317818707)
 
 
 ##### Related
