@@ -109,6 +109,8 @@ Bitcoin is better at being gold than gold.
 
 [Coinkolic: Bitcoin Reklamları Her Yerde: Kendi Bankanız Olun!](https://www.coinkolik.com/bitcoin-reklamlari-her-yerde-kendi-bankaniz-olun/)
 
+[Cryptoast: Des trams à l'effigie du Bitcoin (BTC) débarquent dans les rues de Hong Kong](https://cryptoast.fr/trams-bitcoin-btc-hong-kong/)
+
 [Reddit1](https://www.reddit.com/r/Bitcoin/comments/iqnsm9/in_front_of_hsbc_hq_in_hong_kong/) 
 [Reddit2](https://www.reddit.com/r/Bitcoin/comments/iqqoor/a_local_bitcoin_community_pooled_funds_to_put/) 
 [Reddit3](https://www.reddit.com/r/Bitcoin/comments/iqoqwx/welcome_to_hong_kong_the_bitcoin_tram_has_arrived/) 
