@@ -83,6 +83,13 @@ Bitcoin is better at being gold than gold.
 [Decrypt: Bitcoin Ads Plastered Across Hong Kong Trams and Near Banks](https://decrypt.co/41514/bitcoin-ads-plastered-across-hong-kong-trams-and-near-banks)
 
 [Cointelegraph: Hong Kong’s BTC association pushes ‘Bitcoin Tram’ ad campaign](https://cointelegraph.com/news/hong-kong-s-btc-association-pushes-bitcoin-tram-ad-campaign)
+[Cointelegraph: La Bitcoin Association of Hong Kong ha lanciato la campagna pubblicitaria 'Bitcoin Tram'](https://it.cointelegraph.com/news/hong-kong-s-btc-association-pushes-bitcoin-tram-ad-campaign)
+
+[Bitcoin.com: Huge 'Bitcoin Tram' Ad Campaign and 20 Billboards Flood Hong Kong's Financial District](https://news.bitcoin.com/bitcoin-tram-ad-campaign-billboards-hong-kong/)
+
+[Asia Times:  Hong Kong bitcoiners take on the banks](https://asiatimes.com/2020/09/hong-kong-bitcoiners-take-on-the-banks/)
+
+[Sunriseread: Bitcoin ads displayed outside banks in Hong Kong, in effort to spread BTC awareness](https://sunriseread.com/bitcoin-ads-displayed-outside-banks-in-hong-kong-in-effort-to-spread-btc-awareness/116908/)
 
 [ConseilsCrypto: Les tramways de Hong Kong aux couleurs et logo de Bitcoin BTC](https://conseilscrypto.com/tramways-hong-kong-couleurs-logo-bitcoin-btc/)
 
@@ -93,6 +100,14 @@ Bitcoin is better at being gold than gold.
 [KriptoKoin: Hong Kong’da Bitcoin Reklamları Boy Gösteriyor!](https://kriptokoin.com/hong-kongda-bitcoin-reklamlari-boy-gosteriyor/)
 
 [AMBCrypto: Anuncios de Bitcoin que se muestran fuera de los bancos en Hong Kong, en un esfuerzo por difundir el conocimiento de BTC](https://es.ambcrypto.com/anuncios-de-bitcoin-que-se-muestran-fuera-de-los-bancos-en-hong-kong-en-un-esfuerzo-por-difundir-el-conocimiento-de-btc/)
+
+[ГОРОД ФИНАНСОВ: Гонконгские трамваи рекламируют биткоин](https://gorodfinansov.ru/gonkongskie-tramvai-reklamiruyut-bitkoin.html)
+
+[BitTimes: 香港ビットコイン協会：路面電車などで「BTC広告」を大々的に掲載](https://bittimes.net/news/90613.html)
+
+[Siam Blockchain: ฮ่องกงกำลังเต็มไปด้วยโฆษณา Bitcoin คาดผู้คนหลั่งไหลเข้ามาในตลาดอีกเป็นจำนวนมาก](https://siamblockchain.com/2020/09/12/bitcoinbitcoin-ads-plastered-across-hong-kong-trams-and-near-banks/)
+
+[Coinkolic: Bitcoin Reklamları Her Yerde: Kendi Bankanız Olun!](https://www.coinkolik.com/bitcoin-reklamlari-her-yerde-kendi-bankaniz-olun/)
 
 [Reddit1](https://www.reddit.com/r/Bitcoin/comments/iqnsm9/in_front_of_hsbc_hq_in_hong_kong/) 
 [Reddit2](https://www.reddit.com/r/Bitcoin/comments/iqqoor/a_local_bitcoin_community_pooled_funds_to_put/) 
@@ -159,6 +174,15 @@ Bitcoin is better at being gold than gold.
 [@Will_Corkin](https://twitter.com/Will_Corkin/status/1304634597259444225) 
 [@Blockchainlaw91](https://twitter.com/Blockchainlaw91/status/1304503536789712898) 
 [@GigaBitcoin](https://twitter.com/GigaBitcoin/status/1304586832399622144) 
+[@Diditaihuttu](https://twitter.com/Diditaihuttu/status/13046770782610104330)
+[@BVBTC](https://twitter.com/BVBTC/status/1304679525268160512) 
+[@BCAssetsFund](https://twitter.com/BCAssetsFund/status/1304732796955455489) 
+[@sonnyleyba](https://twitter.com/sonnyleyba/status/1304692517724549120) 
+[@WhiteRabbit111](https://twitter.com/WhiteRabbit111/status/1304692061329788928) 
+[@emylacapra](https://twitter.com/emylacapra/status/1304754879852883968) 
+[@jasontowsley](https://twitter.com/jasontowsley/status/1304742272538472449) 
+[@GeoffreyKFCheng](https://twitter.com/GeoffreyKFCheng/status/1304382579785654273) 
+[@hascendp6](https://twitter.com/hascendp6/status/1304868079206313986)
 
 
 ##### Related
