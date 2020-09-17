@@ -189,6 +189,8 @@ Bitcoin is better at being gold than gold.
 [@kristinlow](https://twitter.com/kristinlow/status/1305072178841305088) 
 [@SimonDixonTwitt](https://twitter.com/SimonDixonTwitt/status/1305191473244237829) 
 [@orionwl](https://twitter.com/orionwl/status/1305429040820617216) 
+[@jamesplloyd](https://twitter.com/jamesplloyd/status/1305749324786069504) 
+[@PindarWong](https://twitter.com/PindarWong/status/1306118802510209024) 
 
 [cryptofedotov](https://www.facebook.com/cryptofedotov/posts/3485329964823031)
 [eglobal](https://www.facebook.com/eglobal/posts/10164496091305434)
