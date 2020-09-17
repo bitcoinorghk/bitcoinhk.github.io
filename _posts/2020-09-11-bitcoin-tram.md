@@ -111,11 +111,7 @@ Bitcoin is better at being gold than gold.
 
 [Cryptoast: Des trams à l'effigie du Bitcoin (BTC) débarquent dans les rues de Hong Kong](https://cryptoast.fr/trams-bitcoin-btc-hong-kong/)
 
-[Reddit1](https://www.reddit.com/r/Bitcoin/comments/iqnsm9/in_front_of_hsbc_hq_in_hong_kong/) 
-[Reddit2](https://www.reddit.com/r/Bitcoin/comments/iqqoor/a_local_bitcoin_community_pooled_funds_to_put/) 
-[Reddit3](https://www.reddit.com/r/Bitcoin/comments/iqoqwx/welcome_to_hong_kong_the_bitcoin_tram_has_arrived/) 
-
-[BitcoinTalk](https://bitcointalk.org/index.php?topic=5275108.0)
+[Cripto Tendencia: Inicia la campaña “Bitcoin Tram” en Hong Kong](https://criptotendencia.com/2020/09/13/inicia-la-campana-bitcoin-tram-en-hong-kong-2/)
 
 #### Social Media
 
@@ -184,11 +180,25 @@ Bitcoin is better at being gold than gold.
 [@emylacapra](https://twitter.com/emylacapra/status/1304754879852883968) 
 [@jasontowsley](https://twitter.com/jasontowsley/status/1304742272538472449) 
 [@GeoffreyKFCheng](https://twitter.com/GeoffreyKFCheng/status/1304382579785654273) 
-[@hascendp6](https://twitter.com/hascendp6/status/1304868079206313986)
+[@hascendp6](https://twitter.com/hascendp6/status/1304868079206313986) 
+[@AlexLielacher](https://twitter.com/AlexLielacher/status/1304681396158558208) 
+[@PeterMcCormack](https://twitter.com/PeterMcCormack/status/1304768720296988672) 
+[@wincent_hung](https://twitter.com/wincent_hung/status/1304776831648763905) 
+[@trylolli](https://twitter.com/trylolli/status/1304824119477837829) 
+[@MarketsMaven](https://twitter.com/MarketsMaven/status/1305064219079921664) 
+[@kristinlow](https://twitter.com/kristinlow/status/1305072178841305088) 
+[@SimonDixonTwitt](https://twitter.com/SimonDixonTwitt/status/1305191473244237829) 
+[@orionwl](https://twitter.com/orionwl/status/1305429040820617216) 
 
 [cryptofedotov](https://www.facebook.com/cryptofedotov/posts/3485329964823031)
 [eglobal](https://www.facebook.com/eglobal/posts/10164496091305434)
 [wincent.hung](https://www.facebook.com/wincent.hung/posts/10158812317818707)
+
+[Reddit1](https://www.reddit.com/r/Bitcoin/comments/iqnsm9/in_front_of_hsbc_hq_in_hong_kong/) 
+[Reddit2](https://www.reddit.com/r/Bitcoin/comments/iqqoor/a_local_bitcoin_community_pooled_funds_to_put/) 
+[Reddit3](https://www.reddit.com/r/Bitcoin/comments/iqoqwx/welcome_to_hong_kong_the_bitcoin_tram_has_arrived/) 
+
+[BitcoinTalk](https://bitcointalk.org/index.php?topic=5275108.0)
 
 
 ##### Related
