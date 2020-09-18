@@ -114,7 +114,7 @@ navigation: "visible"
         <div class="card second-card">
           <p>More than</p>
           <div class="stats">
-            <span class="count">5000</span>
+            <span class="count">6000</span>
             Members
           </div>
         </div>
