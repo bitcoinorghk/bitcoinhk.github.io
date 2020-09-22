@@ -83,6 +83,7 @@ Bitcoin is better at being gold than gold.
 [Decrypt: Bitcoin Ads Plastered Across Hong Kong Trams and Near Banks](https://decrypt.co/41514/bitcoin-ads-plastered-across-hong-kong-trams-and-near-banks)
 
 [Cointelegraph: Hong Kong’s BTC association pushes ‘Bitcoin Tram’ ad campaign](https://cointelegraph.com/news/hong-kong-s-btc-association-pushes-bitcoin-tram-ad-campaign)
+
 [Cointelegraph: La Bitcoin Association of Hong Kong ha lanciato la campagna pubblicitaria 'Bitcoin Tram'](https://it.cointelegraph.com/news/hong-kong-s-btc-association-pushes-bitcoin-tram-ad-campaign)
 
 [Bitcoin.com: Huge 'Bitcoin Tram' Ad Campaign and 20 Billboards Flood Hong Kong's Financial District](https://news.bitcoin.com/bitcoin-tram-ad-campaign-billboards-hong-kong/)
