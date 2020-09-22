@@ -113,6 +113,8 @@ Bitcoin is better at being gold than gold.
 
 [Cripto Tendencia: Inicia la campaña “Bitcoin Tram” en Hong Kong](https://criptotendencia.com/2020/09/13/inicia-la-campana-bitcoin-tram-en-hong-kong-2/)
 
+[Crypto Monday: Bitcoin Werbung in Hong Kong – massive Kampagne schmückt die Metropole](https://cryptomonday.de/bitcoin-werbung-in-hong-kong-massive-kampagne-schmueckt-die-metropole/)
+
 #### Social Media
 
 [@asiahodl](https://twitter.com/asiahodl/status/1304249273182289927) 
@@ -191,6 +193,7 @@ Bitcoin is better at being gold than gold.
 [@orionwl](https://twitter.com/orionwl/status/1305429040820617216) 
 [@jamesplloyd](https://twitter.com/jamesplloyd/status/1305749324786069504) 
 [@PindarWong](https://twitter.com/PindarWong/status/1306118802510209024) 
+[@HenriArslanian](https://twitter.com/HenriArslanian/status/1308281405688836096) 
 
 [cryptofedotov](https://www.facebook.com/cryptofedotov/posts/3485329964823031)
 [eglobal](https://www.facebook.com/eglobal/posts/10164496091305434)
@@ -201,6 +204,8 @@ Bitcoin is better at being gold than gold.
 [Reddit3](https://www.reddit.com/r/Bitcoin/comments/iqoqwx/welcome_to_hong_kong_the_bitcoin_tram_has_arrived/) 
 
 [BitcoinTalk](https://bitcointalk.org/index.php?topic=5275108.0)
+
+Podcast: [Bitcoin in Asia - Advertising Bitcoin with Leo Weese BIA 23 - Apple Podcasts](https://podcasts.apple.com/us/podcast/bitcoin-in-asia-advertising-bitcoin-with-leo-weese-bia-23/id1459884105?i=1000491214455)
 
 
 ##### Related
