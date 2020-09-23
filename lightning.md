@@ -72,6 +72,13 @@ via the lightning network. Select an Amount in <b> (HKD): </b>
 </dl>
 </div>
 
+Donate satoshis via a static [lnurl Lightning invoice](https://github.com/fiatjaf/awesome-lnurl), proxied by [tip.bigsun.xyz](https://tip.bigsun.xyz/) directly to our node.
+
+![Static Lightning Donation Invoice](/media/2020/09/lnd_donation.png)
+{:.text-center}
+
+lnurl1dp68gurn8ghj7arfwqhxy6t8wd6kutnc09az7mrww4exctesxvuxve3kv43nxenzx5exxv3nvcck2cfjvcengvtzvsmkvwtyvsurjwfhxcmrxwpsxu6nqef5vdjnscehxe3xvvfjv5cnzef3vfnrjcf39acxzunpd4esmxwqg6
+
 <!-- 
 <div>
 <dl>
