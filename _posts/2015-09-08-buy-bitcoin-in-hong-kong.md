@@ -142,6 +142,16 @@ Located in Central and was opened in February 2018.
 **[AAX](https://www.aax.com/otc/home)**
 The OTC desk of AAX exchanges HKD, USD and CNY to Bitcoin and offers a variety of payment methods, including FPS, WeChat or Alipay.
 
+##### Smaller OTC houses located in Hong Kong include:
+
+**[OTCXPERT](https://otcxpert.com/)**, Tsim Sha Tsui
+
+**[MyEthShop](https://www.myethshop.com/)**, Mong Kok
+
+**[BTC Shop HK](https://btcshop.com.hk/)**, Tsim Sha Tsui
+
+**[Coingaroo](https://coingaroo.com.hk/)**, Lai Chi Kok
+
 #### Overseas Exchanges
 
 Some exchanges overseas serve the Hong Kong market. Wire transfers to these exchanges are more expensive, but often more reliable and there is significantly more market depth. Disputes however cannot easily be resolved through the Hong Kong legal system and can quickly become complicated and expensive to resolve.
