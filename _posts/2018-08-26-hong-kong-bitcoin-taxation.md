@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Hong Kong Bitcoin Taxation"
-date: "2018-09-30 10:00:00"
+date: "2020-09-30 10:00:00"
 permalink: "/hong-kong-bitcoin-taxation/"
 author: liongrass
 published: true
