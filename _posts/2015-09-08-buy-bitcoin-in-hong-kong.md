@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Buy Bitcoin in Hong Kong
-date: "2020-10-14 02:00:00"
+date: "2020-10-18 02:00:00"
 permalink: /buy-bitcoin-in-hong-kong/
 author: liongrass
 published: true
@@ -12,7 +12,7 @@ redirect_from:
 
 ---
 
-last updated: 2020-10-14 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md)
+last updated: 2020-10-18 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md)
 
 ## Buying Bitcoin in Hong Kong
 
@@ -122,8 +122,6 @@ Tidebit is the newest of Hong Kong Bitcoin exchanges. You can deposit cash for f
 
 **[Coinsuper](https://www.coinsuper.com/)**
 This Hong Kong Bitcoin exchanges accepts only USD deposits into their bank account.
-
-**[Weever](https://www.weever.com.hk/)** The youngest exchange in Hong Kong accepts deposits through a variety of local bank accounts and is backed by the publicly listed [CASH Financial Services Group](https://www.cfsg.com.hk/).
 
 #### OTC Exchanges
 
