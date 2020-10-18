@@ -3,7 +3,7 @@ layout: blog
 title: Buy Bitcoin in Hong Kong
 date: "2020-10-14 02:00:00"
 permalink: /buy-bitcoin-in-hong-kong/
-author: sam
+author: liongrass
 published: true
 background: "url(/media/2015/09/b.JPG) #FF0000"
 redirect_from:
