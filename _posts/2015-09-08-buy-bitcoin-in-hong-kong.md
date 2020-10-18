@@ -3,7 +3,7 @@ layout: blog
 title: Buy Bitcoin in Hong Kong
 date: "2020-10-14 02:00:00"
 permalink: /buy-bitcoin-in-hong-kong/
-author: liongrass
+author: sam
 published: true
 background: "url(/media/2015/09/b.JPG) #FF0000"
 redirect_from:
@@ -15,6 +15,8 @@ redirect_from:
 last updated: 2020-10-14 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md)
 
 ## Buying Bitcoin in Hong Kong
+
+[請按此查看中文版本。](/buy-bitcoin-in-hong-kong)
 
 The options on how to buy Bitcoin can be overwhelming at first. Unlike with centralized systems like Alipay or Paypal there is no 'official' way to fund your accounts, and fees vary across services and locations. As a rule of thumb, the more convenient and fast a HKD -> Bitcoin exchange is, the higher the fees are.
 
