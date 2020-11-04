@@ -69,6 +69,18 @@ navigation: "visible"
 
   </div>
   
+    <h2>Bitcoin Help Desk</h2>
+
+  <div class="social-links">
+    <div class="card">
+	<a href="https://t.me/bitcoinhelpdesk">
+          <svg width="64" height="54" viewBox="0 0 64 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M25.1125 35.4824L24.0538 50.3731C25.5685 50.3731 26.2245 49.7224 27.0111 48.9411L34.1125 42.1544L48.8271 52.9304C51.5258 54.4344 53.4271 53.6424 54.1551 50.4478L63.8138 5.18911L63.8165 5.18645C64.6725 1.19711 62.3738 -0.362887 59.7445 0.615779L2.97114 22.3518C-0.903526 23.8558 -0.844859 26.0158 2.31247 26.9944L16.8271 31.5091L50.5418 10.4131C52.1285 9.36245 53.5711 9.94378 52.3845 10.9944L25.1125 35.4824Z"/>
+        </svg></a>
+        </div>
+   <a href="https://t.me/bitcoinhelpdesk">Volunteers from the Bitcoin Association of Hong Kong are offering answers to all your Bitcoin-related questions. Please note this group mainly operates during Hong Kong business hours. Volunteers will never send you direct messages. Never send money to anyone in this group. Available on Telegram and email (helpdesk@bitcoin.org.hk) only.</a>
+  </div>
+  
   <form class="form-sub" action="https://tinyletter.com/bitcoinhk" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/bitcoinhk', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"> 
     <p><label for="tlemail"><b>Subscribe to our newsletter</b> to receive regular updates, events, news and articles on Bitcoin in and around Hong Kong.</label></p>
     <input type="text" placeholder="E-mail" name="email" id="tlemail" />
