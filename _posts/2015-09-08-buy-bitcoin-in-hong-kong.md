@@ -128,7 +128,7 @@ This Hong Kong Bitcoin exchanges accepts only USD deposits into their bank accou
 For larger amounts, you can go to an OTC Exchange, or broker. A broker will give you a quick quote for a single trade, usually upwards of 10 BTC. You will be able to sell or buy Bitcoin against a wire transfer.
 
 **[OSL](https://www.osl.com/)**
-One of the largest OTC exchanges in the world.
+Institutional clients only.
 
 **[Genesis Block](https://www.genesisblockhk.com/)**
 Opened in September 2017 in Wan Chai, the Genesis Block functions as an OTC trading hub as well as an event space.
