@@ -6,7 +6,7 @@ subtitle: "Bitcoin FAQs"
 icon: "user"
 background: "url(/images/bahk-jimmysong-01.png) #FF0000"
 permalink: "/faq/"
-navigation: "visible"
+navigation: "invisible"
 ---
 
 <span id="leftm"><a href="https://t.me/bitcoinhelpdesk" class="logo">BitcoinHK Help Desk on Telegram</a> </span>
