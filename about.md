@@ -39,7 +39,7 @@ navigation: "visible"
       <div>
         <div class="card">
           <img src="/images/card-image.svg" alt="avatar">
-          <div class="name">Olga Kochmar</div>
+          <div class="name">Christina Chu</div>
         </div>
       </div>
      </div>
