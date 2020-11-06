@@ -31,7 +31,7 @@ Becoming a member gives you access to the community and the association. You pro
 
 ## Membership Application
 
-To sign up, simply fill out the application form below. The membership fee for 2019/2020 is set at 26,000 bits (0.026 BTC) and will be revised once per year.
+To sign up, simply fill out the application form below. The membership fee for 2020/2021 is set at 26,000 bits (0.026 BTC) and will be revised once per year.
 
 We will send you an email with a confirmation usually within 48h.
 
