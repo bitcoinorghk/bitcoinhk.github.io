@@ -21,6 +21,9 @@ The educational campaign is an initiative from the Hong Kong Bitcoin community c
 \#GlobalInternetMoney
 {:.text-center}
 
+![Be your own bank. The Hong Kong Bitcoin tram passing the computer center in Wan Chai](/media/2020/10/bitcoin-tram-01.JPG)
+{:.text-center}
+
 ### Messaging
 
 The Bitcoin Tram campaign has the goal of matter-of-factly discuss the risks and merits of Bitcoin, especially in the context of ongoing financial and economic changes. It carries quotes by writer Stewart Brand and T.A.M. Craven, as well as facts about money printing and Bitcoin usage.
