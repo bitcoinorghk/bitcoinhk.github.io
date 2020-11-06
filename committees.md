@@ -23,14 +23,14 @@ navigation: "visible"
 				<p>RegTech</p>
 				<span>
 					<img src="/images/card-calendar.svg" alt="">
-					7 May 2020
+					5 Nov 2020
 				</span>
 			</a>
 		</div>
 		<div class="contact">
 			<div class="contact-person">
 				<p>Contact person:</p>
-				<span>TBD</span>
+				<span>Cliff Choi</span>
 			</div>
 			<div class="links">
 				<a href="https://t.me/bitcoinhk" target="_blank">
@@ -76,7 +76,7 @@ navigation: "visible"
 				<p>Mining</p>
 				<span>
 					<img src="/images/card-calendar.svg" alt="">
-					7 May 2020
+					5 Nov 2020
 				</span>
 			</a>
 		</div>
@@ -129,14 +129,14 @@ navigation: "visible"
 				<p>Devs</p>
 				<span>
 					<img src="/images/card-calendar.svg" alt="">
-					7 May 2020
+					5 Nov 2020
 				</span>
 			</a>
 		</div>
 		<div class="contact">
 			<div class="contact-person">
 				<p>Contact person:</p>
-				<span>TBD</span>
+				<span>Christina Chu</span>
 			</div>
 			<div class="links">
 				<a href="https://t.me/bitcoinhk" target="_blank">
@@ -182,14 +182,14 @@ navigation: "visible"
 				<p>DeFi</p>
 				<span>
 					<img src="/images/card-calendar.svg" alt="">
-					7 May 2020
+					5 Nov 2020
 				</span>
 			</a>
 		</div>
 		<div class="contact">
 			<div class="contact-person">
 				<p>Contact person:</p>
-				<span>TBD</span>
+				<span>Christina Chu</span>
 			</div>
 			<div class="links">
 				<a href="https://www.meetup.com/Bitcoin-HK/events/270269664/" target="_blank">
@@ -236,14 +236,14 @@ navigation: "visible"
 				<p>Trading </p>
 				<span>
 					<img src="/images/card-calendar.svg" alt="">
-					7 May 2020
+					5 Nov 2020
 				</span>
 			</a>
 		</div>
 		<div class="contact">
 			<div class="contact-person">
 				<p>Contact person:</p>
-				<span>Julian Beltran </span>
+				<span>Cliff Choi </span>
 			</div>
 			<div class="links">
 				<a href="https://t.me/bitcoinhk" target="_blank">
