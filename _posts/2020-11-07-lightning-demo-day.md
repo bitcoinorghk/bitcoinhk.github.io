@@ -14,6 +14,10 @@ published: true
 
 THIS EVENT IS FREE AND OPEN TO ALL
 
+[You can find the slides of the main presentation here](/media/2020/11/lightning.pdf)
+
+[You can find the slides of the demo here](/media/2020/11/lightning_demo.pdf)
+
 The Lightning Network has come a long way in its 2.5 year existence. At Lightning Demo Day we show off what is and isn't currently possible with Lightning.
 
 Agenda:
