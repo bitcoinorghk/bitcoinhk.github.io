@@ -48,30 +48,6 @@ You can donate money here using the Lightning network!
 </dl>
 </div>
 
-
-
-<div class="contact">
-<dl>
-<dd>
-<form class="form-sub" action="https://www.coinpayments.net/index.php" method="post">
-<label for="numpad-2"> <h4> Donate with CoinPayments</h4> 
-<p> 
-via the lightning network. Select an Amount in <b> (HKD): </b>
-</p>
-</label>
-  <input class="form-sub" type="number" min="0" step="0.01" name="amountf" value="100.00" id="numpad-2"/>
-	<input type="hidden" name="cmd" value="_pay_simple">
-	<input type="hidden" name="reset" value="1">
-	<input type="hidden" name="merchant" value="84ffa7d089e5eefdc9ff75f09f948f80">
-	<input type="hidden" name="item_name" value="Donation">
-	<input type="hidden" name="currency" value="HKD">
-	<input type="hidden" name="want_shipping" value="0">
-	<input type="image" src="https://www.coinpayments.net/images/pub/buynow-grey.png" style="width:200px" alt="Pay Now with CoinPayments.net">
-</form>
-</dd>
-</dl>
-</div>
-
 Donate satoshis via a static [lnurl Lightning invoice](https://github.com/fiatjaf/awesome-lnurl), proxied by [tip.bigsun.xyz](https://tip.bigsun.xyz/) directly to our node.
 
 ![Static Lightning Donation Invoice](/media/2020/09/lnd_donation.png)
