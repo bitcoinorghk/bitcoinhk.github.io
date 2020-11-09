@@ -21,13 +21,7 @@ Bitcoin is a electronic cash system. It is a software program that forms an inte
 The Bitcoin white paper and code was written by Satoshi Nakamoto in 2008-09. It is a culmination of work over the last 40 years of cryptography, key signatures, digital cash, time-stamping, fault-tolerance, and distributed computing.
 
 ### How is Bitcoin created?
-Bitcoin is created through a process called ‘proof of work’ (aka mining). Participants (miners) of the Bitcoin network protocol around the globe use computers to compete against each other to solve the next block 'hash'. The first computer to solve the hash of the block of transactions is rewarded with newly minted Bitcoin.
-
- if they solve the next puzzle (hash) 'block' of transactions and add it (hash) to the previous blocks that are 'chain' of(this happens every 10 minutes). 
-
-Through cryptography these blocks are linked together to form a blockchain (an distributed database). Once a block is processed (mined) it cannot be rewritten.
-
-When a Bitcoin transaction is made, it needs to be verified by every participant in the network through this mining process and validating every transaction that came before it, once it is verified by the miner, the miner creates a new block filled with transactional data and appends it onto the blockchain. Over time mining strengthens the blockchain. Mining requires large amounts of computational power, therefore, miners are rewarded with transactional fees and new Bitcoins that are created.
+Bitcoin is created through a process called ‘proof of work’ (aka mining). Participants (called miners) of the Bitcoin network protocol around the globe use computers to compete against each other to solve the next block 'hash' puzzle. The first computer to solve the hash of the block of transactions is rewarded with newly minted Bitcoin.
 
 ### Why is Bitcoin so volatile?
 Bitcoin and altcoin currencies are volatile because of the large amounts of fiat entering and exiting the system (buying and selling). A small circulating supply (low float) of Bitcoin on the market (<10+ million) coupled with high volume is more volatile. Conversely, a large circulating supply with the same volume would be less volatile.
@@ -75,21 +69,20 @@ Try to practice regenerating a wallet on a different computer once you have save
 The short answer is you can’t. Please see FAQ on sending
 to the wrong address.
 
-###  I sent my Bitcoin or cryptocurrency to the wrong
-address? Is there a recall button after I hit send?
+###  I sent my Bitcoin or cryptocurrency to the wrong address? Is there a recall button after I hit send?
 In theory, no. If you know who the receiver is, you can ask the receiver to send it back at their discretion. However, if the address not confirmable, the coins may never be sent, so they may never leave the wallet to begin with.
 
 ### This sounds scary, if I make a mistake sending I could lose my coins. Is this correct?
-Yes this is correct. But you can practice and learn how to send and receive coins to build confidence and prevent mishaps from happening.
+Yes this is correct. But you can practice and learn how to send and receive coins to build confidence and prevent mishaps from happening. Start with small amounts.
 
 ###  So, How can I practice sending and receiving coins?
-You can create a wallet and begin with the Bitcoin testnet. 
+You can create a wallet and begin with the Bitcoin testnet. All bitcoin testnet addresses begin with an m or n. Bitcoin livenet addresses all begin with 1 or 3 or bc1. 
 
 ### What can I do to prevent errors in sending or receiving coins?
-There are QR codes which are scannable between wallets to prevent copy/paste errors when sending coins
+There are QR codes which are scanned with phone wallets to prevent copy/paste errors when sending coins.
 
 ### What’s a seed phrase?
-Seed phrases can range from 12 to 25 words. They do not do anything on their own. However, if you lose or have a wallet stolen, seeds can aid in the recovery. Your private key is transformed into a series of words–and that’s the seed phrase.
+Seed phrases can range from 12 to 25 words. They do not do anything on their own. However, if you lose or have a wallet stolen, seeds can recover a wallet. Your private key is transformed into a series of coded words to form a seed phrase.
 
 ### I left my Bitcoin with a friend or on an exchange, is this safe?
 No, “Not your keys, not your bitcoin”. So your coins are never really safe on an exchange.
@@ -101,47 +94,34 @@ If your coins are stored on an exchange, they could potentially be stolen if the
 
 ###  Why do cryptocurrencies have the reputation of being risky?
 Aside from trading in high volatility market, there two major forms of risk which could cause you to lose your cryptocurrency.
-a. The first is your personal computing security. Most people do not have strong computer security skills and are prone to being hacked. Self education of securing your private keys is a first precaution
-b. The second are scams. Scams prey on people’s emotions with the promise of getting rich quick, but in reality this is not what happens.
+ - The first is your personal computing security. Most people do not have strong computer security skills and are prone to being hacked. Self education of securing your private keys is a first precaution
+ - The second are scams. Scams prey on people’s emotions (greed) with the promise of getting rich quick, but in reality this is called a multiplier scam.
 
 ###  What’s Game theory?
-Game theory is “the study of mathematical models of conflict and cooperation between intelligent rational decision-makers.
+Game theory in Bitcoin economics is a incentive to secure the proof-of-work network. Bitcoin mining is intentionally difficult and inefficient, thus making it costly for malicious actors to rewrite the ledger (blockchain).
 
 ###  What is a Decentralized Exchange? Why does it matter?
-A decentralized exchange is an exchange where the actual trades are done between the sender and receiver. Unlike a Centralized Exchange, a Decentralized Exchange does not hold any of the coins or tokens but only acts as an order book or relayer of market information between potential buyers and sellers.
-
-###  Where is blockchain technology is not necessary?
-Blockchain technology is highly inefficient compared to modern databases. It does not serve a purpose if there is trusted intermediary, an enterprise database structure would be a more efficient and robust implementation.
+A decentralized exchange is an exchange are automatically matched between traders. Unlike a Centralized Exchange, a Decentralized Exchange does not hold any of the coins or tokens but only acts as an order book or relayer of market information between potential buyers and sellers.
 
 ###  What some of the shortcomings/drawbacks of blockchain technology?
-Distributed technology is less efficient than centralized systems. This is the technical tradeoff of a distributed system.
+Blockchain technology is slow, fat, and expensive to operate. To synchonize a decentralized database distributed across a network of 1,000 computers are more difficult to synch compared to a less secure centralized database on a server.
 
 ### 28. Who controls Bitcoin, and can they change it if they please?
-No single person or entity controls Bitcoin. There is a distributed consensus model with protocols to improve the Bitcoin standard, called BIPs, but it is not governed by a single individual or entity.
+No single person or entity controls Bitcoin. There is a distributed consensus model with protocols to improve the Bitcoin standard, called BIPs, but it is not governed by a single individual or entity. People may control addresses of large amounts of Bitcoin, but that does not mean they control the network layer.
 
 ### How can Bitcoin be destroyed?
-Here are two examples of how : One would be that someone has broken or cracked the SHA-256 encryption mechanism that is at the core cryptography which allows spending of coins. The second is the possibility is a 51% attack where a party takes majority control over the network. However, with a distributed global network, the larger and stronger the network becomes the more expensive it would be to take down the network.
+Here are two examples
+- One would be that someone has broken or cracked the SHA-256 encryption mechanism that is at the core cryptography which allows spending of coins. 
+- The second is the possibility is a 51% attack where a party takes majority control over the network. However, with a distributed global network, the larger and stronger the network becomes the more expensive it would be to take down the network.
 
 ### What are some current and future applications of cryptocurrencies and smart contracts?
 Some applications of cryptocurrencies and smart contracts which are in early stage development include but are not limited to validation and verification of identity, supply chain consensus, anti-counterfeit measures, asset tracking, small to large scale crowd sourced fundraising (also known as ICOs), IOT (Internet of Things) and healthcare data tracking.
 
 ### What’s the difference between Coins vs. Tokens?
-Coins have their own mainnet vs. Tokens are built on another cryptocurrencies mainnet. Tokens can be printed without needing mining and use the cryptocurrency backbone as their transport layer.
+Coins are cryptocurrencies with independent blockchains and network protocols (either copied, modified, or rewritten). Tokens are written on top of blockchains with differing use-cases. Tokens can be printed without needing mining and use the blockchain backbone as their transport layer.
 
 ### What is a Smart Contract?
-A Smart Contract is software driven, self-executing contract. All cryptocurrencies are programmable, including Bitcoin. The Ethereum network is widely known for smart contracts, as there are more powerful features built
-in the scripting language called Solidity. Unlike other cryptocurrency scripting languages, Solidity is Turing complete.
-A programing language that is Turning complete will have these two major features:
-• require arbitrary loops (while) and dynamic memory allocation (malloc)
-• require support for arbitrary recursive functions
-Many cryptocurrencies have a variation of either Functional or Turing complete programming languages. While Turing completeness enables more, it does not mean that smart contracts can be done with a non-Turing complete programming language. In fact, critics in the development community have pointed out that a Turing Complete language on the blockchain introduces more points of vulnerabilities and attacks for errors and points of failure in design.
-
-### What can Smart Contracts be used for?
-In electronic banking systems today, we already have experience with Smart contracts. For example, a scheduled, regular payment to a utility provider on the 5th of every month, is an example of programmable money in action. In the cryptocurrency world, a smart contract can be used for more. As cryptocurrencies do not belong to
-a single central bank or a single government, the power is the ability to produce frictionless transactions outside central bank fiat currency.
-Smart contracts in cryptocurrencies provide a means for innovation that can transcend international borders, such as e-voting systems, cross-border identity management, NGO or corporate organizations that are supra-national and require transparency and wish to decouple themselves from a centralized third party. International Aid and charity organizations can benefit from blockchain technology to demonstrate movement of funds for relief and provide transparency to donors internationally to prove that
-funds were used for specific projects and the correct beneficiaries.
-Cryptocurrencies and blockchain are still in its infancy and we learn best from sharing resources. Below’s a summary of both offline and online resources we found helpful.
+A smart contract is software program which is intended to automatically execute according to terms and events of the agreement. Similar to the if-then logic of a vending machine. Smart contracts were first proposed in the early 1990s by Nick Szabo, who coined the term, using it to refer to "a set of promises, specified in digital form, including protocols within which the parties perform on these promises".
 
 
 
@@ -150,6 +130,7 @@ Cryptocurrency: Dawn of a New World Era, Bryan Cheung Christina Chu
 
 https://bitcoin.org/en/faq
 https://en.bitcoinwiki.org/wiki/Bitcoin_FAQ_(Frequently_Asked_Questions)
+https://en.wikipedia.org/wiki/Smart_contract
 
 ## Bitcoin Timeline
 <img src="/images/bitcoin-timeline.png" alt="bitcoin timeline">
