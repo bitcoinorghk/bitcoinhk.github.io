@@ -23,12 +23,6 @@ The options on how to buy Bitcoin can be overwhelming at first. Unlike with cent
 Compared with selling Bitcoin, there is little fraud risk associated with buying.
 Unfortunately Bitcoin still does not have the legal status in Hong Kong that it deserves, and banks are reluctant to deal with companies and individuals associated with Bitcoin. In this environment it is easy for scammers to attempt to defraud you of your Dollars or Bitcoin in certain kinds of transactions.
 
-[![HK Bitcoin ATM](http://hkbitcoinatm.com/wp-content/uploads/2018/07/HKBITCOINATM_LOGO.jpg)](http://hkbitcoinatm.com/)
-{:.text-center}
-
-Advertisement
-{:.text-center}
-
 ### In Person
 
 As banks are more aggressively acting against Bitcoin companies, trading bitcoin in person has become more popular again in Hong Kong recently. The website [localbitcoins.com](https://localbitcoins.com/buy-bitcoins-online/hkd/ 18 listings) as well as the platform [Paxful](https://paxful.com/). If you just need a few dollars worth to 'try it out' or 'play with' or need help setting up or operating your wallet, you will likely find somebody to trade at the regular [Bitcoin meetups](http://www.meetup.com/Bitcoin-HK/).
