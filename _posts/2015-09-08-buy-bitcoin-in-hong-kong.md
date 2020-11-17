@@ -23,9 +23,17 @@ The options on how to buy Bitcoin can be overwhelming at first. Unlike with cent
 Compared with selling Bitcoin, there is little fraud risk associated with buying.
 Unfortunately Bitcoin still does not have the legal status in Hong Kong that it deserves, and banks are reluctant to deal with companies and individuals associated with Bitcoin. In this environment it is easy for scammers to attempt to defraud you of your Dollars or Bitcoin in certain kinds of transactions.
 
+No matter how you buy your Bitcoin, always insist on having your Bitcoin delivered to your personal wallet. We do not recommend to keep Bitcoin on exchanges, with your broker, on trading platforms or as 'IOUs.' Always insist on having your Bitcoin sent to your personal Bitcoin wallet, which should not be an app provided by your exchange or broker.
+
+### Your Bitcoin wallet
+
+You can download a Bitcoin wallet on your phone and computer or buy a hardware wallet. Only download apps from trusted sources, such as the App Store and Play Store. Buy your hardware wallet only from authorized resellers or directly from the manufacturer.
+
+You should set up your wallet yourself. It will generate a backup 'seed' containing 12-24 words for you. **Store this phrase carefully, as anybody with access to it will be able to steal your funds.** DO not upload this phrase to the internet and do not share it with others. If you lose your phone, computer or hardware wallet you will be able to restore your funds using this seed.
+
 ### In Person
 
-As banks are more aggressively acting against Bitcoin companies, trading bitcoin in person has become more popular again in Hong Kong recently. The website [localbitcoins.com](https://localbitcoins.com/buy-bitcoins-online/hkd/ 18 listings) as well as the platform [Paxful](https://paxful.com/). If you just need a few dollars worth to 'try it out' or 'play with' or need help setting up or operating your wallet, you will likely find somebody to trade at the regular [Bitcoin meetups](http://www.meetup.com/Bitcoin-HK/).
+As banks are more aggressively acting against Bitcoin companies, trading bitcoin in person has become more popular again in Hong Kong recently. The website [localbitcoins.com](https://localbitcoins.com/buy-bitcoins-online/hkd/ 18 listings) as well as the platform [Paxful](https://paxful.com/) provide plenty of offers to buy and sell. If you just need a few dollars worth to 'try it out' or 'play with', you will likely find somebody to trade at the regular [Bitcoin meetups](http://www.meetup.com/Bitcoin-HK/).
 
 Some OTC exchanges (see below) also deal with cash deposits and withdrawals. Clarify with your exchange or traders beforehand what currencies, notes and payment forms they accept.
 
@@ -109,13 +117,10 @@ Please note that Bitcoin exchanges are not to be treated as banks. We recommend 
 
 #### Hong Kong Exchanges
 
-There are currently four exchanges with local Hong Kong bank accounts. Some of these exchanges also accept cash deposits and cheques.
+There is currently one exchange with local Hong Kong bank accounts.
 
 **[Tidebit](https://www.tidebit.com/)**
 Tidebit is the newest of Hong Kong Bitcoin exchanges. You can deposit cash for free or via wire transfer for a 2% fee.
-
-**[Coinsuper](https://www.coinsuper.com/)**
-This Hong Kong Bitcoin exchanges accepts only USD deposits into their bank account.
 
 #### OTC Exchanges
 
