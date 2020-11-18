@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Buy Bitcoin in Hong Kong
-date: "2020-10-18 02:00:00"
+date: "2020-11-18 02:00:00"
 permalink: /buy-bitcoin-in-hong-kong/
 author: liongrass
 published: true
@@ -12,7 +12,7 @@ redirect_from:
 
 ---
 
-last updated: 2020-10-18 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md)
+last updated: 2020-11-18 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md)
 
 ## Buying Bitcoin in Hong Kong
 
@@ -140,6 +140,9 @@ Located in Central and was opened in February 2018.
 
 **[AAX](https://www.aax.com/otc/home)**
 The OTC desk of AAX exchanges HKD, USD and CNY to Bitcoin and offers a variety of payment methods, including FPS, WeChat or Alipay.
+
+**[Q9 Capital](https://www.q9capital.com)**
+Q9 Capital is the digital assets arm of Henyep Group. It provides 24/7 live OTC executable streaming prices.
 
 ##### Smaller OTC houses located in Hong Kong include:
 
