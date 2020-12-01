@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Buy Bitcoin in Hong Kong
-date: "2020-11-18 02:00:00"
+date: "2020-12-01 02:00:00"
 permalink: /buy-bitcoin-in-hong-kong/
 author: liongrass
 published: true
@@ -12,7 +12,7 @@ redirect_from:
 
 ---
 
-last updated: 2020-11-18 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md)
+last updated: 2020-12-01 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md)
 
 ## Buying Bitcoin in Hong Kong
 
@@ -170,6 +170,10 @@ Bitstamp is a cryptocurrency exchange based in Slovenia. They accept USD and EUR
 #### Peer-to-peer Exchanges
 
 Pee-to-peer Exchanges don't have their own bank accounts. Instead, buyers and sellers interact directly with each other when transfering money. It is up to the user to follow the appropriate Anti-Money-Laundering and Know-Your-Customer rules. The Bitcoin are held in escrow by the exchange. It's very important to make use of these escrow options and be careful who you interact with.
+
+**[Binance](https://c2c.binance.com/en/trade/buy/BTC)**
+Binance is mostly known for its popular online exchange, where it offers a rang of products, including a popular P2P listing. Be sure to select HKD and only deal with traders with the highest satisfaction rates.
+
 
 **[Paxful](https://paxful.com/)**
 Paxful is a peer-to-peer excchange based in Estonia. Hong Kong-based users can trade with each others and use a variety of payment methods including bank wires and deposits, gift cards, Alipay and PayMe.
