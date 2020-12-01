@@ -11,6 +11,7 @@ navigation: "visible"
 
 You can donate money here using the Lightning network!
 
+<!---
 <div>
 <script>
       window.addEventListener("load", function(){
@@ -27,6 +28,7 @@ You can donate money here using the Lightning network!
       });
 </script>   
 </div>
+--->
 
 
 <div class="contact">
@@ -39,7 +41,7 @@ You can donate money here using the Lightning network!
     </label>
     <input class="form-sub" type="number" min="0" step="0.01" name="price" placeholder="100.00 HKD" value="100.00" id="numpad-1"/>
     <input type="hidden" name="storeId" value="5fv2Vt5WEuLYBzkhFiaDN4r6xy6JdNqTbi3m1mG4ngFa" />
-    <input type="hidden" name="currency" value="USD" />
+    <input type="hidden" name="currency" value="HKD" />
     <input type="hidden" name="browserRedirect" value="https://www.bitcoin.org.hk/lightning/" />
     <input type="hidden" name="notifyEmail" value="btcpay@bitcoin.org.hk" />
     <input type="image" src="https://btcpay.bitcoin.org.hk/img/paybutton/pay.png" name="submit" style="width:200px"  alt="Pay with BtcPay, Self-Hosted Bitcoin Payment Processor">
