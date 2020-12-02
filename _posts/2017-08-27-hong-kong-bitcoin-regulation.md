@@ -116,6 +116,8 @@ If you are running a fund offering investment advice, futures, derivatives, marg
 
 [Further reading: SFC Regulates Crypto-exchanges — Party Over in Hong Kong?](https://blog.bitcoin.org.hk/sfc-regulates-crypto-exchanges-party-over-in-hong-kong-bc081100863a)
 
+[Further reading: KWM - Hong Kong’s proposed pathway to fully licensing virtual asset exchanges](https://www.kwm.com/en/hk/knowledge/downloads/hong-kongs-proposed-pathway-to-fully-licensing-virtual-asset-exchanges-20201125)
+
 #### Stablecoins
 
 Stablecoins are tokens which are in some way pegged to a traditional currency. In Hong Kong there is no specific framework for the regulation of stablecoins. Most stablecoins have a central issuer that sells and redeems the stablecoin for the currency backing it. This behavior likely falls under existing regulation administered by the Hong Kong Monetary Authority, in particular [Stored Value Facility (SVF)](https://www.hkma.gov.hk/media/eng/doc/key-functions/financial-infrastructure/infrastructure/retail-payment-initiatives/Explanatory_note_on_licensing_for_SVF.pdf). Currently there is no indication that a company handling cryptocurrency has any chance of seeing their SVF license accepted.
