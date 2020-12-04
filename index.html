@@ -47,11 +47,11 @@ excerpt: "Fostering and promoting Bitcoin and its technology in Hong Kong."
           {% assign curDate = site.time | date: '%s' %}
 
           {% assign count = 0 %}
-          {% assign recent_limit = 5 %}
+          {% assign recent_limit = 3 %}
 
 
             {% for post in site.posts %}
-            {% if post.layout != "members" %}
+            {% if post.layout == "meetup" %}
 
               {% assign postStartDate = post.date | date: '%s' %}
               {% if curDate > postStartDate %}
@@ -84,8 +84,53 @@ excerpt: "Fostering and promoting Bitcoin and its technology in Hong Kong."
               {% endif %}
             {% endfor %}
           </div>
+          
+          <p><a href="/meetups/">All Meetups</a> • <a href="/devs/">All Devs Meetups</a></p>
 
-          <p><a href="/meetups/">All Meetups</a> • <a href="/blog/">All Blog Posts</a> • <a href="/devs/">All Devs Meetups</a></p>
+        <h2>Recent blog posts</h2>
+        <div class="meetups">
+          {% assign curDate = site.time | date: '%s' %}
+
+          {% assign count = 0 %}
+          {% assign recent_limit = 5 %}
+
+
+            {% for post in site.posts %}
+            {% if post.layout == "blog" %}
+
+              {% assign postStartDate = post.date | date: '%s' %}
+              {% if curDate > postStartDate %}
+
+              <a class="post-link white-box" href="{{ post.url | prepend: site.baseurl }}">
+                <div class="preview" style="background:{{ post.background }}">
+                  <div class="date">
+                      <small>{{ post.date | date: "%b" }}</small>
+                      {{ post.date | date: "%-d" }}
+                  </div>
+                </div>
+                <h3>{{ post.title }}</h3>
+                {% if post.layout == "meetup" %}
+                <p>{{ post.date | date: "%H:%M" }} HKT {% if post.address %}at {{ post.address }}{% endif %}</p>
+                {% else %}
+
+                {% if post.subtitle %}
+                <p>{{ post.subtitle }}</p>
+                {% else %}
+                <p>{% if post.author %}Written by +{{ post.author }}{% endif %}</p>
+                {% endif %}
+                {% endif %}
+              </a>
+              <br />
+              {% assign count = count | plus: 1 %}
+              {% if count >= recent_limit %}
+              {% break %}
+              {% endif %}
+              {% endif %}
+              {% endif %}
+            {% endfor %}
+          </div>
+
+          <p><a href="/blog/">All Blog Posts</a></p>
 
 
   </div>
