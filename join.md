@@ -132,6 +132,7 @@ navigation: "visible"
     </div>
     <div class="logos">
       <div id="corp" class="content">
+      	<img src="/media/corp/aax.png" alt="logo">
 	<img src="/media/corp/atum.png" alt="logo">
 	<img src="/media/corp/edge.png" alt="logo">
 	<img src="/media/corp/etoro.png" alt="logo">
