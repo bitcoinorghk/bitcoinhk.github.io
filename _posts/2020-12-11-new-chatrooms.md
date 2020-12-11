@@ -25,6 +25,8 @@ Please direct your questions as clearly as possible in a single post. Your posts
 
 _Attention: Our volunteers will never send you a direct message. Please do not engage with DMs and be wary of scams. Never send Bitcoin to others in this group and never share your wallet seed phrase or password with anyone._
 
+Why Telegram? Telegram is a widely used, slick and scalable platform. There are countless ways to handle permissions and moderate content. It allows us to delegate multiple roles among guests, bots, moderators and administrators and we are confident it can sustain the group even if were to become very large or noisy.
+
 ### Bitcoin P2P trade chat
 
 Owing to Bitcoin's peer-to-peer nature, our members have always been eager to buy and sell Bitcoin directly from each other, as opposed to [visiting an ATM or using an exchange.](/buy-bitcoin-in-hong-kong/) To better serve these trades, we have set up an invite-only trade room on the Keybase platform.
@@ -34,3 +36,5 @@ You may request an invitation to this room by joining [our public Keybase team.]
 Bids and asks have to be submitted using Bitkarrot's P2PBot in a specified format. It is up to the individual traders to verify the trustworthyness of their peers, as well as make use of appropriate escrow.
 
 _Attention: The Bitcoin Association of Hong Kong assumes no liability for this group, nor does it charge a fee or hold custody over your cryptocurrencies. All trades are fully peer-to-peer._
+
+Why Keybase? Keybase is fully end-to-end encrypted and makes it very easy to verify the authenticity of other accounts. It is far harder to impersonate others on Keybase than it is on other platforms, and you yourself are able to curate who you want to interact with by following/unfollowing them.
