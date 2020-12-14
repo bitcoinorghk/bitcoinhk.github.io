@@ -106,7 +106,7 @@ A decentralized exchange is an exchange are automatically matched between trader
 ###  What some of the shortcomings/drawbacks of blockchain technology?
 Blockchain technology is slow, fat, and expensive to operate. To synchonize a decentralized database distributed across a network of 1,000 computers are more difficult to synch compared to a less secure centralized database on a server.
 
-### 28. Who controls Bitcoin, and can they change it if they please?
+### Who controls Bitcoin, and can they change it if they please?
 No single person or entity controls Bitcoin. There is a distributed consensus model with protocols to improve the Bitcoin standard, called BIPs, but it is not governed by a single individual or entity. People may control addresses of large amounts of Bitcoin, but that does not mean they control the network layer.
 
 ### How can Bitcoin be destroyed?
