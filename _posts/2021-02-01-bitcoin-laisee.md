@@ -5,7 +5,7 @@ date: "2021-01-17 08:00:00"
 permalink: /laisee/
 author: liongrass
 published: true
-background: "url(/media/2020/09/background.png) #FF0000"
+background: "url(/media/2021/01/background.png) #FF0000"
 
 ---
 
