@@ -2,10 +2,12 @@
 layout: blog
 title: Consultation Response
 date: "2021-01-20 08:00:00"
-permalink: /2020-consultation-response/
+permalink: /2021-consultation-response/
 author: liongrass
 published: true
 background: "url(/media/2021/01/basiclaw.jpeg) #FF0000"
+redirect_from:
+  - /2020-consultation-response/
 
 ---
 
@@ -46,4 +48,6 @@ As such, we strictly oppose the Proposal and its definition of “Virtual Assets
 
 #### Submit your views
 
-You are welcome to copy, change or amend the above text and submit it as your own, independent of whether you are an individual or instution and regardless of your affiliation with the Bitcoin Association. If you would like to further go on the record, please write us at [info@bitcoin.org.hk](mailto:info@bitcoin.org.hk) with a hyperlink or pdf of your response. We will collect them here.
+You are welcome to copy, change or amend the above text and submit it as your own, independent of whether you are an individual or instution and regardless of your affiliation with the Bitcoin Association. If you would like to further go on the record, please write us at [info@bitcoin.org.hk](mailto:info@bitcoin.org.hk) with a hyperlink or pdf of your response. We will collect them here:
+
+- [Leo Weese](https://blog.bitcoin.org.hk/public-consultation-on-legislative-proposals-ee563d95275)
