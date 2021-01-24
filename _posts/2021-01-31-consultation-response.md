@@ -19,7 +19,7 @@ On 3 November 2020, the Hong Kong Securities and Futures Commission (SFC) togeth
 
 ### Response from the Bitcoin Association of Hong Kong
 
-The Bitcoin Association is submitting a response to this public consultation, which we encourage everyone to do. You can find the details [in the proposal](https://www.fstb.gov.hk/fsb/en/ppr/consult/doc/consult_amlo_e.pdf), submissions will be accepted until 31 January 2020.
+The Bitcoin Association is submitting a response to this public consultation, which we encourage everyone to do. You can find the details [in the proposal](https://www.fstb.gov.hk/fsb/en/ppr/consult/doc/consult_amlo_e.pdf), submissions will be accepted until 31 January 2021.
 
 #### Dear Sir or Madam,
 
