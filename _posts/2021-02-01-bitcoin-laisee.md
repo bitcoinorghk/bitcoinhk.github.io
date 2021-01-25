@@ -56,6 +56,16 @@ You can find red pockets in any well sorted stationary shop. You can alternative
 
 _Do you have trouble making your own Bitcoin Laisee? [Join our Bitcoin helpdesk on Telegram](/2020-new-chats/) or write us at [helpdesk@bitcoin.org.hk](mailto:helpdesk@bitcoin.org.hk)_
 
-### Acknoledgements
+### Acknowledgements
 
 Thank you to the countless teams working on the Lightning Network, specifically LND, the team at LNbits as well as Bitcarrot.
+
+#### More Laisee
+
+Want us to make more Laisee? You can use the lnurl-pay link below to re-fill our wallet!
+
+![Laisee Donation URL](/media/2021/01/lnurl.png)
+{:.text-center}
+
+lnurl1dp68gurn8ghj7cnfw3ejucnfw33k76tw9ehhyeewdp4j7mrww4excup0v9cxjtmkxyhkcmn4wfkz7dqlfeksr
+{:.text-center}
