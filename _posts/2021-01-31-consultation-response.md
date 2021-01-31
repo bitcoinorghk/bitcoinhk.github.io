@@ -50,6 +50,8 @@ As such, we strictly oppose the Proposal and its definition of “Virtual Assets
 
 You are welcome to copy, change or amend the above text and submit it as your own, independent of whether you are an individual or instution and regardless of your affiliation with the Bitcoin Association. If you would like to further go on the record, please write us at [info@bitcoin.org.hk](mailto:info@bitcoin.org.hk) with a hyperlink or pdf of your response. We will collect them here:
 
+- [Bitcoin Association (as submitted electronically)](/media/2021/01/consult-bahk.pdf)
 - [Joseph Wang](/media/2021/01/consult-wang.pdf)
 - [Leo Weese](https://blog.bitcoin.org.hk/public-consultation-on-legislative-proposals-ee563d95275)
 - [Anonymous](/media/2021/01/consult-anon1.pdf)
+- [Nixon Peabody CWL](/media/2021/01/consult-npc.pdf)
