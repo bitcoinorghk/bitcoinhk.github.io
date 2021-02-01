@@ -15,6 +15,9 @@ In Hong Kong it is customary to gift money for special occasions, especially Lun
 
 Happy year of the bull!
 
+![Bitcoin Laisee](/media/2021/01/laisee.jpg)
+{:.text-center}
+
 
 ### Redeeming Your Bitcoin Laisee
 
@@ -48,11 +51,11 @@ The script will return a list of urls as well as lightning invoices, beginning w
 
 #### Print Laisee QR codes
 
-Our Bitcoin Laisee are printed on sticker labels found in a stationary shop. They are stuck on an explanatory note printed similarly to business cards on 250g matt laminated paper. You can find the template here.
+Our Bitcoin Laisee are printed on sticker labels found in a stationary shop. They are stuck on an explanatory note printed similarly to business cards on 250g matt laminated paper. You can find the template here ([front](/media/2021/01/card_back.pdf), [back](/media/2021/01/card_front.pdf)).
 
 #### Get Red Pockets
 
-You can find red pockets in any well sorted stationary shop. You can alternatively buy Bitcoin-themed Laisee [at Too Free To Fail](https://toofreetofail.com/collections/too-free-to-fail/products/bitcoin-red-pocket-laisee-with-bull-design-10pc) or pick some up from [Genesis Block](https://twitter.com/genesisblockhk/status/1350011878420971521).
+You can find red pockets in any well sorted stationary shop. You can alternatively buy Bitcoin-themed Laisee [at Too Free To Fail](https://toofreetofail.com/collections/too-free-to-fail/products/bitcoin-red-pocket-laisee-with-bull-design-10pc) or pick some up from [Genesis Block](https://twitter.com/genesisblockhk/status/1350011878420971521) or reprint our [template](/media/2021/01/laisee.pdf).
 
 _Do you have trouble making your own Bitcoin Laisee? [Join our Bitcoin helpdesk on Telegram](/2020-new-chats/) or write us at [helpdesk@bitcoin.org.hk](mailto:helpdesk@bitcoin.org.hk)_
 
