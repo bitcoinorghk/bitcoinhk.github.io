@@ -51,7 +51,7 @@ The script will return a list of urls as well as lightning invoices, beginning w
 
 #### Print Laisee QR codes
 
-Our Bitcoin Laisee are printed on sticker labels found in a stationary shop. They are stuck on an explanatory note printed similarly to business cards on 250g matt laminated paper. You can find the template here ([front](/media/2021/01/card_back.pdf), [back](/media/2021/01/card_front.pdf)).
+Our Bitcoin Laisee are printed on sticker labels found in a stationary shop. They are stuck on an explanatory note printed similarly to business cards on 250g matt laminated paper. You can find the template here ([front](/media/2021/01/card_front.pdf), [back](/media/2021/01/card_back.pdf)).
 
 #### Get Red Pockets
 
