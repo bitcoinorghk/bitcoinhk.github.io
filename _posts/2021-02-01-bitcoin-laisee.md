@@ -27,6 +27,8 @@ Simply scan the QR code of your Bitcoin Laisee. You are shown the amount you are
 
 _Have you received a Bitcoin Laisee and have trouble redeeming it? [Join our Bitcoin helpdesk on Telegram](/2020-new-chats/) or write us at [helpdesk@bitcoin.org.hk](mailto:helpdesk@bitcoin.org.hk)_
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Uok4k0jQ0Vw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Making Your Own Bitcoin Laisee
 
 If you would like to make your own Bitcoin Laisee, you are welcome to do so and we are happy to share how we did it.

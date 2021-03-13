@@ -146,8 +146,6 @@ Q9 Capital is the digital assets arm of Henyep Group. It provides 24/7 live OTC 
 
 ##### Smaller OTC houses located in Hong Kong include:
 
-**[OTCXPERT](https://otcxpert.com/)**, Tsim Sha Tsui
-
 **[MyEthShop](https://www.myethshop.com/)**, Mong Kok
 
 **[BTC Shop HK](https://btcshop.com.hk/)**, Tsim Sha Tsui
