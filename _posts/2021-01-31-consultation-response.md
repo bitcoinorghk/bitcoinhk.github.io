@@ -51,8 +51,12 @@ As such, we strictly oppose the Proposal and its definition of “Virtual Assets
 You are welcome to copy, change or amend the above text and submit it as your own, independent of whether you are an individual or instution and regardless of your affiliation with the Bitcoin Association. If you would like to further go on the record, please write us at [info@bitcoin.org.hk](mailto:info@bitcoin.org.hk) with a hyperlink or pdf of your response. We will collect them here:
 
 - [Bitcoin Association (as submitted electronically)](/media/2021/01/consult-bahk.pdf)
+<<<<<<< HEAD
+- [Fintech Association](hhttps://ftahk.org/publication/ftahk-response-public-consultation-legislative-proposals-enhance-anti-money-laundering)
+=======
 - [Fintech Association](https://www.linkedin.com/posts/ftahkofficial_ftahk-response-to-fstb-public-consultation-activity-6761920931855163392-89rz)
 - [Global Digital Finance](/media/2021/01/consult-gdf.pdf)
+>>>>>>> d8be5b4acafd027aa4078661cae2cf3e2b7c5f31
 - [Joseph Wang](/media/2021/01/consult-wang.pdf)
 - [Leo Weese](https://blog.bitcoin.org.hk/public-consultation-on-legislative-proposals-ee563d95275)
 - [Anonymous](/media/2021/01/consult-anon1.pdf)
