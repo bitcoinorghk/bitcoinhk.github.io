@@ -27,7 +27,7 @@ We are submitting our views on the Legislative Proposal to enhance Anti-Money La
 
 We are [香港比特幣協會 the Bitcoin Association of Hong Kong](https://www.bitcoin.org.hk/about/), a community-driven organization founded in 2014 to promote, educate and foster Bitcoin and its technology in Hong Kong. We represent individuals and organizations that use Bitcoin and offer related products and services. Over the years we have organized and co-hosted close to [300 events](https://www.bitcoin.org.hk/meetups/), including industry conferences, hackathons and fairs.
 
-Since [December 2014](http://library.legco.gov.hk:1080/record=b11621780 Bitcoin has been regarded as a virtual commodity, and as such has been subject to regulation by the Customs & Excise Department (C&ED). Bitcoin is [neither regarded as money](https://www.hkma.gov.hk/eng/news-and-media/speeches/2018/09/20180921-1/), nor as a security or futures contract. This is not true for all cryptographic tokens, which may resemble securities, futures, payment vehicles, stored value facilities, debt obligations, customer loyalty programs or other more creative arrangements.
+Since [December 2014](http://library.legco.gov.hk:1080/record=b11621780) Bitcoin has been regarded as a virtual commodity, and as such has been subject to regulation by the Customs & Excise Department (C&ED). Bitcoin is [neither regarded as money](https://www.hkma.gov.hk/eng/news-and-media/speeches/2018/09/20180921-1/), nor as a security or futures contract. This is not true for all cryptographic tokens, which may resemble securities, futures, payment vehicles, stored value facilities, debt obligations, customer loyalty programs or other more creative arrangements.
 
 As our members have [pointed out as early as 2018](https://blog.bitcoin.org.hk/sfc-regulates-crypto-exchanges-party-over-in-hong-kong-bc081100863a), the definition of a “Virtual Asset” does not make any meaningful distinctions between such mechanisms. In fact, the only common denominator for “Virtual Assets” seems to be the existence of a trading pair to Bitcoin through a “Virtual Assets Service Provider,” commonly referred to in the media as a cryptocurrency exchange.
 
@@ -51,12 +51,9 @@ As such, we strictly oppose the Proposal and its definition of “Virtual Assets
 You are welcome to copy, change or amend the above text and submit it as your own, independent of whether you are an individual or instution and regardless of your affiliation with the Bitcoin Association. If you would like to further go on the record, please write us at [info@bitcoin.org.hk](mailto:info@bitcoin.org.hk) with a hyperlink or pdf of your response. We will collect them here:
 
 - [Bitcoin Association (as submitted electronically)](/media/2021/01/consult-bahk.pdf)
-<<<<<<< HEAD
 - [Fintech Association](hhttps://ftahk.org/publication/ftahk-response-public-consultation-legislative-proposals-enhance-anti-money-laundering)
-=======
 - [Fintech Association](https://www.linkedin.com/posts/ftahkofficial_ftahk-response-to-fstb-public-consultation-activity-6761920931855163392-89rz)
 - [Global Digital Finance](/media/2021/01/consult-gdf.pdf)
->>>>>>> d8be5b4acafd027aa4078661cae2cf3e2b7c5f31
 - [Joseph Wang](/media/2021/01/consult-wang.pdf)
 - [Leo Weese](https://blog.bitcoin.org.hk/public-consultation-on-legislative-proposals-ee563d95275)
 - [Anonymous](/media/2021/01/consult-anon1.pdf)
