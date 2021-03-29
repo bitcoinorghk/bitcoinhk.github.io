@@ -170,11 +170,11 @@ Bitstamp is a cryptocurrency exchange based in Slovenia. They accept USD and EUR
 Pee-to-peer Exchanges don't have their own bank accounts. Instead, buyers and sellers interact directly with each other when transfering money. It is up to the user to follow the appropriate Anti-Money-Laundering and Know-Your-Customer rules. The Bitcoin are held in escrow by the exchange. It's very important to make use of these escrow options and be careful who you interact with.
 
 **[Binance](https://c2c.binance.com/en/trade/buy/BTC)**
-Binance is mostly known for its popular online exchange, where it offers a rang of products, including a popular P2P listing. Be sure to select HKD and only deal with traders with the highest satisfaction rates.
+Binance is mostly known for its popular online exchange, where it offers a range of products, including a popular P2P listing. Be sure to select HKD and only deal with traders with the highest satisfaction rates.
 
 
 **[Paxful](https://paxful.com/)**
-Paxful is a peer-to-peer excchange based in Estonia. Hong Kong-based users can trade with each others and use a variety of payment methods including bank wires and deposits, gift cards, Alipay and PayMe.
+Paxful is a peer-to-peer exchange based in Estonia. Hong Kong-based users can trade with each others and use a variety of payment methods including bank wires and deposits, gift cards, Alipay and PayMe.
 
 **[XanPool](https://xanpool.com/)**
 XanPool allows you to easily buy and sell Bitcoin in Hong Kong and Singapore using PayMe. Funds are not held in custody by the exchange.
