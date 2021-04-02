@@ -57,6 +57,8 @@ Donate satoshis via a static [lnurl Lightning invoice](https://github.com/fiatja
 
 lnurl1dp68gurn8ghj7cnfw3ejucnfw33k76tw9ehhyeewdp4j7mrww4excup0v9cxjtmkxyhkcmn4wfkz7dgpaa6w7
 
+To open up a channel with your node, you can find it with the key _038ff6ec3fb52c23f1ea2f341bd7f9dd899766380750e4ce8c76bf12e11e1bf9a1_ at _@172.81.181.220:9735_ or _@6p5bw3wvy22tneyhsc4dmnyxr5yq4qt5erhnobzeb2megakj7f4twyad.onion:9735_
+
 <!-- 
 <div>
 <dl>
