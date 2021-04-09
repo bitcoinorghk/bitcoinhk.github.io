@@ -95,7 +95,7 @@ navigation: "visible"
             </ul>
             <a href="https://docs.google.com/forms/d/19vhwvxw4LF2JByS03hfmwZA1F_xvh6paF3khJGEZslE/edit">Sign up</a>
           </div>
-          <div class="bonus">To sign up, simply fill out the application form below. The corporate membership fee for 2020 is set at 0.026 BTC and will be revised once per year. We will send you an email with a confirmation usually within 48h.</div>
+          <div class="bonus">To sign up, simply fill out the application form below. The corporate membership fee for 2020 is set at 0.0026 BTC and will be revised once per year. We will send you an email with a confirmation usually within 48h.</div>
         </div>
       </div>
       <div>
@@ -111,7 +111,7 @@ navigation: "visible"
             </ul>
             <a href="https://docs.google.com/forms/d/1p9Z7or6XSwUTgHbf3uwuhWzECkto23Qx7WsMVUYyzV8/viewform?edit_requested=true">Sign up</a>
           </div>
-          <div class="bonus">To sign up, simply fill out the application form below. The individual membership fee for 2020 is set at 0.013 BTC and will be revised once per year. We will send you an email with a confirmation usually within 48h.</div>
+          <div class="bonus">To sign up, simply fill out the application form below. The individual membership fee for 2020 is set at 0.0013 BTC and will be revised once per year. We will send you an email with a confirmation usually within 48h.</div>
         </div>
       </div>
     </div>
