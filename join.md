@@ -141,6 +141,7 @@ navigation: "visible"
 	<img src="/media/corp/nil.png" alt="logo">
 	<img src="/media/corp/anx.png" alt="logo">
 	<img src="/media/corp/salg.svg" alt="logo">
+  <img src="/media/corp/hashkey.png" alt="logo">
       </div>
       <div id="org" class="content  current-content">
 	<img src="/media/org/adam.svg" alt="logo">
