@@ -41,74 +41,21 @@ Some OTC exchanges (see below) also deal with cash deposits and withdrawals. Cla
 
 The most convenient way to buy Bitcoin is an ATM. Usually you only need to show the ATM the QR code of your Bitcoin address, insert bank notes and confirm the exchange rate. The process takes less than 30 seconds, is anonymous but can cost up to 8% in fees. Prepare your wallet ahead of time, and bring exact change. ATMs generally accept only HKD bank notes, some insist on the first note being of HKD 500 denomination or above.
 
-Bitcoin ATMs are located at:    
+There are currently over 100 Bitcoin ATMs in Hong Kong, and their location is frequently changing.
 
+You can find an up-to-date map of Hong Kong Bitcoin ATMs and their operators through [Coin ATM Radar](https://coinatmradar.com/city/74/bitcoin-atm-hong-kong/)
 
-#### Kowloon
+Some of the larger operators of Hong Kong Bitcoin ATMs include:
 
-**[Prudential Hotel](http://ncxnet.com/)**, The Lobby, 222 Nathan Road, **Jordan**   
-**[Bitwork](https://www.coinhere.io/)**, Unit 01-04, 7/F, FTLife Tower, No. 18 Sheung Yuet Road, **Kowloon Bay**    
-**[Pricerite](http://ncxnet.com/ourservices/location)**, MegaBox L5, 38 Wang Chiu Road, **Kowloon Bay**    
-**[Tencent WeStart](https://www.coinhere.io/)**, 6/F, KOHO, 75 Hung To Road, **Kwun Tong**    
-**[FunTower](http://ncxnet.com/)**, 29/F, 35 Hung To Road, **Kwun Tong**    
-**[S Tattoo Studio](https://www.instagram.com/s.tattoostudio/)**, 1/F, Reclamation Street 470F,  **Mong Kok**   
-**[196 Portland Street](https://www.coinhere.io/)**, G/F, 196 Portland Street, **Mong Kok**    
-**[Sin Tat Plaza](https://www.facebook.com/E-COIN-CASH-1732516800201173/)**, S32, 2/F, 83 Argyle Street, **Mong Kok**   
-**[Sin Tat Plaza](https://coinatmradar.com/bitcoin_atm/7379/bitcoin-atm-general-bytes-kowloon-sin-tat-plaza/)**, S15, 1/F, 83 Argyle Street, **Mong Kok**    
-**[President Commercial Centre](http://hkbitcoinatm.com/)**, Shop 322, 3/F, 608 Nathan Road, **Mong Kok**    
-**[Presidential Commercial Centre](https://nitroswap.com/#location)**, W Plaza, CHIC之堡, Shop 113, 602-608 , Nathan Road, **Mong Kok**    
-**[Sino Centre](https://www.coinhere.io/)**, 19/F, 582-592 Nathan Road, **Mong Kok**    
-**[Ho King Commercial Centre](https://coinatmradar.com/bitcoin_atm/7388/bitcoin-atm-general-bytes-kowloon-ho-king-commercial-centre/)**, Shop 30, 1/F, 2-6 Fa Yuen Street, **Mong Kok**   
-**[Bo Yan Building](https://www.coinhere.io/)**, G/F, 1 Horse Shoe Lane, **Ngau Tau Kok**    
-**[Golden Luzon Agency](https://www.coinhere.io/)**, G/F, 15 Tit Shu Street, **Tai Kok Tsui**    
-**[Metro Sham Shui(深之都)](https://nitroswap.com/#location)**, Shop 038, 3/F, Kam Wah Mansion, 226-242 Cheung Sha Wan Rd, **Sham Shui Po**    
-**[Metro Sham Shui(深之都)](http://bitmac.org/)**, Shop 160, 2/F, Kam Wah Mansion, 226-242 Cheung Sha Wan Road, **Sham Shui Po**    
-**[Metro Sham Shui(深之都)](http://hkbitcoinatm.com/)**, Shop 25, 2/F, Kam Wah Mansion, 226-242 Cheung Sha Wan Road, **Sham Shui Po**    
-**[New Capital Computer Centre](https://www.coinhere.io/)**, Shop 117, 85-95 Un Chau Street, **Sham Shui Po**   
-**[Little School](https://www.coinhere.io/)**, Shop 206, 2/F, Mira Place, 132 Nathan Road, **Tsim Sha Tsui**    
-**[Color Rich](https://coinatmradar.com/bitcoin_atm/5438/bitcoin-atm-general-bytes-hong-kong-color-rich/)**, 35A Kimberley Road, **Tsim Sha Tsui**    
-**[Solo Building](https://www.facebook.com/E-COIN-CASH-1732516800201173/)**, Shop 1216, 12/F, 41-43 Carnarvon Road, **Tsim Sha Tsui**    
-**[Cke Mall](https://nitroswap.com/#location)**, Shop 290. 36 Chungking Mansions, **Tsim Sha Tsui**    
-**[Hotel Hart](http://ncxnet.com/ourservices/location)**, 4/F, 4 Hart Ave, **Tsim Sha Tsui**    
-**[Nathan Hotel](http://ncxnet.com/)**, 387 Nathan Road, Starbucks Coffee, **Yau Ma Tei**    
+**[CoinHere](https://coinhere.io/atm-locations/)**: (Ap Lei Chau, Causeway Bay, Cheung Chau, Cheung Sha Wan, Happy Valley, Hung Hom, Jordan, Kowloon Bay, Kowloon City, Kwai Fong, Kwun Tong, Lai Chi Kok, Ma On Shan, Mong Kok, Ngau Tau Kok, North Point, Prince Edward, Sai Kung, Sai Wan, Sai Ying Pun, Sham Shui Po, Sheung Shui, Sheung Wan, Tai Kok Tsui, Tai Wai, Tseung Kwan O, Tsim Sha Tsui, Tsuen Wan, Tuen Mun, Wan Chai, Yau Ma Tei, Yuen Long)
 
+**[CoinUnited](https://coinunited.io/en/atm)**: (Causeway Bay, Chai Wan, Jordan, Hung Hom, Kennedy Town, Kwung Tong, Mid-levels, Mong Kok, North Point, Sai Wan Ho, Sai Ying Pun, Sheung Wan, Tai Kok Tsui, Tin Hau, To Kwan Wan, Tsing Yi, Tsim Sha Tsui, Wan Chai)
 
-#### Hong Kong
+**[HK Bitcoin ATM](http://hkbitcoinatm.com)**: (Central, Fanling, Mong Kok, Sham Shui Po, Tsuen Wan)
 
-**[PMQ](https://www.coinhere.io/)**, Garden Meow, 35 Aberdeen Street, HG01-HG05, G/F, Block B, **Central**   
-**[Shing Lee Shopping Arcade](http://hkbitcoinatm.com/)**, Shop 19, 1/F, 6 Wing Kut Street, **Central**    
-**[Worktech](https://www.coinhere.io/)**, 23/F, Island Beverly, 1 Great George Street, **Causeway Bay**    
-**[VELA Hotel](http://ncxnet.com/)**, 86 Morrison Hill Rd, Morrison Hill, **Causeway Bay**    
-**[108 Percival Street](https://www.coinhere.io/)**, Shop D1, G/F, 108-120 Percival Street, **Causeway Bay**    
-**[Tidebit](https://coinatmradar.com/bitcoin_atm/5437/bitcoin-atm-general-bytes-hong-kong-7f-sino-favour-centre/)**, 7/F Sino Favour Centre, 1 On Yip Street, **Chai Wan**    
-**[City Garden](http://bitmac.org/)**, Shop 31, Maxibase, Block 1-3, 233 Electric Road, **North Point**    
-**[The Hive](https://www.coinhere.io/)**, 33-35 Hillier St, **Sheung Wan**    
-**[WeWork](https://www.coinhere.io/)**, G/F, 40-44 Bonham Strand, **Sheung Wan**    
-**[Genesis Block](https://www.coinhere.io/)**, U/G, 273 Hennessy Road, **Wan Chai**    
-**[Gala Club](http://ncxnet.com/ourservices/location)**, G/F, 405-419 Lockhart Road, **Wan Chai**    
-**[Wah Hing Commercial Building](https://www.coinxtm.com/)**, Room 2502, 25/F, Wah Hing Commercial Building, 283 Lockhart Road, **Wan Chai**    
+**[Kernel ATM](https://kernelatm.hk/)**: (Tsim Sha Tsui)
 
-
-#### New Territories
-
-**[Regal Airport Hotel](https://www.coinhere.io/)**, Shop 216-217, 2/F, 9 Cheong Tat Rd, **Chek Lap Kok**    
-**[HK Bitcoin ATM](http://hkbitcoinatm.com/fanling-shop/)**, G/F, 17D Wo Tai Street, Luen Wo Market, **Fanling**   
-**[Kwai Fong Plaza](https://www.coinhere.io/)**, Shop 8, G/F, 177 Hing Fong Road, **Kwai Fong**    
-**[Kam Tai Shopping Centre](https://www.coinhere.io/)**. Shop 105, 1/F, 31 Ning Tai Rd, **Ma On Shan**    
-**[Hang Wai Industrial Centre](https://www.coinhere.io/)**, G/F, 6 Kin Tai Street, (Entrance at A2 Lift Lobby), **Tuen Mun**    
-**[One Terminal(壹號總站)](https://nitroswap.com/#location)**, Shop 14,2 Tsing Shan Square, **Tuen Mun**    
-**[Savannah](https://www.coinhere.io/)**, Shop G08A, G/F, 3 Chi Shin Street, **Tseung Kwan O**    
-**[T.Mark](http://hkbitcoinatm.com/)**, Shop 329, 3/F, 18 Tai Ho Road, **Tsuen Wan**    
-**[23 Mei Wan St](https://www.coinhere.io/)**, G/F, **Tsuen Wan**    
-**[LaundrYup](https://www.coinhere.io/)**, Shop A 2-3, G/F, 1 Tak Lung Back Street, **Sai Kung**    
-**[Kolor](https://www.coinhere.io/)**, Shop 60, 2F, 1 Kau Yuk Rd, **Yuen Long**    
-**[又一新城 New City](https://nitroswap.com/#location)**, Shop F50, 37-51 Yau Sun Street,
-**Yuen Long**    
-
-
-You may also browse [coinatmradar.com](http://coinatmradar.com/) for more or less up to date information on the location, uptime and rates of Bitcoin ATMs.
-
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1bQBtLOmBUyg372DEkpIQFe3Ql3KwnRnz" width="100%" height="480"></iframe>
+**[Nitroswap](https://nitroswap.com/location-2/index.html)**: (Causeway Bay, Kwun Tong, Mong Kok, Po Lam, Sham Shui Po, Tsim Sha Tsui, Tuen Mun, Yuen Long)
 
 ### Bitcoin Exchanges
 
@@ -143,6 +90,9 @@ The OTC desk of AAX exchanges HKD, USD and CNY to Bitcoin and offers a variety o
 
 **[Q9 Capital](https://www.q9capital.com)**
 Q9 Capital is the digital assets arm of Henyep Group. It provides 24/7 live OTC executable streaming prices.
+
+**[CoinUnited](https://coinunited.io/en/otc)**
+The OTC desk of CoinUnited operates a easily accessible location for OTC trades in Causeway Bay in addition to their ATMs all over town.
 
 ##### Smaller OTC houses located in Hong Kong include:
 
