@@ -66,6 +66,3 @@ DEPENDENCIES
   jekyll
   jekyll-redirect-from
   kramdown-parser-gfm
-
-BUNDLED WITH
-   2.2.16
