@@ -19,6 +19,5 @@ Or run Run jekyll serve and go to http://localhost:4000 in your browser.
 
 Ubuntu 20.04 dependencies:
 
-sudo apt install make
-sudo apt install gcc
-sudo apt install build-essential
+sudo apt install make && gcc && build-essential && rbenv
+

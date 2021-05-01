@@ -2,7 +2,7 @@
 layout: meetup
 title: Monthly Central Meetup
 date: "2017-01-10 19:00:00"
-permalink: "/2016-12-monthly-central-meetup/"
+permalink: "/2017-01-monthly-central-meetup/"
 host: Bitcoin Association of Hong Kong
 address: Grappa's Cellar, Jardine House, 1 Connaught Road, Central, Hong Kong
 link: "https://www.meetup.com/Bitcoin-HK/events/235895560/"
