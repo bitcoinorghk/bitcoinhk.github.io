@@ -17,4 +17,4 @@ We meet once a month at The Crescent Moon (yes, they accept Bitcoin!) to hang ou
 
 The Crescent Moon is located in Tai Kok Tsui, about 5-10 minutes from Olympic Station or Prince Edward.
 
-<iframe width="100%" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=114.15768027305604%2C22.320373518071836%2C114.16185915470123%2C22.32510765090726&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/#map=18/22.32274/114.15977">View Larger Map</a></small>
+<iframe width="100%" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=114.15768027305604%2C22.320373518071836%2C114.16185915470123%2C22.32510765090726&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/#map=18/22.32274/114.15977">View Larger Map</a></small>
