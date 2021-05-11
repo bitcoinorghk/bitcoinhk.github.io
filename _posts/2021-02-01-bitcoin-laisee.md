@@ -21,7 +21,7 @@ Happy year of the bull!
 
 ### Redeeming Your Bitcoin Laisee
 
-To redeem your Laisee, you need a Lightning wallet that supports LNURL-withdrawal, such as [BLW](https://lightning-wallet.com/), [Bluewallet](https://bluewallet.io/), [Wallet of Satoshi](https://www.walletofsatoshi.com/) or [Phoenix](https://phoenix.acinq.co/). You can find [a complete list here.](https://github.com/fiatjaf/awesome-lnurl/#wallets) 
+To redeem your Laisee, you need a Lightning wallet that supports LNURL-withdrawal, such as [Breez](https://breez.technology/), [BLW](https://lightning-wallet.com/), [Bluewallet](https://bluewallet.io/), [Wallet of Satoshi](https://www.walletofsatoshi.com/) or [Phoenix](https://phoenix.acinq.co/). You can find [a complete list here.](https://github.com/fiatjaf/awesome-lnurl/#wallets) 
 
 Simply scan the QR code of your Bitcoin Laisee. You are shown the amount you are able to withdraw. Confirm, and the funds should appear in your wallet.
 
