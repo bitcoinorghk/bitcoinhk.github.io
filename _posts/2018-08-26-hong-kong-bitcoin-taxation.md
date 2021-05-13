@@ -74,7 +74,7 @@ The tax perspective of a proof-of-stake miner is relatively complicated compared
 
 ### Hong Kong Tax Advisors Accepting Bitcoin
 
-**[CK Tax](https://www.ck-tax.com/entax)**
+**[CK Tax](https://en.ck-tax.com/)**
 
 **[PwC Hong Kong](https://www.pwchk.com/)**
 
