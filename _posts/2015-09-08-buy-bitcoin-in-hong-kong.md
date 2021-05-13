@@ -102,6 +102,8 @@ The OTC desk of CoinUnited operates a easily accessible location for OTC trades 
 
 **[Coingaroo](https://coingaroo.com.hk/)**, Lai Chi Kok
 
+**[One Satoshi](https://www.onesatoshi.world/)**, Mong Kok, Causeway Bay
+
 #### Overseas Exchanges
 
 Some exchanges overseas serve the Hong Kong market. Wire transfers to these exchanges are more expensive, but often more reliable and there is significantly more market depth. Disputes however cannot easily be resolved through the Hong Kong legal system and can quickly become complicated and expensive to resolve.
