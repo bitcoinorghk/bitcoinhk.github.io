@@ -1,11 +1,11 @@
 ---
 layout: meetup
 title: 比特幣吹水網聚
-date: "2021-05-20 19:00:00"
+date: "2021-05-27 19:00:00"
 permalink: "/2021-05-monthly-online-meetup-zh/"
 host: Bitcoin Association of Hong Kong
 address: Jitsi Meet
-link: "https://www.meetup.com/Bitcoin-HK/events/lkxxfsyccgbtb/"
+link: "https://www.meetup.com/Bitcoin-HK/events/278177601/"
 background: "url(/media/2014/12/beer.jpg) #FF0000"
 published: true
 ---
