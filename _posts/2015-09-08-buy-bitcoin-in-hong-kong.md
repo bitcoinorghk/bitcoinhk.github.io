@@ -33,7 +33,7 @@ You should set up your wallet yourself. It will generate a backup 'seed' contain
 
 ### In Person
 
-As banks are more aggressively acting against Bitcoin companies, trading bitcoin in person has become more popular again in Hong Kong recently. The website [localbitcoins.com](https://localbitcoins.com/buy-bitcoins-online/hkd/ 18 listings) as well as the platform [Paxful](https://paxful.com/) provide plenty of offers to buy and sell. If you just need a few dollars worth to 'try it out' or 'play with', you will likely find somebody to trade at the regular [Bitcoin meetups](http://www.meetup.com/Bitcoin-HK/).
+As banks are more aggressively acting against Bitcoin companies, trading bitcoin in person has become more popular again in Hong Kong recently. The website [localbitcoins.com](https://localbitcoins.com/buy-bitcoins-online/hkd/) as well as the platform [Paxful](https://paxful.com/) provide plenty of offers to buy and sell. If you just need a few dollars worth to 'try it out' or 'play with', you will likely find somebody to trade at the regular [Bitcoin meetups](http://www.meetup.com/Bitcoin-HK/).
 
 Some OTC exchanges (see below) also deal with cash deposits and withdrawals. Clarify with your exchange or traders beforehand what currencies, notes and payment forms they accept.
 
