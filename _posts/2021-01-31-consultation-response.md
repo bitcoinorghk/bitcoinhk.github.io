@@ -51,10 +51,30 @@ As such, we strictly oppose the Proposal and its definition of “Virtual Assets
 You are welcome to copy, change or amend the above text and submit it as your own, independent of whether you are an individual or instution and regardless of your affiliation with the Bitcoin Association. If you would like to further go on the record, please write us at [info@bitcoin.org.hk](mailto:info@bitcoin.org.hk) with a hyperlink or pdf of your response. We will collect them here:
 
 - [Bitcoin Association (as submitted electronically)](/media/2021/01/consult-bahk.pdf)
-- [Fintech Association](hhttps://ftahk.org/publication/ftahk-response-public-consultation-legislative-proposals-enhance-anti-money-laundering)
+- [Fintech Association](https://ftahk.org/publication/ftahk-response-public-consultation-legislative-proposals-enhance-anti-money-laundering)
 - [Fintech Association](https://www.linkedin.com/posts/ftahkofficial_ftahk-response-to-fstb-public-consultation-activity-6761920931855163392-89rz)
 - [Global Digital Finance](/media/2021/01/consult-gdf.pdf)
 - [Joseph Wang](/media/2021/01/consult-wang.pdf)
 - [Leo Weese](https://blog.bitcoin.org.hk/public-consultation-on-legislative-proposals-ee563d95275)
 - [Anonymous](/media/2021/01/consult-anon1.pdf)
 - [Group of Fintech Guys](/media/2021/01/consult-npc.pdf)
+
+### Conclusion
+
+The public consultation concluded in May 2021, the final report was published [on 21 May 2021](https://www.info.gov.hk/gia/general/202105/21/P2021052100532.htm?fontSize=1) and [can be read here](/media/2021/05/consultation_results.pdf).
+
+79 individuals and organizations took part in the consultation, most notably in addition to the above:
+
+- Baker & Mckenzie
+- Diginex Limited
+- Hashkey Group
+- HK Bitcoin ATM
+- Hong Kong Digital Asset Exchange
+- Hong Kong Virtual Asset Exchange
+- King & Wood Mallesons
+- Matrixport
+- MyEthShop
+- ONC Lawyers
+- PricewaterhouseCoopers Limited
+
+[You can read our TLDR here](https://blog.bitcoin.org.hk/consultation-response-summary-6c1c405e4fb7).
