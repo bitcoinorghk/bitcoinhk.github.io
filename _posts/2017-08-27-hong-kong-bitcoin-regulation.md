@@ -32,7 +32,7 @@ ANX and Bitcashout followed in 2013, and Bitcoin prices continued to rally throu
 
 The then Financial Secretary John Tsang 曾俊華 mentioned Bitcoin for the first time in a [blog post, (Archived)](https://web.archive.org/web/20131204131214/https://www.fso.gov.hk/chi/blog/blog011213.htm) on December 1, 2013 ([referenced here](http://www.scmp.com/business/banking-finance/article/1396917/virtual-currency-entrepreneurs-fight-future-bitcoin-hong)). In this article Tsang gives a good summary of how Bitcoin works and warns about its volatile nature and the lack of support from a state or issuer. He warns of a bubble bursting and sees many opportunities for software developers.
 
-On December 4, 2014 the issue was [picked up by Hong Kong's parliament](http://library.legco.gov.hk:1080/record=b1162178), the Legislative Council.
+On December 4, 2013 the issue was [picked up by Hong Kong's parliament](http://library.legco.gov.hk:1080/record=b1162178), the Legislative Council.
 
 Legislator Christopher Cheung 張華峰, representing the financial services asks: "Will the Government state its position on the Bitcoin clearly and openly, so that the industry can have something to go by?"
 
