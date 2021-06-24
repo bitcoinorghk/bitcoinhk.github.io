@@ -82,9 +82,6 @@ Opened in September 2017 in Wan Chai, the Genesis Block functions as an OTC trad
 **[Circle Trading](https://www.circletrading.com/)**
 Circle is a Boston-based financial services firm most popular for their money transfer app. They opened a Bitcoin OTC trading desk in Hong Kong in November 2017.
 
-**[BitInsightHK](http://bitinsighthk.com/)**
-Located in Central and was opened in February 2018.
-
 **[AAX](https://www.aax.com/otc/home)**
 The OTC desk of AAX exchanges HKD, USD and CNY to Bitcoin and offers a variety of payment methods, including FPS, WeChat or Alipay.
 
@@ -92,11 +89,14 @@ The OTC desk of AAX exchanges HKD, USD and CNY to Bitcoin and offers a variety o
 Q9 Capital is the digital assets arm of Henyep Group. It provides 24/7 live OTC executable streaming prices.
 
 **[CoinUnited](https://coinunited.io/en/otc)**
-The OTC desk of CoinUnited operates a easily accessible location for OTC trades in Causeway Bay in addition to their ATMs all over town.
+The OTC desk of CoinUnited operates an easily accessible location for OTC trades in Causeway Bay in addition to their ATMs all over town.
 
 ##### Smaller OTC houses located in Hong Kong include:
 
 **[One Satoshi](https://www.onesatoshi.world/)**, Mong Kok, Causeway Bay. One Satoshi offers quick and easy settlement for ETH and BTC directly to your wallet in exchange for cash or Octopus. Minimum trade HK$1000, above $80,000 personal information is collected.
+
+**[BitInsightHK](http://bitinsighthk.com/)**
+Located in Central and was opened in February 2018.
 
 **[MyEthShop](https://www.myethshop.com/)**, Mong Kok
 
