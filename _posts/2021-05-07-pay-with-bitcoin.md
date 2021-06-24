@@ -11,6 +11,8 @@ background: "url(/media/2021/05/btcpay.jpeg) #FF0000"
 
 last updated: 2021-05-07 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2021-05-07-pay-with-bitcoin.md)
 
+[請按此查看中文版本。](https://比特幣.組織.香港/pay-with-bitcoin/)
+
 ## Pay with Bitcoin
 
 We love Bitcoin. We buy Bitcoin, we earn our wages in Bitcoin, and we like to accept Bitcoin. Some businesses in Hong Kong do, here's how you can spend your Bitcoin in Hong Kong.
