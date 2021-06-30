@@ -33,6 +33,7 @@ navigation: "visible"
 	<img src="/media/corp/gb.png" alt="genesis block logo">
 	<img src="/media/corp/hkbitcoinatm.png" alt="hk bitcoin atm logo">
 	<img src="/media/corp/nil.png" alt="nil logo">
+	<img src="/media/corp/onesatoshi.png" alt="nil logo">
 	<img src="/media/corp/salg.svg" alt="salg logo">
   	<img src="/media/corp/hashkey.png" alt="hashkey logo">
 	</div>

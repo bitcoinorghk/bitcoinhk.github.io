@@ -25,4 +25,4 @@ Paying with Bitcoin helps you to understand how Bitcoin works and doesn't work. 
 
 ### For merchants
 
-[Follow this guide](/accept-bitcoin/) if you would like to get started with Bitcoin payments. Please contact us at [info@bitcoin.org.hk](mailto:info@bitcoin.org.hk) if you have questions or would like to have your business added to this list.t
+[Follow this guide](/accept-bitcoin/) if you would like to get started with Bitcoin payments. Please contact us at [info@bitcoin.org.hk](mailto:info@bitcoin.org.hk) if you have questions or would like to have your business added to this list.
