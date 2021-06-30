@@ -12,7 +12,7 @@ redirect_from:
 
 ---
 
-last updated: 2020-12-01 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoins-in-hong-kong.md)
+last updated: 2020-12-01 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoin-in-hong-kong.md)
 
 ## Buying Bitcoin in Hong Kong
 
@@ -24,6 +24,12 @@ Compared with selling Bitcoin, there is little fraud risk associated with buying
 Unfortunately Bitcoin still does not have the legal status in Hong Kong that it deserves, and banks are reluctant to deal with companies and individuals associated with Bitcoin. In this environment it is easy for scammers to attempt to defraud you of your Dollars or Bitcoin in certain kinds of transactions.
 
 No matter how you buy your Bitcoin, always insist on having your Bitcoin delivered to your personal wallet. We do not recommend to keep Bitcoin on exchanges, with your broker, on trading platforms or as 'IOUs.' Always insist on having your Bitcoin sent to your personal Bitcoin wallet, which should not be an app provided by your exchange or broker.
+
+[![One Satoshi](https://cdn.onesatoshi.world/bitcoin-org/bitcoin-org-banner-01.jpg)](https://www.onesatoshi.world/)
+{:.text-center}
+
+Advertisement
+{:.text-center}
 
 ### Your Bitcoin wallet
 
