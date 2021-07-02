@@ -12,7 +12,7 @@ redirect_from:
 
 ---
 
-last updated: 2020-12-01 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoin-in-hong-kong.md)
+last updated: 2021-07-01 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoin-in-hong-kong.md)
 
 ## Buying Bitcoin in Hong Kong
 
@@ -107,6 +107,8 @@ Located in Central and was opened in February 2018.
 **[MyEthShop](https://www.myethshop.com/)**, Mong Kok
 
 **[BTC Shop HK](https://btcshop.com.hk/)**, Tsim Sha Tsui
+
+**[Crypto HK](https://www.cryptocurrencyhongkong.com/)**, Admiralty
 
 #### Overseas Exchanges
 
