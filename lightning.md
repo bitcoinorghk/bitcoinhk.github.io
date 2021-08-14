@@ -50,12 +50,14 @@ You can donate money here using the Lightning network!
 </dl>
 </div>
 
-Donate satoshis via a static [lnurl Lightning invoice](https://github.com/fiatjaf/awesome-lnurl), proxied by [tip.bigsun.xyz](https://tip.bigsun.xyz/) directly to our node.
+Donate satoshis via a static [lnurl Lightning invoice](https://github.com/fiatjaf/awesome-lnurl), directly to our node via [LNbits](https://lnbits.org/).
 
 ![Static Lightning Donation Invoice](/media/2020/09/lnd_donation.png)
 {:.text-center}
 
-lnurl1dp68gurn8ghj7arfwqhxy6t8wd6kutnc09az7mrww4exctesxvuxve3kv43nxenzx5exxv3nvcck2cfjvcengvtzvsmkvwtyvsurjwfhxcmrxwpsxu6nqef5vdjnscehxe3xvvfjv5cnzef3vfnrjcf39acxzunpd4esmxwqg6
+lnurl1dp68gurn8ghj7cnfw3ejucnfw33k76tw9ehhyeewdp4j7mrww4excup0v9cxjtmkxyhkcmn4wfkz7dgpaa6w7
+
+To open up a channel with your node, you can find it with the key _038ff6ec3fb52c23f1ea2f341bd7f9dd899766380750e4ce8c76bf12e11e1bf9a1_ at _@172.81.181.220:9735_ or _@6p5bw3wvy22tneyhsc4dmnyxr5yq4qt5erhnobzeb2megakj7f4twyad.onion:9735_
 
 <!-- 
 <div>

@@ -95,7 +95,7 @@ navigation: "visible"
             </ul>
             <a href="https://docs.google.com/forms/d/19vhwvxw4LF2JByS03hfmwZA1F_xvh6paF3khJGEZslE/edit">Sign up</a>
           </div>
-          <div class="bonus">To sign up, simply fill out the application form below. The corporate membership fee for 2020 is set at 0.026 BTC and will be revised once per year. We will send you an email with a confirmation usually within 48h.</div>
+          <div class="bonus">To sign up, simply fill out the application form below. The corporate membership fee for 2020 is set at 0.0026 BTC and will be revised once per year. We will send you an email with a confirmation usually within 48h.</div>
         </div>
       </div>
       <div>
@@ -111,7 +111,7 @@ navigation: "visible"
             </ul>
             <a href="https://docs.google.com/forms/d/1p9Z7or6XSwUTgHbf3uwuhWzECkto23Qx7WsMVUYyzV8/viewform?edit_requested=true">Sign up</a>
           </div>
-          <div class="bonus">To sign up, simply fill out the application form below. The individual membership fee for 2020 is set at 0.013 BTC and will be revised once per year. We will send you an email with a confirmation usually within 48h.</div>
+          <div class="bonus">To sign up, simply fill out the application form below. The individual membership fee for 2020 is set at 0.0013 BTC and will be revised once per year. We will send you an email with a confirmation usually within 48h.</div>
         </div>
       </div>
     </div>
@@ -132,14 +132,19 @@ navigation: "visible"
     </div>
     <div class="logos">
       <div id="corp" class="content">
-	<img src="/media/corp/atum.png" alt="logo">
-	<img src="/media/corp/edge.png" alt="logo">
-	<img src="/media/corp/etoro.png" alt="logo">
-	<img src="/media/corp/gb.png" alt="logo">
-	<img src="/media/corp/hkbitcoinatm.png" alt="logo">
-	<img src="/media/corp/nil.png" alt="logo">
-	<img src="/media/corp/anx.png" alt="logo">
-	<img src="/media/corp/salg.svg" alt="logo">
+      	<img src="/media/corp/aax.png" alt="aax logo">
+      	<img src="/media/corp/anx.png" alt="anx logo">
+	<img src="/media/corp/atum.png" alt="atum logo">
+	<img src="/media/corp/coinunited.png" alt= "coinunited logo">
+	<img src="/media/corp/daemon.png" alt= "daemon logo">
+	<img src="/media/corp/edge.png" alt="edge logo">
+	<img src="/media/corp/etoro.png" alt="etoro logo">
+	<img src="/media/corp/gb.png" alt="genesis block logo">
+	<img src="/media/corp/hkbitcoinatm.png" alt="hk bitcoin atm logo">
+	<img src="/media/corp/nil.png" alt="nil logo">
+	<img src="/media/corp/onesatoshi.png" alt="nil logo">
+	<img src="/media/corp/salg.svg" alt="salg logo">
+  	<img src="/media/corp/hashkey.png" alt="hashkey logo">
       </div>
       <div id="org" class="content  current-content">
 	<img src="/media/org/adam.svg" alt="logo">
