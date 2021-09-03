@@ -67,7 +67,7 @@ Thank you to the countless teams working on the Lightning Network, specifically 
 
 #### More Laisee
 
-Want us to make more Laisee? You can use the lnurl-pay link below to re-fill our wallet!
+Want us to make more Laisee? You can use the lnurl-pay link below to re-fill our wallet! You can also send sats directly via the Lightning address laisee@bitcoin.org.hk
 
 ![Laisee Donation URL](/media/2021/01/lnurl.png)
 {:.text-center}
