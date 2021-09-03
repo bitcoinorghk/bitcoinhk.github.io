@@ -1,8 +1,7 @@
 {
-  "callback": "https://bits.bitcoin.org.hk/lnurlp/api/v1/lnurl/cb/11", 
-  "commentAllowed": 15, 
-  "maxSendable": 100000, 
-  "metadata": "[[\"text/plain\", \"lnaddress\"]]", 
-  "minSendable": 100000, 
+  "callback": "https://bits.bitcoin.org.hk/lnurlp/api/v1/lnurl/cb/13", 
+  "maxSendable": 10000000, 
+  "metadata": "[[\"text/plain\", \"ln address v2\"]]", 
+  "minSendable": 10000, 
   "tag": "payRequest"
 }
