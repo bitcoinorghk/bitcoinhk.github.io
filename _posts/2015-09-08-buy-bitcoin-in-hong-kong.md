@@ -101,9 +101,6 @@ The OTC desk of CoinUnited operates an easily accessible location for OTC trades
 
 **[One Satoshi](https://www.onesatoshi.world/)**, Mong Kok, Causeway Bay. One Satoshi offers quick and easy settlement for ETH and BTC directly to your wallet in exchange for cash or Octopus. Minimum trade HK$1000, above $80,000 personal information is collected.
 
-**[BitInsightHK](http://bitinsighthk.com/)**
-Located in Central and was opened in February 2018.
-
 **[MyEthShop](https://www.myethshop.com/)**, Mong Kok
 
 **[BTC Shop HK](https://btcshop.com.hk/)**, Tsim Sha Tsui
