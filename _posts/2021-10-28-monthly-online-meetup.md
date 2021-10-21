@@ -10,7 +10,7 @@ background: "url(/media/2014/12/beer.jpg) #FF0000"
 published: true
 ---
 
-## Online Bitcoin Meetup
+## Online Bitcoin Meetup 比特幣吹水網聚
 
 This meetup will be held virtually. Anyone is free to join.
 
