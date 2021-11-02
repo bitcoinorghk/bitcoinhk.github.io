@@ -27,7 +27,7 @@ navigation: "visible"
       <div>
         <div class="card">
           <img src="/images/card-image.svg" alt="avatar">
-          <div class="name">Bryan Cheung</div>
+          <div class="name">Sam Lee </div>
         </div>
       </div>
       <div>
