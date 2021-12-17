@@ -148,7 +148,7 @@ Income tax needs to be paid independent of whether payments are made in cash, ch
 
 This relatively unusual constitutional provision makes it unlikely that we will ever see significant restrictions or even a "ban" on Bitcoin. The article however does not prevent the government from creating licensing regimes that favor monopolies and allow for significant rent seeking, or restrict access to Bitcoin in any meaningful way.
 
-Secretary for Justice, Teresa Cheng [explained in October 2021](https://www.doj.gov.hk/en/community_engagement/speeches/20211027_sj1.html) that she believes Bitcoin falls under the protection of not only Article 112, but also Article 115 (pursue the policy of free trade and safeguard the free movement of goods, intangible assets and capital).
+Secretary for Justice, Teresa Cheng 鄭若驊 [explained in October 2021](https://www.doj.gov.hk/en/community_engagement/speeches/20211027_sj1.html) that she believes Bitcoin falls under the protection of not only Article 112, but also Article 115 (pursue the policy of free trade and safeguard the free movement of goods, intangible assets and capital).
 
 She does not address the obvious contradiction between her administration's plans to limit access to Bitcoin for almost everyone while preserving their right to freely convert their currency.
 
