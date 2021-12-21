@@ -16,3 +16,8 @@ To to run the site:
 
 Or run Run jekyll serve and go to http://localhost:4000 in your browser. 
 ```bundle exec jekyll serve```
+
+Ubuntu 20.04 dependencies:
+
+sudo apt install make && gcc && build-essential && rbenv
+

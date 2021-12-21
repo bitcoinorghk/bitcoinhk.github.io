@@ -2,7 +2,7 @@
 layout: meetup
 title: Lets Talk About Bitcoin
 date: "2014-12-29 19:00:00"
-permalink: "/2014-lets-talk-about-bitcoin3/"
+permalink: "/2014-lets-talk-about-bitcoin1/"
 host: Bitcoin Association of Hong Kong
 address: Bitpoint, G/F, 31 D'Aguilar Street, Lan Kwai Fong, Central, Hong Kong
 link: "http://www.meetup.com/Bitcoin-HK/events/219406581/"

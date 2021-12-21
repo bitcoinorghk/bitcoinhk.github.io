@@ -2,7 +2,7 @@
 layout: meetup
 title: Lets Talk About Bitcoin
 date: "2015-04-27 19:00:00"
-permalink: "/2015-lets-talk-about-bitcoin3/"
+permalink: "/2015-lets-talk-about-bitcoin4/"
 host: Bitcoin Association of Hong Kong
 address: Grappa's Cellar, Jardine House, 1 Connaught Road, Central, Hong Kong
 link: "http://www.meetup.com/Bitcoin-HK/events/222177820/"

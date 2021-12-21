@@ -3427,15 +3427,15 @@ footer .centre .wrapper .text .links a:hover {
 }
 
 .about .fourth .slider1 .first-card {
-  background-image: url(/media/new/stat1.svg);
+  background-image: url(/images/stat1.svg);
 }
 
 .about .fourth .slider1 .second-card {
-  background-image: url(/media/new/stat2.svg);
+  background-image: url(/images/stat2.svg);
 }
 
 .about .fourth .slider1 .third-card {
-  background-image: url(/media/new/stat3.svg);
+  background-image: url(/images/stat3.svg);
 }
 
 @media screen and (max-width: 1024px) {

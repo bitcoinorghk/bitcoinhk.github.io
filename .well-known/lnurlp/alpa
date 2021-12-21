@@ -1,0 +1,7 @@
+{
+  "callback": "https://bits.bitcoin.org.hk/lnurlp/api/v1/lnurl/cb/21", 
+  "maxSendable": 100000000, 
+  "metadata": "[[\"text/plain\", \"Pay AlPa\"]]", 
+  "minSendable": 10000, 
+  "tag": "payRequest"
+}

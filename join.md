@@ -16,7 +16,7 @@ navigation: "visible"
       <h4>Membership</h4>
       <p>The Bitcoin Association of Hong Kong is open to all individuals with a connection to Hong Kong who have an interest in Bitcoin, cryptocurrency or related technologies. Becoming a member gives you full access to the community and the association. You enjoy voting rights, profit from discounted and exclusive networking and education events and help influence the quickly changing landscape of Bitcoin in Hong Kong.</p>
     </div>
-    <img src="/media/new/join1.svg" alt="">  
+    <img src="/images/join1.svg" alt="">  
   </div>
 
   <div class="second">
@@ -85,7 +85,7 @@ navigation: "visible"
           <div class="info">
             <div class="head">
               <span>Corporate</span>
-              <img src="/media/new/join-corporate.svg" alt="">
+              <img src="/images/join-corporate.svg" alt="">
             </div>
             <ul>
               <li><span>Listing on the website</span></li>
@@ -93,9 +93,9 @@ navigation: "visible"
               <li><span>5 individual members</span></li>
               <li><span>Discounted prices to partner events </span></li>
             </ul>
-            <a href="https://docs.google.com/forms/d/19vhwvxw4LF2JByS03hfmwZA1F_xvh6paF3khJGEZslE/edit">Sign up</a>
+            <a href="https://join.bitcoin.org.hk/Org">Sign up</a>
           </div>
-          <div class="bonus">To sign up, simply fill out the application form below. The corporate membership fee for 2020 is set at 0.03 BTC and will be revised once per year. We will send you an email with a confirmation usually within 48h.</div>
+          <div class="bonus">To sign up, simply fill out the application form below. The corporate membership fee for 2020 is set at 0.0026 BTC and will be revised once per year. We will send you an email with a confirmation usually within 48h.</div>
         </div>
       </div>
       <div>
@@ -103,15 +103,15 @@ navigation: "visible"
           <div class="info">
             <div class="head">
               <span>Individual</span>
-              <img src="/media/new/join-individual.svg" alt="">
+              <img src="/images/join-individual.svg" alt="">
             </div>
             <ul>
               <li><span>Listing on the website </span></li>
               <li><span>Access to members-only events</span></li>
             </ul>
-            <a href="https://docs.google.com/forms/d/1p9Z7or6XSwUTgHbf3uwuhWzECkto23Qx7WsMVUYyzV8/viewform?edit_requested=true">Sign up</a>
+            <a href="https://join.bitcoin.org.hk/Indiv">Sign up</a>
           </div>
-          <div class="bonus">To sign up, simply fill out the application form below. The individual membership fee for 2020 is set at 0.015 BTC and will be revised once per year. We will send you an email with a confirmation usually within 48h.</div>
+          <div class="bonus">To sign up, simply fill out the application form below. The individual membership fee for 2020 is set at 0.0013 BTC and will be revised once per year. We will send you an email with a confirmation usually within 48h.</div>
         </div>
       </div>
     </div>
@@ -132,41 +132,33 @@ navigation: "visible"
     </div>
     <div class="logos">
       <div id="corp" class="content">
-        <img src="/media/new/corp/1.png" alt="logo">
-        <img src="/media/new/corp/2.png" alt="logo">
-        <img src="/media/new/corp/3.png" alt="logo">
-        <img src="/media/new/corp/4.png" alt="logo">
-        <img src="/media/new/corp/5.png" alt="logo">
-        <img src="/media/new/corp/6.png" alt="logo">
-        <img src="/media/new/corp/7.png" alt="logo">
-        <img src="/media/new/corp/8.png" alt="logo">
-        <img src="/media/new/corp/9.svg" alt="logo">
-        <img src="/media/new/corp/10.svg" alt="logo">
-        <img src="/media/new/corp/11.svg" alt="logo">
-        <img src="/media/new/corp/12.svg" alt="logo">
-        <img src="/media/new/corp/13.png" alt="logo">
-        <img src="/media/new/corp/14.svg" alt="logo">
-        <img src="/media/new/corp/15.svg" alt="logo">
-        <img src="/media/new/corp/16.svg" alt="logo">
-        <img src="/media/new/corp/17.png" alt="logo">
-        <img src="/media/new/corp/18.svg" alt="logo">
-        <img src="/media/new/corp/19.svg" alt="logo">
-        <img src="/media/new/corp/20.png" alt="logo">
+      	<img src="/media/corp/aax.png" alt="aax logo">
+      	<img src="/media/corp/anx.png" alt="anx logo">
+	<img src="/media/corp/atum.png" alt="atum logo">
+	<img src="/media/corp/coinunited.png" alt= "coinunited logo">
+	<img src="/media/corp/daemon.png" alt= "daemon logo">
+	<img src="/media/corp/edge.png" alt="edge logo">
+	<img src="/media/corp/etoro.png" alt="etoro logo">
+	<img src="/media/corp/gb.png" alt="genesis block logo">
+	<img src="/media/corp/hkbitcoinatm.png" alt="hk bitcoin atm logo">
+	<img src="/media/corp/nil.png" alt="nil logo">
+	<img src="/media/corp/onesatoshi.png" alt="nil logo">
+	<img src="/media/corp/salg.svg" alt="salg logo">
+  	<img src="/media/corp/hashkey.png" alt="hashkey logo">
       </div>
       <div id="org" class="content  current-content">
-        <img src="/media/new/org/1.svg" alt="logo">
-        <img src="/media/new/org/2.png" alt="logo">
-        <img src="/media/new/org/4.svg" alt="logo">
-        <img src="/media/new/org/5.svg" alt="logo">
-        <img src="/media/new/org/5.png" alt="logo">
+	<img src="/media/org/adam.svg" alt="logo">
+	<img src="/media/org/bach.png" alt="logo">
+	<img src="/media/org/bck.svg" alt="logo">
+	<img src="/media/org/ffm.svg" alt="logo">
       </div>
       <div id="com" class="content">
-        <img src="/media/new/media/1.svg" alt="logo">
-        <img src="/media/new/media/2.png" alt="logo">
-        <img src="/media/new/media/3.png" alt="logo">
-        <img src="/media/new/media/4.svg" alt="logo">
-        <img src="/media/new/media/5.svg" alt="logo">
-        <img src="/media/new/media/6.png" alt="logo">
+	<img src="/media/media/jinse.svg" alt="logo">
+	<img src="/media/media/bitcoinmagazine.png" alt="logo">
+	<img src="/media/media/chaintalk.png" alt="logo">
+	<img src="/media/media/coindesk.svg" alt="logo">
+	<img src="/media/media/cointelegraph.svg" alt="logo">
+	<img src="/media/media/forkast.png" alt="logo">
       </div>
     </div>
     <a href="/members/" class="nbtn">Members</a>

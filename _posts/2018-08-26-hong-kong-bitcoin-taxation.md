@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Hong Kong Bitcoin Taxation"
-date: "2018-08-26 10:00:00"
+date: "2020-09-30 10:00:00"
 permalink: "/hong-kong-bitcoin-taxation/"
 author: liongrass
 published: true
@@ -10,7 +10,7 @@ background: " url(/media/2015/11/shenzhen.png) #FF0000"
 
 # Taxation of Bitcoin, Cryptocurrencies and Tokens in Hong Kong
 
-Updated: 2018-08-26
+Updated: 2020-09-30
 
 [Hong Kong officially recognized Bitcoin and Cryptocurrencies as ‘virtual commodities’](https://www.bitcoin.org.hk/hong-kong-bitcoin-regulation/), though the term ‘virtual currencies’ is more and more frequently used.
 
@@ -65,11 +65,16 @@ The tax perspective of a proof-of-stake miner is relatively complicated compared
 
 ### Further reading
 
+**[Bitcoin Association of Hong Kong: Hong Kong Bitcoin Regulation](https://www.bitcoin.org.hk/hong-kong-bitcoin-regulation/)**
+
 **[KPMG: Taxation of digital assets in Hong Kong](https://home.kpmg/cn/en/home/insights/2020/04/tax-alert-8-hk-taxation-of-digital-assets-in-hk.html)**
+
+**[ONC Lawyers: Paying employees in cryptocurrency in Hong Kong: legal considerations ](https://www.lexology.com/library/detail.aspx?g=d59b91d4-d741-4ea8-8f68-e5184cd85b0c)**
+
 
 ### Hong Kong Tax Advisors Accepting Bitcoin
 
-**[CK Tax](https://www.ck-tax.com/entax)**
+**[CK Tax](https://en.ck-tax.com/)**
 
 **[PwC Hong Kong](https://www.pwchk.com/)**
 
