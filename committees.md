@@ -1,6 +1,6 @@
 ---
 layout: "page"
-title: "Committiees"
+title: "Committees"
 caption: "Lead"
 subtitle: "Organize & Lead"
 icon: "user"
@@ -18,19 +18,19 @@ navigation: "visible"
 <div class="main">
 	<div class="card">
 		<div class="card-header show">
-			<img src="/media/new/comm1.png" alt="">
+			<img src="/images/comm1.png" alt="">
 			<a href="https://www.meetup.com/Bitcoin-HK/events/270269664/" class="card-date" target="_blank">
 				<p>RegTech</p>
 				<span>
-					<img src="/media/new/card-calendar.svg" alt="">
-					7 May 2020
+					<img src="/images/card-calendar.svg" alt="">
+					5 Nov 2020
 				</span>
 			</a>
 		</div>
 		<div class="contact">
 			<div class="contact-person">
 				<p>Contact person:</p>
-				<span>TBD</span>
+				<span>Cliff Choi</span>
 			</div>
 			<div class="links">
 				<a href="https://t.me/bitcoinhk" target="_blank">
@@ -71,12 +71,12 @@ navigation: "visible"
 	</div>
 	<div class="card">
 		<div class="card-header">
-			<img src="/media/new/comm2.png" alt="">
+			<img src="/images/comm2.png" alt="">
 			<a href="/committees/mining/" class="card-date" target="_blank">
 				<p>Mining</p>
 				<span>
-					<img src="/media/new/card-calendar.svg" alt="">
-					7 May 2020
+					<img src="/images/card-calendar.svg" alt="">
+					5 Nov 2020
 				</span>
 			</a>
 		</div>
@@ -114,29 +114,29 @@ navigation: "visible"
 				</a>
 			</div>
 			<div class="tags">
-				<span>POW</span>
-				<span>Halving</span>
+				<span>PoW</span>
+				<span>ASICs</span>
 				<span>Hardware</span>
-				<span>Locations</span>
+				<span>Electricity</span>
 				<span>Immersion Cooling</span>
 			</div>
 		</div>
 	</div>
 	<div class="card">
 		<div class="card-header">
-			<img src="/media/new/comm3.png" alt="">
+			<img src="/images/comm3.png" alt="">
 			<a href="https://www.meetup.com/Bitcoin-HK/events/270269664/" class="card-date" target="_blank">
 				<p>Devs</p>
 				<span>
-					<img src="/media/new/card-calendar.svg" alt="">
-					7 May 2020
+					<img src="/images/card-calendar.svg" alt="">
+					5 Nov 2020
 				</span>
 			</a>
 		</div>
 		<div class="contact">
 			<div class="contact-person">
 				<p>Contact person:</p>
-				<span>TBD</span>
+				<span>Christina Chu</span>
 			</div>
 			<div class="links">
 				<a href="https://t.me/bitcoinhk" target="_blank">
@@ -167,31 +167,29 @@ navigation: "visible"
 				</a>
 			</div>
 			<div class="tags">
-				<span>Distributed Ledgers</span>
+				<span>P2P</span>
 				<span>Smart Contracts</span>
-				<span>Nodes</span>
 				<span>Consensus</span>
 				<span>Dapps</span>
 				<span>Solidity</span>
-				<span>Python</span>
 			</div>
 		</div>
 	</div>
 	<div class="card">
 		<div class="card-header">
-			<img src="/media/new/comm4.png" alt="">
+			<img src="/images/comm4.png" alt="">
 			<a href="https://www.meetup.com/Bitcoin-HK/events/270269664/" class="card-date" target="_blank">
 				<p>DeFi</p>
 				<span>
-					<img src="/media/new/card-calendar.svg" alt="">
-					7 May 2020
+					<img src="/images/card-calendar.svg" alt="">
+					5 Nov 2020
 				</span>
 			</a>
 		</div>
 		<div class="contact">
 			<div class="contact-person">
 				<p>Contact person:</p>
-				<span>TBD</span>
+				<span>Christina Chu</span>
 			</div>
 			<div class="links">
 				<a href="https://www.meetup.com/Bitcoin-HK/events/270269664/" target="_blank">
@@ -233,19 +231,19 @@ navigation: "visible"
 	</div>
 	<div class="card">
 		<div class="card-header">
-			<img src="/media/new/comm5.png" alt="">
-			<a href="https://www.meetup.com/Bitcoin-HK/events/270269664/" class="card-date" target="_blank">
+			<img src="/images/comm5.png" alt="">
+			<a href="https://t.me/bitcoinhk" class="card-date" target="_blank">
 				<p>Trading </p>
 				<span>
-					<img src="/media/new/card-calendar.svg" alt="">
-					7 May 2020
+					<img src="/images/card-calendar.svg" alt="">
+					5 Nov 2020
 				</span>
 			</a>
 		</div>
 		<div class="contact">
 			<div class="contact-person">
 				<p>Contact person:</p>
-				<span>Julian Beltran </span>
+				<span>Cliff Choi </span>
 			</div>
 			<div class="links">
 				<a href="https://t.me/bitcoinhk" target="_blank">
