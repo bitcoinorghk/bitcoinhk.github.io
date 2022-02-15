@@ -151,7 +151,7 @@ navigation: "visible"
 	<img src="/media/org/bach.png" alt="logo">
 	<img src="/media/org/bck.svg" alt="logo">
 	<img src="/media/org/ffm.svg" alt="logo">
-  		<a href="https://bitcoinclubmalta.com/"><img src="/media/org/bitcoin_malta.jpg" width="200" height="100" alt="logo"></a>
+ <img src="/media/org/bitcoin_malta.jpg" width="200" height="100" alt="logo">
 
       </div>
       <div id="com" class="content">
@@ -161,7 +161,7 @@ navigation: "visible"
 	<img src="/media/media/coindesk.svg" alt="logo">
 	<img src="/media/media/cointelegraph.svg" alt="logo">
 	<img src="/media/media/forkast.png" alt="logo">
-  		<a href="https://bitcoinnews.com"><img src="/media/media/bitcoin_news.jpg" width="200" height="100" alt="logo"></a>
+  	<img src="/media/media/bitcoin_news.jpg" width="200" height="100" alt="logo">
       </div>
     </div>
     <a href="/members/" class="nbtn">Members</a>
