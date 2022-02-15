@@ -72,7 +72,7 @@ navigation: "visible"
 	<div class="card">
 		<div class="card-header">
 			<img src="/images/comm2.png" alt="">
-			<a href="https://www.meetup.com/ru-RU/Bitcoin-HK/events/270269664/" class="card-date" target="_blank">
+			<a href="/committees/mining/" class="card-date" target="_blank">
 				<p>Mining</p>
 				<span>
 					<img src="/images/card-calendar.svg" alt="">

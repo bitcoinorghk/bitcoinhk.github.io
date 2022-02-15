@@ -1218,6 +1218,7 @@ footer {
     }
   }
 
+  // Members [page]
   .join {
     .first {
       display: grid;
@@ -1562,6 +1563,7 @@ footer {
     }
   }
 
+  // Committees [page]
   .committees {
     a.nbtn {
       font-weight: 500;
@@ -1694,6 +1696,192 @@ footer {
         &:first-child .contact{
           display: block;
         }
+      }
+    }
+  }
+
+  // 21.12.2021
+  // Mining [page]
+  .mining {
+    .first {
+      display: grid;
+      grid-template-columns: 50% 50%;
+      box-sizing: border-box;
+      padding-bottom: 20px;
+      grid-row-gap: 40px;
+      img {
+        justify-self: end;
+      }
+      .content {
+        h5 {
+          padding: 15px 0; 
+          font-size: 18px;
+        }
+        a{
+          border: 1px solid #FF0700;
+          font-weight: 500;
+          margin-top: 40px;
+
+          &:hover {
+            background-color: $dark-red;
+            color: white;
+          }
+        }
+      }
+    }
+
+    @media screen and (max-width: $mobile + 1) {
+      .first {
+        grid-template-columns: 100%;
+        img {
+          margin: 0 auto;
+        }
+      }
+    }
+  }
+
+  .second {
+    margin: 50px 0;
+    .wrapper {
+      display: grid;
+      grid-template-columns: 30% 70%;
+      .tabs { 
+        border: 1px solid #eee;
+        .tab1 {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          padding: 16px 24px;
+          border-bottom: 1px solid #eee;
+          span {
+            font-weight: 500;
+          }
+          path {
+            fill: #eee;
+          }
+
+          &:last-child {
+            border-bottom: none;
+          }
+          
+        }
+        .current {
+          color: $dark-red;
+          border-right-color: $dark-red;
+          path {
+            fill: $dark-red;
+          }
+        }
+      }
+      .contents {
+        display: flex;
+        align-items: center;
+        .content {
+          display: none;
+          padding: 23px;
+          color: #434B5C;
+          a {
+            border-bottom: none;
+          }
+          ul {
+            list-style: inside;
+            margin: 0;
+            padding: 0;
+            li {
+              color: $dark-red;
+              span {
+                color: #434B5C;
+              }
+            }
+          }
+        }
+        .current-content {
+          display: block;
+        }
+      }
+    }
+    @media screen and (max-width: $mobile + 1) {
+      .wrapper {
+        grid-template-columns: 100%;
+      }
+    }
+  }
+
+  .supported {
+    padding: 40px 0;
+    h3 {
+      padding-bottom: 40px;
+    }
+    .tabs {
+      display: flex;
+      justify-content: space-between;
+      border: 1px solid #eee;
+      .tab1 {
+        height: 52px;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-right: 1px solid #eee;
+        cursor: pointer;
+        &:last-child {
+          border-right: none;
+        }
+      }
+      .current {
+        color: $dark-red;
+        border-bottom: 1px solid $dark-red;
+      }
+    }
+    .logos {
+      padding: 20px;
+      .content {
+        align-items: center;
+        height: auto;
+        max-height: 0;
+        overflow: hidden;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        img {
+          margin: 40px 60px;
+        }
+      }
+      .current-content {
+        max-height: 1000px;
+        transition: all 2s;
+      }
+    }
+    a {
+      margin: 0 auto;
+      border: 1px solid $dark-red;
+      &:hover {
+        background-color: $dark-red;
+        color: white;
+      }
+    }
+    @media screen and (max-width: $mobile) {
+      .tabs {
+        flex-direction: column;
+        .tab1 {
+          border-right: none;
+          border-bottom: 1px solid #eee;
+        }
+        .tab1.current {
+          border-bottom-color: #eee;
+          border-right: 1px solid $dark-red;
+        }
+      }
+      .logos {
+        .content {
+          justify-content: center;
+        }
+        .current-content {
+          max-height: 3500px;
+        }
+      }
+      a {
+        width: 100%;
       }
     }
   }
