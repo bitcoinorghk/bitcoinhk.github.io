@@ -63,6 +63,8 @@ Some of the larger operators of Hong Kong Bitcoin ATMs include:
 
 **[Nitroswap](https://nitroswap.com/location-2/index.html)**: (Causeway Bay, Kwun Tong, Mong Kok, Po Lam, Sham Shui Po, Tsim Sha Tsui, Tuen Mun, Yuen Long)
 
+**[Q9 Capital](https://www.q9capital.com/en)**: Q9 Crypto Hub, G/F 9 Queen's Road Central, Central
+
 ### Bitcoin Exchanges
 
 Buying Bitcoin on exchanges is usually the cheapest option in terms of fees and is relatively fast and convenient too. But it often requires a few days to set up an account and get verified, and you can expect exchanges based in Hong Kong to ask for your personal information like HKID or address proof before you can start using their accounts.
