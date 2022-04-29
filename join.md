@@ -152,6 +152,8 @@ navigation: "visible"
 	<img src="/media/org/bach.png" alt="logo">
 	<img src="/media/org/bck.svg" alt="logo">
 	<img src="/media/org/ffm.svg" alt="logo">
+ <img src="/media/org/bitcoin_malta.jpg" width="200" height="100" alt="logo">
+
       </div>
       <div id="com" class="content">
 	<img src="/media/media/jinse.svg" alt="logo">
@@ -160,6 +162,7 @@ navigation: "visible"
 	<img src="/media/media/coindesk.svg" alt="logo">
 	<img src="/media/media/cointelegraph.svg" alt="logo">
 	<img src="/media/media/forkast.png" alt="logo">
+  	<img src="/media/media/bitcoin_news.jpg" width="200" height="100" alt="logo">
       </div>
     </div>
     <a href="/members/" class="nbtn">Members</a>
