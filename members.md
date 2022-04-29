@@ -23,17 +23,20 @@ navigation: "visible"
 	<div id="corp" class="content">
       	<img src="/media/corp/aax.png" alt="aax logo">
       	<img src="/media/corp/anx.png" alt="anx logo">
-		<img src="/media/corp/atum.png" alt="atum logo">
-		<img src="/media/corp/coinunited.png" alt= "coinunited logo">
-		<img src="/media/corp/daemon.png" alt= "daemon logo">
-		<img src="/media/corp/edge.png" alt="edge logo">
-		<img src="/media/corp/etoro.png" alt="etoro logo">
-		<img src="/media/corp/gb.png" alt="genesis block logo">
-		<img src="/media/corp/hkbitcoinatm.png" alt="hk bitcoin atm logo">
-		<img src="/media/corp/nil.png" alt="nil logo">
-		<img src="/media/corp/onesatoshi.png" alt="nil logo">
-		<img src="/media/corp/salg.svg" alt="salg logo">
-		<img src="/media/corp/hashkey.png" alt="hashkey logo">
+
+	<img src="/media/corp/atum.png" alt="atum logo">
+	<img src="/media/corp/coinunited.png" alt= "coinunited logo">
+	<img src="/media/corp/daemon.png" alt= "daemon logo">
+	<img src="/media/corp/edge.png" alt="edge logo">
+	<img src="/media/corp/etoro.png" alt="etoro logo">
+	<img src="/media/corp/gbcai.png" alt="gbcai logo">
+	<img src="/media/corp/gb.png" alt="genesis block logo">
+	<img src="/media/corp/hkbitcoinatm.png" alt="hk bitcoin atm logo">
+	<img src="/media/corp/nil.png" alt="nil logo">
+	<img src="/media/corp/onesatoshi.png" alt="nil logo">
+	<img src="/media/corp/salg.svg" alt="salg logo">
+  <img src="/media/corp/hashkey.png" alt="hashkey logo">
+
 	</div>
 	<div id="org" class="content  current-content">
 		<img src="/media/org/adam.svg" alt="logo">

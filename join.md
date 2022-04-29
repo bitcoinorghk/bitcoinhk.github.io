@@ -139,6 +139,7 @@ navigation: "visible"
 	<img src="/media/corp/daemon.png" alt= "daemon logo">
 	<img src="/media/corp/edge.png" alt="edge logo">
 	<img src="/media/corp/etoro.png" alt="etoro logo">
+	<img src="/media/corp/gbcai.png" alt="gbcai logo">
 	<img src="/media/corp/gb.png" alt="genesis block logo">
 	<img src="/media/corp/hkbitcoinatm.png" alt="hk bitcoin atm logo">
 	<img src="/media/corp/nil.png" alt="nil logo">
