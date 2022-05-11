@@ -1,11 +1,11 @@
 ---
 layout: "page"
-title: "Committees"
+title: "Resources"
 caption: "Lead"
-subtitle: "Organize & Lead"
+subtitle: "Resources"
 icon: "user"
 background: " url(/images/founding-day.jpeg) #FF0000"
-permalink: "/committees/"
+permalink: "/resources/"
 navigation: "visible"
 ---
 

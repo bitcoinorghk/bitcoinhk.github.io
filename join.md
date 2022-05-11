@@ -45,7 +45,7 @@ navigation: "visible"
             <p>Education</p>
             <span>03</span>
           </div>
-          <p>Learn and educate in Hong Kong </p>
+          <p>Learn and educate in Hong Kong and APAC </p>
         </div>
       </div>
       <div>
@@ -67,17 +67,17 @@ navigation: "visible"
         </div>
       </div>
       <div>
-        <div class="elem">
-          <div class="elem-header">
-            <p>Committees</p>
+      <div class="elem">
+        <div class="elem-header">
+            <p>Resources</p>
             <span>06</span>
           </div>
-          <p>Shape the industry working with committees and leading innovation </p>
+          <p>Explore and build with our services. Shape the industry, lead innovation.
+           </p>
         </div>
       </div>
     </div>
   </div>
-
   <div class="third">
     <div class="slider">
       <div>
@@ -108,6 +108,7 @@ navigation: "visible"
             <ul>
               <li><span>Listing on the website </span></li>
               <li><span>Access to members-only events</span></li>
+              <li><span>Access to members only services</span></li>
             </ul>
             <a href="https://join.bitcoin.org.hk/Indiv">Sign up</a>
           </div>
