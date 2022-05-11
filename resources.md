@@ -258,7 +258,7 @@ navigation: "visible"
 						</defs>
 					</svg>
 				</a>
-				<a href="https://www.linkedin.com/in/julianmb/?originalSubdomain=hk" target="_blank">
+				<a href="" target="_blank">
 					<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
 						<g clip-path="url(#clip0)">
 						<path d="M23.9938 24.0002V23.9992H23.9998V15.1972C23.9998 10.8912 23.0728 7.57422 18.0388 7.57422C15.6188 7.57422 13.9948 8.90222 13.3318 10.1612H13.2618V7.97622H8.48877V23.9992H13.4588V16.0652C13.4588 13.9762 13.8548 11.9562 16.4418 11.9562C18.9908 11.9562 19.0288 14.3402 19.0288 16.1992V24.0002H23.9938Z" />
