@@ -1,20 +1,96 @@
 ---
-layout: "page"
-title: "Resources"
-caption: "Lead"
-subtitle: "Resources"
-icon: "user"
-background: " url(/images/founding-day.jpeg) #FF0000"
-permalink: "/resources/"
-navigation: "visible"
+layout: 'page'
+title: 'Resources'
+caption: 'Lead'
+subtitle: 'Resources'
+icon: 'user'
+background: ' url(/images/founding-day.jpeg) #FF0000'
+permalink: '/resources/'
+navigation: 'visible'
 ---
 
 <div class="committees">
 
 <div class="head">
-	<p class="header">Committees & Working Groups</p>
+	<p class="header">Services</p>
+</div>
+<div class="main">
+	<div class="card">
+	<div class="card-header show">
+		<img src="/images/btcpay.png" alt=""/>
+			<ul>
+			<li> <a href="https://amboss.space/node/038ff6ec3fb52c23f1ea2f341bd7f9dd899766380750e4ce8c76bf12e11e1bf9a1"> Lightning Node information (Amboss)</a></li>
+			<li> <a href="https://btcpay.bitcoin.org.hk/"> Btcpay server </a></li>
+			<li> <a href="https://fast.laisee.org/"> LNBits server </a></li>
+			<li> <a href="https://blocks.bitcoin.org.hk/"> Block Explorer</a> </li>
+			<li> <a href="https://sats.bitcoin.org.hk/"> Sats to HKD explorer</a> </li>
+			<li> <a href="https://laisee.org"> The Laisee Project</a> </li>
+			<li> <a href=""> P2P trading room (Members only) </a></li>
+			</ul>
+	</div>
+</div>
+</div>
+
+<div class="head">
+	<p class="header">Communications</p>
+</div>
+
+<div class="contact">
+	<div class="card">
+	 <div class="text">
+			<div>
+			<b>Bitcoin Hong Kong Global News 香港比特幣環球新聞 </b>
+			<p>
+			News about Bitcoin and Blockchains from and about Hong Kong and Global. 
+			<a href="https://t.me/bitcoinorghk">https://t.me/bitcoinorghk</a>
+			</p>
+			</div>
+			<div>
+			<b>Bitcoin HK Announcements: </b> 
+			<p>
+			Interesting events on Bitcoin, Cryptocurrency and Blockchain in Hong Kong. <a href="https://t.me/bitcoinhk">https://t.me/bitcoinhk</a>
+			</p>
+			</div>		
+	</div>
+	<div class="card">
+		<div class="text">
+			<div>
+			<b>Bitcoin Association of Hong Kong Main Chat room </b> 
+			<p> Our most popular chatroom where the online community gathers to discuss anything and everything. 
+			<b> Inquire for link after joining a meetup online or in person</b>
+			</p>
+			</div>
+			<div>
+			<b>Bitcoin Members Only Private chat group</b>
+			<p> Our members only meetup room where special members only events take place. Get the insider scoop by joining today. <b> Inquire for link after paying membership dues.</b></p>
+			</div>
+		</div>
+	</div>
+		<div class="card">
+		<div class="text">
+			<div>
+			<b>Bitcoin HK Helpdesk 香港比特幣支援小組 </b> 
+			<p> New to bitcoin? Unsure where to start? Have questions about becoming a member? 
+				Ask here: <a href="https://t.me/bitcoinhelpdesk"> https://t.me/bitcoinhelpdesk</a></p>
+			</div>
+			<div>
+				<b>Online Bitcoin Meetup & News - BTC HK </b> 
+				<p> Meetup with other bitcoin ethusiasts over a public chatroom
+				<a href="https://t.me/+ARGtVetD47MyZDBl"> https://t.me/+ARGtVetD47MyZDBl</a>
+				</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+<div class="committees">
+<div class="head">
+	<p class="header">Committees</p>
 	<a class="nbtn head_link" href="mailto:info@bitcoin.org.hk">Co-Host & Sponsor Events</a>
 </div>
+
 <div class="main">
 	<div class="card">
 		<div class="card-header show">
@@ -23,7 +99,6 @@ navigation: "visible"
 				<p>RegTech</p>
 				<span>
 					<img src="/images/card-calendar.svg" alt="">
-					5 Nov 2020
 				</span>
 			</a>
 		</div>
@@ -76,7 +151,6 @@ navigation: "visible"
 				<p>Mining</p>
 				<span>
 					<img src="/images/card-calendar.svg" alt="">
-					5 Nov 2020
 				</span>
 			</a>
 		</div>
@@ -129,7 +203,6 @@ navigation: "visible"
 				<p>Devs</p>
 				<span>
 					<img src="/images/card-calendar.svg" alt="">
-					5 Nov 2020
 				</span>
 			</a>
 		</div>
@@ -182,7 +255,6 @@ navigation: "visible"
 				<p>Trading </p>
 				<span>
 					<img src="/images/card-calendar.svg" alt="">
-					5 Nov 2020
 				</span>
 			</a>
 		</div>
