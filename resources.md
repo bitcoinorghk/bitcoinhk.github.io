@@ -9,7 +9,7 @@ permalink: '/resources/'
 navigation: 'visible'
 ---
 
-<div class="committees">
+<div class="resources">
 		<h2>Services</h2>
 	<div>
 			<p>A list of cutting edge services and projects we build for education, utility, and experiment.</p>
@@ -69,7 +69,7 @@ navigation: 'visible'
 </div>
 
 
-<div class="committees">
+<div class="resources">
 	<div class="head">
 		<p class="header">Communications</p>
 	</div>
@@ -138,7 +138,7 @@ navigation: 'visible'
 	</div>
 </div>
 
-<div class="committees">
+<div class="resources">
 <div class="head">
 	<p class="header">Committees</p>
 	<a class="nbtn head_link" href="mailto:info@bitcoin.org.hk">Co-Host & Sponsor Events</a>
