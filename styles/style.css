@@ -3948,19 +3948,19 @@ footer .centre .wrapper .text .links a:hover {
   }
 }
 
-.committees a.nbtn {
+.resources a.nbtn {
   font-weight: 500;
   font-size: 18px;
   border: 1px solid #E60600;
 }
 
-.committees a.nbtn:hover {
+.resources a.nbtn:hover {
   color: white;
   background-color: #E60600;
   border: 1px solid #E60600;
 }
 
-.committees .head {
+.resources .head {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -3972,22 +3972,22 @@ footer .centre .wrapper .text .links a:hover {
           align-items: center;
 }
 
-.committees .head p.header {
+.resources .head p.header {
   font-weight: bold;
   font-size: 32px;
   margin-bottom: 40px;
   line-height: 38px;
 }
 
-.committees a {
+.resources a {
   border-bottom: none;
 }
 
-.committees a:hover {
+.resources a:hover {
   border-bottom: none;
 }
 
-.committees .main {
+.resources .main {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -3998,7 +3998,7 @@ footer .centre .wrapper .text .links a:hover {
           justify-content: space-between;
 }
 
-.committees .main .card {
+.resources .main .card {
   width: 360px;
   margin-bottom: 40px;
   display: -webkit-box;
@@ -4010,7 +4010,7 @@ footer .centre .wrapper .text .links a:hover {
           flex-direction: column;
 }
 
-.committees .main .card .card-header .card-date {
+.resources .main .card .card-header .card-date {
   padding: 0 24px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -4025,11 +4025,11 @@ footer .centre .wrapper .text .links a:hover {
   border-bottom: 1px solid #eee;
 }
 
-.committees .main .card .card-header .card-date p {
+.resources .main .card .card-header .card-date p {
   font-weight: 600;
 }
 
-.committees .main .card .card-header .card-date span {
+.resources .main .card .card-header .card-date span {
   font-size: 18px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -4040,16 +4040,16 @@ footer .centre .wrapper .text .links a:hover {
   color: black;
 }
 
-.committees .main .card .card-header .card-date span img {
+.resources .main .card .card-header .card-date span img {
   padding-right: 8px;
 }
 
-.committees .main .card .card-header .card-date:hover {
+.resources .main .card .card-header .card-date:hover {
   color: #E60600;
   border-bottom: 1px solid #eee;
 }
 
-.committees .main .card .contact .contact-person {
+.resources .main .card .contact .contact-person {
   padding: 0 24px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -4062,29 +4062,29 @@ footer .centre .wrapper .text .links a:hover {
           align-items: center;
 }
 
-.committees .main .card .contact .contact-person span {
+.resources .main .card .contact .contact-person span {
   color: #E60600;
   font-weight: 600;
 }
 
-.committees .main .card .links {
+.resources .main .card .links {
   border-bottom: 1px solid #eee;
   padding: 0 24px 24px;
 }
 
-.committees .main .card .links a {
+.resources .main .card .links a {
   padding-right: 16px;
 }
 
-.committees .main .card .links a svg path {
+.resources .main .card .links a svg path {
   fill: #515151;
 }
 
-.committees .main .card .links a:hover svg path {
+.resources .main .card .links a:hover svg path {
   fill: #E60600;
 }
 
-.committees .main .card .tags {
+.resources .main .card .tags {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -4093,7 +4093,7 @@ footer .centre .wrapper .text .links a:hover {
   padding: 24px;
 }
 
-.committees .main .card .tags span {
+.resources .main .card .tags span {
   margin: 0 10px 10px 0;
   padding: 3px 8px;
   color: #FF0700;
@@ -4103,23 +4103,23 @@ footer .centre .wrapper .text .links a:hover {
 }
 
 @supports not (-ms-ime-align: auto) {
-  .committees .main {
+  .resources .main {
     -webkit-box-pack: space-evenly;
         -ms-flex-pack: space-evenly;
             justify-content: space-evenly;
   }
 }
 
-.committees .foot_link {
+.resources .foot_link {
   display: none;
   margin: 0 auto;
 }
 
 @media screen and (max-width: 768px) {
-  .committees .head_link {
+  .resources .head_link {
     display: none;
   }
-  .committees .foot_link {
+  .resources .foot_link {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -4127,13 +4127,13 @@ footer .centre .wrapper .text .links a:hover {
 }
 
 @media screen and (max-width: 767px) {
-  .committees p.header {
+  .resources p.header {
     text-align: center;
   }
-  .committees .main .card .contact {
+  .resources .main .card .contact {
     display: none;
   }
-  .committees .main .card:first-child .contact {
+  .resources .main .card:first-child .contact {
     display: block;
   }
 }
