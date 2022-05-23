@@ -1,4 +1,4 @@
-# Readme - How to create the timeline and publish on the blog
+# README - How to create the timeline and publish on the blog
 
 1. Read the directions on how to install the regulatory timeline, visit
 https://timeline.knightlab.com/
