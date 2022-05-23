@@ -8,3 +8,5 @@ https://timeline.knightlab.com/
 4. Add xls sheet's shared link to https://timeline.knightlab.com/#make
 5. Copy published link and add it to bitcoinhk.github.io blog post 
 Current live example is : https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=11hds_oqM0Ru1d8T5CeNE7r0XfUcH7tMFMtyGUUrW9e8&font=Default&lang=en&initial_zoom=2&height=650 
+
+6. update timeline link in the blog post - https://github.com/bitkarrot/bitcoinhk.github.io/blob/master/_posts/2017-08-27-hong-kong-bitcoin-regulation.md
