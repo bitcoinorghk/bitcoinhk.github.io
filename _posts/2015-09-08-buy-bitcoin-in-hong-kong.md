@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Buy Bitcoin in Hong Kong
-date: "2022-03-22 02:00:00"
+date: "2022-06-01 02:00:00"
 permalink: /buy-bitcoin-in-hong-kong/
 author: liongrass
 published: true
@@ -12,7 +12,7 @@ redirect_from:
 
 ---
 
-last updated: 2022-03-22 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoin-in-hong-kong.md)
+last updated: 2022-06-01 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoin-in-hong-kong.md)
 
 ## Buying Bitcoin in Hong Kong
 
@@ -72,10 +72,13 @@ Please note that Bitcoin exchanges are not to be treated as banks. We recommend 
 
 #### Hong Kong Exchanges
 
-There is currently one exchange with local Hong Kong bank accounts.
+There are currently two exchange that serve the local Hong Kong market. A third exchange, Liquid (see below), also offers a BTC/HKD trading pair from Japan.
 
 **[Tidebit](https://www.tidebit.com/)**
-Tidebit is the newest of Hong Kong Bitcoin exchanges. You can deposit cash for free or via wire transfer for a 2% fee.
+Tidebit is an established Hong Kong Bitcoin exchange. You can deposit cash or wire transfer. Bitcoin withdrawals carry a sizable fee.
+
+**[iBTC](https://ibtc.com.hk)**
+iBTC is a Hong Kong Bitcoin exchange with low fees and small trading sizes. They are affiliated with BTC Shop listed below.
 
 #### OTC Exchanges
 
@@ -113,8 +116,8 @@ The OTC desk of CoinUnited operates an easily accessible location for OTC trades
 
 Some exchanges overseas serve the Hong Kong market. Wire transfers to these exchanges are more expensive, but often more reliable and there is significantly more market depth. Disputes however cannot easily be resolved through the Hong Kong legal system and can quickly become complicated and expensive to resolve.
 
-**[Quoine](https://www.quoine.com/)**
-Quoine is a Japanese exchange that offers HKD deposits into their Japanese bank accounts and HKD trading.
+**[Liquid](https://www.liquid.com/)**
+Liquid is a Japanese exchange that offers HKD deposits into their Japanese bank accounts and HKD trading.
 
 **[Gemini](https://gemini.com/)**
 Gemini is a New York exchange that specializes on large volumes. It only accepts USD deposits and trading.
@@ -129,15 +132,11 @@ Pee-to-peer Exchanges don't have their own bank accounts. Instead, buyers and se
 **[Binance](https://c2c.binance.com/en/trade/buy/BTC)**
 Binance is mostly known for its popular online exchange, where it offers a range of products, including a popular P2P listing. Be sure to select HKD and only deal with traders with the highest satisfaction rates.
 
-
 **[Paxful](https://paxful.com/)**
 Paxful is a peer-to-peer exchange based in Estonia. Hong Kong-based users can trade with each others and use a variety of payment methods including bank wires and deposits, gift cards, Alipay and PayMe.
 
 **[XanPool](https://xanpool.com/)**
 XanPool allows you to easily buy and sell Bitcoin in Hong Kong and Singapore using PayMe. Funds are not held in custody by the exchange.
-
-**[Localbitcoins](https://localbitcoins.com/country/HK)**
-Localbitcoins is a peer-to-peer exchange managed from Finland.
 
 **[Bisq](https://bisq.network/)**
 Bisq (formerly Bitsquare) is not a company, and is not run by anybody. Instead it acts as a network of users, which you can join by downloading the Bitsquare software. This software might be experimental at times, but shows promise in leading the way to a truly decentralized future.
