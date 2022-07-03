@@ -62,7 +62,7 @@ navigation: 'visible'
    <div class="first">
     	<div class="content">
 			<h4>P2P trading room</h4>
-			<p>The Bitcoin Association of Hong Kong hosts its own p2p bitcoin virtual trading room with the assistance of bahk bot, a tool for broadcasting trades, and converting currencies.</p>
+			<p>The Bitcoin Association of Hong Kong hosts its own private p2p bitcoin virtual trading room with tools for broadcasting trades, and converting currencies.</p>
 		</div>
     	<img src="/images/comm5.png" alt="Trading chart">  
    </div>
