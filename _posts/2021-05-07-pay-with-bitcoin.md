@@ -22,7 +22,7 @@ id="btcmap"
 title="BTC Map"
 width="100%" height="480"
 allowfullscreen="true"
-src="https://btcmap.org/map"
+src="https://www.btcmap.org/map?lat=22.3486&long=114.2705&lat=22.2485&long=114.0656"
 ></iframe>
 
 ### For consumers
