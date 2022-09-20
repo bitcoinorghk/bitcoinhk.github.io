@@ -17,7 +17,13 @@ last updated: 2021-05-07 [version history](https://github.com/bitcoinhk/bitcoinh
 
 We love Bitcoin. We buy Bitcoin, we earn our wages in Bitcoin, and we like to accept Bitcoin. Some businesses in Hong Kong do, here's how you can spend your Bitcoin in Hong Kong.
 
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1SG7zsgk0ZDjGfWv0Z99CN-c5eHZIsZOY" width="100%" height="480"></iframe>
+<iframe
+id="btcmap"
+title="BTC Map"
+width="100%" height="480"
+allowfullscreen="true"
+src="https://btcmap.org/map"
+></iframe>
 
 ### For consumers
 

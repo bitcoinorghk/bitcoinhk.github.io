@@ -2,7 +2,7 @@
 layout: meetup
 title: Central Bitcoin Meetup 中環比特幣聚會
 date: "2022-01-06 19:00:00"
-permalink: "/2022-12-monthly-central-meetup/"
+permalink: "/2022-01-monthly-central-meetup/"
 host: Bitcoin Association of Hong Kong
 address: Fringe Vault, Basement, 2 Lower Albert Road, Central, Hong Kong
 link: "https://www.meetup.com/Bitcoin-HK/events/dvzqqsydccbjb/"
