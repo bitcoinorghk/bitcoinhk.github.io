@@ -1,8 +1,8 @@
 {
-  "callback": "https://send.laisee.org/lnurlp/api/v1/lnurl/cb/13", 
-  "commentAllowed": 30, 
-  "maxSendable": 100000000, 
-  "metadata": "[[\"text/plain\", \"leo@bitcoin.org.hk\"]]", 
-  "minSendable": 1000, 
-  "tag": "payRequest"
+  "tag":"payRequest",
+  "callback":"https://fast.laisee.org/lnurlp/api/v1/lnurl/cb/212",
+  "minSendable":1000000,
+  "maxSendable":1000000000,
+  "metadata":"[[\"text/plain\", \"leo@bitcoin.org.hk\"]]",
+  "commentAllowed":30
 }
