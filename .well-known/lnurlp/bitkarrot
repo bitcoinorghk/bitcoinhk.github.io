@@ -1,8 +1,8 @@
 {
-  "callback": "https://fast.laisee.org/lnurlp/api/v1/lnurl/cb/199", 
-  "commentAllowed": 100, 
-  "maxSendable": 100000000, 
-  "metadata": "[[\"text/plain\", \"BAHK Aug 2022 Paylink\"]]", 
-  "minSendable": 10000, 
-  "tag": "payRequest"
+  "tag":"payRequest",
+  "callback":"https://fast.laisee.org/lnurlp/api/v1/lnurl/cb/199",
+  "minSendable":10000,
+  "maxSendable":100000000,
+  "metadata":"[[\"text/plain\", \"bitkarrot@bitcoin.org.hk\"]]",
+  "commentAllowed":100
 }
