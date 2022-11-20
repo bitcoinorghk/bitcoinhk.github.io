@@ -87,14 +87,8 @@ For larger amounts, you can go to an OTC Exchange, or broker. A broker will give
 **[OSL](https://www.osl.com/)**
 Institutional clients only.
 
-**[Genesis Block](https://www.genesisblockhk.com/)**
-Opened in September 2017 in Wan Chai, the Genesis Block functions as an OTC trading hub as well as an event space.
-
 **[Circle Trading](https://www.circletrading.com/)**
 Circle is a Boston-based financial services firm most popular for their money transfer app. They opened a Bitcoin OTC trading desk in Hong Kong in November 2017.
-
-**[AAX](https://www.aax.com/otc/home)**
-The OTC desk of AAX exchanges HKD, USD and CNY to Bitcoin and offers a variety of payment methods, including FPS, WeChat or Alipay.
 
 **[Q9 Capital](https://www.q9capital.com)**
 Q9 Capital is the digital assets arm of Henyep Group. It provides 24/7 live OTC executable streaming prices.
