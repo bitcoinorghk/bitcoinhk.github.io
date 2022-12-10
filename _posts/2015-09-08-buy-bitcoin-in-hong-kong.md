@@ -110,9 +110,6 @@ The OTC desk of CoinUnited operates an easily accessible location for OTC trades
 
 Some exchanges overseas serve the Hong Kong market. Wire transfers to these exchanges are more expensive, but often more reliable and there is significantly more market depth. Disputes however cannot easily be resolved through the Hong Kong legal system and can quickly become complicated and expensive to resolve.
 
-**[Liquid](https://www.liquid.com/)**
-Liquid is a Japanese exchange that offers HKD deposits into their Japanese bank accounts and HKD trading.
-
 **[Gemini](https://gemini.com/)**
 Gemini is a New York exchange that specializes on large volumes. It only accepts USD deposits and trading.
 
