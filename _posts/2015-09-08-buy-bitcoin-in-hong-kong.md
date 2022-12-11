@@ -12,7 +12,7 @@ redirect_from:
 
 ---
 
-last updated: 2022-06-01 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoin-in-hong-kong.md)
+last updated: 2022-12-11 [version history](https://github.com/bitcoinhk/bitcoinhk.github.io/commits/master/_posts/2015-09-08-buy-bitcoin-in-hong-kong.md)
 
 ## Buying Bitcoin in Hong Kong
 
@@ -53,7 +53,7 @@ You can find an up-to-date map of Hong Kong Bitcoin ATMs and their operators thr
 
 Some of the larger operators of Hong Kong Bitcoin ATMs include:
 
-**[CoinHere](https://coinhere.io/atm-locations/)**: (Ap Lei Chau, Causeway Bay, Cheung Chau, Cheung Sha Wan, Happy Valley, Hung Hom, Jordan, Kowloon Bay, Kowloon City, Kwai Fong, Kwun Tong, Lai Chi Kok, Ma On Shan, Mong Kok, Ngau Tau Kok, North Point, Prince Edward, Sai Kung, Sai Wan, Sai Ying Pun, Sham Shui Po, Sheung Shui, Sheung Wan, Tai Kok Tsui, Tai Wai, Tseung Kwan O, Tsim Sha Tsui, Tsuen Wan, Tuen Mun, Wan Chai, Yau Ma Tei, Yuen Long)
+**[CoinHero](https://coinhero.hk/en/atm-locations/)**: (Ap Lei Chau, Causeway Bay, Cheung Chau, Cheung Sha Wan, Happy Valley, Hung Hom, Jordan, Kowloon Bay, Kowloon City, Kwai Fong, Kwun Tong, Lai Chi Kok, Ma On Shan, Mong Kok, Ngau Tau Kok, North Point, Prince Edward, Sai Kung, Sai Wan, Sai Ying Pun, Sham Shui Po, Sheung Shui, Sheung Wan, Tai Kok Tsui, Tai Wai, Tseung Kwan O, Tsim Sha Tsui, Tsuen Wan, Tuen Mun, Wan Chai, Yau Ma Tei, Yuen Long)
 
 **[CoinUnited](https://coinunited.io/atm)**: (Causeway Bay, Chai Wan, Jordan, Hung Hom, Kennedy Town, Kwung Tong, Mid-levels, Mong Kok, North Point, Sai Wan Ho, Sai Ying Pun, Sheung Wan, Tai Kok Tsui, Tin Hau, To Kwan Wan, Tsing Yi, Tsim Sha Tsui, Wan Chai)
 
