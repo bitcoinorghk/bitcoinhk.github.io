@@ -1,0 +1,9 @@
+{
+  "names": {
+    "leo": "80482e60178c2ce996da6d67577f56a2b2c47ccb1c84c81f2b7960637cb71b78",
+    "gareth.hayes": "d91191e30e00444b942c0e82cad470b32af171764c2275bee0bd99377efd4075"
+  },
+  "relays": {
+    "80482e60178c2ce996da6d67577f56a2b2c47ccb1c84c81f2b7960637cb71b78": [ "wss://nostr.rocks" , "wss://relayer.fiatjaf.com" ]
+  }
+}
