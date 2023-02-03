@@ -1,7 +1,8 @@
 {
   "names": {
     "leo": "80482e60178c2ce996da6d67577f56a2b2c47ccb1c84c81f2b7960637cb71b78",
-    "gsovereignty": "d91191e30e00444b942c0e82cad470b32af171764c2275bee0bd99377efd4075"
+    "gsovereignty": "d91191e30e00444b942c0e82cad470b32af171764c2275bee0bd99377efd4075",
+    "olga.k": "ae8111c3a6cd81fc2aa45146894803bb66fa0d28446c0361cdeb00036b15249b"
   },
   "relays": {
     "80482e60178c2ce996da6d67577f56a2b2c47ccb1c84c81f2b7960637cb71b78": [ "wss://relay.damus.io" , "wss://relayer.fiatjaf.com" ],
