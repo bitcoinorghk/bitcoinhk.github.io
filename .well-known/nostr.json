@@ -3,7 +3,8 @@
     "leo": "80482e60178c2ce996da6d67577f56a2b2c47ccb1c84c81f2b7960637cb71b78",
     "gsovereignty": "d91191e30e00444b942c0e82cad470b32af171764c2275bee0bd99377efd4075",
     "olga.k": "ae8111c3a6cd81fc2aa45146894803bb66fa0d28446c0361cdeb00036b15249b",
-    "gasull": "eef1b169dd30d68b6e28f496b8b6d9ee6d7b3618be7f9b15d42420e49ae0f573"
+    "gasull": "eef1b169dd30d68b6e28f496b8b6d9ee6d7b3618be7f9b15d42420e49ae0f573",
+    "sam.l": "d2d4028904bc073658a9ede97840d39d176d5362012638568c9f10797ff099c9"
   },
   "relays": {
     "80482e60178c2ce996da6d67577f56a2b2c47ccb1c84c81f2b7960637cb71b78": [ "wss://relay.damus.io" , "wss://relayer.fiatjaf.com" ],
