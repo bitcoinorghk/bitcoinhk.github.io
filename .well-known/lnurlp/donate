@@ -1,0 +1,8 @@
+{
+"tag":"payRequest",
+"callback":"https://ln.laisee.org/lnurlp/api/v1/lnurl/cb/Zww2or",
+"minSendable":1000000,
+"maxSendable":1000000000,
+"metadata":"[[\"text/plain\", \"donate@bitcoin.org.hk\"]]",
+"commentAllowed":30
+}
