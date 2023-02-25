@@ -50,12 +50,12 @@ You can donate money here using the Lightning network!
 </dl>
 </div>
 
-Donate satoshis via a static [lnurl Lightning invoice](https://github.com/fiatjaf/awesome-lnurl), directly to our node via [LNbits](https://lnbits.org/).
+Donate satoshis via a static lnurl Lightning invoice, directly to our node. Or make use of our Lightning address [donate@bitcoin.org.hk](lightning:LNURL1DP68GURN8GHJ7MRW9EKXZ6TNV4JJUMMJVUHKCMN4WFK8QTMFXGURV6TE08QRGY)
 
-![Static Lightning Donation Invoice](/media/2020/09/lnd_donation.png)
+[![Static Lightning Donation Invoice](/media/2022/02/lnd_donation.png)](lightning:LNURL1DP68GURN8GHJ7MRW9EKXZ6TNV4JJUMMJVUHKCMN4WFK8QTMFXGURV6TE08QRGY)
 {:.text-center}
 
-lnurl1dp68gurn8ghj7cnfw3ejucnfw33k76tw9ehhyeewdp4j7mrww4excup0v9cxjtmkxyhkcmn4wfkz7dgpaa6w7
+[LNURL1DP68GURN8GHJ7MRW9EKXZ6TNV4JJUMMJVUHKCMN4WFK8QTMFXGURV6TE08QRGY](lightning:LNURL1DP68GURN8GHJ7MRW9EKXZ6TNV4JJUMMJVUHKCMN4WFK8QTMFXGURV6TE08QRGY)
 
 To open up a channel with your node, you can find it with the key _038ff6ec3fb52c23f1ea2f341bd7f9dd899766380750e4ce8c76bf12e11e1bf9a1_ at _@172.81.181.220:9735_ or _@6p5bw3wvy22tneyhsc4dmnyxr5yq4qt5erhnobzeb2megakj7f4twyad.onion:9735_
 
