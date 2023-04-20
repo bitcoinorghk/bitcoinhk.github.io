@@ -21,3 +21,7 @@ Ubuntu 20.04 dependencies:
 
 sudo apt install make && gcc && build-essential && rbenv
 
+OSX:
+
+As the build is different from Ubuntu, you may need to delete the Gemfile.lock file before ```bundle install``` and ```rake serve```
+
