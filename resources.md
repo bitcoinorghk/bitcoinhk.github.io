@@ -36,7 +36,7 @@ navigation: 'visible'
 			<h4>LNBits Legend</h4>
 			<p><a href="https://lnbits.com" style="border:0px;margin-top: 0px;"> LNBits</a> is a Free Open-Source Lightning Accounts System with Extensions. Run for yourself, for others, or as part of a stack. LNbits extension framework makes building easy. </p>
 		</div>
-    	<img src="/images/lnbits.png" alt="">  
+		<img src="/images/lnbits.png" alt="LNBits">
    </div>
     <div class="first">
     	<div class="content">
@@ -47,6 +47,22 @@ navigation: 'visible'
    </div>
     <div class="first">
     	<div class="content">
+			<h4>BTC Converter</h4>
+			<p>
+			A Basic Bitcoin to Fiat converter with price feeds from Coindesk. Convert between HKD, USD, GBP, EUR, CNY and Sats and Bitcoin.
+			 <a href="https://rates.bitcoin.org.hk" style="border:0px;margin-top: 0px;"> https://rates.bitcoin.org.hk </a></p>
+		</div>
+		<img src="/images/ratescalc.png" width="360px" style="border:1px solid #000" alt="BTC Converter">
+   </div>
+       <div class="first">
+	   <div class="content">
+			<h4>Stack Sats</h4>
+			<p>Find out how many Sats you can Stack with this Dollar Cost Average (DCA) calculator. Data from August 2010 until today. <a href="https://stack.bitcoin.org.hk" style="border:0px;margin-top: 0px;"> https://stack.bitcoin.org.hk </a></p>
+		</div>
+		<img src="/images/dcacalc.png" width="360px" style="border:1px solid #000" alt="Stack Sats">
+   </div>
+    <div class="first">
+		<div class="content">
 			<h4>Sats to HKD Visualization</h4>
 			<p>Watch the Sats value compared to the HKD over the life of Bitcoin. Rates are updated in real time and graph updated daily. <a href="https://sats.bitcoin.org.hk" style="border:0px;margin-top: 0px;"> https://sats.bitcoin.org.hk </a></p>
 		</div>
