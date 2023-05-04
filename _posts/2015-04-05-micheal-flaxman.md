@@ -5,7 +5,7 @@ date: "2015-02-05 19:00:00"
 permalink: "/2015-bitcoin-for-software-engineers/"
 host: Blueprint
 address: Blueprint, 17/f Cornwall House, Taikoo Place, Hong Kong
-link: "http://www.meetup.com/Bitcoin-HK/events/222177820/"
+link: "https://www.meetup.com/bitcoin-hk/events/219997152/"
 background: "#FF0000"
 published: true
 ---
