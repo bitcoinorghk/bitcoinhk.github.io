@@ -39,7 +39,7 @@ You should set up your wallet yourself. It will generate a backup 'seed' contain
 
 ### In Person
 
-As banks are more aggressively acting against Bitcoin companies, trading bitcoin in person has become more popular again in Hong Kong recently. The website [localbitcoins.com](https://localbitcoins.com/buy-bitcoins-online/hkd/) as well as the platform [Paxful](https://paxful.com/) provide plenty of offers to buy and sell. If you just need a few dollars worth to 'try it out' or 'play with', you will likely find somebody to trade at the regular [Bitcoin meetups](http://www.meetup.com/Bitcoin-HK/).
+As banks are aggressively acting against Bitcoin companies, trading bitcoin in person has always been popular in Hong Kong. If you just need a few dollars worth to 'try it out' or 'play with', you will likely find somebody to trade at the regular [Bitcoin meetups](http://www.meetup.com/Bitcoin-HK/).
 
 Some OTC exchanges (see below) also deal with cash deposits and withdrawals. Clarify with your exchange or traders beforehand what currencies, notes and payment forms they accept.
 
@@ -122,9 +122,6 @@ Pee-to-peer Exchanges don't have their own bank accounts. Instead, buyers and se
 
 **[Binance](https://c2c.binance.com/en/trade/buy/BTC)**
 Binance is mostly known for its popular online exchange, where it offers a range of products, including a popular P2P listing. Be sure to select HKD and only deal with traders with the highest satisfaction rates.
-
-**[Paxful](https://paxful.com/)**
-Paxful is a peer-to-peer exchange based in Estonia. Hong Kong-based users can trade with each others and use a variety of payment methods including bank wires and deposits, gift cards, Alipay and PayMe.
 
 **[XanPool](https://xanpool.com/)**
 XanPool allows you to easily buy and sell Bitcoin in Hong Kong and Singapore using PayMe. Funds are not held in custody by the exchange.
