@@ -77,8 +77,8 @@ navigation: 'visible'
    </div>
    <div class="first">
     	<div class="content">
-			<h4>P2P trading room</h4>
-			<p>The Bitcoin Association of Hong Kong hosts its own private p2p bitcoin virtual trading room with tools for broadcasting trades, and converting currencies.</p>
+			<h4>P2P chatroom</h4>
+			<p>The Bitcoin Association of Hong Kong hosts its own private P2P chatroom(<a href="https://t.me/bitpointhk" target="_blank" style="border:0px;margin-top: 0px;">Bit Point</a>) for communication purpose with offers broadcasting tools.</p>
 		</div>
     	<img src="/images/comm5.png" alt="Trading chart">  
    </div>
