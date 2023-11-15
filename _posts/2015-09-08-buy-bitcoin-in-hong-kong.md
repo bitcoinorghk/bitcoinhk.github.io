@@ -25,12 +25,6 @@ Unfortunately Bitcoin still does not have the legal status in Hong Kong that it 
 
 No matter how you buy your Bitcoin, always insist on having your Bitcoin delivered to your personal wallet. We do not recommend to keep Bitcoin on exchanges, with your broker, on trading platforms or as 'IOUs.' Always insist on having your Bitcoin sent to your personal Bitcoin wallet, which should not be an app provided by your exchange or broker.
 
-[![One Satoshi](https://cdn.onesatoshi.world/bitcoin-org/bitcoin-org-banner-01.jpg)](https://www.onesatoshi.world/)
-{:.text-center}
-
-Advertisement
-{:.text-center}
-
 ### Your Bitcoin wallet
 
 You can download a Bitcoin wallet on your phone and computer or buy a hardware wallet. Only download apps from trusted sources, such as the App Store and Play Store. Buy your hardware wallet only from authorized resellers or directly from the manufacturer.
