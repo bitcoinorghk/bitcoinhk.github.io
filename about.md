@@ -27,19 +27,19 @@ navigation: "visible"
       <div>
         <div class="card">
           <img src="/images/card-image.svg" alt="avatar">
-          <div class="name">Sam Lee </div>
+          <div class="name">Arthur Lai</div>
         </div>
       </div>
       <div>
         <div class="card">
           <img src="/images/card-image.svg" alt="avatar">
-          <div class="name">Clifford Choi</div>
+          <div class="name">Sam Lee</div>
         </div>
       </div>
       <div>
         <div class="card">
           <img src="/images/card-image.svg" alt="avatar">
-          <div class="name">Christina Chu</div>
+          <div class="name">Yijia Su</div>
         </div>
       </div>
      </div>
@@ -105,7 +105,7 @@ navigation: "visible"
         <div class="card first-card">
           <p>More than</p>
           <div class="stats">
-            <span class="count">250</span>
+            <span class="count">350</span>
             Events held
           </div>
         </div>
@@ -114,7 +114,7 @@ navigation: "visible"
         <div class="card second-card">
           <p>More than</p>
           <div class="stats">
-            <span class="count">6000</span>
+            <span class="count">6800</span>
             Members
           </div>
         </div>
