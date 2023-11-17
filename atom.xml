@@ -31,7 +31,6 @@ sitemap: false
   {% if post.author %}
   <author>
     <name>{{ post.author | xml_escape }}</name>
-    <uri>https://r.nametiles.co/{{ post.author }}</uri>
   </author>
   {% else %}
   <author>

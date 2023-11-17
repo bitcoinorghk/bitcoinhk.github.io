@@ -2,7 +2,7 @@
 layout: "page"
 title: "Lightning"
 caption: "Get involved"
-subtitle: "Donate money using Lightning"
+subtitle: "Donate money over the Lightning Network"
 icon: "user"
 background: "url(/media/2018/08/events.jpg) #FF0000"
 permalink: "/lightning/"
@@ -39,34 +39,76 @@ You can donate money here using the Lightning network!
     <h4> Donate with BTCPay </h4> 
     <p> This self hosted payment provider accepts either lightning or bitcoin. Select an Amount in <b> (HKD):</b> </p>
     </label>
-    <input class="form-sub" type="number" min="0" step="0.01" name="price" placeholder="100.00 HKD" value="100.00" id="numpad-1"/>
-    <input type="hidden" name="storeId" value="5fv2Vt5WEuLYBzkhFiaDN4r6xy6JdNqTbi3m1mG4ngFa" />
-    <input type="hidden" name="currency" value="HKD" />
-    <input type="hidden" name="browserRedirect" value="https://www.bitcoin.org.hk/lightning/" />
-    <input type="hidden" name="notifyEmail" value="btcpay@bitcoin.org.hk" />
-    <input type="image" src="https://btcpay.bitcoin.org.hk/img/paybutton/pay.png" name="submit" style="width:200px"  alt="Pay with BtcPay, Self-Hosted Bitcoin Payment Processor">
+<style> .btcpay-form { display: inline-flex; align-items: center; justify-content: center; } .btcpay-form--inline { flex-direction: row; } .btcpay-form--block { flex-direction: column; } .btcpay-form--inline .submit { margin-left: 15px; } .btcpay-form--block select { margin-bottom: 10px; } .btcpay-form .btcpay-custom-container{ text-align: center; }.btcpay-custom { display: flex; align-items: center; justify-content: center; } .btcpay-form .plus-minus { cursor:pointer; font-size:25px; line-height: 25px; background: #DFE0E1; height: 30px; width: 45px; border:none; border-radius: 60px; margin: auto 5px; display: inline-flex; justify-content: center; } .btcpay-form select { -moz-appearance: none; -webkit-appearance: none; appearance: none; color: currentColor; background: transparent; border:1px solid transparent; display: block; padding: 1px; margin-left: auto; margin-right: auto; font-size: 11px; cursor: pointer; } .btcpay-form select:hover { border-color: #ccc; } .btcpay-form option { color: #000; background: rgba(0,0,0,.1); } .btcpay-input-price { -moz-appearance: textfield; border: none; box-shadow: none; text-align: center; font-size: 25px; margin: auto; border-radius: 5px; line-height: 35px; background: #fff; }.btcpay-input-price::-webkit-outer-spin-button, .btcpay-input-price::-webkit-inner-spin-button { -webkit-appearance: none; margin: 0; } </style>
+<form method="POST" action="https://we.encrypt.cash/api/v1/invoices" class="btcpay-form btcpay-form--inline">
+  <input type="hidden" name="storeId" value="A3bkgCnprnHbXzKbH2SZJJws9mkoVbDPGFm4HzERUR2J" />
+  <input type="hidden" name="checkoutDesc" value="Donate to the Bitcoin Association of Hong Kong" />
+  <div class="btcpay-custom-container">
+    <div class="btcpay-custom">
+      <input class="btcpay-input-price" type="number" name="price" min="10" max="10000" step="10" value="100" data-price="10" style="width:3em;" />
+    </div>
+    <select name="currency">
+      <option value="HKD" selected>HKD</option>
+      <option value="USD">USD</option>
+      <option value="CNY">CNY</option>
+      <option value="BTC">BTC</option>
+    </select>
+  </div>
+  <input type="hidden" name="defaultPaymentMethod" value="BTC_LightningLike" />
+<button type="submit" class="submit" name="submit" style="min-width:209px;min-height:57px;border-radius:4px;border-style:none;background-color:#0f3b21;cursor:pointer;" title="Pay with BTCPay Server, a Self-Hosted Bitcoin Payment Processor"><span style="color:#fff">Donate through</span>
+<img src="https://we.encrypt.cash/img/paybutton/logo.svg" style="height:57px;display:inline-block;padding:5% 0 5% 5px;vertical-align:middle;">
+</button></form>
+<script>
+    function handlePlusMinus(event) {
+        event.preventDefault();
+        const root = event.target.closest('.btcpay-form');
+        const el = root.querySelector('.btcpay-input-price');
+        const step = parseInt(event.target.dataset.step) || 1;
+        const min = parseInt(event.target.dataset.min) || 1;
+        const max = parseInt(event.target.dataset.max);
+        const type = event.target.dataset.type;
+        const price = parseInt(el.value) || min;
+        if (type === '-') {
+            el.value = price - step < min ? min : price - step;
+        } else if (type === '+') {
+            el.value = price + step > max ? max : price + step;
+        }
+    }
+    document.querySelectorAll(".btcpay-form .plus-minus").forEach(function(el) {
+        if (!el.dataset.initialized) {
+            el.addEventListener('click', handlePlusMinus);
+            el.dataset.initialized = true;
+        }
+    });
+    
+    function handlePriceInput(event) {
+        event.preventDefault();
+        const root = event.target.closest('.btcpay-form');
+        const price = parseInt(event.target.dataset.price);
+        if (isNaN(event.target.value)) root.querySelector('.btcpay-input-price').value = price;
+        const min = parseInt(event.target.getAttribute('min')) || 1;
+        const max = parseInt(event.target.getAttribute('max'));
+        if (event.target.value < min) {
+            event.target.value = min;
+        } else if (event.target.value > max) { 
+            event.target.value = max;
+        }
+    }
+    document.querySelectorAll(".btcpay-form .btcpay-input-price").forEach(function(el) {
+        if (!el.dataset.initialized) {
+            el.addEventListener('input', handlePriceInput);
+            el.dataset.initialized = true;
+        }
+    });
+</script>
 </form>
 </dd>
 </dl>
 </div>
 
-Donate satoshis via a static lnurl Lightning invoice, directly to our node. Or make use of our Lightning address [donate@bitcoin.org.hk](lightning:LNURL1DP68GURN8GHJ7MRW9EKXZ6TNV4JJUMMJVUHKCMN4WFK8QTMFXGURV6TE08QRGY)
+Donate satoshis via a static lnurl Lightning invoice, directly to our node. Or make use of our Lightning address [donate@bitcoin.org.hk](lightning:donate@bitcoin.org.hk)
 
-[![Static Lightning Donation Invoice](/media/2022/02/lnd_donation.png)](lightning:LNURL1DP68GURN8GHJ7MRW9EKXZ6TNV4JJUMMJVUHKCMN4WFK8QTMFXGURV6TE08QRGY)
+[![Static Lightning Donation Invoice](/media/2023/11/ln_donation_small.png)](lightning:LNURL1DP68GURN8GHJ7UM9DEJZUMRPD9EK2EFWDAEXWTMVDE6HYMRS9AGKU5ZPVD8Q8WGHFC)
 {:.text-center}
 
-[LNURL1DP68GURN8GHJ7MRW9EKXZ6TNV4JJUMMJVUHKCMN4WFK8QTMFXGURV6TE08QRGY](lightning:LNURL1DP68GURN8GHJ7MRW9EKXZ6TNV4JJUMMJVUHKCMN4WFK8QTMFXGURV6TE08QRGY)
-
-To open up a channel with your node, you can find it with the key _038ff6ec3fb52c23f1ea2f341bd7f9dd899766380750e4ce8c76bf12e11e1bf9a1_ at _@172.81.181.220:9735_ or _@6p5bw3wvy22tneyhsc4dmnyxr5yq4qt5erhnobzeb2megakj7f4twyad.onion:9735_
-
-<!-- 
-<div>
-<dl>
-<dt><b> Coingate: </b></dt>
-<dd>
-<a href="https://coingate.com/pay/lightning" rel="noopener noreferrer nofollow" target="_blank"><img alt="CoinGate Payment Button" src="https://static.coingate.com/images/buttons/4.png" />
-</a>
-</dd>
-</dl>
-</div>
--->
+[LNURL1DP68GURN8GHJ7MRW9EKXZ6TNV4JJUMMJVUHKCMN4WFK8QTMFXGURV6TE08QRGY](lightning:LNURL1DP68GURN8GHJ7UM9DEJZUMRPD9EK2EFWDAEXWTMVDE6HYMRS9AGKU5ZPVD8Q8WGHFC)
