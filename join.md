@@ -219,7 +219,7 @@ navigation: "visible"
               <li><span>5 individual members</span></li>
               <li><span>Discounted prices to partner events </span></li>
             </ul>
-            <a href="https://join.bitcoin.org.hk/Org">Sign up</a>
+            <a href="https://join.bitcoin.org.hk/">Sign up</a>
           </div>
           <div class="bonus">To sign up, simply fill out the application form below. The corporate membership fee for 2023 is set at 0.0026 BTC and will be revised once per year. We will send you an email with a confirmation usually within 48h.</div>
         </div>
@@ -236,7 +236,7 @@ navigation: "visible"
               <li><span>Access to members-only events</span></li>
               <li><span>Access to members only services</span></li>
             </ul>
-            <a href="https://join.bitcoin.org.hk/Indiv">Sign up</a>
+            <a href="https://join.bitcoin.org.hk/">Sign up</a>
           </div>
           <div class="bonus">To sign up, simply fill out the application form below. The individual membership fee for 2023 is set at 0.0013 BTC and will be revised once per year. We will send you an email with a confirmation usually within 48h.</div>
         </div>
