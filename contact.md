@@ -71,11 +71,4 @@ navigation: "visible"
         </div>
    <a href="https://t.me/bitcoinhelpdesk">Volunteers from the Bitcoin Association of Hong Kong are offering answers to all your Bitcoin-related questions. Please note this group mainly operates during Hong Kong business hours. Volunteers will never send you direct messages. Never send money to anyone in this group. Available on Telegram and email (helpdesk@bitcoin.org.hk) only.</a>
   </div>
-  
-  <form class="form-sub" action="https://tinyletter.com/bitcoinhk" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/bitcoinhk', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"> 
-    <p><label for="tlemail"><b>Subscribe to our newsletter</b> to receive regular updates, events, news and articles on Bitcoin in and around Hong Kong.</label></p>
-    <input type="text" placeholder="E-mail" name="email" id="tlemail" />
-    <input type="hidden" value="1" name="embed"/>
-    <input type="submit" value="Subscribe" />
-  </form>
 </div>
