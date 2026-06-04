@@ -32,26 +32,22 @@ navigation: "visible"
   <div class="second">
     <h3>Leadership</h3>
     <p>All current directors of the Bitcoin Association of Hong Kong.</p>
-    <div class="slider slider0">
-      <div>
-        <div class="card">
-          <img src="/images/card-image.svg" alt="avatar">
-          <div class="name">Arthur Lai</div>
-        </div>
+    <div class="directors-grid">
+      <div class="card">
+        <img src="/images/director-gaelle.png" alt="Gaëlle Wizenberg">
+        <div class="name">Gaëlle Wizenberg</div>
       </div>
-      <div>
-        <div class="card">
-          <img src="/images/card-image.svg" alt="avatar">
-          <div class="name">Sam Lee</div>
-        </div>
+      <div class="card">
+        <img src="/images/director-gareth.png" alt="Gareth Hayes">
+        <div class="name">Gareth Hayes</div>
       </div>
-      <div>
-        <div class="card">
-          <img src="/images/card-image.svg" alt="avatar">
-          <div class="name">Yijia Su</div>
+      <div class="card">
+        <div class="director-placeholder">
+          <span>NS</span>
         </div>
+        <div class="name">Noah Silverman</div>
       </div>
-     </div>
+    </div>
   </div>
    <div class="third">
     <div class="wrapper">

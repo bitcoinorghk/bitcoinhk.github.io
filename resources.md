@@ -2,7 +2,7 @@
 layout: 'page'
 title: 'Resources'
 caption: 'Lead'
-subtitle: 'Services, Communications, and Commitees'
+subtitle: 'Services, Communications, and Committees'
 icon: 'user'
 background: ' url(/images/founding-day.jpeg) #FF0000'
 permalink: '/resources/'

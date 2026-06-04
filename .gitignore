@@ -13,3 +13,6 @@ node_modules
 ehthumbs.db
 Thumbs.db
 *~
+
+# Local dev (machine-specific)
+.claude/

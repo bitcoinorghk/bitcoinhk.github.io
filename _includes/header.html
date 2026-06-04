@@ -1,57 +1,30 @@
 <span id="top"></span>
-<div class="cover" style="background:{{ page.background }}">
-<div class="cover-overlay">
-  <div class="header-wrapper">
-    <div class="centre head-centre">    
-      <div class="menu">
-        <a href="/" class="nav-logo">
-        <img src="/images/bahk-logo-big-white.svg" alt="BAHK Logo">
-      </a>
-      <div class="burger">
-        <img class="open" src="\images\nav-burger.svg" alt="menu">
-        <img class="close" src="\images\nav-burger_close.svg" alt="close menu">
-      </div>
-    </div>
+<nav class="site-nav">
+  <div class="nav-inner">
+    <a href="/" class="nav-logo">
+      <img src="/images/bahk-logo-big.svg" alt="Bitcoin Association of Hong Kong">
+    </a>
 
-    <nav>
-      <a href="https://blog.bitcoin.org.hk/">
-        <div class="text">
-          <p>Bitcoin Bytes</p>
-          <span>Blog</span>
-        </div>
-        <img src="\images\nav-about.svg" alt="About">
+    <ul class="nav-menu" id="nav-menu">
+      <li><a href="https://blog.bitcoin.org.hk/">Bitcoin Bytes</a></li>
+      <li><a href="/join/">Members</a></li>
+      <li><a href="/resources/">Resources</a></li>
+      <li><a href="/meetups/">Events</a></li>
+      <li><a href="/contact/">Contact</a></li>
+    </ul>
+
+    <div class="nav-actions">
+      <a href="https://rates.bitcoin.org.hk" class="nav-price" id="nav-price" target="_blank" rel="noopener" title="Live BTC price">
+        <span class="live-dot"></span>
+        <span class="nav-price-tag">BTC</span>
+        <span id="nav-price-val">···</span>
       </a>
-      <a href="/join/">
-        <div class="text">
-          <p>Members</p>
-          <span>Join us</span>
-        </div>
-        <img src="\images\nav-members.svg" alt="Join us">
-      </a>
-      <a href="/resources/">
-        <div class="text">
-          <p>Resources</p>
-          <span>Lead</span>
-        </div>
-        <img src="\images\nav-committees.svg" alt="Resources">
-      </a>
-      <a href="/meetups/">
-        <div class="text">
-          <p>Events</p>
-          <span>Come</span>
-        </div>
-        <img src="\images\nav-events.svg" alt="Events">
-      </a>
-      <a href="/contact/">
-        <div class="text">
-          <p>Contact us</p>
-          <span>Follow</span>
-        </div>
-        <img src="\images\nav-contact.svg" alt="Contact">
-      </a>
-    </nav>
+      <a href="/lightning/" class="nav-cta">⚡ Donate</a>
+      <button class="nav-burger" id="nav-burger" aria-label="Open menu" aria-expanded="false">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
   </div>
-</div>
-  
-  <!-- COVER PHOTO CONTINUES -->
-  
+</nav>
