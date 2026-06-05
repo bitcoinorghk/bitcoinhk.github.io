@@ -2,57 +2,52 @@
 layout: "page"
 title: "Members"
 caption: "Learn more"
-subtitle: "Join us today!"
+subtitle: "The companies, organizations and media that power Bitcoin in Hong Kong."
 icon: "user"
 background: "url(/images/bahk-bg-01.jpg) #FF0000"
 permalink: "/members/"
 navigation: "visible"
 ---
-<!-- background: " url(/images/founding-day.jpeg) #FF0000" -->
 
-<div class="member">
-	<div class="tab1 corp " data-tab="corp">
-		Corporate members
-	</div>
-	<div class="tab1 org current" data-tab="org">
-		Partner Organizations
-	</div>
-	<div class="tab1 comm" data-tab="com">
-		Media
-	</div>
-	<div id="corp" class="content">
-      	<img src="/media/corp/aax.png" alt="aax logo">
-      	<img src="/media/corp/anx.png" alt="anx logo">
+<div class="member-wrap">
+  <div class="member">
+    <div class="tab1 current" data-tab="corp">Corporate Members</div>
+    <div class="tab1" data-tab="org">Partner Organizations</div>
+    <div class="tab1" data-tab="com">Media</div>
+  </div>
 
-	<img src="/media/corp/atum.png" alt="atum logo">
-	<img src="/media/corp/coinunited.png" alt= "coinunited logo">
-	<img src="/media/corp/daemon.png" alt= "daemon logo">
-	<img src="/media/corp/edge.png" alt="edge logo">
-	<img src="/media/corp/etoro.png" alt="etoro logo">
-	<img src="/media/corp/gbcai.png" alt="gbcai logo">
-	<img src="/media/corp/gb.png" alt="genesis block logo">
-	<img src="/media/corp/hkbitcoinatm.png" alt="hk bitcoin atm logo">
-	<img src="/media/corp/nil.png" alt="nil logo">
-	<img src="/media/corp/onesatoshi.png" alt="nil logo">
-	<img src="/media/corp/salg.svg" alt="salg logo">
-  <img src="/media/corp/hashkey.png" alt="hashkey logo">
-
-	</div>
-	<div id="org" class="content  current-content">
-		<img src="/media/org/adam.svg" alt="logo">
-		<img src="/media/org/bach.png" alt="logo">
-		<img src="/media/org/bck.svg" alt="logo">
-		<img src="/media/org/ffm.svg" alt="logo">
-		<a href="https://bitcoinclubmalta.com/"><img src="/media/org/bitcoin_malta.jpg" width="200" height="100" alt="logo"></a>
-	</div>
-	<div id="com" class="content">
-		<img src="/media/media/jinse.svg" alt="logo">
-		<img src="/media/media/bitcoinmagazine.png" alt="logo">
-		<img src="/media/media/chaintalk.png" alt="logo">
-		<img src="/media/media/coindesk.svg" alt="logo">
-		<img src="/media/media/cointelegraph.svg" alt="logo">
-		<img src="/media/media/forkast.png" alt="logo">
-		<a href="https://bitcoinnews.com"><img src="/media/media/bitcoin_news.jpg" width="200" height="100" alt="logo"></a>
-	</div>
-	
+  <div class="member-panels">
+    <div id="corp" class="content current-content">
+      <img src="/media/corp/aax.png" alt="AAX logo">
+      <img src="/media/corp/anx.png" alt="ANX logo">
+      <img src="/media/corp/atum.png" alt="Atum logo">
+      <img src="/media/corp/coinunited.png" alt="CoinUnited logo">
+      <img src="/media/corp/daemon.png" alt="Daemon logo">
+      <img src="/media/corp/edge.png" alt="Edge logo">
+      <img src="/media/corp/etoro.png" alt="eToro logo">
+      <img src="/media/corp/gbcai.png" alt="GBCAI logo">
+      <img src="/media/corp/gb.png" alt="Genesis Block logo">
+      <img src="/media/corp/hkbitcoinatm.png" alt="HK Bitcoin ATM logo">
+      <img src="/media/corp/nil.png" alt="Nil logo">
+      <img src="/media/corp/onesatoshi.png" alt="One Satoshi logo">
+      <img src="/media/corp/salg.svg" alt="SALG logo">
+      <img src="/media/corp/hashkey.png" alt="HashKey logo">
+    </div>
+    <div id="org" class="content">
+      <img src="/media/org/adam.svg" alt="ADAM logo">
+      <img src="/media/org/bach.png" alt="Bitcoin Association Switzerland logo">
+      <img src="/media/org/bck.svg" alt="BCK logo">
+      <img src="/media/org/ffm.svg" alt="Frankfurt School of Finance & Management logo">
+      <a href="https://bitcoinclubmalta.com/"><img src="/media/org/bitcoin_malta.jpg" width="200" height="100" alt="Bitcoin Club Malta logo"></a>
+    </div>
+    <div id="com" class="content">
+      <img src="/media/media/jinse.svg" alt="Jinse logo">
+      <img src="/media/media/bitcoinmagazine.png" alt="Bitcoin Magazine logo">
+      <img src="/media/media/chaintalk.png" alt="ChainTalk logo">
+      <img src="/media/media/coindesk.svg" alt="CoinDesk logo">
+      <img src="/media/media/cointelegraph.svg" alt="Cointelegraph logo">
+      <img src="/media/media/forkast.png" alt="Forkast logo">
+      <a href="https://bitcoinnews.com"><img src="/media/media/bitcoin_news.jpg" width="200" height="100" alt="Bitcoin News logo"></a>
+    </div>
+  </div>
 </div>
