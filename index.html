@@ -1,136 +1,256 @@
 ---
 layout: default
-background: "url(/images/bahk-nightlineHKpic.png) #FF0000"
 excerpt: "Fostering and promoting Bitcoin and its technology in Hong Kong."
 ---
 
-<header>
-  <div class="c">
-    <h1>The Bitcoin Association of Hong Kong</h1>
-    <p class="lead">香港比特幣協會</p>
+<!-- ===== HERO ===== -->
+<section class="hero-section">
+  <div class="hero-mesh" aria-hidden="true"></div>
+  <div class="hero-content">
+    <div class="hero-badge"><span class="live-dot"></span> Block&nbsp;<span id="hero-height">···</span></div>
+    <h1>Bitcoin in<br><span class="hero-accent">Hong Kong</span></h1>
+    <p class="hero-cn">香港比特幣協會</p>
+    <p class="hero-tagline">Fostering and promoting Bitcoin and its technology in Hong Kong since 2014.</p>
+    <div class="hero-btns">
+      <a href="/join/" class="btn btn-primary btn-glow">Join Us</a>
+      <a href="/meetups/" class="btn btn-outline">Upcoming Events</a>
+    </div>
   </div>
-</header>
+  <div class="hero-scroll" aria-hidden="true"><span></span></div>
+</section>
 
-<!-- END COVER -->
-</div>
-</div>
-
-<section class="home">
+<!-- ===== ORG STATS BAR (count-up) ===== -->
+<div class="stats-bar">
   <div class="c">
+    <div class="stat-item">
+      <span class="stat-num"><span class="count" data-count="350">0</span><span class="plus">+</span></span>
+      <span class="stat-label">Events Held</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-num"><span class="count" data-count="6800">0</span><span class="plus">+</span></span>
+      <span class="stat-label">Community Members</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-num"><span class="count" data-count="30">0</span><span class="plus">+</span></span>
+      <span class="stat-label">Countries Represented</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-num">Est. 2014</span>
+      <span class="stat-label">Hong Kong's longest-running Bitcoin association</span>
+    </div>
+  </div>
+</div>
 
-      <h2>Upcoming Meetups</h2>
-      <div class="meetups">
-        {% assign curDate = site.time | date: '%s' %}
-        {% for post in site.posts %}
-        {% if post.layout != "members" %}
-            {% assign postStartDate = post.date | date: '%s' %}
-            {% if postStartDate > curDate %}
-              <a class="post-link white-box" href="{{ post.url | prepend: site.baseurl }}">
-                <div class="preview" style="background:{{ post.background }}">
-                  <div class="date">
-                      <small>{{ post.date | date: "%b" }}</small>
-                      {{ post.date | date: "%-d" }}
-                  </div>
-                </div>
-                <h3>{{ post.title }}</h3>
-                <p>{{ post.date | date: "%H:%M" }} at {{ post.address }}</p>
-              </a>
-              <br>
-            {% endif %}
-            {% endif %}
-          {% endfor %}
+<!-- ===== LIVE FROM THE BLOCKCHAIN ===== -->
+<section class="live-section" id="live-bitcoin">
+  <div class="c">
+    <div class="section-header reveal">
+      <h2 class="section-title light">Live from the Blockchain
+        <span class="live-badge"><span class="live-dot"></span>LIVE</span>
+      </h2>
+      <p class="section-sub light">Real-time data straight from the Bitcoin network.</p>
+    </div>
+    <div class="live-grid">
+      <div class="live-card reveal">
+        <div class="live-icon">₿</div>
+        <div class="live-label">Bitcoin Price</div>
+        <div class="live-value" id="btc-price-usd">···</div>
+        <div class="live-sub"><span id="btc-price-hkd">···</span> &middot; <span class="live-change" id="btc-change">···</span></div>
+      </div>
+      <div class="live-card reveal">
+        <div class="live-icon">⛏️</div>
+        <div class="live-label">Block Height</div>
+        <div class="live-value" id="btc-height">···</div>
+        <div class="live-sub">Current chain tip</div>
+      </div>
+      <div class="live-card reveal">
+        <div class="live-icon">⏳</div>
+        <div class="live-label">Next Halving</div>
+        <div class="live-value" id="btc-halving">···</div>
+        <div class="live-sub" id="btc-halving-sub">calculating…</div>
+      </div>
+      <div class="live-card reveal">
+        <div class="live-icon">⚡</div>
+        <div class="live-label">Network Fees</div>
+        <div class="live-value" id="btc-fee">···</div>
+        <div class="live-sub" id="btc-fee-sub">fastest priority</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== UPCOMING MEETUPS ===== -->
+<section class="home-section">
+  <div class="c">
+    <div class="section-header reveal">
+      <h2 class="section-title">Upcoming Meetups</h2>
+      <p class="section-sub">Join us in person or online for our regular community events.</p>
+    </div>
+
+    {% assign curDate = site.time | date: '%s' %}
+    {% assign upcoming = "" | split: "" %}
+    {% for post in site.posts %}
+      {% if post.layout != "members" %}
+        {% assign postStartDate = post.date | date: '%s' %}
+        {% if postStartDate > curDate %}
+          {% assign upcoming = upcoming | push: post %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
+    {% if upcoming.size > 0 %}
+    <div class="card-row reveal">
+      {% for post in upcoming limit: 6 %}
+      <a class="post-card" href="{{ post.url | prepend: site.baseurl }}">
+        <div class="thumb" style="background: {{ post.background }};">
+          <div class="date-chip">
+            <span class="mon">{{ post.date | date: "%b" }}</span>
+            <span class="day">{{ post.date | date: "%-d" }}</span>
+          </div>
         </div>
-        <br>
+        <div class="card-body">
+          <h3 class="card-title">{{ post.title }}</h3>
+          <p class="card-meta">{{ post.date | date: "%H:%M" }} HKT{% if post.address %} &middot; {{ post.address }}{% endif %}</p>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+    {% else %}
+    <div class="empty-state reveal">
+      <div class="empty-icon">₿</div>
+      <p>No upcoming meetups right now — check our <a href="https://t.me/bitcoinhk" target="_blank">Telegram channel</a> for the latest announcements.</p>
+      <a href="https://t.me/bitcoinhk" class="btn btn-primary" target="_blank" style="margin-top:1.25rem">Join Telegram</a>
+    </div>
+    {% endif %}
 
-        <h2>Recent blog posts</h2>
-        <div class="meetups">
-          {% assign curDate = site.time | date: '%s' %}
+    <a href="/meetups/" class="view-all">All meetups</a>
+  </div>
+</section>
 
-          {% assign count = 0 %}
-          {% assign recent_limit = 5 %}
+<!-- ===== JOIN CTA STRIP ===== -->
+<div class="cta-strip">
+  <div class="c reveal">
+    <div class="cta-strip-text">
+      <h3>Be part of Hong Kong's Bitcoin community</h3>
+      <p>Network with industry professionals, access exclusive events, and help shape the future of Bitcoin in Asia.</p>
+    </div>
+    <a href="/join/" class="btn btn-cta-strip">Become a Member →</a>
+  </div>
+</div>
 
+<!-- ===== RECENT BLOG POSTS ===== -->
+<section class="home-section alt">
+  <div class="c">
+    <div class="section-header reveal">
+      <h2 class="section-title">Recent Blog Posts</h2>
+      <p class="section-sub">The latest from the Bitcoin community in Hong Kong.</p>
+    </div>
 
-            {% for post in site.posts %}
-            {% if post.layout == "blog" %}
+    <div class="card-row reveal">
+      {% assign count = 0 %}
+      {% for post in site.posts %}
+        {% if post.layout == "blog" %}
+          {% assign postStartDate = post.date | date: '%s' %}
+          {% if curDate > postStartDate %}
+          <a class="post-card" href="{{ post.url | prepend: site.baseurl }}">
+            <div class="thumb" style="background: {{ post.background }};">
+              <div class="date-chip">
+                <span class="mon">{{ post.date | date: "%b" }}</span>
+                <span class="day">{{ post.date | date: "%-d" }}</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <h3 class="card-title">{{ post.title }}</h3>
+              <p class="card-meta">
+                {% if post.subtitle %}{{ post.subtitle }}{% elsif post.author %}By {{ post.author }}{% endif %}
+              </p>
+            </div>
+          </a>
+          {% assign count = count | plus: 1 %}
+          {% if count >= 6 %}{% break %}{% endif %}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    </div>
 
-              {% assign postStartDate = post.date | date: '%s' %}
-              {% if curDate > postStartDate %}
+    <a href="https://blog.bitcoin.org.hk/" class="view-all">All blog posts</a>
+  </div>
+</section>
 
-              <a class="post-link white-box" href="{{ post.url | prepend: site.baseurl }}">
-                <div class="preview" style="background:{{ post.background }}">
-                  <div class="date">
-                      <small>{{ post.date | date: "%b" }}</small>
-                      {{ post.date | date: "%-d" }}
-                  </div>
-                </div>
-                <h3>{{ post.title }}</h3>
-                {% if post.layout == "meetup" %}
-                <p>{{ post.date | date: "%H:%M" }} HKT {% if post.address %}at {{ post.address }}{% endif %}</p>
-                {% else %}
+<!-- ===== RECENT HAPPENINGS ===== -->
+<section class="home-section">
+  <div class="c">
+    <div class="section-header reveal">
+      <h2 class="section-title">Recent Happenings</h2>
+      <p class="section-sub">A look back at our past events and meetups.</p>
+    </div>
 
-                {% if post.subtitle %}
-                <p>{{ post.subtitle }}</p>
-                {% else %}
-                <p>{% if post.author %}Written by +{{ post.author }}{% endif %}</p>
-                {% endif %}
-                {% endif %}
-              </a>
-              <br />
-              {% assign count = count | plus: 1 %}
-              {% if count >= recent_limit %}
-              {% break %}
-              {% endif %}
-              {% endif %}
-              {% endif %}
-            {% endfor %}
-          </div>
+    <div class="card-row reveal">
+      {% assign mcount = 0 %}
+      {% for post in site.posts %}
+        {% if post.layout == "meetup" %}
+          {% assign postStartDate = post.date | date: '%s' %}
+          {% if curDate > postStartDate %}
+          <a class="post-card" href="{{ post.url | prepend: site.baseurl }}">
+            <div class="thumb" style="background: {{ post.background }};">
+              <div class="date-chip">
+                <span class="mon">{{ post.date | date: "%b" }}</span>
+                <span class="day">{{ post.date | date: "%-d" }}</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <h3 class="card-title">{{ post.title }}</h3>
+              <p class="card-meta">{{ post.date | date: "%H:%M" }} HKT{% if post.address %} &middot; {{ post.address }}{% endif %}</p>
+            </div>
+          </a>
+          {% assign mcount = mcount | plus: 1 %}
+          {% if mcount >= 3 %}{% break %}{% endif %}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    </div>
 
-          <p><a href="/blog/">All Blog Posts</a></p>
+    <a href="/meetups/" class="view-all">All meetups &amp; devs meetups</a>
+  </div>
+</section>
 
-        <h2>Recent happenings</h2>
-        <div class="meetups">
-          {% assign curDate = site.time | date: '%s' %}
-
-          {% assign count = 0 %}
-          {% assign recent_limit = 3 %}
-
-
-            {% for post in site.posts %}
-            {% if post.layout == "meetup" %}
-
-              {% assign postStartDate = post.date | date: '%s' %}
-              {% if curDate > postStartDate %}
-
-              <a class="post-link white-box" href="{{ post.url | prepend: site.baseurl }}">
-                <div class="preview" style="background:{{ post.background }}">
-                  <div class="date">
-                      <small>{{ post.date | date: "%b" }}</small>
-                      {{ post.date | date: "%-d" }}
-                  </div>
-                </div>
-                <h3>{{ post.title }}</h3>
-                {% if post.layout == "meetup" %}
-                <p>{{ post.date | date: "%H:%M" }} HKT {% if post.address %}at {{ post.address }}{% endif %}</p>
-                {% else %}
-
-                {% if post.subtitle %}
-                <p>{{ post.subtitle }}</p>
-                {% else %}
-                <p>{% if post.author %}Written by +{{ post.author }}{% endif %}</p>
-                {% endif %}
-                {% endif %}
-              </a>
-              <br>
-              {% assign count = count | plus: 1 %}
-              {% if count >= recent_limit %}
-              {% break %}
-              {% endif %}
-              {% endif %}
-              {% endif %}
-            {% endfor %}
-          </div>
-          
-          <p><a href="/meetups/">All Meetups</a> • <a href="/devs/">All Devs Meetups</a></p>
-
+<!-- ===== TOOLS TEASER ===== -->
+<section class="home-section tools-teaser alt">
+  <div class="c">
+    <div class="section-header reveal">
+      <h2 class="section-title">Our Tools &amp; Services</h2>
+      <p class="section-sub">Open-source tools we build for the Hong Kong Bitcoin community.</p>
+    </div>
+    <div class="tools-grid reveal">
+      <a class="tool-card" href="https://btcpay.bitcoin.org.hk" target="_blank">
+        <span class="tool-icon">⚡</span>
+        <div>
+          <strong>BTCPay Server</strong>
+          <p>Self-hosted Bitcoin payment processor</p>
+        </div>
+      </a>
+      <a class="tool-card" href="https://rates.bitcoin.org.hk" target="_blank">
+        <span class="tool-icon">₿</span>
+        <div>
+          <strong>BTC Converter</strong>
+          <p>HKD, USD, EUR, CNY &amp; Sats</p>
+        </div>
+      </a>
+      <a class="tool-card" href="https://stack.bitcoin.org.hk" target="_blank">
+        <span class="tool-icon">📈</span>
+        <div>
+          <strong>Stack Sats DCA</strong>
+          <p>Dollar-cost-average calculator from 2010</p>
+        </div>
+      </a>
+      <a class="tool-card" href="https://blocks.bitcoin.org.hk" target="_blank">
+        <span class="tool-icon">🔗</span>
+        <div>
+          <strong>Block Explorer</strong>
+          <p>Our own independent blockchain explorer</p>
+        </div>
+      </a>
+    </div>
+    <a href="/resources/" class="view-all">All resources &amp; services</a>
   </div>
 </section>

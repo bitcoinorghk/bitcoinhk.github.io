@@ -1,57 +1,56 @@
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <meta name="viewport" content="width=device-width">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    {% if page.excerpt %}<meta name="description" content="{{ page.excerpt | strip_html }}">
-    {% else %}
-    <meta name="description" content="{{ site.description }}">
-    {% endif %}
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <!-- Flag JS early so scroll-reveal hides content only when JS can reveal it -->
+  <script>document.documentElement.className += ' js';</script>
 
-    <!-- Slick -->
-    <link rel="stylesheet" href="{{ "/styles/slick.css" | prepend: site.baseurl }}">
-    <link rel="stylesheet" href="{{ "/styles/slick-theme.css" | prepend: site.baseurl }}">
+  <title>{% if page.title %}{{ page.title }} — BAHK{% else %}{{ site.title }}{% endif %}</title>
 
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="{{ "/styles/style.css" | prepend: site.baseurl }}">
-    <link rel="stylesheet" href="{{ "/styles/numpad.css" | prepend: site.baseurl }}">
+  {% if page.excerpt %}
+  <meta name="description" content="{{ page.excerpt | strip_html }}">
+  {% else %}
+  <meta name="description" content="{{ site.description }}">
+  {% endif %}
 
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-    <style>
-    a, .text-accent, .dotted-link, p a, article a { color: {{ site.accent }}; }
-    .bg-accent, .logo, nav a.logo, .cover { background-color: {{ site.accent }}; color: white; }
-    blockquote:hover { border-left-color: {{ site.accent }}; }
-    </style>
+  <!-- Google Fonts: Inter -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
 
-    <link rel="stylesheet" href="{{ "/styles/editme.css" | prepend: site.baseurl }}">
-    <link rel="alternate" type="application/atom+xml" title="{{ site.name }}" href="{{ site.baseurl }}/atom.xml" >
+  <!-- Slick Carousel -->
+  <link rel="stylesheet" href="/styles/slick.css">
+  <link rel="stylesheet" href="/styles/slick-theme.css">
 
-    <link rel="shortcut icon" href="/favicon.png">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale = 1.0,maximum-scale=2.0,user-scalable=no">
+  <!-- Main stylesheet -->
+  <link rel="stylesheet" href="/styles/style.css">
 
-    <!-- Webapp -->
-    <meta name="apple-mobile-web-app-capable" content="yes" />
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <!-- Accent colour (from _config.yml) -->
+  <style>
+    :root { --btc: {{ site.accent }}; --btc-dark: color-mix(in srgb, {{ site.accent }}, black 12%); }
+  </style>
 
-    <!-- Apple Touch Icon -->
-    <link rel="apple-touch-icon" content="/favicon.png">
-    <link rel="apple-touch-icon-precomposed" href="favicon.png">
-    <script type="text/javascript">
-  WebFontConfig = {
-    google: { families: [ 'Raleway:400,300,700:latin' ] }
-  };
-  (function() {
-    var wf = document.createElement('script');
-    wf.src = 'https://cdnjs.cloudflare.com/ajax/libs/webfont/1.5.18/webfontloader.js';
-    wf.type = 'text/javascript';
-    wf.async = 'true';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(wf, s);
-  })(); </script>
-  
-   <!-- Lightning address for Alby -->
-  <meta name="lightning" content="lnurlp:donate@bitcoin.org.hk"/>
-  <meta property="og:image" content="/media/press/bahk-logo-big-256x256.png" />
+  <!-- Atom feed -->
+  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/atom.xml">
+
+  <!-- Icons -->
+  <link rel="shortcut icon" href="/favicon.png">
+  <link rel="apple-touch-icon" href="/favicon.png">
+
+  <!-- PWA meta -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="theme-color" content="#F7931A">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:description" content="{{ site.description }}">
+  <meta property="og:image" content="/media/press/bahk-logo-big-256x256.png">
+  <meta property="og:type" content="website">
+
+  <!-- Lightning address for Alby -->
+  <meta name="lightning" content="lnurlp:donate@bitcoin.org.hk">
 </head>
