@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "gh-pages": "^5.0.0",
-    "grunt": ">=1.5.3"
+    "grunt": ">=1.6.2"
   },
   "devDependencies": {},
   
