@@ -19,6 +19,27 @@ excerpt: "Fostering and promoting Bitcoin and its technology in Hong Kong."
   <div class="hero-scroll" aria-hidden="true"><span></span></div>
 </section>
 
+<!-- ===== FEATURED EVENT ===== -->
+<section class="featured-event" id="next-event">
+  <div class="c">
+    <div class="featured-card reveal">
+      <div class="featured-media">
+        <img src="/images/bahk-happyhour-aug26.webp" alt="Pre-Conference Bitcoin Happy Hour flyer — Aug 26th, 6 to 9pm, Central, Hong Kong" loading="lazy">
+      </div>
+      <div class="featured-body">
+        <span class="featured-badge"><span class="live-dot"></span>Next Event</span>
+        <h2>Pre-Conference Bitcoin Happy Hour</h2>
+        <p class="featured-meta">Wed 26 Aug 2026 &middot; 6:00–9:00 PM &middot; Central, Hong Kong</p>
+        <p class="featured-desc">Kick off conference week with the Hong Kong Bitcoin community — drinks, networking and good company on the eve of the conference.</p>
+        <div class="featured-btns">
+          <a href="https://luma.com/4wvwlqbf" target="_blank" rel="noopener" class="btn btn-primary btn-glow">RSVP on Luma</a>
+          <a href="/2026-08-pre-conference-happy-hour/" class="btn btn-outline">Event details</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <!-- ===== ORG STATS BAR (count-up) ===== -->
 <div class="stats-bar">
   <div class="c">
@@ -174,43 +195,6 @@ excerpt: "Fostering and promoting Bitcoin and its technology in Hong Kong."
     </div>
 
     <a href="https://blog.bitcoin.org.hk/" class="view-all">All blog posts</a>
-  </div>
-</section>
-
-<!-- ===== RECENT HAPPENINGS ===== -->
-<section class="home-section">
-  <div class="c">
-    <div class="section-header reveal">
-      <h2 class="section-title">Recent Happenings</h2>
-      <p class="section-sub">A look back at our past events and meetups.</p>
-    </div>
-
-    <div class="card-row reveal">
-      {% assign mcount = 0 %}
-      {% for post in site.posts %}
-        {% if post.layout == "meetup" %}
-          {% assign postStartDate = post.date | date: '%s' %}
-          {% if curDate > postStartDate %}
-          <a class="post-card" href="{{ post.url | prepend: site.baseurl }}">
-            <div class="thumb" style="background: {{ post.background }};">
-              <div class="date-chip">
-                <span class="mon">{{ post.date | date: "%b" }}</span>
-                <span class="day">{{ post.date | date: "%-d" }}</span>
-              </div>
-            </div>
-            <div class="card-body">
-              <h3 class="card-title">{{ post.title }}</h3>
-              <p class="card-meta">{{ post.date | date: "%H:%M" }} HKT{% if post.address %} &middot; {{ post.address }}{% endif %}</p>
-            </div>
-          </a>
-          {% assign mcount = mcount | plus: 1 %}
-          {% if mcount >= 3 %}{% break %}{% endif %}
-          {% endif %}
-        {% endif %}
-      {% endfor %}
-    </div>
-
-    <a href="/meetups/" class="view-all">All meetups &amp; devs meetups</a>
   </div>
 </section>
 

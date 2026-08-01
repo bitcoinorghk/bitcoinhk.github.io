@@ -149,6 +149,71 @@ section, header, footer { position: relative; }
 .view-all:hover { opacity: .75; }
 .view-all:hover::after { transform: translateX(3px); }
 
+/* ===== FEATURED EVENT ===== */
+
+.featured-event {
+  background: linear-gradient(180deg, #070b14 0%, #0d1322 100%);
+  padding: 4rem 0;
+}
+.featured-card {
+  display: grid;
+  grid-template-columns: minmax(0, 400px) 1fr;
+  gap: 2.5rem;
+  align-items: center;
+  background: rgba(255,255,255,.03);
+  border: 1px solid rgba(247,147,26,.28);
+  border-radius: 20px;
+  padding: 2rem;
+  box-shadow: 0 20px 60px rgba(0,0,0,.45), 0 0 90px rgba(247,147,26,.08);
+}
+.featured-media img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 14px;
+  border: 1px solid rgba(255,255,255,.08);
+}
+.featured-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: .5rem;
+  background: rgba(247,147,26,.12);
+  border: 1px solid rgba(247,147,26,.4);
+  color: var(--btc);
+  font-size: .8125rem;
+  font-weight: 700;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  padding: .375rem .875rem;
+  border-radius: 99px;
+}
+.featured-body h2 {
+  color: white;
+  font-size: clamp(1.75rem, 3.5vw, 2.5rem);
+  line-height: 1.15;
+  margin: 1rem 0 .625rem;
+}
+.featured-meta {
+  color: var(--btc);
+  font-weight: 600;
+  font-size: 1.0625rem;
+  margin-bottom: .75rem;
+}
+.featured-desc {
+  color: rgba(255,255,255,.72);
+  max-width: 56ch;
+}
+.featured-btns {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .875rem;
+  margin-top: 1.625rem;
+}
+@media (max-width: 900px) {
+  .featured-card { grid-template-columns: 1fr; padding: 1.5rem; gap: 1.75rem; }
+  .featured-media img { max-width: 420px; margin: 0 auto; }
+}
+
 /* ===== STATS BAR ===== */
 
 .stats-bar {
@@ -568,7 +633,7 @@ section, header, footer { position: relative; }
   content: '';
   position: absolute;
   inset: -6%;
-  background: url('/images/bahk-nightlineHKpic.png') center 60% / cover no-repeat;
+  background: url('/images/bahk-hero-skyline-circuit.jpg') center 62% / cover no-repeat;
   z-index: 0;
   animation: kenburns 26s ease-in-out infinite alternate;
 }
