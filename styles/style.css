@@ -537,6 +537,17 @@ section, header, footer { position: relative; }
 .empty-state p a { color: var(--btc); font-weight: 600; }
 .empty-state a.btn-primary { color: #fff; }
 
+/* ===== LUMA CALENDAR EMBED ===== */
+
+.luma-embed iframe {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: 450px;
+  border: 1px solid var(--border) !important;
+  border-radius: var(--radius-lg) !important;
+}
+
 /* ===== NAVIGATION ===== */
 
 #top { display: block; }
