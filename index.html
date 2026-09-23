@@ -109,40 +109,21 @@ excerpt: "Fostering and promoting Bitcoin and its technology in Hong Kong."
     </div>
 
     {% assign curDate = site.time | date: '%s' %}
-    {% assign upcoming = "" | split: "" %}
-    {% for post in site.posts %}
-      {% if post.layout != "members" %}
-        {% assign postStartDate = post.date | date: '%s' %}
-        {% if postStartDate > curDate %}
-          {% assign upcoming = upcoming | push: post %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
 
-    {% if upcoming.size > 0 %}
-    <div class="card-row reveal">
-      {% for post in upcoming limit: 6 %}
-      <a class="post-card" href="{{ post.url | prepend: site.baseurl }}">
-        <div class="thumb" style="background: {{ post.background }};">
-          <div class="date-chip">
-            <span class="mon">{{ post.date | date: "%b" }}</span>
-            <span class="day">{{ post.date | date: "%-d" }}</span>
-          </div>
-        </div>
-        <div class="card-body">
-          <h3 class="card-title">{{ post.title }}</h3>
-          <p class="card-meta">{{ post.date | date: "%H:%M" }} HKT{% if post.address %} &middot; {{ post.address }}{% endif %}</p>
-        </div>
-      </a>
-      {% endfor %}
+    <div class="luma-embed reveal">
+      <iframe
+        src="https://luma.com/embed/calendar/cal-yYvbk6Y8l8Eeqdz/events"
+        title="Bitcoin Association of Hong Kong events calendar on Luma"
+        width="600"
+        height="450"
+        frameborder="0"
+        style="border: 1px solid #bfcbda88; border-radius: 4px;"
+        allowfullscreen=""
+        aria-hidden="false"
+        tabindex="0"
+        loading="lazy"
+      ></iframe>
     </div>
-    {% else %}
-    <div class="empty-state reveal">
-      <div class="empty-icon">₿</div>
-      <p>No upcoming meetups right now — check our <a href="https://t.me/bitcoinhk" target="_blank">Telegram channel</a> for the latest announcements.</p>
-      <a href="https://t.me/bitcoinhk" class="btn btn-primary" target="_blank" style="margin-top:1.25rem">Join Telegram</a>
-    </div>
-    {% endif %}
 
     <a href="/meetups/" class="view-all">All meetups</a>
   </div>
