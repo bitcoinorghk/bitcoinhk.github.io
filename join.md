@@ -217,7 +217,7 @@ navigation: "visible"
             </ul>
             <a href="https://join.bitcoin.org.hk/">Sign up</a>
           </div>
-          <div class="bonus">To sign up, simply fill out the application form below. The corporate membership fee for 2023 is set at 0.0026 BTC and will be revised once per year. We will send you an email with a confirmation usually within 48h.</div>
+          <div class="bonus">To join, apply and pay in bitcoin on our <a href="https://join.bitcoin.org.hk/">membership page</a>, where the current fee is listed. Fees are reviewed once a year. We will email you a confirmation, usually within 48 hours.</div>
         </div>
       </div>
       <div>
@@ -234,7 +234,7 @@ navigation: "visible"
             </ul>
             <a href="https://join.bitcoin.org.hk/">Sign up</a>
           </div>
-          <div class="bonus">To sign up, simply fill out the application form below. The individual membership fee for 2023 is set at 0.0013 BTC and will be revised once per year. We will send you an email with a confirmation usually within 48h.</div>
+          <div class="bonus">To join, apply and pay in bitcoin on our <a href="https://join.bitcoin.org.hk/">membership page</a>, where the current fee is listed. Fees are reviewed once a year. Existing members can renew with the annual package, which includes a free annual dinner. We will email you a confirmation, usually within 48 hours.</div>
         </div>
       </div>
     </div>
