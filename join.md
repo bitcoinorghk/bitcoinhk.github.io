@@ -228,16 +228,79 @@ navigation: "visible"
               <img src="/images/join-individual.svg" alt="">
             </div>
             <ul>
-              <li><span>Listing on the website </span></li>
+              <li><span>Christmas dinner included with your annual renewal</span></li>
+              <li><span>BAHK membership card with <a class="inline" href="#member-discounts">partner discounts</a></span></li>
+              <li><span>Post on the members' classifieds page (coming soon)</span></li>
               <li><span>Access to members-only events</span></li>
-              <li><span>Access to members only services</span></li>
             </ul>
-            <a href="https://join.bitcoin.org.hk/">Sign up</a>
+            <a href="#how-to-join">How to apply</a>
           </div>
-          <div class="bonus">To join, apply and pay in bitcoin on our <a href="https://join.bitcoin.org.hk/">membership page</a>, where the current fee is listed. Fees are reviewed once a year. Existing members can renew with the annual package, which includes a free annual dinner. We will email you a confirmation, usually within 48 hours.</div>
+          <div class="bonus"><strong>1,500 HKD or 230,000 sats</strong> sign-up fee, then the same amount each year to renew. Benefits are only available to members whose annual fee is paid up to date.</div>
         </div>
       </div>
     </div>
+  </div>
+
+  <div class="membership-rules" id="how-to-join">
+    <div class="paid-up-note">
+      <strong>Member benefits are for paid-up members only.</strong>
+      Your card, partner discounts, the Christmas dinner and the classifieds page (coming soon) are only available while your annual membership fee is paid up to date.
+    </div>
+
+    <div class="rules-grid">
+      <div class="rules-card">
+        <h3>How to join</h3>
+        <ol class="steps">
+          <li><span><strong>Write a letter</strong> introducing yourself and explaining why you want to join.</span></li>
+          <li><span><strong>Get two recommendations.</strong> Two existing members each send a letter of recommendation to <a href="mailto:info@bitcoin.org.hk">info@bitcoin.org.hk</a>.</span></li>
+          <li><span><strong>Pay the sign-up fee</strong> of 1,500 HKD or 230,000 sats with your complete application. It is refunded if you are not approved.</span></li>
+          <li><span><strong>Interview.</strong> We set up a short interview and let you know our decision shortly after.</span></li>
+        </ol>
+        <p class="rules-foot">Send your letter to <a href="mailto:info@bitcoin.org.hk">info@bitcoin.org.hk</a>. Pay in bitcoin on our <a href="https://join.bitcoin.org.hk/">membership page</a>.</p>
+      </div>
+
+      <div class="rules-card">
+        <h3>Annual renewal</h3>
+        <div class="price">1,500 HKD <span>or 230,000 sats</span></div>
+        <ul class="ticks">
+          <li><span>Pay in full between 1 October and 9 December each year.</span></li>
+          <li><span>Includes the Christmas dinner, no separate ticket needed.</span></li>
+          <li><span>You receive a membership card that unlocks partner discounts.</span></li>
+          <li><span>You can post on the members' classifieds page (coming soon).</span></li>
+        </ul>
+        <a class="nbtn" href="https://join.bitcoin.org.hk/">Renew now</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="member-discounts" id="member-discounts">
+    <h3>Member discounts</h3>
+    <p class="lead">Show your BAHK membership card and save. Several partners give you a better deal when you pay in bitcoin.</p>
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>Partner</th><th>Fiat</th><th>Bitcoin</th></tr></thead>
+        <tbody>
+          <tr><td><a href="https://montajtailors.com/">Montaj Tailors</a></td><td>15%</td><td class="better">20%</td></tr>
+          <tr><td>Aki Hotel and Novotel, rooms</td><td>15%</td><td class="na">Not accepted</td></tr>
+          <tr><td>Aki Hotel and Novotel, food and drink</td><td>30%</td><td class="na">Not accepted</td></tr>
+          <tr><td>Frank's Restaurant and Bar</td><td>10%</td><td>10%</td></tr>
+          <tr><td>Tree House Restaurants</td><td>10%</td><td class="better">15%</td></tr>
+          <tr><td>Santorini Grill</td><td colspan="2">Free bottle of wine when you spend 1,000 HKD</td></tr>
+          <tr><td>Santorini Steakhouse</td><td colspan="2">Free bottle of wine when you spend 1,000 HKD</td></tr>
+          <tr><td>21M Digital Marketing</td><td>8%</td><td class="better">10%</td></tr>
+          <tr><td>Whale Lounge merchandise</td><td>10%</td><td class="better">20%</td></tr>
+          <tr><td>Whale Lounge POS and miners</td><td>10%</td><td class="better">15%</td></tr>
+          <tr><td>Whale Lounge consulting</td><td>15%</td><td class="better">25%</td></tr>
+          <tr><td>Whale Lounge Cryptomatic watches</td><td>10%</td><td>10%</td></tr>
+          <tr><td>AEM Crypto Software</td><td colspan="2">20% off the annual plan</td></tr>
+          <tr><td>ORM Korean Restaurant</td><td>10%</td><td class="na">Not accepted</td></tr>
+          <tr><td>Bankole, crypto law adviser</td><td>10%</td><td>10%</td></tr>
+          <tr><td><a href="https://charliebanana.com/">Charlie Banana</a></td><td>20%</td><td>20%</td></tr>
+          <tr><td><a href="https://airbtc.com/">AirBTC</a></td><td class="na">Bitcoin only</td><td>10%</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="table-foot">Discounts are only for members whose annual fee is paid up to date. More partners are coming soon. Want to offer a discount to our members? Email <a href="mailto:info@bitcoin.org.hk">info@bitcoin.org.hk</a>. See where you can spend bitcoin in Hong Kong on the <a href="https://map.hkbitcoincity.com/">HK Bitcoin City map</a>.</p>
   </div>
 
   <div class="network">
