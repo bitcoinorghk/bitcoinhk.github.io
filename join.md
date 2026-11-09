@@ -281,6 +281,7 @@ navigation: "visible"
         <thead><tr><th>Partner</th><th>Fiat</th><th>Bitcoin</th></tr></thead>
         <tbody>
           <tr><td><a href="https://montajtailors.com/">Montaj Tailors</a></td><td>15%</td><td class="better">20%</td></tr>
+          <tr><td>BitGo</td><td colspan="2">Special negotiated member rate</td></tr>
           <tr><td>Aki Hotel and Novotel, rooms</td><td>15%</td><td class="na">Not accepted</td></tr>
           <tr><td>Aki Hotel and Novotel, food and drink</td><td>30%</td><td class="na">Not accepted</td></tr>
           <tr><td>Frank's Restaurant and Bar</td><td>10%</td><td>10%</td></tr>
