@@ -133,7 +133,7 @@ navigation: 'visible'
 			</div>
 			<div>
 			<b>Bitcoin Members Only Private chat group</b>
-			<p> Our members only meetup room where special members only events take place. Get the insider scoop by joining today. Inquire for link after paying <a href="/join/#join-member"> membership dues.</a></p>
+			<p> Our members only meetup room where special members only events take place. Get the insider scoop by joining today. Inquire for link after paying <a href="https://members.bitcoin.org.hk/join">membership dues</a>.</p>
 			</div>
 		</div>
 	</div>

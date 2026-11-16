@@ -80,7 +80,7 @@ navigation: "visible"
 				</div>
 				<div id="tab-2" class="content">
 					Individual as well as corporate members of BAHK can join the CMC. If you are new to our community, please find
-					more details on <a href="/join/"></a>the membership page</a>. </br>
+					more details on <a href="https://members.bitcoin.org.hk/join">the membership page</a>. </br>
 					CMC is a closed group of fellows. To begin with please submit your application, and we will invite you to our
 					circle
 					shortly!
