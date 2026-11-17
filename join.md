@@ -2,308 +2,194 @@
 layout: "page"
 title: "Become a Member"
 caption: "join"
-subtitle: "Contribute and benefit"
+subtitle: "Join the Bitcoin Association of Hong Kong"
 icon: "user"
 background: "url(/images/bahk-bg-01.jpg) #FF0000"
 permalink: "/join/"
 navigation: "visible"
 ---
 
-<div class="join">
+<style>
+  /* This page only. The BAHK App hero runs full width, in the app's black and orange. */
+  body:has(.jx) .page-hero { display: none; }
+  body:has(.jx) section.post { padding-top: 0; }
+  .post-content:has(.jx) { max-width: none; }
+  body:has(.jx) { overflow-x: clip; }
+  .jx > .jx-sec, .jx + .join { max-width: 1080px; margin-left: auto; margin-right: auto; }
+  .jx img { margin: 0; border-radius: 0; }
+  .jx h3 { font-size: clamp(1.6rem, 3vw, 2.1rem); font-weight: 800; letter-spacing: -.02em; margin: 0 0 .5rem; }
+  .jx-sec { padding: 64px 0; border-bottom: 1px solid var(--border); }
+  .jx-sec > p.jx-intro { color: var(--grey); margin: 0 0 28px; font-size: 1.0625rem; }
+  .jx-btn { display: inline-flex; align-items: center; justify-content: center; min-height: 48px; padding: 0 22px; border-radius: 999px; font-weight: 700; background: var(--btc); color: #fff !important; text-decoration: none !important; border: 2px solid var(--btc); }
+  .jx-btn:hover { background: var(--btc-dark); border-color: var(--btc-dark); }
+  .jx-btn-ghost { background: transparent; border-color: rgba(255,255,255,.35); }
+  .jx-btn-ghost:hover { background: rgba(255,255,255,.08); border-color: rgba(255,255,255,.6); }
 
-  <div class="first">
-    <div class="content">
-      <h4>Membership</h4>
-      <p>The Bitcoin Association of Hong Kong is open to all individuals with a connection to Hong Kong who have an interest in Bitcoin, cryptocurrency or related technologies. Becoming a member gives you full access to the community and the association. You enjoy voting rights, profit from discounted and exclusive networking and education events and help influence the quickly changing landscape of Bitcoin in Hong Kong.</p>
+  .jx-hero { width: 100vw; margin-left: calc(50% - 50vw); background: radial-gradient(ellipse 55% 70% at 72% 55%, rgba(247,147,26,.22), transparent 70%), #050506; color: #fff; overflow: hidden; }
+  .jx-hero-in { max-width: 1080px; margin: 0 auto; padding: 72px var(--px) 56px; display: grid; grid-template-columns: 1.05fr 1fr; gap: 32px; align-items: center; }
+  .jx-eyebrow { color: #9a9aa0; font-weight: 600; font-size: 1.25rem; margin: 0 0 .25rem; letter-spacing: -.01em; }
+  .jx-hero h1 { font-size: clamp(3rem, 7vw, 5.25rem); line-height: 1; font-weight: 800; letter-spacing: -.045em; margin: 0 0 1rem; background: linear-gradient(100deg, #ffc46b 0%, #f7931a 45%, #e8590c 100%); -webkit-background-clip: text; background-clip: text; color: transparent; padding: .06em 0; }
+  .jx-hero .jx-lead { font-size: clamp(1.15rem, 2vw, 1.4rem); font-weight: 600; line-height: 1.35; margin: 0 0 28px; color: #fff; max-width: 26ch; }
+  .jx-ctas { display: flex; gap: 10px; flex-wrap: wrap; }
+  .jx-small { margin: 18px 0 0; color: #9a9aa0; font-size: .9375rem; }
+  .jx-small a { color: #f7931a; }
+  .jx-hero img { width: 100%; max-width: 520px; justify-self: center; filter: drop-shadow(0 30px 60px rgba(0,0,0,.5)); }
+
+  .jx-perks { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+  .jx-perk { border: 1px solid var(--border); border-radius: var(--radius-lg); padding: 22px; background: var(--bg); }
+  .jx-perk svg { width: 30px; height: 30px; color: var(--btc); }
+  .jx-perk h4 { margin: 12px 0 4px; font-size: 1.0625rem; }
+  .jx-perk p { margin: 0; color: var(--grey); font-size: .9375rem; line-height: 1.55; }
+
+  .jx-plans { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .jx-plan { border: 1px solid var(--border); border-radius: var(--radius-lg); padding: 28px; display: flex; flex-direction: column; gap: 6px; }
+  .jx-plan.jx-main { border: 2px solid var(--btc); }
+  .jx-plan .jx-name { font-weight: 700; color: var(--grey); text-transform: uppercase; letter-spacing: .08em; font-size: .8125rem; }
+  .jx-plan .jx-price { font-size: 2.6rem; font-weight: 800; letter-spacing: -.03em; line-height: 1.1; }
+  .jx-plan .jx-price span { font-size: 1rem; font-weight: 600; color: var(--grey); letter-spacing: 0; }
+  .jx-plan p { margin: 0 0 14px; color: var(--grey); }
+  .jx-plan .jx-btn { margin-top: auto; align-self: flex-start; }
+  .jx-note { margin: 16px 0 0; color: var(--grey); font-size: .9375rem; }
+  .jx-note a { color: var(--btc); }
+
+  .jx-steps { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; counter-reset: none; }
+  .jx-steps li { margin: 0; padding: 0; }
+  .jx-steps li::before { content: none; }
+  .jx-n { display: inline-flex; width: 36px; height: 36px; border-radius: 50%; background: var(--btc); color: #fff; font-weight: 800; align-items: center; justify-content: center; }
+  .jx-steps h4 { margin: 12px 0 4px; font-size: 1.0625rem; }
+  .jx-steps p { margin: 0; color: var(--grey); font-size: .9375rem; line-height: 1.55; }
+
+  .jx-member { margin-top: 40px; border-radius: var(--radius-lg); background: #0b0b0d; color: #fff; padding: 28px; display: flex; gap: 20px; align-items: center; justify-content: space-between; flex-wrap: wrap; }
+  .jx-member h4 { margin: 0 0 4px; font-size: 1.25rem; color: #fff; }
+  .jx-member p { margin: 0; color: #b5b5bb; max-width: 52ch; }
+
+
+  .jx-places { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 10px; }
+  .jx-places li { margin: 0; padding: 10px 16px; border: 1px solid var(--border); border-radius: 999px; font-weight: 600; font-size: .9375rem; background: var(--bg); }
+  .jx-places li::before { content: none; }
+  .jx-faq details { border-bottom: 1px solid var(--border); padding: 16px 0; }
+  .jx-faq summary { cursor: pointer; font-weight: 700; font-size: 1.0625rem; list-style: none; display: flex; justify-content: space-between; gap: 16px; }
+  .jx-faq summary::-webkit-details-marker { display: none; }
+  .jx-faq summary::after { content: '+'; color: var(--btc); font-weight: 800; font-size: 1.3rem; line-height: 1; }
+  .jx-faq details[open] summary::after { content: '–'; }
+  .jx-faq details p { margin: 10px 0 0; color: var(--grey); }
+  .jx-faq a { color: var(--btc); }
+
+  @media (max-width: 860px) {
+    .jx-hero-in { grid-template-columns: 1fr; padding-top: 48px; text-align: left; }
+    .jx-hero img { max-width: 420px; }
+    .jx-perks { grid-template-columns: 1fr 1fr; }
+  }
+  @media (max-width: 560px) {
+    .jx-perks, .jx-plans, .jx-steps { grid-template-columns: 1fr; }
+    .jx-sec { padding: 48px 0; }
+      .jx-btn { width: 100%; }
+  }
+</style>
+
+<div class="jx">
+
+  <section class="jx-hero">
+    <div class="jx-hero-in">
+      <div>
+        <p class="jx-eyebrow">Introducing the</p>
+        <h1>BAHK App.</h1>
+        <p class="jx-lead">Your membership and benefits, finally in one place.</p>
+        <div class="jx-ctas">
+          <a class="jx-btn" href="https://members.bitcoin.org.hk/join">Apply to join</a>
+          <a class="jx-btn jx-btn-ghost" href="https://members.bitcoin.org.hk/join/existing">Already a member? Register</a>
+        </div>
+        <p class="jx-small">Members log in at <a href="https://members.bitcoin.org.hk/login">members.bitcoin.org.hk</a></p>
+      </div>
+      <img src="/images/bahk-app-hero.webp" alt="The BAHK member card in front of the BAHK App on a phone" width="1100" height="1039">
     </div>
-    <img src="/images/join1.svg" alt="">  
-  </div>
+  </section>
 
-  <div class="about">
-    <div class="first">
-    <div class="content">
-      <h4>Become a member</h4>
-      <p>The Bitcoin Association of Hong Kong is still developing and growing. It needs your involvement! If you want to contribute, collaborate, or educate, please get in touch and become a member!</p>
-      <a class="nbtn" href="#join-member">Get in touch</a>
+  <section class="jx-sec">
+    <h3>What you get</h3>
+    <p class="jx-intro">Join the people building Bitcoin in Hong Kong since 2012.</p>
+    <div class="jx-perks">
+      <div class="jx-perk"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2.5" y="5" width="19" height="14" rx="2.5"/><path d="M6 15h5"/></svg><h4>Your member card</h4><p>In the BAHK App. Show it to get member prices.</p></div>
+      <div class="jx-perk"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 12.5V4a1 1 0 0 1 1-1h8.5l8.8 8.8a1.4 1.4 0 0 1 0 2l-7.5 7.5a1.4 1.4 0 0 1-2 0z"/><circle cx="8" cy="8" r="1.6"/></svg><h4>18+ discounts</h4><p>Restaurants, hotels, shops and services across Hong Kong. More coming soon.</p></div>
+      <div class="jx-perk"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v3M5.5 9h13l-1 12h-11z"/><path d="M9 9V7.5a3 3 0 0 1 6 0V9"/></svg><h4>Christmas dinner</h4><p>Included with your membership every year.</p></div>
+      <div class="jx-perk"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2.5"/><path d="M3 10h18M8 3v4M16 3v4"/></svg><h4>Events</h4><p>Monthly meetups, classes and members-only events.</p></div>
+      <div class="jx-perk"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="4" y="3.5" width="16" height="17" rx="2.5"/><path d="M8 8.5h8M8 12h8M8 15.5h5"/></svg><h4>Classifieds</h4><p>Buy and sell with other members.</p></div>
+      <div class="jx-perk"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12.5l5 5L20 6.5"/></svg><h4>A vote</h4><p>Voting rights in the association.</p></div>
     </div>
-    <img src="/images/about1.svg" alt="">
-  </div>
+  </section>
 
-  <div class="second">
-    <h3>Leadership</h3>
-    <p>All current directors of the Bitcoin Association of Hong Kong.</p>
-    <div class="directors-grid">
-      <div class="card">
-        <img src="/images/director-gaelle.png" alt="Gaëlle Wizenberg">
-        <div class="name">Gaëlle Wizenberg</div>
+  <section class="jx-sec" id="join-member">
+    <h3>Membership</h3>
+    <p class="jx-intro">Open to everyone with a connection to Hong Kong and an interest in Bitcoin.</p>
+    <div class="jx-plans">
+      <div class="jx-plan jx-main">
+        <div class="jx-name">Individual</div>
+        <div class="jx-price">HK$1,500 <span>a year</span></div>
+        <p>Christmas dinner included. Paid in bitcoin.</p>
+        <a class="jx-btn" href="https://members.bitcoin.org.hk/join">Apply to join</a>
       </div>
-      <div class="card">
-        <img src="/images/director-gareth.png" alt="Gareth Hayes">
-        <div class="name">Gareth Hayes</div>
-      </div>
-      <div class="card">
-        <div class="director-placeholder">
-          <span>NS</span>
-        </div>
-        <div class="name">Noah Silverman</div>
-      </div>
-    </div>
-  </div>
-   <div class="third">
-    <div class="wrapper">
-      <div class="tabs">
-        <div class="tab1 current" data-tab="tab-1">
-          <span>Goals</span>
-          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M12.7407 15.7238C12.501 15.7714 12.2534 15.7969 12 15.7969C9.90637 15.7969 8.20312 14.0936 8.20312 12C8.20312 9.90637 9.90637 8.20312 12 8.20312C14.0936 8.20312 15.7969 9.90637 15.7969 12C15.7969 12.2534 15.7714 12.501 15.7238 12.7407L13.4916 10.5084C13.0931 10.11 12.5634 9.89062 12 9.89062C11.4366 9.89062 10.9069 10.11 10.5084 10.5084C10.11 10.9069 9.89062 11.4366 9.89062 12C9.89062 12.5634 10.11 13.0931 10.5084 13.4916L12.7407 15.7238Z"/>
-            <path d="M22.9261 16.96L21.4133 15.4471C21.2618 15.2957 21.0912 15.1701 20.907 15.0727C21.2402 14.109 21.4219 13.0754 21.4219 12C21.4219 6.80475 17.1953 2.57812 12 2.57812C6.80475 2.57812 2.57812 6.80475 2.57812 12C2.57812 17.1953 6.80475 21.4219 12 21.4219C13.0757 21.4219 14.1099 21.2401 15.0738 20.9066C15.1714 21.091 15.2961 21.2624 15.4473 21.4135L16.96 22.9261C15.4473 23.6155 13.7679 24 12 24C5.38312 24 0 18.6169 0 12C0 5.38312 5.38312 0 12 0C18.6169 0 24 5.38312 24 12C24 13.7679 23.6155 15.4473 22.9261 16.96Z"/>
-            <path d="M14.9865 17.9696L14.8583 19.4886C13.97 19.829 13.0065 20.0156 12 20.0156C7.5802 20.0156 3.98438 16.4198 3.98438 12C3.98438 7.5802 7.5802 3.98438 12 3.98438C16.4198 3.98438 20.0156 7.5802 20.0156 12C20.0156 13.0065 19.829 13.97 19.4886 14.8583L17.9696 14.9865L16.8547 13.8717C17.0795 13.2905 17.2031 12.6595 17.2031 12C17.2031 9.13092 14.8691 6.79688 12 6.79688C9.13092 6.79688 6.79688 9.13092 6.79688 12C6.79688 14.8691 9.13092 17.2031 12 17.2031C12.6595 17.2031 13.2905 17.0795 13.8717 16.8547L14.9865 17.9696Z"/>
-            <path d="M16.238 19.863L16.4427 17.4372L11.5029 12.4974C11.2282 12.2229 11.2282 11.7776 11.5029 11.5031C11.64 11.3658 11.82 11.2971 12 11.2971C12.18 11.2971 12.36 11.3658 12.4971 11.5031L17.437 16.443L19.8627 16.2384C19.8825 16.2368 19.9021 16.2359 19.9219 16.2359C20.1075 16.2359 20.2866 16.3095 20.419 16.4419L23.402 19.425C23.5955 19.6184 23.6592 19.9066 23.5653 20.1637C23.4712 20.4207 23.2366 20.5998 22.964 20.6227L20.8044 20.8049L20.6224 22.9643C20.5994 23.2371 20.4203 23.4716 20.1634 23.5656C19.9063 23.6597 19.6181 23.5958 19.4246 23.4024L16.4416 20.4193C16.2951 20.2728 16.2206 20.0694 16.238 19.863Z"/>
-            </svg>
-        </div>
-        <div class="tab1" data-tab="tab-2">
-          <span>History</span>
-          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M21.8438 19.7812H3.5625C2.39941 19.7812 1.45312 20.7275 1.45312 21.8906C1.45312 23.0537 2.39941 24 3.5625 24H21.8438C22.2321 24 22.5469 23.6852 22.5469 23.2969V20.4844C22.5469 20.096 22.2321 19.7812 21.8438 19.7812Z" />
-            <path d="M19.7344 0V5.01434L21.1406 4.07684L22.5469 5.01434V0H19.7344Z" />
-            <path d="M19.4213 6.91315C19.2056 7.05707 18.9282 7.07043 18.6995 6.94812C18.4709 6.82562 18.3281 6.5874 18.3281 6.32812V0H3.5625C2.39941 0 1.45312 0.946289 1.45312 2.10938V19.08C2.04108 18.6376 2.77167 18.375 3.5625 18.375H21.8438C22.0902 18.375 22.3268 18.4178 22.5469 18.4958V6.70441L21.1406 5.76691L19.4213 6.91315Z"/>
-            </svg>
-        </div>
-        <div class="tab1" data-tab="tab-3">
-          <span>Press</span>
-          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <g clip-path="url(#clip0)">
-            <path d="M20.6087 3.13086H19.7636C19.8005 3.38717 19.8261 3.64705 19.8261 3.91348V20.87C19.8261 22.0732 19.3673 23.1687 18.6204 24.0004H20.6087C21.0409 24.0004 21.3913 23.6501 21.3913 23.2178V3.91344C21.3913 3.48125 21.0409 3.13086 20.6087 3.13086Z" />
-            <path d="M14.3478 0C13.9158 0 13.5652 0.350297 13.5652 0.782625V3.13045H3.39131C2.95927 3.13045 2.60869 3.48075 2.60869 3.91308V13.1432C3.46284 13.0771 4.55822 13.0435 4.95652 13.0435C7.70175 13.0435 10.179 14.6558 11.327 17.0794C11.9998 16.6327 12.7605 16.3438 13.5653 16.2298V17.8167C12.8003 17.9708 12.1002 18.3508 11.5425 18.9243C11.1233 19.3549 10.3923 19.1722 10.2284 18.5916C9.56508 16.2465 7.39706 14.6087 4.95656 14.6087C4.60936 14.6087 3.38831 14.6412 2.60874 14.7055V23.2174C2.60874 23.6497 2.95931 24 3.39136 24C8.07689 24 10.4393 24 15.1305 24C16.8567 24 18.261 22.5958 18.261 20.8695V3.91303C18.2609 1.75528 16.5056 0 14.3478 0ZM6.52172 6.26086H9.65217C10.0842 6.26086 10.4348 6.61116 10.4348 7.04348C10.4348 7.47581 10.0842 7.82611 9.65217 7.82611H6.52172C6.08967 7.82611 5.73909 7.47581 5.73909 7.04348C5.73909 6.61116 6.08967 6.26086 6.52172 6.26086ZM13.5652 10.9565H6.52172C6.08967 10.9565 5.73909 10.6062 5.73909 10.1739C5.73909 9.74156 6.08967 9.39127 6.52172 9.39127H13.5652V10.9565ZM16.6957 18.1592C16.2351 17.8923 15.7001 17.7391 15.1305 17.7391V1.69922C16.0415 2.02228 16.6957 2.89275 16.6957 3.91308V18.1592Z" />
-            </g>
-            <defs>
-            <clipPath id="clip0">
-            <rect width="24" height="24" fill="white"/>
-            </clipPath>
-            </defs>
-            </svg>
-        </div>
-      </div>
-      <div class="contents">
-        <div id="tab-1" class="content current-content">
-          <ul>
-            <li><span>Foster and promote Bitcoin and its technology in Hong Kong.</span></li>
-            <li><span>Educate all stakeholders, private, public, and government about the benefits and risks of Bitcoin and its technology.</span></li>
-            <li><span>Be a reliable, trusted and accessible resource for the local and international Bitcoin community.</span></li>
-          </ul>
-        </div>
-        <div id="tab-2" class="content">
-          The Bitcoin Association Hong Kong stems from a group of people who started to discuss and promote Bitcoin in Hong Kong in the summer of 2012. As the group of people and Bitcoin grew the enthusiasts began to formalize and organize themselves to further promote the use of Bitcoin and related technologies in Hong Kong.
-        </div>
-        <div id="tab-3" class="content">
-          Please <a href="/contact/">contact</a> us for media inquiries. Logos and graphics suitable for publication are available in our press kit.
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="fourth" id="fourth">
-    <p>Our statistics</p>
-    <div class="slider slider1">
-      <div>
-        <div class="card first-card">
-          <p>More than</p>
-          <div class="stats">
-            <span class="count">350</span>
-            Events held
-          </div>
-        </div>
-      </div>
-      <div>
-        <div class="card second-card">
-          <p>More than</p>
-          <div class="stats">
-            <span class="count">6800</span>
-            Members
-          </div>
-        </div>
-      </div>
-      <div>
-        <div class="card third-card">
-          <p>Experts from more than </p>
-          <div class="stats">
-            <span class="count">30</span>
-            Countries
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  </div>
-
-
-
-  <div class="second">
-    <div class="slider1">
-      <div>
-        <div class="elem">
-          <div class="elem-header">
-            <p>Media Engagement</p>
-            <span>01</span>
-          </div>
-          <p>We partner with selective media to promote disruptive technologies and best practices of our members</p>
-        </div>
-      </div>
-      <div>
-        <div class="elem">
-          <div class="elem-header">
-            <p>Communities </p>
-            <span>02</span>
-          </div>
-          <p>Enjoy networking opportunities and access exclusive crypto communities across the globe</p>
-        </div>
-      </div>
-      <div>
-        <div class="elem">
-          <div class="elem-header">
-            <p>Education</p>
-            <span>03</span>
-          </div>
-          <p>Learn and educate in Hong Kong and APAC </p>
-        </div>
-      </div>
-      <div>
-        <div class="elem">
-          <div class="elem-header">
-            <p>Events</p>
-            <span>04</span>
-          </div>
-          <p>Participate in monthly meetups, devs meetups and annual conferences </p>
-        </div>
-      </div>
-      <div>
-        <div class="elem">
-          <div class="elem-header">
-            <p>Newsletters</p>
-            <span>05</span>
-          </div>
-          <p>Receive regular updates about the industry developments </p>
-        </div>
-      </div>
-      <div>
-      <div class="elem">
-        <div class="elem-header">
-            <p>Resources</p>
-            <span>06</span>
-          </div>
-          <p>Explore and build with our services. Shape the industry, lead innovation.
-           </p>
-        </div>
+      <div class="jx-plan">
+        <div class="jx-name">Under 27</div>
+        <div class="jx-price">HK$888 <span>a year</span></div>
+        <p>Christmas dinner included. Paid in bitcoin.</p>
+        <a class="jx-btn" href="https://members.bitcoin.org.hk/join">Apply to join</a>
       </div>
     </div>
-  </div>
+    <p class="jx-note">Benefits are for members whose annual fee is paid up to date. A company? Email <a href="mailto:info@bitcoin.org.hk">info@bitcoin.org.hk</a>.</p>
+  </section>
 
-
-  <div class="third" id="join-member">
-    <div class="slider">
+  <section class="jx-sec" id="how-to-join">
+    <h3>How to join</h3>
+    <p class="jx-intro">It all happens in the BAHK App.</p>
+    <ol class="jx-steps">
+      <li><span class="jx-n">1</span><h4>Apply in the BAHK App</h4><p>Tell us about yourself.</p></li>
+      <li><span class="jx-n">2</span><h4>Two member referrals</h4><p>Name two members who know you.</p></li>
+      <li><span class="jx-n">3</span><h4>Pay in bitcoin</h4><p>In the app. Once approved, your card is ready. If not, we refund you.</p></li>
+    </ol>
+    <div class="jx-member">
       <div>
-        <div class="offer">
-          <div class="info">
-            <div class="head">
-              <span>Corporate</span>
-              <img src="/images/join-corporate.svg" alt="" >
-            </div>
-            <ul>
-              <li><span>Listing on the website</span></li>
-              <li><span>Join-events with the association</span></li>
-              <li><span>5 individual members</span></li>
-              <li><span>Discounted prices to partner events </span></li>
-            </ul>
-            <a href="https://join.bitcoin.org.hk/">Sign up</a>
-          </div>
-          <div class="bonus">To join, apply and pay in bitcoin on our <a href="https://join.bitcoin.org.hk/">membership page</a>, where the current fee is listed. Fees are reviewed once a year. We will email you a confirmation, usually within 48 hours.</div>
-        </div>
+        <h4>Already a member?</h4>
+        <p>Register in the BAHK App to get your card. Renew there each year, between 1 October and 9 December.</p>
       </div>
-      <div>
-        <div class="offer">
-          <div class="info">
-            <div class="head">
-              <span>Individual</span>
-              <img src="/images/join-individual.svg" alt="">
-            </div>
-            <ul>
-              <li><span>Christmas dinner included with your annual renewal</span></li>
-              <li><span>BAHK membership card with <a class="inline" href="#member-discounts">partner discounts</a></span></li>
-              <li><span>Post on the members' classifieds page (coming soon)</span></li>
-              <li><span>Access to members-only events</span></li>
-            </ul>
-            <a href="#how-to-join">How to apply</a>
-          </div>
-          <div class="bonus"><strong>1,500 HKD or 230,000 sats</strong> sign-up fee, then the same amount each year to renew. Benefits are only available to members whose annual fee is paid up to date.</div>
-        </div>
-      </div>
+      <a class="jx-btn" href="https://members.bitcoin.org.hk/join/existing">Register</a>
     </div>
-  </div>
+  </section>
 
-  <div class="membership-rules" id="how-to-join">
-    <div class="paid-up-note">
-      <strong>Member benefits are for paid-up members only.</strong>
-      Your card, partner discounts, the Christmas dinner and the classifieds page (coming soon) are only available while your annual membership fee is paid up to date.
-    </div>
-
-    <div class="rules-grid">
-      <div class="rules-card">
-        <h3>How to join</h3>
-        <ol class="steps">
-          <li><span><strong>Write a letter</strong> introducing yourself and explaining why you want to join.</span></li>
-          <li><span><strong>Get two recommendations.</strong> Two existing members each send a letter of recommendation to <a href="mailto:info@bitcoin.org.hk">info@bitcoin.org.hk</a>.</span></li>
-          <li><span><strong>Pay the sign-up fee</strong> of 1,500 HKD or 230,000 sats with your complete application. It is refunded if you are not approved.</span></li>
-          <li><span><strong>Interview.</strong> We set up a short interview and let you know our decision shortly after.</span></li>
-        </ol>
-        <p class="rules-foot">Send your letter to <a href="mailto:info@bitcoin.org.hk">info@bitcoin.org.hk</a>. Pay in bitcoin on our <a href="https://join.bitcoin.org.hk/">membership page</a>.</p>
-      </div>
-
-      <div class="rules-card">
-        <h3>Annual renewal</h3>
-        <div class="price">1,500 HKD <span>or 230,000 sats</span></div>
-        <ul class="ticks">
-          <li><span>Pay in full between 1 October and 9 December each year.</span></li>
-          <li><span>Includes the Christmas dinner, no separate ticket needed.</span></li>
-          <li><span>You receive a membership card that unlocks partner discounts.</span></li>
-          <li><span>You can post on the members' classifieds page (coming soon).</span></li>
-        </ul>
-        <a class="nbtn" href="https://join.bitcoin.org.hk/">Renew now</a>
-      </div>
-    </div>
-  </div>
-
-  <div class="member-discounts" id="member-discounts">
+  <section class="jx-sec" id="member-discounts">
     <h3>Member discounts</h3>
-    <p class="lead">Show your BAHK membership card and save. Several partners give you a better deal when you pay in bitcoin.</p>
-    <div class="table-wrap">
-      <table>
-        <thead><tr><th>Partner</th><th>Fiat</th><th>Bitcoin</th></tr></thead>
-        <tbody>
-          <tr><td><a href="https://montajtailors.com/">Montaj Tailors</a></td><td>15%</td><td class="better">20%</td></tr>
-          <tr><td>BitGo</td><td colspan="2">Special negotiated member rate</td></tr>
-          <tr><td>Aki Hotel and Novotel, rooms</td><td>15%</td><td class="na">Not accepted</td></tr>
-          <tr><td>Aki Hotel and Novotel, food and drink</td><td>30%</td><td class="na">Not accepted</td></tr>
-          <tr><td>Frank's Restaurant and Bar</td><td>10%</td><td>10%</td></tr>
-          <tr><td>Tree House Restaurants</td><td>10%</td><td class="better">15%</td></tr>
-          <tr><td>Santorini Grill</td><td colspan="2">Free bottle of wine when you spend 1,000 HKD</td></tr>
-          <tr><td>Santorini Steakhouse</td><td colspan="2">Free bottle of wine when you spend 1,000 HKD</td></tr>
-          <tr><td>21M Digital Marketing</td><td>8%</td><td class="better">10%</td></tr>
-          <tr><td>Whale Lounge merchandise</td><td>10%</td><td class="better">20%</td></tr>
-          <tr><td>Whale Lounge POS and miners</td><td>10%</td><td class="better">15%</td></tr>
-          <tr><td>Whale Lounge consulting</td><td>15%</td><td class="better">25%</td></tr>
-          <tr><td>Whale Lounge Cryptomatic watches</td><td>10%</td><td>10%</td></tr>
-          <tr><td>AEM Crypto Software</td><td colspan="2">20% off the annual plan</td></tr>
-          <tr><td>ORM Korean Restaurant</td><td>10%</td><td class="na">Not accepted</td></tr>
-          <tr><td>Bankole, crypto law adviser</td><td>10%</td><td>10%</td></tr>
-          <tr><td><a href="https://charliebanana.com/">Charlie Banana</a></td><td>20%</td><td>20%</td></tr>
-          <tr><td><a href="https://airbtc.com/">AirBTC</a></td><td class="na">Bitcoin only</td><td>10%</td></tr>
-        </tbody>
-      </table>
-    </div>
-    <p class="table-foot">Discounts are only for members whose annual fee is paid up to date. More partners are coming soon. Want to offer a discount to our members? Email <a href="mailto:info@bitcoin.org.hk">info@bitcoin.org.hk</a>. See where you can spend bitcoin in Hong Kong on the <a href="https://map.hkbitcoincity.com/">HK Bitcoin City map</a>.</p>
-  </div>
+    <p class="jx-intro">Show your card in the BAHK App and save at these places. Many give you a better deal when you pay in bitcoin.</p>
+    <ul class="jx-places">
+      <li>21M Digital Marketing</li>
+      <li>AEM Crypto Software</li>
+      <li>AirBTC</li>
+      <li>Aki Hotel and Novotel</li>
+      <li>Bankole, crypto law adviser</li>
+      <li>BitGo</li>
+      <li>Charlie Banana</li>
+      <li>Frank's Restaurant and Bar</li>
+      <li>Montaj Tailors</li>
+      <li>ORM Korean Restaurant</li>
+      <li>Santorini Grill</li>
+      <li>Santorini Steakhouse</li>
+      <li>Tree House Restaurants</li>
+      <li>Whale Lounge</li>
+    </ul>
+    <p class="jx-note">See each deal in the BAHK App. More are coming soon. Want to offer a discount to members? Email <a href="mailto:info@bitcoin.org.hk">info@bitcoin.org.hk</a>.</p>
+  </section>
 
+  <section class="jx-sec jx-faq">
+    <h3>Questions</h3>
+      <details><summary>Who can join?</summary><p>Anyone with a connection to Hong Kong and an interest in Bitcoin.</p></details>
+      <details><summary>How do I pay?</summary><p>In bitcoin, in the BAHK App.</p></details>
+      <details><summary>When do I renew?</summary><p>Once a year, between 1 October and 9 December. Your renewal includes the Christmas dinner.</p></details>
+      <details><summary>Who gets the benefits?</summary><p>Members whose annual fee is paid up to date: the card, discounts, Christmas dinner and classifieds.</p></details>
+      <details><summary>What if I am not approved?</summary><p>We refund your fee.</p></details>
+      <details><summary>Can a company join?</summary><p>Yes. Email <a href="mailto:info@bitcoin.org.hk">info@bitcoin.org.hk</a> and we will set it up with you.</p></details>
+  </section>
+
+</div>
+
+<div class="join">
   <div class="network">
     <h3>Our Network</h3>
     <div class="tabs">
@@ -354,5 +240,4 @@ navigation: "visible"
     </div>
     <a href="/members/" class="nbtn">Members</a>
   </div>
-
 </div>

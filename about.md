@@ -15,7 +15,7 @@ navigation: "visible"
     <div class="content">
       <h4>Become a member</h4>
       <p>The Bitcoin Association of Hong Kong is still developing and growing. It needs your involvement! If you want to contribute, collaborate, or educate, please get in touch and become a member!</p>
-      <a class="nbtn" href="/join">Get in touch</a>
+      <a class="nbtn" href="https://members.bitcoin.org.hk/join">Apply to join</a>
     </div>
     <img src="/images/about1.svg" alt="">
   </div>
