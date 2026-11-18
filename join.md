@@ -162,12 +162,13 @@ navigation: "visible"
       <li>21M Digital Marketing</li>
       <li>AEM Crypto Software</li>
       <li>AirBTC</li>
-      <li>Aki Hotel and Novotel</li>
+      <li>AKI Hotel Hong Kong</li>
       <li>Bankole, crypto law adviser</li>
       <li>BitGo</li>
       <li>Charlie Banana</li>
       <li>Frank's Restaurant and Bar</li>
       <li>Montaj Tailors</li>
+      <li>Novotel Century Hong Kong</li>
       <li>ORM Korean Restaurant</li>
       <li>Santorini Grill</li>
       <li>Santorini Steakhouse</li>
